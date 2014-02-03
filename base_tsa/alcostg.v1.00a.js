@@ -5,15 +5,6 @@
 		},
 		"spell_align": {
 			"addr": "0x443bf9"
-		},
-		"spell_strcpy_remove_1": {
-			"addr": "0x409823"
-		},
-		"spell_strcpy_remove_2": {
-			"addr": "0x409887"
-		},
-		"spell_strcpy_remove_3": {
-			"addr": "0x4098ae"
 		}
 	},
 	"breakpoints": {
