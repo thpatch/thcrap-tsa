@@ -1,0 +1,21 @@
+{
+    "binhacks": {
+        "fw_textbox_size": {
+            "addr": [
+                "0x428ee9",
+                "0x42910b"
+            ]
+        }
+    },
+    "breakpoints": {
+        "file_size": {
+            "addr": "0x47257a"
+        },
+        "file_load": {
+            "addr": "0x4725b6"
+        },
+        "file_loaded": {
+            "addr": "0x457fff"
+        }
+    }
+}
