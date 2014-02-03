@@ -54,53 +54,31 @@
     },
     "breakpoints": {
         "file_name": {
-            "addr": [
-
-            ],
-            "file_name": "",
             "cavesize": "5"
         },
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "eax",
             "cavesize": "5"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "eax",
             "eip_jump_dist": "0x277",
             "cavesize": "5"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "cavesize": "7"
         },
         "spell_name": {
-            "addr": [
-
-            ],
             "spell_id": "ecx",
             "spell_name": "eax",
             "cavesize": "5"
         },
         "spell_name#result": {
-            "addr": [
-
-            ],
             "spell_id_real": "eax",
             "spell_name": "ecx",
             "cavesize": "8"
         },
         "th06_time_fix": {
-            "addr": [
-
-            ],
             "time": "eax",
             "cavesize": "10"
         }

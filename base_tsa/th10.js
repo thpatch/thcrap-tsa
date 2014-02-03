@@ -40,100 +40,61 @@
     },
     "breakpoints": {
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "edi",
             "file_name": "ecx",
             "cavesize": "6"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "esi",
             "stack_clear_size": "8",
             "cavesize": "5"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "cavesize": "5"
         },
         "spell_id": {
-            "addr": [
-
-            ],
             "spell_id": "esi",
             "cavesize": "5"
         },
         "spell_id#real": {
-            "addr": [
-
-            ],
             "spell_id_real": "esi",
             "cavesize": "7"
         },
         "spell_name": {
-            "addr": [
-
-            ],
             "spell_name": "edx",
             "cavesize": "6"
         },
         "spell_id#result": {
-            "addr": [
-
-            ],
             "spell_id_real": "edi",
             "spell_rank": "edx",
             "cavesize": "7"
         },
         "spell_name#result": {
-            "addr": [
-
-            ],
             "spell_name": "edx",
             "cavesize": "10"
         },
         "music_title": {
-            "addr": [
-
-            ],
             "str": "edx",
             "track": "edi",
             "format_id": "Music Room Numbered Title",
             "cavesize": "6"
         },
         "music_cmt#first_params": {
-            "addr": [
-
-            ],
             "track": "eax",
             "line_num": "edx",
             "cavesize": "9"
         },
         "music_cmt#first": {
-            "addr": [
-
-            ],
             "str": "ecx",
             "format_id": "Music Room Note Title",
             "cavesize": "6"
         },
         "music_cmt#params": {
-            "addr": [
-
-            ],
             "track": "eax",
             "line_num": "edx",
             "cavesize": "9"
         },
         "music_cmt": {
-            "addr": [
-
-            ],
             "str": "ecx",
             "format_id": "Music Room Note Title",
             "cavesize": "6"

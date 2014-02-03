@@ -54,88 +54,52 @@
     },
     "breakpoints": {
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "ecx",
             "file_name": "edx",
             "cavesize": "6"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "edx",
             "stack_clear_size": "8",
             "cavesize": "5"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "cavesize": "6"
         },
         "spell_id#menu_entry": {
-            "addr": [
-
-            ],
             "spell_id": "edx",
             "cavesize": "5"
         },
         "spell_id#menu_level": {
-            "addr": [
-
-            ],
             "spell_id": "eax",
             "cavesize": "5"
         },
         "spell_id#menu_scene": {
-            "addr": [
-
-            ],
             "spell_id": "ecx",
             "cavesize": "5"
         },
         "spell_id#menu_replay": {
-            "addr": [
-
-            ],
             "spell_id": "ebx",
             "cavesize": "10"
         },
         "spell_name": {
-            "addr": [
-
-            ],
             "spell_name": "eax",
             "cavesize": "8"
         },
         "spell_name#menu": {
-            "addr": [
-
-            ],
             "spell_name": "edx",
             "cavesize": "8"
         },
         "music_title#track": {
-            "addr": [
-
-            ],
             "track": "ecx",
             "cavesize": "9"
         },
         "music_title": {
-            "addr": [
-
-            ],
             "str": "eax",
             "format_id": "Music Room Numbered Title",
             "cavesize": "8"
         },
         "music_cmt": {
-            "addr": [
-
-            ],
             "track": "eax",
             "line_num": "ecx",
             "str": "edx",

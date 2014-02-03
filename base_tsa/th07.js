@@ -48,103 +48,61 @@
     },
     "breakpoints": {
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "ecx",
             "file_name": "eax",
             "cavesize": "6"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "eax",
             "stack_clear_size": "8",
             "cavesize": "5"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "cavesize": "6"
         },
         "spell_name": {
-            "addr": [
-
-            ],
             "spell_id": "eax",
             "spell_name": "ecx",
             "cavesize": "5"
         },
         "spell_id#result": {
-            "addr": [
-
-            ],
             "spell_id_real": "eax",
             "cavesize": "8"
         },
         "spell_name#result": {
-            "addr": [
-
-            ],
             "spell_name": "eax",
             "cavesize": "8"
         },
         "music_title#track": {
-            "addr": [
-
-            ],
             "track": "eax",
             "cavesize": "5"
         },
         "music_title": {
-            "addr": [
-
-            ],
             "str": "eax",
             "cavesize": "6"
         },
         "music_cmt#first_track": {
-            "addr": [
-
-            ],
             "track": "eax",
             "cavesize": "5"
         },
         "music_cmt#first_line_num": {
-            "addr": [
-
-            ],
             "line_num": "eax",
             "cavesize": "8"
         },
         "music_cmt#first": {
-            "addr": [
-
-            ],
             "str": "eax",
             "format_id": "Music Room Note Title",
             "cavesize": "6"
         },
         "music_cmt#track": {
-            "addr": [
-
-            ],
             "track": "ecx",
             "cavesize": "8"
         },
         "music_cmt#line_num": {
-            "addr": [
-
-            ],
             "line_num": "eax",
             "cavesize": "8"
         },
         "music_cmt": {
-            "addr": [
-
-            ],
             "str": "eax",
             "format_id": "Music Room Note Title",
             "cavesize": "6"

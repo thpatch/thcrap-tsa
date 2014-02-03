@@ -32,41 +32,26 @@
     },
     "breakpoints": {
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "eax",
             "file_name": "ecx",
             "cavesize": "5"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "eax",
             "eip_jump_dist": "0xa5",
             "cavesize": "7"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "file_buffer": "esi",
             "cavesize": "5"
         },
         "music_title": {
-            "addr": [
-
-            ],
             "track": "edx",
             "str": "eax",
             "format_id": "Music Room Numbered Title",
             "cavesize": "6"
         },
         "music_cmt": {
-            "addr": [
-
-            ],
             "track": "ebx",
             "line_num": "eax",
             "str": "ecx",

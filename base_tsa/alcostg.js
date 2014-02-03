@@ -30,38 +30,23 @@
     },
     "breakpoints": {
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "edi",
             "file_name": "ebx",
             "cavesize": "6"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "esi",
             "stack_clear_size": "8",
             "cavesize": "5"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "cavesize": "5"
         },
         "spell_id": {
-            "addr": [
-
-            ],
             "spell_id": "esi",
             "cavesize": "7"
         },
         "spell_name": {
-            "addr": [
-
-            ],
             "spell_name": "eax",
             "cavesize": "6"
         }

@@ -40,125 +40,77 @@
     },
     "breakpoints": {
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "eax",
             "file_name": "ecx",
             "set_patch_size": false,
             "cavesize": "6"
         },
         "file_size_patch": {
-            "addr": [
-
-            ],
             "file_size": "ecx",
             "cavesize": "6"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "eax",
             "eip_jump_dist": "0xf9",
             "cavesize": "7"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "file_buffer": "eax",
             "cavesize": "5"
         },
         "spell_id": {
-            "addr": [
-
-            ],
             "spell_id": "ecx",
             "cavesize": "6"
         },
         "spell_id#practice_menu": {
-            "addr": [
-
-            ],
             "spell_id": "eax",
             "cavesize": "6"
         },
         "spell_id#practice_comment": {
-            "addr": [
-
-            ],
             "spell_id": "eax",
             "cavesize": "6"
         },
         "spell_name": {
-            "addr": [
-
-            ],
             "spell_name": "eax",
             "cave_exec": false,
             "cavesize": "9"
         },
         "spell_name#practice_menu": {
-            "addr": [
-
-            ],
             "spell_name": "eax",
             "cavesize": "8"
         },
         "spell_id#result": {
-            "addr": [
-
-            ],
             "spell_id_real": "eax",
             "cavesize": "6"
         },
         "spell_name#result": {
-            "addr": [
-
-            ],
             "spell_name": "eax",
             "cavesize": "8"
         },
         "spell_comment_line#1": {
-            "addr": [
-
-            ],
             "str": "eax",
             "cavesize": "6",
             "comment_num": "1",
             "line_num": "0"
         },
         "spell_comment_line#2": {
-            "addr": [
-
-            ],
             "str": "eax",
             "cavesize": "6",
             "comment_num": "1",
             "line_num": "1"
         },
         "music_title": {
-            "addr": [
-
-            ],
             "track": "edx",
             "str": "eax",
             "cavesize": "6"
         },
         "music_title#nowplaying": {
-            "addr": [
-
-            ],
             "track": "edx",
             "str": "eax",
             "format_id": "Music Room Numbered Title",
             "cavesize": "6"
         },
         "music_cmt": {
-            "addr": [
-
-            ],
             "track": "eax",
             "line_num": "edx",
             "str": "edi",

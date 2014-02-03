@@ -34,111 +34,67 @@
     },
     "breakpoints": {
         "file_size": {
-            "addr": [
-
-            ],
             "file_size": "edi",
             "file_name": "ebp",
             "cavesize": "6"
         },
         "file_load": {
-            "addr": [
-
-            ],
             "file_buffer": "ebx",
             "stack_clear_size": "8",
             "cavesize": "5"
         },
         "file_loaded": {
-            "addr": [
-
-            ],
             "cavesize": "5"
         },
         "spell_id#menu": {
-            "addr": [
-
-            ],
             "spell_id": "ecx",
             "cavesize": "5"
         },
         "spell_id#ingame": {
-            "addr": [
-
-            ],
             "spell_id": "esi",
             "cavesize": "6"
         },
         "spell_id#replay": {
-            "addr": [
-
-            ],
             "spell_id": "edx",
             "cavesize": "6"
         },
         "spell_name": {
-            "addr": [
-
-            ],
             "spell_name": "esi",
             "cavesize": "9"
         },
         "spell_name#menu": {
-            "addr": [
-
-            ],
             "spell_name": "eax",
             "cavesize": "5"
         },
         "music_title": {
-            "addr": [
-
-            ],
             "str": "eax",
             "track": "ebx",
             "format_id": "Music Room Numbered Title",
             "cavesize": "8"
         },
         "music_cmt#first_track": {
-            "addr": [
-
-            ],
             "track": "eax",
             "cavesize": "6"
         },
         "music_cmt#first": {
-            "addr": [
-
-            ],
             "str": "eax",
             "line_num": "ecx",
             "format_id": "Music Room Note Title",
             "cavesize": "5"
         },
         "music_cmt#track": {
-            "addr": [
-
-            ],
             "track": "eax",
             "cavesize": "6"
         },
         "music_cmt": {
-            "addr": [
-
-            ],
             "str": "ecx",
             "line_num": "edx",
             "format_id": "Music Room Note Title",
             "cavesize": "5"
         },
         "ruby_offset": {
-            "addr": [
-
-            ],
             "str": "esi",
             "offset": "eax",
-            "font_dialog": "",
-            "font_ruby": "",
             "cavesize": "5"
         }
     }
