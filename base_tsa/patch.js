@@ -1,5 +1,4 @@
 {
-	"update": true,
 	"servers": [
 		"http://srv.thpatch.net/base_tsa/",
 		"http://thpatch.nmlgc.net/base_tsa/"
