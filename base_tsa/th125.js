@@ -25,7 +25,6 @@
 			"title": "Ensure correct size of ruby font"
 		}
 	},
-	"game": "th125",
 	"title": "ダブルスポイラー　～ 東方文花帖",
 	"latest": "v1.00a",
 	"formats": {

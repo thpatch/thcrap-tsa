@@ -29,7 +29,6 @@
 			"title": "Remove spell \"alignment\" in the result screen"
 		}
 	},
-	"game": "th10",
 	"title": "東方風神録　～ Mountain of Faith",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th10dl.html",
 	"latest": "v1.00a",

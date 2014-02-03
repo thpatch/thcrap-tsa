@@ -29,7 +29,6 @@
 			"title": "Remove spell \"alignment\" in the result screen"
 		}
 	},
-	"game": "th12",
 	"title": "東方星蓮船　～ Undefined Fantastic Object",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th12dl.html",
 	"url_update": "http://www16.big.or.jp/~zun/html/th12dl.html",

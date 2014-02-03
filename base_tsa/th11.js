@@ -25,7 +25,6 @@
 			"title": "Reset English patch assist font width"
 		}
 	},
-	"game": "th11",
 	"title": "東方地霊殿　～ Subterranean Animism",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th11dl.html",
 	"latest": "v1.00a",

@@ -53,7 +53,6 @@
 			"title": "Remove English patch hardcoded string replacements (Result Unknown Spell)"
 		}
 	},
-	"game": "th13",
 	"title": "東方神霊廟　～ Ten Desires",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th13dl.html",
 	"url_update": "http://www16.big.or.jp/~zun/html/th13dl.html",

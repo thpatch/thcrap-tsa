@@ -29,7 +29,6 @@
 			"title": "Reset English patch font size"
 		}
 	},
-	"game": "th08",
 	"title": "東方永夜抄　～ Imperishable Night",
 	"url_update": "http://www16.big.or.jp/~zun/html/th08dl.html",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th08dl.html",

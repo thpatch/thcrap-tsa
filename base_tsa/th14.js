@@ -57,7 +57,6 @@
 			"title": "Update notification for 2014-01-03 (check and message)"
 		}
 	},
-	"game": "th14",
 	"title": "東方輝針城　～  Double Dealing Character",
 	"latest": [
 		"v0.01b",

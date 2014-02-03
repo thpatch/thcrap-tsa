@@ -41,7 +41,6 @@
 			"title": "Remove English patch spell translation lookup in the Result screen"
 		}
 	},
-	"game": "th06",
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
 	"url_update": "http://www16.big.or.jp/~zun/html/th06.html",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th06.html",

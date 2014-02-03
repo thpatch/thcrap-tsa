@@ -21,7 +21,6 @@
 			"title": "Remove spell name copies"
 		}
 	},
-	"game": "alcostg",
 	"title": "黄昏酒場～Uwabami Breakers～",
 	"url_trial": "http://alcostg.amatukami.com/",
 	"latest": "v1.00a",

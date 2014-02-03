@@ -33,7 +33,6 @@
 			"title": "Remove spell \"alignment\" in the result screen"
 		}
 	},
-	"game": "th128",
 	"title": "妖精大戦争　～ 東方三月精",
 	"latest": "v1.00a",
 	"formats": {

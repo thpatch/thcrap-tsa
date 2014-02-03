@@ -37,7 +37,6 @@
 			"title": "Remove English patch spell translation lookup in the Result screen"
 		}
 	},
-	"game": "th07",
 	"title": "東方妖々夢　～ Perfect Cherry Blossom",
 	"url_update": "http://www16.big.or.jp/~zun/html/th07_update.html",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th07_update.html",
