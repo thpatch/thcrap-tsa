@@ -20,10 +20,6 @@
 			"code": "8b",
 			"title": "Safe sprintf (long, replace pointer)"
 		},
-		"log_restore": {
-			"code": "e9[log_printf]",
-			"title": "Restore the game's built-in logging"
-		},
 		"ddc_textbox_size": {
 			"code": "53e8[GetTextExtent]f30f101583e81c730331c090",
 			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"

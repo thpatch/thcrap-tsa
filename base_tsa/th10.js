@@ -23,10 +23,6 @@
 		"spell_align": {
 			"code": "8b8e600300008bbe94030000d1e983e10151ffb4e4a0000000ff35a0184900ff74e41ce8[GetTextExtentForFont]83c00450db04e45890909090909085c0",
 			"title": "Spell card alignment"
-		},
-		"result_spell_align": {
-			"code": "31c0",
-			"title": "Remove spell \"alignment\" in the result screen"
 		}
 	},
 	"title": "東方風神録　～ Mountain of Faith",

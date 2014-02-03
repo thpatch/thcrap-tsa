@@ -23,10 +23,6 @@
 		"spell_align": {
 			"code": "8b968004000051d1ea83e20152ffb4e4a8000000ffb4e4a8000000ff3554e54c0053e8[GetTextExtentForFont]83c00450db04e45885c090",
 			"title": "Spell card alignment"
-		},
-		"result_spell_align": {
-			"code": "31c0",
-			"title": "Remove spell \"alignment\" in the result screen"
 		}
 	},
 	"title": "東方星蓮船　～ Undefined Fantastic Object",

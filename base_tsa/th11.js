@@ -16,10 +16,6 @@
 			"code": "8b960804000051d1ea83e20152ffb4e4a8000000ffb4e4a8000000ff35ec2e4c0053e8[GetTextExtentForFont]83c00450db04e45885c0",
 			"title": "Spell card alignment"
 		},
-		"result_spell_align": {
-			"code": "31c0",
-			"title": "Remove spell \"alignment\" in the result screen"
-		},
 		"unpatch_font_assist": {
 			"code": "6a00",
 			"title": "Reset English patch assist font width"

@@ -16,10 +16,6 @@
 			"code": "8b",
 			"title": "Safe sprintf (replace pointer)"
 		},
-		"log_restore": {
-			"code": "e9[log_printf]",
-			"title": "Restore the game's built-in logging"
-		},
 		"fw_textbox_size": {
 			"code": "909056e8[GetTextExtent]89c1",
 			"title": "Correct text length calculation for Fairy Wars-style text boxes"
@@ -27,10 +23,6 @@
 		"spell_align": {
 			"code": "ff7510c1e90c83e10151ff750cff7508ff3510c34d00ffb574ffffffe8[GetTextExtentForFont]83c00850db04e458",
 			"title": "Spell card alignment"
-		},
-		"result_spell_align": {
-			"code": "31c0",
-			"title": "Remove spell \"alignment\" in the result screen"
 		},
 		"unpatch_fonts": {
 			"code": "68e4cc4a006a116a04",

@@ -16,10 +16,6 @@
 			"code": "8b",
 			"title": "Safe sprintf (replace pointer)"
 		},
-		"log_restore": {
-			"code": "e9[log_printf]",
-			"title": "Restore the game's built-in logging"
-		},
 		"fw_textbox_size": {
 			"code": "ff35bc2a4d0057e8[GetTextExtentForFont]89c1909090",
 			"title": "Correct text length calculation for Fairy Wars-style text boxes"
@@ -27,10 +23,6 @@
 		"spell_align": {
 			"code": "c1e90483e10151ff750cff7508ff35cc2a4d00ff7518e8[GetTextExtentForFont]50db04e458909090",
 			"title": "Spell card alignment"
-		},
-		"result_spell_align": {
-			"code": "31c0",
-			"title": "Remove spell \"alignment\" in the result screen"
 		}
 	},
 	"title": "妖精大戦争　～ 東方三月精",
