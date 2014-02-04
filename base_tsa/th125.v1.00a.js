@@ -6,7 +6,7 @@
 		"spell_align": {
 			"addr": "0x45f979"
 		},
-		"sprintf_call": {
+		"sprintf_call_esp+14": {
 			"addr": "Rx5f8dc"
 		},
 		"sprintf_rep": {

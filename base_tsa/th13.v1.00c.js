@@ -3,10 +3,10 @@
 		"sprintf_call_1": {
 			"addr": "0x46ea5f"
 		},
-		"sprintf_call_2": {
+		"sprintf_call_ebp-88": {
 			"addr": "0x46e914"
 		},
-		"sprintf_call_3": {
+		"sprintf_call_ebp-8c": {
 			"addr": "0x46e99f"
 		},
 		"sprintf_rep": {

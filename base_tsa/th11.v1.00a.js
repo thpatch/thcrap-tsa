@@ -1,9 +1,9 @@
 {
 	"binhacks": {
-		"sprintf_call_1": {
+		"sprintf_call_esp+14": {
 			"addr": "0x454c8d"
 		},
-		"sprintf_call_2": {
+		"sprintf_call_esp+1c": {
 			"addr": [
 				"0x454d39",
 				"0x454e19"

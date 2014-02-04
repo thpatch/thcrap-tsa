@@ -14,10 +14,10 @@
 				"0x4016cf"
 			]
 		},
-		"sprintf_call_1": {
+		"sprintf_call_esp+14": {
 			"addr": "0x46078d"
 		},
-		"sprintf_call_2": {
+		"sprintf_call_esp+1c": {
 			"addr": [
 				"0x460839",
 				"0x460929"

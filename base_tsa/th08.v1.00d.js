@@ -1,6 +1,6 @@
 {
 	"binhacks": {
-		"sprintf_call": {
+		"sprintf_call_ebp-88": {
 			"addr": [
 				"0x4663d7",
 				"0x4664ed"

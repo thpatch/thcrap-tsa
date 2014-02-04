@@ -1,9 +1,5 @@
 {
 	"binhacks": {
-		"sprintf_call": {
-			"code": "50e8[strings_vsprintf]898578ffffff",
-			"title": "Safe sprintf (call)"
-		},
 		"sprintf_rep": {
 			"code": "8b8578ffffff50",
 			"title": "Safe sprintf (replace pointer)"

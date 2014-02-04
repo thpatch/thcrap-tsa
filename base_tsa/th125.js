@@ -8,10 +8,6 @@
 			"code": "9090",
 			"title": "Render ruby text in one pass"
 		},
-		"sprintf_call": {
-			"code": "50e8[strings_vsprintf]8944e414",
-			"title": "Safe sprintf (call)"
-		},
 		"sprintf_rep": {
 			"code": "8b54e4",
 			"title": "Safe sprintf (replace pointer)"

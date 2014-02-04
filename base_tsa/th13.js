@@ -4,14 +4,6 @@
 			"code": "50e8[strings_vsprintf]89857cffffff89bd78ffffff",
 			"title": "Safe sprintf (call #1)"
 		},
-		"sprintf_call_2": {
-			"code": "50e8[strings_vsprintf]898578ffffff",
-			"title": "Safe sprintf (call #2)"
-		},
-		"sprintf_call_3": {
-			"code": "50e8[strings_vsprintf]898574ffffff",
-			"title": "Safe sprintf (call #3)"
-		},
 		"sprintf_rep": {
 			"code": "8b",
 			"title": "Safe sprintf (replace pointer)"
