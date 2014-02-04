@@ -14,9 +14,6 @@
 		},
 		"font_ruby_size": {
 			"addr": "0x44cfcb"
-		},
-		"skip_ruby_loop": {
-			"addr": "0x44d0e0"
 		}
 	},
 	"breakpoints": {
