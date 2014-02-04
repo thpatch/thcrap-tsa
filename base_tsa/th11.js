@@ -1,9 +1,5 @@
 {
 	"binhacks": {
-		"sprintf_rep": {
-			"code": "8b5ce4",
-			"title": "Safe sprintf (replace pointer)"
-		},
 		"spell_align": {
 			"code": "8b960804000051d1ea83e20152ffb4e4a8000000ffb4e4a8000000ff35ec2e4c0053e8[GetTextExtentForFont]83c00450db04e45885c0",
 			"title": "Spell card alignment"

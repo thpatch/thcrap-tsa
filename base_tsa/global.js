@@ -27,6 +27,10 @@
 		"sprintf_call_ebp-8c": {
 			"code": "50e8[strings_vsprintf]898574ffffff",
 			"title": "Safe sprintf (ebp-8c)"
+		},
+		"sprintf_rep": {
+			"code": "8b",
+			"title": "Safe sprintf (replace)"
 		}
 	}
 }

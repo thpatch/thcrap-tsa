@@ -7,15 +7,13 @@
 				"0x4545ee"
 			]
 		},
-		"sprintf_rep_eax": {
+		"sprintf_rep": {
 			"addr": [
 				"0x45431e",
+				"0x454493",
 				"0x454527",
 				"0x45472d"
 			]
-		},
-		"sprintf_rep_ecx": {
-			"addr": "0x454493"
 		},
 		"menu_desc_align": {
 			"addr": "0x454693"

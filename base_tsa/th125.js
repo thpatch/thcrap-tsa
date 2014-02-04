@@ -4,10 +4,6 @@
 			"code": "8b8e880400008bbefc030000d94738c1e90483e101518b94e4b000000052ffb4e4a8000000ffb4e4a8000000ff3508094d0052e8[GetTextExtentForFont]50db04e458eb2e90909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
 			"title": "Spell card alignment"
 		},
-		"sprintf_rep": {
-			"code": "8b54e4",
-			"title": "Safe sprintf (replace pointer)"
-		},
 		"font_ruby_size": {
 			"code": "6a0f",
 			"title": "Ensure correct size of ruby font"

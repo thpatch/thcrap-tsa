@@ -12,14 +12,6 @@
 			"code": "50e8[strings_vsprintf]8985fcfeffff",
 			"title": "Safe sprintf (long, call)"
 		},
-		"sprintf_rep": {
-			"code": "8b44e428",
-			"title": "Safe sprintf (short, replace pointer)"
-		},
-		"sprintf_long_rep": {
-			"code": "8b",
-			"title": "Safe sprintf (long, replace pointer)"
-		},
 		"ddc_textbox_size": {
 			"code": "53e8[GetTextExtent]f30f101583e81c730331c090",
 			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"

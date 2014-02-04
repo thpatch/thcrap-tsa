@@ -8,10 +8,6 @@
 			"code": "e1",
 			"title": "Score counter bugfix (multiplications)"
 		},
-		"sprintf_rep": {
-			"code": "8b5ce4",
-			"title": "Safe sprintf (replace pointer)"
-		},
 		"spell_align": {
 			"code": "8b968004000051d1ea83e20152ffb4e4a8000000ffb4e4a8000000ff3554e54c0053e8[GetTextExtentForFont]83c00450db04e45885c090",
 			"title": "Spell card alignment"

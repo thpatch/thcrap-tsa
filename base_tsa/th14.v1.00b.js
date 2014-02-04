@@ -17,14 +17,10 @@
 		},
 		"sprintf_rep": {
 			"addr": [
+				"0x40bb3d",
+				"0x40bded",
 				"0x47dbf8",
 				"0x47de3b"
-			]
-		},
-		"sprintf_long_rep": {
-			"addr": [
-				"0x40bb3d",
-				"0x40bded"
 			]
 		},
 		"log_restore": {

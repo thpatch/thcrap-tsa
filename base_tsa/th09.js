@@ -8,10 +8,6 @@
 			"code": "50e8[strings_vsprintf]8945b8",
 			"title": "Safe sprintf (second call)"
 		},
-		"sprintf_rep": {
-			"code": "8b",
-			"title": "Safe sprintf (replace pointer)"
-		},
 		"music_title_prepare": {
 			"code": "8d8c0fdca301005153518b8e901b0100e861c9fdff598b45ec803c1800742b8d9361ffffff8b45f450688020300068ffe0d000909090909090",
 			"title": "Prepare Music Room title parameter fetching"

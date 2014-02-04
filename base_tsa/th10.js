@@ -1,9 +1,5 @@
 {
 	"binhacks": {
-		"sprintf_rep": {
-			"code": "8b5ce4",
-			"title": "Safe sprintf (replace pointer)"
-		},
 		"enemy_text_offset_1": {
 			"code": "8d7560",
 			"title": "Move enemy text to the left (line 1)"

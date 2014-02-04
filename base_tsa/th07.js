@@ -4,14 +4,6 @@
 			"code": "50e8[strings_vsprintf]8945b0",
 			"title": "Fix buffer overflows (safe sprintf)"
 		},
-		"sprintf_rep_eax": {
-			"code": "8b45b0",
-			"title": "Safe sprintf (replace EAX)"
-		},
-		"sprintf_rep_ecx": {
-			"code": "8b4db0",
-			"title": "Safe sprintf (replace ECX)"
-		},
 		"menu_desc_align": {
 			"code": "8b550c8b92e4010000d94230d84a34d835708a4900d84204ff75b0e8[GetTextExtent]83c004d1e850db04e4588b4d0c8b91e4010000d84a34eb3e9090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
 			"title": "Menu description alignment"

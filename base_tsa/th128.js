@@ -4,10 +4,6 @@
 			"code": "50e8[strings_vsprintf]89857cffffff89bd78ffffff",
 			"title": "Safe sprintf (call #1)"
 		},
-		"sprintf_rep": {
-			"code": "8b",
-			"title": "Safe sprintf (replace pointer)"
-		},
 		"fw_textbox_size": {
 			"code": "ff35bc2a4d0057e8[GetTextExtentForFont]89c1909090",
 			"title": "Correct text length calculation for Fairy Wars-style text boxes"
