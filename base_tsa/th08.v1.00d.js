@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"sprintf_call_ebp-50": {
+			"addr": "Rx6668e"
+		},
 		"sprintf_call_ebp-88": {
 			"addr": [
 				"0x4663d7",
@@ -9,7 +12,8 @@
 		"sprintf_rep": {
 			"addr": [
 				"0x466407",
-				"0x4665c7"
+				"0x4665c7",
+				"Rx6673b"
 			]
 		},
 		"spell_align": {
