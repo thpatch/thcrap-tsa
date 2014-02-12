@@ -40,7 +40,7 @@
 			"addr": "0x43e225"
 		},
 		"file_load": {
-			"addr": "0x43e750"
+			"addr": "0x43e247"
 		},
 		"file_loaded": {
 			"addr": "0x43e774"

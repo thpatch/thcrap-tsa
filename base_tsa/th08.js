@@ -41,9 +41,9 @@
 			"cavesize": "6"
 		},
 		"file_load": {
-			"file_buffer": "eax",
-			"eip_jump_dist": "0xf9",
-			"cavesize": "7"
+			"file_buffer": "edx",
+			"eip_jump_dist": "0x139",
+			"cavesize": "6"
 		},
 		"file_loaded": {
 			"file_buffer": "eax",
