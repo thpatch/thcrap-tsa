@@ -58,16 +58,6 @@
 			"format_id": "Music Room Numbered Title",
 			"cavesize": "9"
 		},
-		"music_cmt#first_track": {
-			"track": "eax",
-			"cavesize": "5"
-		},
-		"music_cmt#first": {
-			"str": "eax",
-			"line_num": "ecx",
-			"format_id": "Music Room Note Title",
-			"cavesize": "5"
-		},
 		"music_cmt#track": {
 			"track": "eax",
 			"cavesize": "5"

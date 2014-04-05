@@ -54,28 +54,28 @@
 			"addr": "0x4467f5"
 		},
 		"music_title#track": {
-			"addr": "0x43b1c4"
+			"addr": [
+				"0x43b1c4",
+				"0x43b393"
+			]
 		},
 		"music_title": {
 			"addr": "0x43b23b"
-		},
-		"music_cmt#first_track": {
-			"addr": "0x43b393"
-		},
-		"music_cmt#first_line_num": {
-			"addr": "0x43b313"
-		},
-		"music_cmt#first": {
-			"addr": "0x43b403"
 		},
 		"music_cmt#track": {
 			"addr": "0x43a9f4"
 		},
 		"music_cmt#line_num": {
-			"addr": "0x43aa3b"
+			"addr": [
+				"0x43aa3b",
+				"0x43b313"
+			]
 		},
 		"music_cmt": {
-			"addr": "0x43aab2"
+			"addr": [
+				"0x43aab2",
+				"0x43b403"
+			]
 		}
 	}
 }

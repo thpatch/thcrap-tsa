@@ -57,17 +57,17 @@
 		"music_title": {
 			"addr": "0x434201"
 		},
-		"music_cmt#first_params": {
-			"addr": "0x4343be"
-		},
-		"music_cmt#first": {
-			"addr": "0x4343d1"
-		},
 		"music_cmt#params": {
-			"addr": "0x434493"
+			"addr": [
+				"0x4343be",
+				"0x434493"
+			]
 		},
 		"music_cmt": {
-			"addr": "0x4344a6"
+			"addr": [
+				"0x4343d1",
+				"0x4344a6"
+			]
 		}
 	}
 }

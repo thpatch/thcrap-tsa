@@ -44,14 +44,14 @@
 		"music_title": {
 			"addr": "0x44890e"
 		},
-		"music_cmt#first_track": {
-			"addr": "0x448abc"
-		},
 		"music_cmt#first": {
 			"addr": "0x448ac9"
 		},
 		"music_cmt#track": {
-			"addr": "0x448b81"
+			"addr": [
+				"0x448abc",
+				"0x448b81"
+			]
 		},
 		"music_cmt": {
 			"addr": "0x448b8e"

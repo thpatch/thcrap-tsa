@@ -54,17 +54,17 @@
 		"music_title": {
 			"addr": "0x440b93"
 		},
-		"music_cmt#first_track": {
-			"addr": "0x440d47"
-		},
-		"music_cmt#first": {
-			"addr": "0x440d58"
-		},
 		"music_cmt#track": {
-			"addr": "0x440e18"
+			"addr": [
+				"0x440d47",
+				"0x440e18"
+			]
 		},
 		"music_cmt": {
-			"addr": "0x440e29"
+			"addr": [
+				"0x440d58",
+				"0x440e29"
+			]
 		},
 		"ruby_offset": {
 			"addr": [

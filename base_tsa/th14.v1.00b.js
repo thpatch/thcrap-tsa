@@ -84,17 +84,17 @@
 		"music_title": {
 			"addr": "0x462361"
 		},
-		"music_cmt#line_first": {
-			"addr": "0x46257e"
-		},
-		"music_cmt#first": {
-			"addr": "0x462590"
-		},
 		"music_cmt#line": {
-			"addr": "0x462651"
+			"addr": [
+				"0x46257e",
+				"0x462651"
+			]
 		},
 		"music_cmt": {
-			"addr": "0x462663"
+			"addr": [
+				"0x462590",
+				"0x462663"
+			]
 		},
 		"ruby_offset": {
 			"addr": [
