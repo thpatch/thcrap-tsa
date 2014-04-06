@@ -34,6 +34,9 @@
 		},
 		"result_spell_align": {
 			"addr": "0x47a3ac"
+		},
+		"music_title_prepare": {
+			"addr": "0x45f4fd"
 		}
 	},
 	"breakpoints": {
@@ -60,6 +63,30 @@
 		},
 		"spell_name#result": {
 			"addr": "0x45d7f7"
+		},
+		"music_title": {
+			"addr": "0x45f501"
+		},
+		"music_cmt#line": {
+			"addr": [
+				"0x45f71e",
+				"0x45f7f1"
+			]
+		},
+		"music_cmt": {
+			"addr": [
+				"0x45f730",
+				"0x45f803"
+			]
+		},
+		"ruby_offset": {
+			"addr": [
+				"Rx30acb",
+				"Rx30cf7"
+			],
+			"cavesize": "7",
+			"font_dialog": "Rxf9d20",
+			"font_ruby": "Rxf9d28"
 		},
 		"update_poll": {
 			"addr": "0x46a500"
