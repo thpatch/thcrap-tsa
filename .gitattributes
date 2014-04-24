@@ -11,3 +11,5 @@
 *.png binary
 *.anm binary
 *.ecl binary
+*.otf binary
+*.ttf binary
