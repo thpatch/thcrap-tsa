@@ -12,5 +12,6 @@
 			"code": "6a16",
 			"title": "Set size of the Ruby font to 22"
 		}
-	}
+	},
+	"font": "Touhou Biolinum"
 }

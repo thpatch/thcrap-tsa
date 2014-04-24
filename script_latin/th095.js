@@ -1,4 +1,3 @@
 {
-	"title": "Touhou Bunkachou - Shoot the Bullet",
-	"font": "Touhou Biolinum"
+	"title": "Touhou Bunkachou - Shoot the Bullet"
 }

@@ -1,4 +1,3 @@
 {
-	"title": "Tasogare Sakaba - Uwabami Breakers",
-	"font": "Touhou Biolinum"
+	"title": "Tasogare Sakaba - Uwabami Breakers"
 }

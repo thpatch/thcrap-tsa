@@ -1,4 +1,3 @@
 {
-	"title": "Touhou Kishinjou - Double Dealing Character",
-	"font": "Touhou Biolinum"
+	"title": "Touhou Kishinjou - Double Dealing Character"
 }

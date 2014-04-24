@@ -1,4 +1,3 @@
 {
-	"title": "Double Spoiler - Touhou Bunkachou",
-	"font": "Touhou Biolinum"
+	"title": "Double Spoiler - Touhou Bunkachou"
 }

@@ -1,4 +1,3 @@
 {
-	"title": "Touhou Shinreibyou - Ten Desires",
-	"font": "Touhou Biolinum"
+	"title": "Touhou Shinreibyou - Ten Desires"
 }

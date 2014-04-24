@@ -1,4 +1,3 @@
 {
-	"title": "Yousei Daisensou - Touhou Sangetsusei",
-	"font": "Touhou Biolinum"
+	"title": "Yousei Daisensou - Touhou Sangetsusei"
 }
