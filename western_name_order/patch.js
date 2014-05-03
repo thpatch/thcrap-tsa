@@ -1,11 +1,11 @@
 {
-	"servers": [
-		"http://srv.thpatch.net/western_name_order/",
-		"http://thpatch.nmlgc.net/western_name_order/"
-	],
-	"id": "western_name_order",
-	"title": "Western name order",
 	"dependencies": [
 		"base_tsa"
-	]
+	],
+	"id": "western_name_order",
+	"servers": [
+		"http://thcrap.nmlgc.net/repos/nmlgc/western_name_order/",
+		"http://mirrors.thpatch.net/nmlgc/western_name_order/"
+	],
+	"title": "Western name order"
 }

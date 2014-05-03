@@ -1,11 +1,11 @@
 {
-	"id": "aero",
-	"title": "Enable Aero compositing",
 	"dependencies": [
 		"base_tsa"
 	],
+	"id": "aero",
 	"servers": [
-		"http://srv.thpatch.net/aero/",
-		"http://thpatch.nmlgc.net/aero/"
-	]
+		"http://thcrap.nmlgc.net/repos/nmlgc/aero/",
+		"http://mirrors.thpatch.net/nmlgc/aero/"
+	],
+	"title": "Enable Aero compositing"
 }
