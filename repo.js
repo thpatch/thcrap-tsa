@@ -1,6 +1,9 @@
 {
 	"contact": "thcrap@nmlgc.net",
 	"id": "nmlgc",
+	"neighbors": [
+		"http://srv.thpatch.net"
+	],
 	"patches": {
 		"aero": "Enable Aero compositing",
 		"base_tsa": "Basic support for Team Shanghai Alice games",
