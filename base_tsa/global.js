@@ -1,4 +1,6 @@
 {
+	"thcrap_version_min": "0x20140506",
+	"thcrap_url": "http://thpatch.net/wiki/Project:Download",
 	"binhacks": {
 		"log_restore": {
 			"code": "e9[log_printf]",
