@@ -3,7 +3,7 @@
 	"Cirno.ttf": 2508435158,
 	"THBiolinum.otf": 382535905,
 	"alcostg.js": null,
-	"global.js": 2952127526,
+	"global.js": 3990929926,
 	"patch.js": 2414546955,
 	"stringdefs.js": 3801461502,
 	"th01.js": null,

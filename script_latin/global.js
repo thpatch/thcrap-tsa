@@ -10,6 +10,7 @@
 		},
 		"font_ruby_size": {
 			"code": "6a16",
+			"expected": "6a0f",
 			"title": "Set size of the Ruby font to 22"
 		}
 	},
