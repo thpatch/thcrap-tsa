@@ -1,4 +1,13 @@
 {
+	"binhacks": {
+		"log_restore": {
+			"addr": [
+				"Rx7290",
+				"Rx691e0",
+				"Rx73970"
+			]
+		}
+	},
 	"breakpoints": {
 		"file_size": {
 			"addr": "Rx2e89"
