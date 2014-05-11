@@ -444,6 +444,16 @@
 			"th12_custom",
 			"v0.02a",
 			"(original)"
+		],
+		"0162924204a6fea6d822e1a5872310c81168b0efbf565fb213bb38ba9f2290a6": [
+			"th143",
+			"v1.00a",
+			"(original)"
+		],
+		"1cd8c59991a9c36f508d80ad9ab9d7479e742139e9b1e1f50c08d4ecfa2f17f7": [
+			"th143_custom",
+			"v1.00a",
+			"(original)"
 		]
 	},
 	"sizes": {
@@ -640,6 +650,16 @@
 		"101888": [
 			"th14_custom",
 			"v1.00b",
+			"(original)"
+		],
+		"939008": [
+			"th143",
+			"v1.00a",
+			"(original)"
+		],
+		"118784": [
+			"th143_custom",
+			"v1.00a",
 			"(original)"
 		]
 	}
