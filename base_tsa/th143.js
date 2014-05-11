@@ -18,6 +18,9 @@
 		},
 		"file_loaded": {
 			"cavesize": "5"
+		},
+		"update_poll": {
+			"cavesize": "5"
 		}
 	}
 }
