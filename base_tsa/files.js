@@ -9,7 +9,7 @@
 	"alcostg_custom/dialog_103.js": 450950490,
 	"alcostg_custom/stringlocs.v1.00a.js": 724832697,
 	"formats.js": 290473403,
-	"global.js": 2448378366,
+	"global.js": 3123790740,
 	"patch.js": 1590908797,
 	"stringdefs.js": 301505281,
 	"th06.js": 3707037119,
