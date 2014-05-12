@@ -17,6 +17,7 @@
 	"th128": "Yousei Daisensou - Touhou Sangetsusei",
 	"th13": "Touhou Shinreibyou - Ten Desires",
 	"th14": "Touhou Kishinjou - Double Dealing Character",
+	"th143": "Danmaku Amanojaku - Impossible Spell Card",
 	"th10 JP": "Touhou Fuujinroku",
 	"alcostg JP": "Tasogare Sakaba",
 	"th11 JP": "Touhou Chireiden",
@@ -25,6 +26,7 @@
 	"th128 JP": "Yousei Daisensou",
 	"th13 JP": "Touhou Shinreibyou",
 	"th14 JP": "Touhou Kishinjou",
+	"th143 JP": "Danmaku Amanojaku",
 	"th13 Spell Practice Unknown": " No.%3d  ???????????",
 	"th10 Result Unknown Spell": "No. <r$%3d$999>  ????????????????????? <r$%4d/%4d$>",
 	"Music Room Unknown Title": "No. <r$%2d$99>  ???????????"
