@@ -21,6 +21,22 @@
 		},
 		"update_poll": {
 			"cavesize": "5"
+		},
+		"music_title": {
+			"str": "ecx",
+			"track": "eax",
+			"format_id": "Music Room Numbered Title",
+			"cavesize": "5"
+		},
+		"music_cmt#line": {
+			"line_num": "eax",
+			"cavesize": "5"
+		},
+		"music_cmt": {
+			"str": "eax",
+			"track": "edx",
+			"format_id": "Music Room Note Title",
+			"cavesize": "5"
 		}
 	}
 }

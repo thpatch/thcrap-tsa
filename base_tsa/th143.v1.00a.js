@@ -23,6 +23,10 @@
 				"Rx2f9b4"
 			],
 			"code": "50e8[GetTextExtent]f30f100d089e4c0083e81c730331c090"
+		},
+		"music_title_prepare": {
+			"addr": "Rx66ac1",
+			"code": "8b4ce41c5131c05050505068ffffff0056ff35e88d530090"
 		}
 	},
 	"breakpoints": {
@@ -37,6 +41,21 @@
 		},
 		"update_poll": {
 			"addr": "Rx726a0"
+		},
+		"music_title": {
+			"addr": "Rx66ac5"
+		},
+		"music_cmt#line": {
+			"addr": [
+				"Rx66ce2",
+				"Rx66db5"
+			]
+		},
+		"music_cmt": {
+			"addr": [
+				"Rx66cf4",
+				"Rx66dc7"
+			]
 		}
 	}
 }
