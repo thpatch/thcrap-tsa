@@ -22,6 +22,10 @@
 			"code": "50e8[strings_vsprintf]8944e41c",
 			"title": "Safe sprintf (esp+1c)"
 		},
+		"sprintf_call_esp+34": {
+			"code": "50e8[strings_vsprintf]8944e434",
+			"title": "Safe sprintf (esp+34)"
+		},
 		"sprintf_call_ebp-50": {
 			"code": "50e8[strings_vsprintf]8945b0",
 			"title": "Safe sprintf (ebp-50)"

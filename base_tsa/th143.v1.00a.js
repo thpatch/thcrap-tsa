@@ -6,6 +6,16 @@
 				"Rx691e0",
 				"Rx73970"
 			]
+		},
+		"sprintf_call_esp+34": {
+			"addr": [
+				"Rx82c51"
+			]
+		},
+		"sprintf_rep": {
+			"addr": [
+				"Rx82cc3"
+			]
 		}
 	},
 	"breakpoints": {
