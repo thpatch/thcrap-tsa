@@ -16,6 +16,13 @@
 			"addr": [
 				"Rx82cc3"
 			]
+		},
+		"ddc_textbox_size": {
+			"addr": [
+				"Rx2f7b0",
+				"Rx2f9b4"
+			],
+			"code": "50e8[GetTextExtent]f30f100d089e4c0083e81c730331c090"
 		}
 	},
 	"breakpoints": {
