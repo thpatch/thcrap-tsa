@@ -42,5 +42,8 @@
 	"th14.v1.00b.js": 4169838172,
 	"th14/ascii/ascii.png": 2859450001,
 	"th14/ascii/ascii_1280.png": 2824292019,
-	"th14/ascii/ascii_960.png": 327865313
+	"th14/ascii/ascii_960.png": 327865313,
+	"th143/ascii/ascii.png": 2859450001,
+	"th143/ascii/ascii_1280.png": 2824292019,
+	"th143/ascii/ascii_960.png": 327865313
 }
