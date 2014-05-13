@@ -9,12 +9,14 @@
 		},
 		"sprintf_call_esp+34": {
 			"addr": [
-				"Rx82c51"
+				"Rx82c51",
+				"Rx82d41"
 			]
 		},
 		"sprintf_rep": {
 			"addr": [
-				"Rx82cc3"
+				"Rx82cc3",
+				"Rx82df0"
 			]
 		},
 		"ddc_textbox_size": {
