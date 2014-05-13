@@ -96,7 +96,7 @@
 	"th14/text.v1.00a.anm": 3444332213,
 	"th14/text.v1.00b.anm": 2116468780,
 	"th143.js": 2165656666,
-	"th143.v1.00a.js": 2798623269,
+	"th143.v1.00a.js": 3426748890,
 	"th143/dialog_203.js": 283710919,
 	"th143_custom/dialog_103.js": 858818701,
 	"th143_custom/stringlocs.v1.00a.js": 736276392,
