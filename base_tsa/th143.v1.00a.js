@@ -27,6 +27,13 @@
 		"music_title_prepare": {
 			"addr": "Rx66ac1",
 			"code": "8b4ce41c5131c05050505068ffffff0056ff35e88d530090"
+		},
+		"spell_id_fetch": {
+			"addr": "Rx1dbef",
+			"code": "8b0dac6b4e008b09c20400"
+		},
+		"spell_name_fetch": {
+			"addr": "Rx190d5"
 		}
 	},
 	"breakpoints": {
@@ -56,6 +63,15 @@
 				"Rx66cf4",
 				"Rx66dc7"
 			]
+		},
+		"spell_id": {
+			"addr": "Rx1dbf7"
+		},
+		"spell_id#resurrection": {
+			"addr": "Rx253bd"
+		},
+		"spell_name": {
+			"addr": "Rx190d8"
 		}
 	}
 }

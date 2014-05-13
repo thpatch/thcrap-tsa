@@ -20,10 +20,6 @@
 			"code": "53e8[GetTextExtent]f30f100d83e81c730331c090",
 			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"
 		},
-		"spell_name_fetch": {
-			"code": "8b4d0c5131c9515151",
-			"title": "Prepare deferred spell name fetching"
-		},
 		"spell_align": {
 			"code": "8b451c8d1c008b461cc1e80b83e0018944e414ff35ff7520e8[GetTextExtentForFont]83c008d1e08b562ceb1e909090909090909090909090909090909090909090909090909090909090",
 			"title": "Spell card alignment"

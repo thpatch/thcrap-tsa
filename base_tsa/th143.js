@@ -37,6 +37,18 @@
 			"track": "edx",
 			"format_id": "Music Room Note Title",
 			"cavesize": "5"
+		},
+		"spell_id": {
+			"spell_id": "ecx",
+			"cavesize": "5"
+		},
+		"spell_id#resurrection": {
+			"spell_id": "eax",
+			"cavesize": "5"
+		},
+		"spell_name": {
+			"spell_name": "ecx",
+			"cavesize": "5"
 		}
 	}
 }

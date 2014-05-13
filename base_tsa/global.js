@@ -10,6 +10,10 @@
 			"code": "31c0",
 			"title": "Remove spell \"alignment\" in the result screen"
 		},
+		"spell_name_fetch": {
+			"code": "8b4d0c5131c9515151",
+			"title": "Prepare deferred spell name fetching"
+		},
 		"sprintf_call_esp+14": {
 			"code": "50e8[strings_vsprintf]8944e414",
 			"title": "Safe sprintf (esp+14)"
