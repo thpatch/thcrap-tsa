@@ -98,6 +98,7 @@
 	"th143.js": 2165656666,
 	"th143.v1.00a.js": 3638686315,
 	"th143/dialog_203.js": 283710919,
+	"th143/stringlocs.v1.00a.js": 1646974322,
 	"th143/text.anm": 2931192731,
 	"th143_custom/dialog_103.js": 858818701,
 	"th143_custom/stringlocs.v1.00a.js": 736276392,
