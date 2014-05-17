@@ -1,13 +1,5 @@
 {
 	"binhacks": {
-		"buffer_overflow_spell": {
-			"code": "8b452090",
-			"title": "Fix buffer overflow in spell name rendering (replace pointer)"
-		},
-		"sprintf_call": {
-			"code": "50e8[strings_vsprintf]8944e434",
-			"title": "Safe sprintf (short, call)"
-		},
 		"sprintf_long_call": {
 			"code": "50e8[strings_vsprintf]8985fcfeffff",
 			"title": "Safe sprintf (long, call)"

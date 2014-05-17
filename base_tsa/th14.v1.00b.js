@@ -1,11 +1,9 @@
 {
 	"binhacks": {
-		"buffer_overflow_spell": {
-			"addr": "0x47dd24"
-		},
-		"sprintf_call": {
+		"sprintf_call_esp+34": {
 			"addr": [
 				"0x47db89",
+				"Rx7dc79",
 				"0x47dda9"
 			]
 		},
@@ -20,6 +18,7 @@
 				"0x40bb3d",
 				"0x40bded",
 				"0x47dbf8",
+				"Rx7dd24",
 				"0x47de3b"
 			]
 		},
@@ -37,8 +36,8 @@
 			"addr": "0x41cefb"
 		},
 		"spell_align": {
-			"addr": "0x47dc72",
-			"code": "8b451c8d1c008b461cc1e80b83e0018944e414ff351cd64f00ff7520e8[GetTextExtentForFont]83c008d1e08b562ceb1e909090909090909090909090909090909090909090909090909090909090"
+			"addr": "Rx7dc8a",
+			"code": "8b451c8d1c008b461cc1e80b83e0018944e414 ff35 1cd64f00 ff74e42ce8[GetTextExtentForFont]83c008d1e08b562c90909090909090"
 		},
 		"result_spell_align": {
 			"addr": "0x47dddc"

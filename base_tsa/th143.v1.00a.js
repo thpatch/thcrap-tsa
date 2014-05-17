@@ -40,8 +40,8 @@
 			"addr": "Rx190d5"
 		},
 		"spell_align": {
-			"addr": "Rx82d4b",
-			"code": "83c40c8b451c01c08944e40c8b461cc1e80b83e0018944e414ff35000e5400ff74e42ce8[GetTextExtentForFont]83c008d1e08b562cf30f104a389090909090909090"
+			"addr": "Rx82d52",
+			"code": "8b451c01c08944e40c8b461cc1e80b83e0018944e414 ff35 000e5400 ff74e42ce8[GetTextExtentForFont]83c008d1e08b562cf30f104a3890909090"
 		}
 	},
 	"breakpoints": {
