@@ -17,8 +17,7 @@
 			"addr": "0x41cc0b"
 		},
 		"spell_align": {
-			"addr": "Rx7a70a",
-			"code": "8b451c8d1c008b461cc1e80b83e0018944e414 ff35 3c8f4f00 ff74e42ce8[GetTextExtentForFont]83c008d1e08b562c90909090909090"
+			"addr": "Rx7a70a"
 		}
 	},
 	"breakpoints": {
@@ -43,5 +42,15 @@
 		"update_poll": {
 			"addr": "0x46ad30"
 		}
-	}
+	},
+	"tsa_font_block": [
+		"Rxf8f3c",
+		"Rxf93a0",
+		"Rxf93a4",
+		"Rxf93a8",
+		"Rxf93ac",
+		"Rxf93b0",
+		"Rxf93b4",
+		"Rxf93b8"
+	]
 }

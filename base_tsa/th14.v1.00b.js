@@ -36,8 +36,7 @@
 			"addr": "0x41cefb"
 		},
 		"spell_align": {
-			"addr": "Rx7dc8a",
-			"code": "8b451c8d1c008b461cc1e80b83e0018944e414 ff35 1cd64f00 ff74e42ce8[GetTextExtentForFont]83c008d1e08b562c90909090909090"
+			"addr": "Rx7dc8a"
 		},
 		"result_spell_align": {
 			"addr": "0x47dddc"
@@ -106,5 +105,8 @@
 		"update_poll": {
 			"addr": "0x46de40"
 		}
+	},
+	"tsa_font_block": {
+		"addr": "Rxfd61c"
 	}
 }

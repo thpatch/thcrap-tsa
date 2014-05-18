@@ -41,7 +41,7 @@
 		},
 		"spell_align": {
 			"addr": "Rx82d52",
-			"code": "8b451c01c08944e40c8b461cc1e80b83e0018944e414 ff35 000e5400 ff74e42ce8[GetTextExtentForFont]83c008d1e08b562cf30f104a3890909090"
+			"code": "8b451c01c08944e40c8b461cc1e80b83e0018944e414 53 ff74e42ce8[GetTextExtentForFontID] 83c008d1e08b562cf30f104a38909090909090909090"
 		}
 	},
 	"breakpoints": {
@@ -81,5 +81,17 @@
 		"spell_name": {
 			"addr": "Rx190d8"
 		}
-	}
+	},
+	"tsa_font_block": [
+		"Rx140e00",
+		"Rx140e04",
+		"Rx140e08",
+		"Rx140e0c",
+		"Rx140e10",
+		"Rx140e14",
+		"Rx140e18",
+		"Rx140e1c",
+		"Rx140dfc",
+		"Rx140df8"
+	]
 }
