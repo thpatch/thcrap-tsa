@@ -42,6 +42,10 @@
 		"spell_align": {
 			"addr": "Rx82d52",
 			"code": "8b451c01c08944e40c8b461cc1e80b83e0018944e414 53 ff74e42ce8[GetTextExtentForFontID] 83c008d1e08b562cf30f104a38909090909090909090"
+		},
+		"center_align": {
+			"addr": "Rx82e82",
+			"code": "ff7518ff74e42c e8[GetTextExtentForFontID]  83c003c1e00289c1 8b451c8b5e2c 90909090"
 		}
 	},
 	"breakpoints": {
