@@ -23,10 +23,10 @@
 		},
 		"ddc_textbox_size": {
 			"addr": [
-				"Rx2f7b0",
-				"Rx2f9b4"
+				"Rx2f7ad",
+				"Rx2f9b1"
 			],
-			"code": "50e8[GetTextExtent]f30f100d089e4c0083e81c730331c090"
+			"code": "6a0050e8[GetTextExtentForFontID]f30f100d089e4c0083e81c730331c09090"
 		},
 		"music_title_prepare": {
 			"addr": "Rx66ac1",
