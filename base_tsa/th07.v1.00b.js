@@ -32,6 +32,12 @@
 		},
 		"unpatch_result_spell": {
 			"addr": "Rx467ea"
+		},
+		"log_restore": {
+			"addr": [
+				"Rx37903",
+				"Rx5e4f0"
+			]
 		}
 	},
 	"breakpoints": {
