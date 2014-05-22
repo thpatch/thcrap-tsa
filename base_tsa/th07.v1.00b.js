@@ -41,6 +41,9 @@
 		}
 	},
 	"breakpoints": {
+		"file_name": {
+			"addr": "Rx313e4"
+		},
 		"file_size": {
 			"addr": "0x4313f4"
 		},
