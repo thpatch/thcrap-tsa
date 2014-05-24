@@ -52,6 +52,9 @@
 		},
 		"titlemsg_box_size_2": {
 			"addr": "Rx5f213"
+		},
+		"meiryo_strcmp_remove": {
+			"addr": "Rx6bee7"
 		}
 	},
 	"breakpoints": {

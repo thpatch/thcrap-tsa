@@ -49,6 +49,10 @@
 		"sprintf_rep": {
 			"code": "8b",
 			"title": "Safe sprintf (replace)"
+		},
+		"meiryo_strcmp_remove": {
+			"code": "9090",
+			"title": "Don't restrict use of the Meiryo font to Japanese locale"
 		}
 	},
 	"breakpoints": {
