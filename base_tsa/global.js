@@ -46,5 +46,11 @@
 			"code": "8b",
 			"title": "Safe sprintf (replace)"
 		}
+	},
+	"breakpoints": {
+		"ruby_offset": {
+			"font_dialog": 0,
+			"font_ruby": 2
+		}
 	}
 }

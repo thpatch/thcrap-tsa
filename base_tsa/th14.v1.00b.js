@@ -98,9 +98,7 @@
 			"addr": [
 				"Rx3275f",
 				"Rx3296a"
-			],
-			"font_dialog": "Rxfd61c",
-			"font_ruby": "Rxfd624"
+			]
 		},
 		"update_poll": {
 			"addr": "0x46de40"

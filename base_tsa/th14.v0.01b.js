@@ -82,9 +82,7 @@
 				"Rx30acb",
 				"Rx30cf7"
 			],
-			"cavesize": "7",
-			"font_dialog": "Rxf9d20",
-			"font_ruby": "Rxf9d28"
+			"cavesize": "7"
 		},
 		"update_poll": {
 			"addr": "0x46a500"
