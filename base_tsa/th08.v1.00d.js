@@ -33,10 +33,10 @@
 		}
 	},
 	"breakpoints": {
-		"file_size": {
+		"file_name": {
 			"addr": "0x43e722"
 		},
-		"file_size_patch": {
+		"file_size": {
 			"addr": "0x43e225"
 		},
 		"file_load": {

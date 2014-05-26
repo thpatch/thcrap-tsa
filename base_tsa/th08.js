@@ -30,13 +30,11 @@
 		"anm": "anm06"
 	},
 	"breakpoints": {
-		"file_size": {
-			"file_size": "eax",
+		"file_name": {
 			"file_name": "ecx",
-			"set_patch_size": false,
 			"cavesize": "6"
 		},
-		"file_size_patch": {
+		"file_size": {
 			"file_size": "ecx",
 			"cavesize": "6"
 		},
