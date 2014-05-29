@@ -1,6 +1,6 @@
 {
 	"id": "base_tsa",
-	"min_build": "0x20140508",
+	"min_build": "0x20140528",
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/nmlgc/base_tsa/",
 		"http://mirrors.thpatch.net/nmlgc/base_tsa/"
