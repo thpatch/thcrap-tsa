@@ -5,6 +5,16 @@
 		"msg": "msg11",
 		"anm": "anm11"
 	},
+	"binhacks": {
+		"titlemsg_box_size_1": {
+			"title": "Day description box size (calculation)",
+			"code": "50 6a0056e8[GetTextExtentForFontID]89c6 6a0053e8[GetTextExtentForFontID] 5a b90000803f660f6ed1660f6ed9660f6ee1 909090909090"
+		},
+		"titlemsg_box_size_2": {
+			"title": "Day description box size (cleanup)",
+			"code": "909090909090909090"
+		}
+	},
 	"breakpoints": {
 		"file_size": {
 			"file_size": "eax",
