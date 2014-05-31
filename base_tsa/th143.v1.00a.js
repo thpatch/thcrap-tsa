@@ -84,6 +84,12 @@
 		},
 		"spell_name": {
 			"addr": "Rx190d8"
+		},
+		"ruby_offset": {
+			"addr": [
+				"Rx2f729",
+				"Rx2f92d"
+			]
 		}
 	},
 	"tsa_font_block": [

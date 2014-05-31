@@ -49,6 +49,11 @@
 		"spell_name": {
 			"spell_name": "ecx",
 			"cavesize": "5"
+		},
+		"ruby_offset": {
+			"str": "esi",
+			"offset": "eax",
+			"cavesize": "7"
 		}
 	}
 }
