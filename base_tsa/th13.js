@@ -20,10 +20,6 @@
 			"code": "ff15f8214a00",
 			"title": "Remove English patch replacement for the resolution dialog"
 		},
-		"unpatch_layout": {
-			"code": "75778b4d185156ff1518204a008b450c5303c0578945e46a0483c00250",
-			"title": "Remove English patch text formatting tag parsing"
-		},
 		"unpatch_strings_result_known_spell": {
 			"code": "684cc84a00",
 			"title": "Remove English patch hardcoded string replacements (Result Known Spell)"

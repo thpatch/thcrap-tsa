@@ -38,8 +38,15 @@
 		"unpatch_dialog": {
 			"addr": "0x45c3a1"
 		},
-		"unpatch_layout": {
-			"addr": "0x45afbe"
+		"unpatch_layout_1": {
+			"title": "Remove English patch text formatting tag parsing (1)",
+			"addr": "Rx5afbe",
+			"code": "75778b4d185156ff1518204a008b450c5303c0578945e46a0483c00250"
+		},
+		"unpatch_layout_2": {
+			"title": "Remove English patch text formatting tag parsing (2)",
+			"addr": "Rx5b2b0",
+			"code": "751f8b55145256ff1518204a008b450c53576a028d0c00"
 		},
 		"unpatch_strings_result_known_spell": {
 			"addr": "Rx53ced"
