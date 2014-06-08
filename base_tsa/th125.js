@@ -76,5 +76,10 @@
 			"offset": "eax",
 			"cavesize": "5"
 		}
+	},
+	"tsa_font_block": {
+		"offset": -4,
+		"min": 0,
+		"max": 3
 	}
 }

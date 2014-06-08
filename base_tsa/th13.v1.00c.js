@@ -105,9 +105,17 @@
 			"addr": [
 				"Rx28e24",
 				"Rx2904c"
-			],
-			"font_dialog": "Rxdc310",
-			"font_ruby": "Rxdc308"
+			]
 		}
-	}
+	},
+	"tsa_font_block": [
+		"Rxdc310",
+		"Rxdc30c",
+		"Rxdc308",
+		"Rxdc304",
+		"Rxdc300",
+		"Rxdc2fc",
+		"Rxdc2f8",
+		"Rxda2f4"
+	]
 }

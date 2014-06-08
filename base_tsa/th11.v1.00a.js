@@ -70,9 +70,12 @@
 			"addr": [
 				"Rx1d680",
 				"Rx1d719"
-			],
-			"font_dialog": "Rxc2eec",
-			"font_ruby": "Rxc0ee4"
+			]
 		}
-	}
+	},
+	"tsa_font_block": [
+		"Rxc2eec",
+		"Rxc2ee8",
+		"Rxc0ee4"
+	]
 }

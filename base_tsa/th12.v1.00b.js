@@ -81,9 +81,12 @@
 			"addr": [
 				"Rx1ff61",
 				"Rx2002b"
-			],
-			"font_dialog": "Rxce554",
-			"font_ruby": "Rxcc54c"
+			]
 		}
-	}
+	},
+	"tsa_font_block": [
+		"Rxce554",
+		"Rxce550",
+		"Rxcc54c"
+	]
 }

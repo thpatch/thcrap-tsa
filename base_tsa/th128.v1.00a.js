@@ -77,11 +77,21 @@
 				"Rx2392e",
 				"Rx23aa5"
 			],
-			"font_dialog": "Rxd2abc",
-			"font_ruby": "Rxd0ab4"
+			"font_dialog": 4,
+			"font_ruby": 6
 		},
 		"update_poll": {
 			"addr": "0x457ec0"
 		}
-	}
+	},
+	"tsa_font_block": [
+		"Rxd2acc",
+		"Rxd2ac8",
+		"Rxd2ac4",
+		"Rxd2ac0",
+		"Rxd2abc",
+		"Rxd2ab8",
+		"Rxd0ab4",
+		"Rxb8aa4"
+	]
 }

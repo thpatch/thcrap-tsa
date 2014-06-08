@@ -60,9 +60,10 @@
 			"addr": [
 				"Rx1c577",
 				"Rx1c636"
-			],
-			"font_dialog": "Rxd0908",
-			"font_ruby": "Rxd0900"
+			]
 		}
+	},
+	"tsa_font_block": {
+		"addr": "Rxd0908"
 	}
 }
