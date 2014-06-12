@@ -16,7 +16,7 @@
 			]
 		},
 		"menu_desc_align": {
-			"addr": "0x454693"
+			"addr": "Rx546e4"
 		},
 		"boss_title_align": {
 			"addr": "0x4544eb"

@@ -19,6 +19,9 @@
 		"spell_align": {
 			"addr": "0x466585"
 		},
+		"menu_desc_align": {
+			"addr": "Rx666f2"
+		},
 		"music_title_prepare": {
 			"addr": "0x449ac4"
 		},
