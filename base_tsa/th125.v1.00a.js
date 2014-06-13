@@ -14,6 +14,11 @@
 		},
 		"font_ruby_size": {
 			"addr": "0x44cfcb"
+		},
+		"unpatch_spell_align": {
+			"addr": "Rx5f9ff",
+			"title": "Unpatch the questionable spell name width addition in the English patch",
+			"code": "508b02578bbc24c0000000508bc5e8eefdffff8b8c2494000000838e84040000015f5d5b33cce85aba000081c48c000000c3cccccccc"
 		}
 	},
 	"breakpoints": {
