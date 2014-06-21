@@ -3,7 +3,7 @@
 	"Cirno.ttf": 2508435158,
 	"THBiolinum.otf": 382535905,
 	"alcostg.js": null,
-	"global.js": 3990929926,
+	"global.js": 3370491521,
 	"patch.js": 2414546955,
 	"stringdefs.js": 3986092678,
 	"th01.js": null,
@@ -46,6 +46,7 @@
 	"th14/ascii/ascii.png": 2859450001,
 	"th14/ascii/ascii_1280.png": 2824292019,
 	"th14/ascii/ascii_960.png": 327865313,
+	"th143.v1.00a.js": 2817346032,
 	"th143/ascii/ascii.png": 2859450001,
 	"th143/ascii/ascii_1280.png": 2824292019,
 	"th143/ascii/ascii_960.png": 327865313

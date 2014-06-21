@@ -1,5 +1,9 @@
 {
 	"binhacks": {
+		"meiryo_disable": {
+			"code": "83c414 909090",
+			"title": "Disable the enumeration of Meiryo for compatibility to existing font settings"
+		},
 		"font_dialog_params": {
 			"code": "6a036a006a0068000000006a006a006a006890010000",
 			"title": "Set parameters for alternate dialog font"
