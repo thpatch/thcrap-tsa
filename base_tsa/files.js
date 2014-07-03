@@ -98,7 +98,7 @@
 	"th14/text.v1.00b.anm": 2116468780,
 	"th143.js": 1419763899,
 	"th143.v1.00a.js": 2027174828,
-	"th143/ascii/ascii_960.png": 2497078814,
+	"th143/ascii/ascii_960.png": 3186463875,
 	"th143/dialog_203.js": 283710919,
 	"th143/stringlocs.v1.00a.js": 1993062792,
 	"th143/text.anm": 3424830776,
