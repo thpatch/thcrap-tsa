@@ -1,0 +1,20 @@
+{
+    "th14 Dialog 640": "640×480",
+    "th14 Dialog 960": "960×720",
+    "th14 Dialog 1280": "1280×960(Recommend)",
+    "th14 Dialog Fullscreen": "Fullscreen",
+    "th14 Dialog Always ask": "Ask each startup time",
+    "th14 config": "TH14 Configuration Utility",
+    "th06 16bits mode": "16Bits",
+    "th06 colors": "Color Format",
+    "th07 DirectInput": "Don't use DirectInput for joysticks",
+    "th07 32bits mode": "32Bits(Recommend)",
+    "th10 screen mode": "Display mode",
+    "th10 slowshot": "Hold SHOT button for slow",
+    "th11 input latency": "Input mode (to ??? latency)",
+    "th11 stable input": "Safe (When failed with 'Standard')",
+    "th11 normal input": "Standard (Low CPU usage)",
+    "th11 automatic input": "Autodetect (Recommend)",
+    "th11 fast input": "Fast (When failed with Autodetect)",
+    "th11 input description": "  Choose input method to collect input response.\n  'Safe' and 'Standard' modes give same response as previous Touhou games.\n Performance of your PC if high enough, 'Autodetect'\n mode will give the fastest response.\n　「高速」は「自動」と同程度のレスポンスですが、一部画面が乱れる事があります。\n　＊描画間隔が「毎回」以外では無効です＊"
+}

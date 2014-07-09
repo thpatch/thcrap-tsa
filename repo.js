@@ -8,6 +8,7 @@
 		"aero": "Enable Aero compositing",
 		"base_tsa": "Basic support for Team Shanghai Alice games",
 		"script_latin": "Shared data for languages using Latin script",
+		"tsa_en": "Official English translation by ZUN",
 		"western_name_order": "Western name order"
 	},
 	"servers": [
