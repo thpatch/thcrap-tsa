@@ -454,6 +454,11 @@
 			"th143_custom",
 			"v1.00a",
 			"(original)"
+		],
+		"147b2b36582465638783c9431a1cc9940c85f6025116832992bdb8594e396a52": [
+			"th14",
+			"v1.00b",
+			"(original, Playism)"
 		]
 	},
 	"sizes": {
@@ -661,6 +666,11 @@
 			"th143_custom",
 			"v1.00a",
 			"(original)"
+		],
+		"896000": [
+			"th14",
+			"v1.00b",
+			"(original, Playism)"
 		]
 	}
 }
