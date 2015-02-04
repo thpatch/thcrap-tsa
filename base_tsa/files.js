@@ -105,6 +105,8 @@
 	"th143_custom/dialog_103.js": 858818701,
 	"th143_custom/stringlocs.v1.00a.js": 736276392,
 	"th14_custom/dialog_103.js": 2899022679,
+	"th14_custom/dialog_103.v1.00bp.bin": 1041772198,
 	"th14_custom/stringlocs.v1.00b.js": 2218818672,
-	"versions.js": 366852127
+	"th14_custom/stringlocs.v1.00bp.js": 2466651306,
+	"versions.js": 4095979248
 }
