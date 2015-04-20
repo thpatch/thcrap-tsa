@@ -10,7 +10,7 @@
 	"alcostg_custom/stringlocs.v1.00a.js": 724832697,
 	"formats.js": 290473403,
 	"global.js": 431025598,
-	"patch.js": 1189409181,
+	"patch.js": 1114190375,
 	"stringdefs.js": 301505281,
 	"th06.js": 3707037119,
 	"th06.v0.13.js": 4189303165,

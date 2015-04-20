@@ -4,7 +4,7 @@
 	"THBiolinum.otf": 382535905,
 	"alcostg.js": null,
 	"global.js": 3370491521,
-	"patch.js": 2414546955,
+	"patch.js": 378718977,
 	"stringdefs.js": 3986092678,
 	"th01.js": null,
 	"th02.js": null,
