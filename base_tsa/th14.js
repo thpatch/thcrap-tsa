@@ -36,6 +36,7 @@
 	"title": "東方輝針城　～  Double Dealing Character",
 	"latest": [
 		"v0.01b",
+		"v0.01bp",
 		"v1.00b"
 	],
 	"url_trial": "http://www16.big.or.jp/~zun/html/th14dl.html",

@@ -205,6 +205,11 @@
 			"v0.01b",
 			"(original, web trial)"
 		],
+		"5cbb053091eca055f850d316f818d10c47450b1198b8136bf096bab94fe53da3": [
+			"th14",
+			"v0.01bp",
+			"(original, Playism trial)"
+		],
 		"498b3c186387dbcebbae86263bb1144d8fc4f17c8957197eaa7169d90a73eeb6": [
 			"th14",
 			"v1.00a",
@@ -379,6 +384,11 @@
 			"th14_custom",
 			"v0.01b",
 			"(original, web trial)"
+		],
+		"f803da0e75937388aa6a1eba1faa2cd8b00f3c502bad95f2e6c5b565da2d5951": [
+			"th14_custom",
+			"v0.01bp",
+			"(original, Playism trial)"
 		],
 		"758b92d662740ad3fc5c59bfca33e7f04defd5d161bb940db592b3b4894713dc": [
 			"th14_custom",
@@ -607,6 +617,11 @@
 			"v0.01b",
 			"(original, web trial)"
 		],
+		"881664": [
+			"th14",
+			"v0.01bp",
+			"(original, Playism trial)"
+		],
 		"899072": [
 			"th14",
 			"v1.00a",
@@ -661,6 +676,11 @@
 			"th14_custom",
 			"v1.00b",
 			"(original)"
+		],
+		"121344": [
+			"th14_custom",
+			"v0.01bp",
+			"(original, Playism trial)"
 		],
 		"939008": [
 			"th143",
