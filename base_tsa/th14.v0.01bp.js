@@ -28,7 +28,7 @@
 				"0x430d34",
 				"0x430f32"
 			],
-			"code": "52e8[GetTextExtent]f30f101548f34b0083e81c730331c090"
+			"code": "50e8[GetTextExtent]f30f101548f34b0083e81c730331c090"
 		},
 		"spell_name_fetch": {
 			"addr": "0x41d032"
