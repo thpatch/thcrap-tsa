@@ -230,6 +230,11 @@
 			"v1.00b",
 			"(original)"
 		],
+		"24447efbfef5c4dc2f987fff5a66e88c107a7e235fe67f4d01642001abe6136b": [
+			"th15",
+			"v0.01a",
+			"(original, Reitaisai trial)"
+		],
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": [
 			"th06_custom",
 			"v0.13",
@@ -474,6 +479,11 @@
 			"th14_custom",
 			"v1.00bp",
 			"(original, Playism)"
+		],
+		"19ecb186f031fc40ed60b6a80a587e957e2add5289d02d2e02e47820efcf44e5": [
+			"th15_custom",
+			"v0.01a",
+			"(original, Reitaisai trial)"
 		]
 	},
 	"sizes": {
@@ -632,6 +642,11 @@
 			"v1.00b",
 			"(original)"
 		],
+		"927232": [
+			"th15",
+			"v0.01a",
+			"(original, Reitaisai trial)"
+		],
 		"98304": [
 			"th08_custom",
 			"v1.00",
@@ -701,6 +716,11 @@
 			"th14_custom",
 			"v1.00bp",
 			"(original, Playism)"
+		],
+		"121344": [
+			"th15_custom",
+			"v0.01a",
+			"(original, Reitaisai trial)"
 		]
 	}
 }
