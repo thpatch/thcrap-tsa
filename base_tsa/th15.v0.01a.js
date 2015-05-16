@@ -1,4 +1,12 @@
 {
+	"binhacks": {
+		"sprintf_call_esp+3c": {
+			"addr": "0x481e68"
+		},
+		"sprintf_rep": {
+			"addr": "0x481f1e"
+		}
+	},
 	"breakpoints": {
 		"file_size": {
 			"addr": "0x402e39"
