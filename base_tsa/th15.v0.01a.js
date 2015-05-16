@@ -5,6 +5,12 @@
 		},
 		"sprintf_rep": {
 			"addr": "0x481f1e"
+		},
+		"ddc_textbox_size_full": {
+			"addr": [
+				"0x434e77",
+				"0x435075"
+			]
 		}
 	},
 	"breakpoints": {
