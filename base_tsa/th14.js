@@ -37,7 +37,8 @@
 	"latest": [
 		"v0.01b",
 		"v0.01bp",
-		"v1.00b"
+		"v1.00b",
+		"v1.00bp"
 	],
 	"url_trial": "http://www16.big.or.jp/~zun/html/th14dl.html",
 	"url_update": "http://www16.big.or.jp/~zun/html/th14dl.html",

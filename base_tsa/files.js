@@ -83,12 +83,13 @@
 	"th13/text.anm": 1172640763,
 	"th13_custom/dialog_103.js": 1191915083,
 	"th13_custom/stringlocs.v1.00a.js": 1816458638,
-	"th14.js": 2271943349,
+	"th14.js": 4243845017,
 	"th14.v0.01a.js": 3537625068,
 	"th14.v0.01b.js": 597988332,
 	"th14.v0.01bp.js": 2376646139,
 	"th14.v1.00a.js": 3261920567,
 	"th14.v1.00b.js": 3187903802,
+	"th14.v1.00bp.js": 3870333350,
 	"th14/ascii/ascii_960.png": 2497078814,
 	"th14/dialog_203.js": 3255251008,
 	"th14/stringlocs.v0.01b.js": 1235892998,
@@ -111,5 +112,5 @@
 	"th14_custom/stringlocs.v1.00bp.js": 2466651306,
 	"th15.js": 1320885247,
 	"th15.v0.01a.js": 2081718193,
-	"versions.js": 941579377
+	"versions.js": 4166509660
 }
