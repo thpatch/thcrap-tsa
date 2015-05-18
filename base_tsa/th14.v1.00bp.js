@@ -67,7 +67,8 @@
 			"addr": "0x45e3d6"
 		},
 		"spell_name#practice": {
-			"addr": "0x46166f"
+			"addr": "0x46166f",
+			"cavesize": 9
 		},
 		"music_title": {
 			"addr": "0x45ff35"
