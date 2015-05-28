@@ -23,9 +23,6 @@
 		"spell_name_fetch": {
 			"addr": "0x41f89b"
 		},
-		"spell_align_old_": {
-			"addr": "Rx81fe1"
-		},
 		"spell_align_call": {
 			"addr": "Rx81fe1"
 		},
