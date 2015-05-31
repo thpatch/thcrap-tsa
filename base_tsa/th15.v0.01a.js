@@ -31,6 +31,9 @@
 		},
 		"result_spell_align": {
 			"addr": "0x4821c9"
+		},
+		"music_title_prepare": {
+			"addr": "0x466c9e"
 		}
 	},
 	"breakpoints": {
@@ -57,6 +60,21 @@
 		},
 		"spell_name#result": {
 			"addr": "0x464cc9"
+		},
+		"music_title": {
+			"addr": "0x466ca2"
+		},
+		"music_cmt#line": {
+			"addr": [
+				"0x466ec6",
+				"0x466f99"
+			]
+		},
+		"music_cmt": {
+			"addr": [
+				"0x466ed8",
+				"0x466fab"
+			]
 		},
 		"ruby_offset": {
 			"addr": [

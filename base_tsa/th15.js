@@ -15,6 +15,10 @@
 		"result_spell_align": {
 			"code": "31d2",
 			"title": "Remove spell \"alignment\" in the result screen"
+		},
+		"music_title_prepare": {
+			"code": "8b4ce4185131c05050505068ffffff0056ff3554d74f0090",
+			"title": "Prepare music room title fetching"
 		}
 	},
 	"title": "東方紺珠伝 ～ Legacy of Lunatic Kingdom",
@@ -60,6 +64,22 @@
 		"spell_name#result": {
 			"spell_name": "eax",
 			"cavesize": "7"
+		},
+		"music_title": {
+			"str": "ecx",
+			"track": "eax",
+			"format_id": "Music Room Numbered Title",
+			"cavesize": "5"
+		},
+		"music_cmt#line": {
+			"line_num": "eax",
+			"cavesize": "5"
+		},
+		"music_cmt": {
+			"str": "eax",
+			"track": "edx",
+			"format_id": "Music Room Note Title",
+			"cavesize": "5"
 		},
 		"ruby_offset": {
 			"str": "esi",
