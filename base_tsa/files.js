@@ -111,6 +111,6 @@
 	"th14_custom/stringlocs.v1.00b.js": 2218818672,
 	"th14_custom/stringlocs.v1.00bp.js": 2466651306,
 	"th15.js": 387738896,
-	"th15.v0.01a.js": 1615828865,
+	"th15.v0.01a.js": 2982938439,
 	"versions.js": 4166509660
 }

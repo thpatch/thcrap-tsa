@@ -14,6 +14,9 @@
 				"0x48220c"
 			]
 		},
+		"log_restore": {
+			"addr": "0x407330"
+		},
 		"ddc_textbox_size": {
 			"addr": [
 				"0x434e77",
