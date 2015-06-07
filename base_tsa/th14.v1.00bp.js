@@ -3,6 +3,7 @@
 		"sprintf_call_esp+34": {
 			"addr": [
 				"0x47bb19",
+				"Rx7bc09",
 				"0x47bd39"
 			]
 		},
@@ -17,6 +18,7 @@
 				"0x40b7ad",
 				"0x40ba3d",
 				"0x47bb88",
+				"Rx7bcb8",
 				"0x47bdcb"
 			]
 		},
@@ -32,6 +34,10 @@
 		},
 		"spell_name_fetch": {
 			"addr": "0x41d042"
+		},
+		"spell_align": {
+			"addr": "Rx7bc1a",
+			"code": "8b451c8d1c008b461cc1e80b83e0018944e414 ff7518ff74e42ce8[GetTextExtentForFontID]83c008d1e08b562c90909090909090909090f30f104a38"
 		},
 		"result_spell_align": {
 			"addr": "0x47bd8e",
