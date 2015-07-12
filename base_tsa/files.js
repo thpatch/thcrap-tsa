@@ -79,7 +79,7 @@
 	"th13.v1.00b.js": 162387636,
 	"th13.v1.00c.js": 4060258892,
 	"th13/dialog_203.js": 3882608547,
-	"th13/stringlocs.v1.00c.js": 2569871798,
+	"th13/stringlocs.v1.00c.js": 3879006804,
 	"th13/text.anm": 1172640763,
 	"th13_custom/dialog_103.js": 1191915083,
 	"th13_custom/stringlocs.v1.00a.js": 1816458638,
