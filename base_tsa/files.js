@@ -111,7 +111,8 @@
 	"th14_custom/dialog_103.v1.00bp.bin": 1041772198,
 	"th14_custom/stringlocs.v1.00b.js": 2218818672,
 	"th14_custom/stringlocs.v1.00bp.js": 2466651306,
-	"th15.js": 387738896,
+	"th15.js": 3313672140,
 	"th15.v0.01a.js": 2982938439,
-	"versions.js": 4166509660
+	"th15.v0.01b.js": 1608510306,
+	"versions.js": 1561339516
 }

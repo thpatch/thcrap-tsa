@@ -235,6 +235,11 @@
 			"v0.01a",
 			"(original, Reitaisai trial)"
 		],
+		"2e5b3969cea763e6caf26cd926bc1f8b4f60f900971a695cee99925bb5955d2c": [
+			"th15",
+			"v0.01b",
+			"(original, web trial)"
+		],
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": [
 			"th06_custom",
 			"v0.13",
@@ -482,8 +487,8 @@
 		],
 		"19ecb186f031fc40ed60b6a80a587e957e2add5289d02d2e02e47820efcf44e5": [
 			"th15_custom",
-			"v0.01a",
-			"(original, Reitaisai trial)"
+			"v0.01b",
+			"(original, web trial)"
 		]
 	},
 	"sizes": {
@@ -647,6 +652,11 @@
 			"v0.01a",
 			"(original, Reitaisai trial)"
 		],
+		"938496": [
+			"th15",
+			"v0.01b",
+			"(original, web trial)"
+		],
 		"98304": [
 			"th08_custom",
 			"v1.00",
@@ -719,8 +729,8 @@
 		],
 		"121344": [
 			"th15_custom",
-			"v0.01a",
-			"(original, Reitaisai trial)"
+			"v0.01b",
+			"(original, web trial)"
 		]
 	}
 }
