@@ -46,7 +46,7 @@
 		}
 	},
 	"title": "東方文花帖　～ Shoot the Bullet",
-	"url_update": "http://kourindou.exblog.jp/1327589/",
+	"url_update": "http://kourindou.exblog.jp/2461295/",
 	"latest": "v1.02a",
 	"formats": {
 		"anm": "anm06"
