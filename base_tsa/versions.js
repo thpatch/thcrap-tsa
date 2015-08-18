@@ -240,6 +240,11 @@
 			"v0.01b",
 			"(original, web trial)"
 		],
+		"a9048c3bd922b9bc21b0b760c925b55129aebe7950927026c75ae04a32183562": [
+			"th15",
+			"v1.00a",
+			"(original)"
+		],
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": [
 			"th06_custom",
 			"v0.13",
@@ -489,6 +494,11 @@
 			"th15_custom",
 			"v0.01b",
 			"(original, web trial)"
+		],
+		"b3dc4ac8879d2c4d16cc611d2daeea6b6d9fe624a7b4a48806989ccefa377963": [
+			"th15_custom",
+			"v1.00a",
+			"(original)"
 		]
 	},
 	"sizes": {
@@ -657,6 +667,11 @@
 			"v0.01b",
 			"(original, web trial)"
 		],
+		"951808": [
+			"th15",
+			"v1.00a",
+			"(original)"
+		],
 		"98304": [
 			"th08_custom",
 			"v1.00",
@@ -729,8 +744,8 @@
 		],
 		"121344": [
 			"th15_custom",
-			"v0.01b",
-			"(original, web trial)"
+			"v1.00a",
+			"(original)"
 		]
 	}
 }

@@ -23,7 +23,7 @@
 	},
 	"title": "東方紺珠伝 ～ Legacy of Lunatic Kingdom",
 	"latest": [
-		"v0.01b"
+		"v0.01b", "v1.00a"
 	],
 	"formats": {
 		"msg": "msg11",
