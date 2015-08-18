@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa"
+		"thpatch/lang_en"
 	],
 	"id": "bitch",
 	"servers": [
