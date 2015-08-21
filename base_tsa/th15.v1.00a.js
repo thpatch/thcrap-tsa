@@ -92,10 +92,9 @@
 		},
 		"ruby_offset": {
 			"addr": [
-				"Rx3820d",
-				"Rx38427"
-			],
-			"cavesize": "5"
+				"Rx381f2",
+				"Rx3840c"
+			]
 		},
 		"update_poll": {
 			"addr": "0x475db0"
