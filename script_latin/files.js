@@ -5,7 +5,7 @@
 	"alcostg.js": null,
 	"global.js": 3370491521,
 	"patch.js": 378718977,
-	"stringdefs.js": 3986092678,
+	"stringdefs.js": 286395310,
 	"th01.js": null,
 	"th02.js": null,
 	"th03.js": null,
