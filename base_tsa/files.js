@@ -118,7 +118,7 @@
 	"th15/ascii/ascii_960.png": 2497078814,
 	"th15/dialog_203.js": 3906570971,
 	"th15/dialog_204.js": 3906570971,
-	"th15/stringlocs.v1.00a.js": 2236664331,
+	"th15/stringlocs.v1.00a.js": 377643180,
 	"th15/text.v1.00a.anm": 2869000509,
 	"th15_custom/dialog_3.js": 2438523396,
 	"th15_custom/dialog_103.bin": 3814449392,

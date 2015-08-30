@@ -1,6 +1,4 @@
 {
-	"Rxcdef0": "th10 Result Known Spell",
-	"Rxcdf08": "th10 Result Unknown Spell",
 	"Rxce168": "Music Room Unknown Title",
 	"Rxcd08c": "th10_ascii_stage_1",
 	"Rxcd094": "th10_ascii_stage_2",
