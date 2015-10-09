@@ -111,18 +111,20 @@
 	"th14_custom/dialog_103.v1.00bp.bin": 1041772198,
 	"th14_custom/stringlocs.v1.00b.js": 2218818672,
 	"th14_custom/stringlocs.v1.00bp.js": 2466651306,
-	"th15.js": 1121700137,
+	"th15.js": 2420456437,
 	"th15.v0.01a.js": 2982938439,
 	"th15.v0.01b.js": 1608510306,
 	"th15.v1.00a.js": 1923592262,
+	"th15.v1.00b.js": 4171383215,
 	"th15/ascii/ascii_960.png": 2497078814,
 	"th15/dialog_203.js": 3906570971,
 	"th15/dialog_204.js": 3906570971,
 	"th15/stringlocs.v1.00a.js": 377643180,
 	"th15/text.v1.00a.anm": 2869000509,
-	"th15_custom/dialog_3.js": 2438523396,
+	"th15/text.v1.00b.anm": 2869000509,
 	"th15_custom/dialog_103.bin": 3814449392,
 	"th15_custom/dialog_103.js": 2438523396,
+	"th15_custom/dialog_3.js": 2438523396,
 	"th15_custom/stringlocs.v1.00a.js": 1503611542,
-	"versions.js": 294189761
+	"versions.js": 3054260721
 }
