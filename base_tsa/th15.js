@@ -25,6 +25,8 @@
 	"latest": [
 		"v0.01b", "v1.00b"
 	],
+	"url_trial": "http://www16.big.or.jp/~zun/html/th15dl.html",
+	"url_update": "http://www16.big.or.jp/~zun/html/th15dl.html",
 	"formats": {
 		"msg": "msg11",
 		"end": "end10",
