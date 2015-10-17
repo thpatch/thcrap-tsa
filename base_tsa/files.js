@@ -120,6 +120,7 @@
 	"th15/dialog_203.js": 3906570971,
 	"th15/dialog_204.js": 3906570971,
 	"th15/stringlocs.v1.00a.js": 377643180,
+	"th15/stringlocs.v1.00b.js": 2056837919,
 	"th15/text.v1.00a.anm": 2869000509,
 	"th15/text.v1.00b.anm": 2869000509,
 	"th15_custom/dialog_103.bin": 3814449392,
