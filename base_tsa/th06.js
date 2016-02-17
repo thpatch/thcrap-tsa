@@ -52,19 +52,19 @@
 		"msg": "msg06"
 	},
 	"breakpoints": {
-		"file_name": {
+		"th06_file_name": {
 			"cavesize": "5"
 		},
-		"file_size": {
+		"th06_file_size": {
 			"file_size": "eax",
 			"cavesize": "5"
 		},
-		"file_load": {
+		"th06_file_load": {
 			"file_buffer": "eax",
 			"eip_jump_dist": "0x277",
 			"cavesize": "5"
 		},
-		"file_loaded": {
+		"th06_file_loaded": {
 			"cavesize": "7"
 		},
 		"spell_name": {

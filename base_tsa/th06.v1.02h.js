@@ -49,17 +49,17 @@
 		}
 	},
 	"breakpoints": {
-		"file_name": {
+		"th06_file_name": {
 			"addr": "0x41e370",
 			"file_name": "ecx"
 		},
-		"file_size": {
+		"th06_file_size": {
 			"addr": "0x43cb91"
 		},
-		"file_load": {
+		"th06_file_load": {
 			"addr": "0x43cbac"
 		},
-		"file_loaded": {
+		"th06_file_loaded": {
 			"addr": "0x43ce19"
 		},
 		"spell_name": {

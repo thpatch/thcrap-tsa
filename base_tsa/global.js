@@ -1,5 +1,5 @@
 {
-	"thcrap_version_min": "0x20151028",
+	"thcrap_version_min": "0x20160217",
 	"thcrap_url": "http://thpatch.net/wiki/Project:Download",
 	"binhacks": {
 		"log_restore": {
