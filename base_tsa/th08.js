@@ -19,6 +19,22 @@
 		"unpatch_font": {
 			"code": "8d4400fe",
 			"title": "Reset English patch font size"
+		},
+		"inplace_xor_long_dst": {
+			"code": "89d1 90 90 90 90",
+			"title": "Decrypt XOR'ed strings in-place (destination pointer, long form)"
+		},
+		"inplace_xor_long_rep": {
+			"code": "8b45 fc 90 90 90",
+			"title": "Decrypt XOR'ed strings in-place (referenced pointer, long form)"
+		},
+		"inplace_xor_short_dst": {
+			"code": "89d1 52",
+			"title": "Decrypt XOR'ed strings in-place (destination pointer, short form)"
+		},
+		"inplace_xor_short_rep": {
+			"code": "58 90 90",
+			"title": "Decrypt XOR'ed strings in-place (referenced pointer, short form)"
 		}
 	},
 	"title": "東方永夜抄　～ Imperishable Night",

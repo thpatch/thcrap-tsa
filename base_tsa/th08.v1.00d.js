@@ -33,6 +33,18 @@
 		},
 		"unpatch_font": {
 			"addr": "Rx3fa07"
+		},
+		"inplace_xor_long_dst": {
+			"addr": "Rx347c2"
+		},
+		"inplace_xor_long_rep": {
+			"addr": "Rx347cd"
+		},
+		"inplace_xor_short_dst": {
+			"addr": "Rx34618"
+		},
+		"inplace_xor_short_rep": {
+			"addr": "Rx34620"
 		}
 	},
 	"breakpoints": {
