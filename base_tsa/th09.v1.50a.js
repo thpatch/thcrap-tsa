@@ -17,6 +17,12 @@
 		},
 		"music_cmt_rewrite": {
 			"addr": "0x426e2a"
+		},
+		"inplace_xor_dst": {
+			"addr": "Rx16c71"
+		},
+		"inplace_xor_rep": {
+			"addr": "Rx16c8e"
 		}
 	},
 	"breakpoints": {
