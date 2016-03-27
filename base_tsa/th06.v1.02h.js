@@ -46,6 +46,12 @@
 		},
 		"unpatch_result_spell": {
 			"addr": "0x42e2a9"
+		},
+		"set_png_buff_size": {
+			"addr": [
+				"0x4319dc",
+				"0x431aac"
+			]
 		}
 	},
 	"breakpoints": {

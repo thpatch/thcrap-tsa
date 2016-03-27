@@ -39,6 +39,10 @@
 		"unpatch_result_spell": {
 			"code": "89c1c1e10681c1e8bc6900516a0068ffffff00",
 			"title": "Remove English patch spell translation lookup in the Result screen"
+		},
+		"set_png_buff_size": {
+			"code": "baffffff7f90",
+			"title": "Remove a buffer overflow check in PNG reading (because we usually provide a bigger buffer)"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
