@@ -38,6 +38,12 @@
 				"Rx37903",
 				"Rx5e4f0"
 			]
+		},
+		"buffer_overflow_ending_rem" : {
+			"addr": "Rx1e2e9"
+		},
+		"buffer_overflow_ending_rep" : {
+			"addr": "Rx1e11d"
 		}
 	},
 	"breakpoints": {

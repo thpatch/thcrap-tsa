@@ -35,6 +35,14 @@
 		"inplace_xor_short_rep": {
 			"code": "58 90 90",
 			"title": "Decrypt XOR'ed strings in-place (referenced pointer, short form)"
+		},
+		"buffer_overflow_ending_rem" : {
+			"code": "837d b0 00 75 03 894d b0 ff45 ac 41 909090909090909090909090909090909090909090909090909090909090909090909090",
+			"title": "Remove the useless string copy and buffer overflow in ending messages (remember line start)"
+		},
+		"buffer_overflow_ending_rep" : {
+			"code": "8b55 b0",
+			"title": "Remove the useless string copy and buffer overflow in ending messages (replace pointer)"
 		}
 	},
 	"title": "東方永夜抄　～ Imperishable Night",

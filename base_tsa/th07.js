@@ -19,6 +19,14 @@
 		"unpatch_result_spell": {
 			"code": "8b45fc6bc07805b3626200",
 			"title": "Remove English patch spell translation lookup in the Result screen"
+		},
+		"buffer_overflow_ending_rem" : {
+			"code": "837d b0 00 75 03 8955 b0 ff45 ac 42 909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
+			"title": "Remove the useless string copy and buffer overflow in ending messages (remember line start)"
+		},
+		"buffer_overflow_ending_rep" : {
+			"code": "8b45 b0",
+			"title": "Remove the useless string copy and buffer overflow in ending messages (replace pointer)"
 		}
 	},
 	"title": "東方妖々夢　～ Perfect Cherry Blossom",

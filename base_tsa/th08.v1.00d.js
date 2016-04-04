@@ -45,6 +45,12 @@
 		},
 		"inplace_xor_short_rep": {
 			"addr": "Rx34620"
+		},
+		"buffer_overflow_ending_rem" : {
+			"addr": "Rx2946d"
+		},
+		"buffer_overflow_ending_rep" : {
+			"addr": "Rx2934b"
 		}
 	},
 	"breakpoints": {
