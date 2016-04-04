@@ -23,6 +23,14 @@
 		"inplace_xor_rep": {
 			"code": "89f9 fc 90 90 90",
 			"title": "Decrypt XOR'ed strings in-place (referenced pointer)"
+		},
+		"buffer_overflow_ending_rem" : {
+			"code": "837d b0 00 75 03 8945 b0 ff45 fc 40 90909090909090909090",
+			"title": "Remove the useless string copy and buffer overflow in ending messages (remember line start)"
+		},
+		"buffer_overflow_ending_rep" : {
+			"code": "8b4d b0",
+			"title": "Remove the useless string copy and buffer overflow in ending messages (replace pointer)"
 		}
 	},
 	"title": "東方花映塚　～ Phantasmagoria of Flower View",

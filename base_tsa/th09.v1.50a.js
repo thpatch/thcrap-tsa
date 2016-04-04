@@ -23,6 +23,12 @@
 		},
 		"inplace_xor_rep": {
 			"addr": "Rx16c8e"
+		},
+		"buffer_overflow_ending_rem" : {
+			"addr": "Rx0ec7d"
+		},
+		"buffer_overflow_ending_rep" : {
+			"addr": "Rx0eda4"
 		}
 	},
 	"breakpoints": {
