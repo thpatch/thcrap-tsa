@@ -35,10 +35,10 @@
 			"addr": "Rx3fa07"
 		},
 		"inplace_xor_long_dst": {
-			"addr": "Rx347c2"
+			"addr": ["Rx347c2", "Rx348ce", "Rx34982"]
 		},
 		"inplace_xor_long_rep": {
-			"addr": "Rx347cd"
+			"addr": ["Rx347cd", "Rx348d9", "Rx3498d"]
 		},
 		"inplace_xor_short_dst": {
 			"addr": "Rx34618"
