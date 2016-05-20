@@ -25,6 +25,16 @@
 			"v1.00a",
 			"(original)"
 		],
+		"0b94bf89ed9d0011305fba5256af6ec9219b0c9da97735022fd1e5ee0f2aff17": [
+			"th08",
+			"v1.00b",
+			"(original, first version sold to doujin shops)"
+		],
+		"f1a7c5941358b83fa11a9f3619ba3b2e2ef4674a4dca1cfcc423ca21d9889acf": [
+			"th08",
+			"v1.00c",
+			"(original)"
+		],
 		"330fbdbf58a710829d65277b4f312cfbb38d5448b3df523e79350b879213d924": [
 			"th08",
 			"v1.00d",
