@@ -43,6 +43,14 @@
 		"set_png_buff_size": {
 			"code": "baffffff7f90",
 			"title": "Remove a buffer overflow check in PNG reading (because we usually provide a bigger buffer)"
+		},
+		"music_room_cmt_print_empty_lines": {
+			"code": "9090",
+			"title": "In music comment, render text strings even if they are empty in the source file"
+		},
+		"music_room_cmt_shift_2nd_part": {
+			"code": "8B45FC8B1588456D0081C2348A01006BC03801C2C702000077C383EA70C702000077C3909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
+			"title": "In music comment, shift the 2nd half of the text 247px to the left"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
@@ -84,6 +92,23 @@
 		"th06_time_fix": {
 			"time": "eax",
 			"cavesize": "10"
+		},
+		"music_cmt#track0": {
+			"track": "eax",
+			"cavesize": "5"
+		},
+		"music_cmt#track": {
+			"track": "eax",
+			"cavesize": "6"
+		},
+		"music_cmt#line_num": {
+			"line_num": "eax",
+			"cavesize": "7"
+		},
+		"music_cmt": {
+			"str": "eax",
+			"format_id": "Music Room Numbered Title",
+			"cavesize": "6"
 		}
 	}
 }

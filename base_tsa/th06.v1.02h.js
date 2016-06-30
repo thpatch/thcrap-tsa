@@ -52,6 +52,15 @@
 				"0x4319dc",
 				"0x431aac"
 			]
+		},
+		"music_room_cmt_print_empty_lines": {
+			"addr": [
+				"0x00425c3a",
+				"0x004250c9"
+			]
+		},
+		"music_room_cmt_shift_2nd_part": {
+			"addr": "0x425b9b"
 		}
 	},
 	"breakpoints": {
@@ -73,6 +82,24 @@
 		},
 		"spell_name#result": {
 			"addr": "0x42e2b4"
+		},
+		"music_cmt#track0": {
+			"addr": "0x425b87"
+		},
+		"music_cmt#track": {
+			"addr": "0x425090"
+		},
+		"music_cmt#line_num": {
+			"addr": [
+				"0x425c17",
+				"0x4250a6"
+			]
+		},
+		"music_cmt": {
+			"addr": [
+				"0x425c67",
+				"0x4250f6"
+			]
 		},
 		"th06_time_fix": {
 			"addr": "0x4208fb"
