@@ -1,16 +1,20 @@
 {
 	"binhacks": {
+		"sprintf_call_ebp-50": {
+			"addr": "Rx34c8b"
+		},
+		"sprintf_rep": {
+			"addr": "Rx34d8e"
+		},
 		"buffer_overflow_rem": {
 			"addr": [
 				"0x434b85",
-				"0x434c83",
 				"0x434e63"
 			]
 		},
 		"buffer_overflow_rep_eax": {
 			"addr": [
 				"0x434ba0",
-				"0x434d8e",
 				"0x434f74"
 			]
 		},
@@ -20,7 +24,7 @@
 				"0x434ef7"
 			]
 		},
-		"boss_title_align": {
+		"right_align": {
 			"addr": "0x434d72"
 		},
 		"spell_align": {

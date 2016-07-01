@@ -12,9 +12,9 @@
 			"code": "8b4d18",
 			"title": "Fix buffer overflows (replace ECX)"
 		},
-		"boss_title_align": {
-			"code": "8b451850e8[GetTextExtent]83c004503edb04e458",
-			"title": "Boss title alignment"
+		"right_align": {
+			"code": "8b45b050e8[GetTextExtent]83c004503edb04e458",
+			"title": "Correct right-alignment"
 		},
 		"spell_align": {
 			"code": "eb25909090909090909090909090909090909090909090909090909090909090909090909090908b450c50e8[GetTextExtent]503edb04e458eb0b",
