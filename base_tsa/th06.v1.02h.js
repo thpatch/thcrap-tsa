@@ -87,6 +87,21 @@
 		"spell_name#result": {
 			"addr": "0x42e2b4"
 		},
+		"music_title#track": {
+			"addr": "0x425a19"
+		},
+		"music_title": {
+			"addr": "0x425a66"
+		},
+		"th06_music_title_in_game#stage_num": {
+			"addr": "0x404510"
+		},
+		"th06_music_title_in_game": {
+			"addr": "0x4185b0"
+		},
+		"th06_music_title_in_game#boss": {
+			"addr": "0x418d4f"
+		},
 		"music_cmt#track0": {
 			"addr": "0x425b87"
 		},

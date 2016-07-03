@@ -93,6 +93,27 @@
 			"time": "eax",
 			"cavesize": "10"
 		},
+		"music_title#track": {
+			"track": "ecx",
+			"cavesize": "9"
+		},
+		"music_title": {
+			"str": "eax",
+			"cavesize": "6"
+		},
+		"th06_music_title_in_game#stage_num": {
+			"stage": "eax",
+			"cavesize": "13"
+		},
+		"th06_music_title_in_game": {
+			"str": "eax",
+			"cavesize": "6"
+		},
+		"th06_music_title_in_game#boss": {
+			"str": "eax",
+			"cavesize": "6",
+			"offset": 1
+		},
 		"music_cmt#track0": {
 			"track": "eax",
 			"cavesize": "5"
