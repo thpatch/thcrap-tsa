@@ -1,10 +1,11 @@
 {
-	"Aroania R.otf": 3381534150,
+	"Aroania R.otf": null,
+	"Aroania.ttf": 645536995,
 	"Cirno.ttf": 2508435158,
 	"THBiolinum.otf": 382535905,
 	"alcostg.js": null,
 	"global.js": 3370491521,
-	"patch.js": 378718977,
+	"patch.js": 2251659590,
 	"stringdefs.js": 286395310,
 	"th01.js": null,
 	"th02.js": null,

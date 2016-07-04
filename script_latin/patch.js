@@ -3,7 +3,7 @@
 		"base_tsa"
 	],
 	"fonts": {
-		"Aroania R.otf": true,
+		"Aroania.ttf": true,
 		"Cirno.ttf": true,
 		"THBiolinum.otf": true
 	},
