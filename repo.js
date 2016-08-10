@@ -6,6 +6,7 @@
 	],
 	"patches": {
 		"aero": "Enable Aero compositing",
+		"base_tasofro": "Basic support for Tasogare Frontier games",
 		"base_tsa": "Basic support for Team Shanghai Alice games",
 		"bitch": "Keep Alice's \"bitch\" line in TH08",
 		"instant_ending": "Show the ending immediately upon entering Stage 1\n                          (missing support for TH07, TH08, TH09, TH12 and TH15)",
