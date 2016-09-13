@@ -24,6 +24,20 @@
 		},
 		"unpatch_font_assist": {
 			"addr": "0x4445c5"
+		},
+		"directinput_fix_1": {
+			"addr": "Rx46add"
+		},
+		"directinput_fix_2": {
+			"addr": "Rx46d20"
+		},
+		"directinput_fix_3": {
+			"addr": "Rx456c3",
+			"code": "e8 15140000"
+		},
+		"directinput_fix_4": {
+			"addr": "Rx45737",
+			"code": "a1 883d4c00 85c0 0f84"
 		}
 	},
 	"breakpoints": {

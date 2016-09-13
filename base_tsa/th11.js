@@ -7,6 +7,20 @@
 		"unpatch_font_assist": {
 			"code": "6a00",
 			"title": "Reset English patch assist font width"
+		},
+		"directinput_fix_1": {
+			"title": "Correctly initialize DirectInput, #1: Juggle input registers from DInput init to window creation",
+			"code": "50 8b18"
+		},
+		"directinput_fix_2": {
+			"title": "Correctly initialize DirectInput, #2: Juggle input registers back and tail-call DInput init",
+			"code": "58 31db e9 880d0000"
+		},
+		"directinput_fix_3": {
+			"title": "Correctly initialize DirectInput, #3: Call the juggling prolog of the window creation function instead of DInput init"
+		},
+		"directinput_fix_4": {
+			"title": "Correctly initialize DirectInput, #4: Don't create a second window, just check for an invalid handle"
 		}
 	},
 	"title": "東方地霊殿　～ Subterranean Animism",
