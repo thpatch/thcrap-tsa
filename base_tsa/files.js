@@ -51,6 +51,7 @@
 	"th10_custom/dialog_103.js": 4034519176,
 	"th10_custom/stringlocs.v1.00a.js": 724832697,
 	"th11.js": 3641981348,
+	"th11.v0.02a.js": 3140099119,
 	"th11.v1.00a.js": 1794642885,
 	"th11/dialog_203.js": 2423147694,
 	"th11/stringlocs.v1.00a.js": 4215648207,
