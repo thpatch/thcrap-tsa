@@ -65,6 +65,7 @@
 	"th125.js": 909350449,
 	"th125.v1.00a.js": 1054453611,
 	"th125/dialog_203.js": 609748347,
+	"th125/stringlocs.v1.00a.js": 431610223,
 	"th125/text.anm": 83011875,
 	"th125_custom/dialog_103.js": 2177995099,
 	"th125_custom/stringlocs.v1.00a.js": 1839757557,
