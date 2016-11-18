@@ -96,6 +96,18 @@
 			"cave_exec": false,
 			"cavesize": "11"
 		},
+		"spell_name#practice_menu_page": {
+			"spell_id": "eax",
+			"spell_name": "eax",
+			"cave_exec": false,
+			"cavesize": "11"
+		},
+		"spell_name#practice_menu_details": {
+			"spell_id": "eax",
+			"spell_name": "eax",
+			"cave_exec": false,
+			"cavesize": "11"
+		},
 		"spell_comment_line#1": {
 			"str": "eax",
 			"cavesize": "6",

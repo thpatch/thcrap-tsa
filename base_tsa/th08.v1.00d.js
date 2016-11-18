@@ -81,6 +81,12 @@
 		"spell_name#result": {
 			"addr": "0x45607d"
 		},
+		"spell_name#practice_menu_page": {
+			"addr": "0x46c693"
+		},
+		"spell_name#practice_menu_details": {
+			"addr": "0x46d894"
+		},
 		"spell_comment_line#1": {
 			"addr": "0x46dea9"
 		},
