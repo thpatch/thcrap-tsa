@@ -93,7 +93,7 @@
 			"cavesize": "8"
 		},
 		"spell_id#result": {
-			"spell_id_real": "eax",
+			"spell_id": "eax",
 			"cavesize": "6"
 		},
 		"spell_name#result": {
