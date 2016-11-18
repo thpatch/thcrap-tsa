@@ -69,9 +69,6 @@
 		"spell_id": {
 			"addr": "0x41535e"
 		},
-		"spell_id#practice_menu": {
-			"addr": "0x46bed7"
-		},
 		"spell_id#practice_comment": {
 			"addr": "0x46d894"
 		},
@@ -79,13 +76,10 @@
 			"addr": "0x415490"
 		},
 		"spell_name#practice_menu": {
-			"addr": "0x46bee2"
-		},
-		"spell_id#result": {
-			"addr": "0x45607d"
+			"addr": "0x46bed7"
 		},
 		"spell_name#result": {
-			"addr": "0x456088"
+			"addr": "0x45607d"
 		},
 		"spell_comment_line#1": {
 			"addr": "0x46dea9"

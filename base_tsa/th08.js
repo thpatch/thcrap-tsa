@@ -75,10 +75,6 @@
 			"spell_id": "ecx",
 			"cavesize": "6"
 		},
-		"spell_id#practice_menu": {
-			"spell_id": "eax",
-			"cavesize": "6"
-		},
 		"spell_id#practice_comment": {
 			"spell_id": "eax",
 			"cavesize": "6"
@@ -89,16 +85,16 @@
 			"cavesize": "9"
 		},
 		"spell_name#practice_menu": {
-			"spell_name": "eax",
-			"cavesize": "8"
-		},
-		"spell_id#result": {
 			"spell_id": "eax",
-			"cavesize": "6"
+			"spell_name": "eax",
+			"cave_exec": false,
+			"cavesize": "11"
 		},
 		"spell_name#result": {
+			"spell_id": "eax",
 			"spell_name": "eax",
-			"cavesize": "8"
+			"cave_exec": false,
+			"cavesize": "11"
 		},
 		"spell_comment_line#1": {
 			"str": "eax",
