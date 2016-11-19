@@ -62,11 +62,8 @@
 		"spell_name": {
 			"addr": "0x40fce1"
 		},
-		"spell_id#result": {
-			"addr": "0x4467ed"
-		},
 		"spell_name#result": {
-			"addr": "0x4467f5"
+			"addr": "0x4467ed"
 		},
 		"music_title#track": {
 			"addr": [

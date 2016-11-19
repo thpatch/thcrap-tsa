@@ -59,12 +59,10 @@
 			"spell_name": "ecx",
 			"cavesize": "5"
 		},
-		"spell_id#result": {
-			"spell_id_real": "eax",
-			"cavesize": "8"
-		},
 		"spell_name#result": {
+			"spell_id": "eax",
 			"spell_name": "eax",
+			"cave_exec": false,
 			"cavesize": "8"
 		},
 		"music_title#track": {
