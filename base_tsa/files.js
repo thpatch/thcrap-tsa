@@ -24,7 +24,7 @@
 	"th06_custom/stringlocs.v1.02h.js": 1473251716,
 	"th07.js": 1081074803,
 	"th07.v1.00b.js": 1207778186,
-	"th07/stringlocs.v1.00b.js": 1821820537,
+	"th07/stringlocs.v1.00b.js": 81314577,
 	"th07/text.anm": 3673413564,
 	"th07_custom/dialog_103.js": 791632775,
 	"th07_custom/stringlocs.v1.00.js": 1542694573,
