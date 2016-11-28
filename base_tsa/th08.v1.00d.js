@@ -69,9 +69,6 @@
 		"spell_id": {
 			"addr": "0x41535e"
 		},
-		"spell_id#practice_comment": {
-			"addr": "0x46d894"
-		},
 		"spell_name": {
 			"addr": "0x415490"
 		},

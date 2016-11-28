@@ -75,10 +75,6 @@
 			"spell_id": "ecx",
 			"cavesize": "6"
 		},
-		"spell_id#practice_comment": {
-			"spell_id": "eax",
-			"cavesize": "6"
-		},
 		"spell_name": {
 			"spell_name": "eax",
 			"cave_exec": false,
