@@ -91,5 +91,6 @@
 	"Rxb86b4": "th08 Spell Practice Hard Mode",
 	"Rxb869c": "th08 Spell Practice Lunatic Mode",
 	"Rxb8688": "th08 Spell Practice Extra Mode",
-	"Rxb8670": "th08 Spell Practice Last Word"
+	"Rxb8670": "th08 Spell Practice Last Word",
+	"Rxb4cd8": "th07 MAX"
 }
