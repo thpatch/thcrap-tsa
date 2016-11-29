@@ -92,5 +92,10 @@
 	"Rxb869c": "th08 Spell Practice Lunatic Mode",
 	"Rxb8688": "th08 Spell Practice Extra Mode",
 	"Rxb8670": "th08 Spell Practice Last Word",
-	"Rxb4cd8": "th07 MAX"
+	"Rxb4cd8": "th07 MAX",
+	"Rxb92fc": "th08 Spell Practice List Description",
+	"Rxb942c": "th08 Spell Practice Owner/Difficulty Line",
+	"Rxb9404": "th08 Spell Practice Highscore Title",
+	"Rxb9344": "th08 Spell Practice Comment",
+	"Rxb9440": "th08 Spell Practice Last Spell"
 }
