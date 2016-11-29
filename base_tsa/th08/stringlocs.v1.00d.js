@@ -86,4 +86,10 @@
 	"Rxb79d0": "th08 Stats Continue",
 	"Rxb79a4": "th08 Stats Practice",
 	"Rxb7a28": "th08 Stats Character Format"
+	"Rxb86dc": "th08 Spell Practice Easy Mode",
+	"Rxb86c8": "th08 Spell Practice Normal Mode",
+	"Rxb86b4": "th08 Spell Practice Hard Mode",
+	"Rxb869c": "th08 Spell Practice Lunatic Mode",
+	"Rxb8688": "th08 Spell Practice Extra Mode",
+	"Rxb8670": "th08 Spell Practice Last Word"
 }
