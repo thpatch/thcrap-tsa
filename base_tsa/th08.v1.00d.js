@@ -90,6 +90,9 @@
 		"spell_comment_line#2": {
 			"addr": "0x46e074"
 		},
+		"spell_owner": {
+			"addr": "0x46d934"
+		},
 		"music_title": {
 			"addr": "0x449ae7"
 		},

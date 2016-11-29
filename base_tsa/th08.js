@@ -116,6 +116,12 @@
 			"comment_num": "1",
 			"line_num": "1"
 		},
+		"spell_owner":{
+			"spell_id": "eax",
+			"spell_owner": "eax",
+			"cave_exec": false,
+			"cavesize": "11"
+		},
 		"music_title": {
 			"track": "edx",
 			"str": "eax",
