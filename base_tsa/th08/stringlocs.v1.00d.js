@@ -85,7 +85,7 @@
 	"Rxb79fc": "th08 Stats Clear Count",
 	"Rxb79d0": "th08 Stats Continue",
 	"Rxb79a4": "th08 Stats Practice",
-	"Rxb7a28": "th08 Stats Character Format"
+	"Rxb7a28": "th08 Stats Character Format",
 	"Rxb86dc": "th08 Spell Practice Easy Mode",
 	"Rxb86c8": "th08 Spell Practice Normal Mode",
 	"Rxb86b4": "th08 Spell Practice Hard Mode",
