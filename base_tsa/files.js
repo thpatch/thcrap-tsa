@@ -32,6 +32,8 @@
 	"th08.js": 4075974922,
 	"th08.v1.00d.js": 3963054847,
 	"th08/stringlocs.v1.00d.js": 2406863778,
+	"th08/text.anm": 3655277081,
+	"th08/text.v0.03.anm": 340179701,
 	"th08_custom/dialog_103.js": 908462822,
 	"th08_custom/stringlocs.v1.00.js": 1542694573,
 	"th09.js": 2119314694,
