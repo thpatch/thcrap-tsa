@@ -31,6 +31,14 @@
 		"buffer_overflow_ending_rep" : {
 			"code": "8b4d b0",
 			"title": "Remove the useless string copy and buffer overflow in ending messages (replace pointer)"
+		},
+		"menu_desc_align_1": {
+			"code": "83c40c 50 e8[GetTextExtent] d1e0 8bb724020000 ff76 3c d94618 8b4d14 909090909090909090",
+			"title": "Menu description alignment, #1: Calculate the correct length"
+		},
+		"menu_desc_align_2": {
+			"code": "9090909090909090909090",
+			"title": "Menu description alignment, #2: Don't multiply the length by 15"
 		}
 	},
 	"title": "東方花映塚　～ Phantasmagoria of Flower View",

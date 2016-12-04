@@ -29,6 +29,12 @@
 		},
 		"buffer_overflow_ending_rep" : {
 			"addr": "Rx0eda4"
+		},
+		"menu_desc_align_1": {
+			"addr": "Rx3be86"
+		},
+		"menu_desc_align_2": {
+			"addr": "Rx3bef3"
 		}
 	},
 	"breakpoints": {
