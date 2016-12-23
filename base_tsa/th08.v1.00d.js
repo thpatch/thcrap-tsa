@@ -16,6 +16,9 @@
 				"Rx6673b"
 			]
 		},
+		"sprintf_call_ebp-208": {
+			"addr": "Rx2A47"
+		},
 		"spell_align": {
 			"addr": "0x466585"
 		},

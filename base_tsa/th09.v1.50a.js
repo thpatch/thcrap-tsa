@@ -12,6 +12,9 @@
 				"0x43beb2"
 			]
 		},
+		"sprintf_call_ebp-200": {
+			"addr": "Rx34341"
+		},
 		"music_title_prepare": {
 			"addr": "0x42748a"
 		},

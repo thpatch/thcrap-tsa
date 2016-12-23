@@ -50,6 +50,14 @@
 			"code": "50e8[strings_vsprintf]898574ffffff",
 			"title": "Safe sprintf (ebp-8c)"
 		},
+		"sprintf_call_ebp-208": {
+			"code": "5190909090909090909090e8[strings_vsprintf]83c40c509090",
+			"title": "Safe sprintf (ebp-208)"
+		},
+		"sprintf_call_ebp-200": {
+			"code": "5090909090909090909090e8[strings_vsprintf]8b4d0c83c40c509090",
+			"title": "Safe sprintf (ebp-200)"
+		},
 		"sprintf_rep": {
 			"code": "8b",
 			"title": "Safe sprintf (replace)"

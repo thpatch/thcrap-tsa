@@ -15,6 +15,9 @@
 				"0x45472d"
 			]
 		},
+		"sprintf_call_ebp-208": {
+			"addr": "Rx2077"
+		},
 		"menu_desc_align": {
 			"addr": "Rx546e4"
 		},
