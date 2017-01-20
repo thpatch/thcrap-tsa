@@ -21,6 +21,11 @@
 		"music_cmt_rewrite": {
 			"addr": "0x426e2a"
 		},
+		"inplace_xor": {
+			"title": "Decrypt XOR'ed strings in-place (and re-encrypt them afterwards)",
+			"addr": "Rx16c65",
+			"code": "8888cc1700005789f8e8edefffff0fb686641d00008b9486301d00008b8486201d0000570fb68e661d000069c9a40200005250a150c54d008d9431341500005250e81551020083c414b177b2078a0788c330c8880700d182c2104784db75eefe86661d000031c089864c1d00008886651d000090"
+		},
 		"inplace_xor_dst": {
 			"addr": "Rx16c71"
 		},
