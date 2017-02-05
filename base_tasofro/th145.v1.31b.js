@@ -29,11 +29,11 @@
 		"file_header": {
 			"addr": "Rx0dea2c"
 		},
-		"replace_file#path": {
-			"addr": "Rx0da18d"
-		},
 		"replace_file": {
-			"addr": "Rx0dc42d"
+			"addr": "Rx0dbe77"
+		},
+		"replace_file#2nd_call": {
+			"addr": "Rx0dbe10"
 		}
 	}
 }

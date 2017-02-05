@@ -26,15 +26,13 @@
 			"key": "edi",
 			"cavesize": 5
 		},
-		"replace_file#path": {
-			"path": "edi",
-			"cavesize": 5
-		},
 		"replace_file": {
-			"buffer": "ecx",
-			"size": "edx",
-			"ret_size": "esi",
-			"cavesize": 6
+			"cavesize": 6,
+			"file_struct": "esi"
+		},
+		"replace_file#2nd_call": {
+			"cavesize": 6,
+			"file_struct": "esi"
 		}
 	}
 }
