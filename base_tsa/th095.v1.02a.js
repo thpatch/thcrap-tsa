@@ -1,5 +1,11 @@
 {
 	"binhacks": {
+		"sprintf_call_ebp-88": {
+			"addr": "Rx43d07"
+		},
+		"sprintf_rep": {
+			"addr": "Rx43d37"
+		},
 		"overflow_spell_menu_rep": {
 			"addr": "0x44406b"
 		},

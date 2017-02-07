@@ -40,7 +40,7 @@
 	"th09.v1.50a.js": 1623566493,
 	"th09/stringlocs.v1.50a.js": 3496026048,
 	"th095.js": 3424257870,
-	"th095.v1.02a.js": 1798155742,
+	"th095.v1.02a.js": 3357789877,
 	"th095/text.anm": 253051772,
 	"th095_custom/dialog_103.js": 2974513997,
 	"th095_custom/stringlocs.v1.00a.js": 1226965217,
