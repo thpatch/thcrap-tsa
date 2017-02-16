@@ -23,6 +23,9 @@
 		},
 		"nop_long_jump": {
 			"addr": "Rx11c521"
+		},
+		"reverse_character_bytes": {
+			"addr": "Rx220f7e"
 		}
 	},
 	"breakpoints": {

@@ -15,6 +15,10 @@
 		"nop_long_jump": {
 			"code": "9090909090",
 			"title": "Removes a function call"
+		},
+		"reverse_character_bytes": {
+			"code": "72198b0b0fc96a045b29c3740cc1e9084b75fa909090909090",
+			"title": "Correctly reverses the bytes of the character in [ebx], without assuming a 2-bytes character."
 		}
 	},
 	"title": "東方深秘録 ～ Urban Legend in Limbo",
