@@ -101,6 +101,6 @@
 		}
 	},
 	"tsa_font_block": {
-		"addr": "Rxbda00"
+		"addr": "Rx1217bc"
 	}
 }
