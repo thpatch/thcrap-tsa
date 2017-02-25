@@ -45,11 +45,11 @@
 	"th14.js": null,
 	"th14.v1.00b.js": 4169838172,
 	"th14/ascii/ascii.png": 2859450001,
-	"th14/ascii/ascii_1280.png": 2824292019,
+	"th14/ascii/ascii_1280.png": 3440573990,
 	"th14/ascii/ascii_960.png": 327865313,
 	"th143.v1.00a.js": 2817346032,
 	"th143/ascii/ascii.png": 2859450001,
-	"th143/ascii/ascii_1280.png": 2824292019,
+	"th143/ascii/ascii_1280.png": 3440573990,
 	"th143/ascii/ascii_960.png": 327865313,
 	"th145/data/event/balloon/a05x2.png": 80076677,
 	"th145/data/event/balloon/a11x2.png": 2392809766,
@@ -70,6 +70,6 @@
 	"th145/data/event/balloon/hukidasi-s.png": 1758270533,
 	"th145/data/system/talk/balloon.act": 2044460839,
 	"th15/ascii/ascii.png": 2859450001,
-	"th15/ascii/ascii_1280.png": 2824292019,
+	"th15/ascii/ascii_1280.png": 3440573990,
 	"th15/ascii/ascii_960.png": 327865313
 }
