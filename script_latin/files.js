@@ -20,7 +20,7 @@
 	"th08/data/front/ename.png": 1762431254,
 	"th08/spellcomments.js": 3673061686,
 	"th09.js": 1042614841,
-	"th09/data/ascii/ascii.png": 3864852129,
+	"th09/data/ascii/ascii.png": 1255848690,
 	"th095.js": null,
 	"th095/data/ascii/ascii.png": 1520512050,
 	"th10.js": null,
