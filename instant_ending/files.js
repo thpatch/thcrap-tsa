@@ -1,6 +1,6 @@
 {
 	"global.js": 1311394851,
-	"patch.js": 2228582151,
+	"patch.js": 4162927855,
 	"th06/ecldata1.ecl": 763279557,
 	"th06/ecldata2.ecl": 763279557,
 	"th06/ecldata3.ecl": 763279557,
@@ -118,5 +118,13 @@
 	"th145/data/event/script/usami/stage4.pl": 3027531995,
 	"th145/data/event/script/usami/stage5.pl": 4197334986,
 	"th145/data/event/script/usami/stage6.pl": 4159530174,
-	"th145/data/event/script/usami/stage7.pl": 989271998
+	"th145/data/event/script/usami/stage7.pl": 989271998,
+	"th15.v1.00a.js": 4036928730,
+	"th15.v1.00b.js": 1350269703,
+	"th15/front/front00.png": 82768511,
+	"th15/st01.ecl": 1286952261,
+	"th15/st01a.msg": 1715219887,
+	"th15/st01b.msg": 1715219887,
+	"th15/st01c.msg": 1715219887,
+	"th15/st01d.msg": 1715219887
 }
