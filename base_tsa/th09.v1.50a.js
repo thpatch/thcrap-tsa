@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"file_decrypted_buffer_size": {
+			"addr": "0x42c19c"
+		},
 		"sprintf_call_1": {
 			"addr": "0x43bdde"
 		},
@@ -46,8 +49,14 @@
 		}
 	},
 	"breakpoints": {
-		"file_size": {
-			"addr": "0x42c9c7"
+		"file_size#for_caller": {
+			"addr": "0x42c9cc"
+		},
+		"file_size#for_encrypted_buffer": {
+			"addr": "0x42c9ff"
+		},
+		"file_size#for_decrypted_buffer": {
+			"addr": "0x42c19c"
 		},
 		"file_load": {
 			"addr": "0x42ca10"

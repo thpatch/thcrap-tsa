@@ -1,5 +1,9 @@
 {
 	"binhacks": {
+		"file_decrypted_buffer_size": {
+			"code": "51",
+			"title": "Use a scratch register to control the size of the final file buffer only (requires a file_size breakpoint writing to ECX on the same address)"
+		},
 		"sprintf_call_1": {
 			"code": "50e8[strings_vsprintf]894580",
 			"title": "Safe sprintf (first call)"
@@ -42,10 +46,17 @@
 		"anm": "anm06"
 	},
 	"breakpoints": {
-		"file_size": {
+		"file_size#for_caller": {
 			"file_size": "eax",
 			"file_name": "ecx",
-			"cavesize": "5"
+			"cavesize": 6
+		},
+		"file_size#for_encrypted_buffer": {
+			"file_size": "eax"
+		},
+		"file_size#for_decrypted_buffer": {
+			"file_size": "ecx",
+			"cavesize": 6
 		},
 		"file_load": {
 			"file_buffer": "eax",
