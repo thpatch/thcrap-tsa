@@ -7,6 +7,9 @@
 		"zero_lives": {
 			"code": "00000000",
 			"title": "Set lives to zero"
+		},
+		"deaths_to_continues": {
+			"title": "Turn each death into a used continue instead"
 		}
 	}
 }
