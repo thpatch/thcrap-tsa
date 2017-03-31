@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"instant_ending": {
+			"addr": "Rx20ad5"
+		},
 		"zero_lives": {
 			"addr": "Rx21d3d"
 		},
