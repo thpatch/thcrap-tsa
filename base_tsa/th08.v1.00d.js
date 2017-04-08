@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"file_size_for_caller_rearrange": {
+			"addr": "Rx3e6f0"
+		},
 		"sprintf_call_ebp-50": {
 			"addr": "Rx6668e"
 		},
@@ -58,16 +61,22 @@
 	},
 	"breakpoints": {
 		"file_name": {
-			"addr": "0x43e722"
+			"addr": "0x43e6dc"
 		},
-		"file_size": {
+		"file_size#for_caller": {
+			"addr": "0x43e6f3"
+		},
+		"file_size#for_encrypted_buffer": {
+			"addr": "0x43e737"
+		},
+		"file_size#for_decrypted_buffer": {
 			"addr": "0x43e225"
 		},
 		"file_load": {
-			"addr": "0x43e247"
+			"addr": "0x43e753"
 		},
 		"file_loaded": {
-			"addr": "0x43e774"
+			"addr": "0x43e490"
 		},
 		"spell_id": {
 			"addr": "0x41535e"

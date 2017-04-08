@@ -1,5 +1,9 @@
 {
 	"binhacks": {
+		"file_size_for_caller_rearrange": {
+			"code": "8b55 f4 8b4d e4 8911",
+			"title": "Rearrange the assignment of the file size to the caller's pointer, so that we can set a breakpoint there"
+		},
 		"spell_align": {
 			"code": "ffb578ffffffe8[GetTextExtent]83c00450db04e4589090909090909090909090",
 			"title": "Spell card alignment"
@@ -55,21 +59,29 @@
 	},
 	"breakpoints": {
 		"file_name": {
-			"file_name": "ecx",
+			"file_name": "eax",
 			"cavesize": "6"
 		},
-		"file_size": {
+		"file_size#for_caller": {
+			"file_size": "edx",
+			"cavesize": 5
+		},
+		"file_size#for_encrypted_buffer": {
+			"file_size": "eax",
+			"cavesize": 6
+		},
+		"file_size#for_decrypted_buffer": {
 			"file_size": "ecx",
 			"cavesize": "6"
 		},
 		"file_load": {
-			"file_buffer": "edx",
-			"eip_jump_dist": "0x139",
-			"cavesize": "6"
+			"file_buffer": "ecx",
+			"eip_jump_dist": "0xf6",
+			"cavesize": 5
 		},
 		"file_loaded": {
 			"file_buffer": "eax",
-			"cavesize": "5"
+			"cavesize": 6
 		},
 		"spell_id": {
 			"spell_id": "ecx",
