@@ -69,6 +69,10 @@
 	"th145/data/event/balloon/hukidasi-m.png": 2216883563,
 	"th145/data/event/balloon/hukidasi-s.png": 1758270533,
 	"th145/data/system/talk/balloon.act": 2044460839,
+	"th15.v0.01a.js": 318160988,
+	"th15.v0.01b.js": 2937413094,
+	"th15.v1.00a.js": 2750746530,
+	"th15.v1.00b.js": 930142629,
 	"th15/ascii/ascii.png": 1520512050,
 	"th15/ascii/ascii_1280.png": 3440573990,
 	"th15/ascii/ascii_960.png": 2136998300
