@@ -9,6 +9,9 @@
 				"Rx67316",
 				"Rx67327"
 			]
+		},
+		"music_title_prepare": {
+			"addr": "Rx50d59"
 		}
 	},
 	"breakpoints": {
@@ -23,6 +26,21 @@
 		},
 		"update_poll": {
 			"addr": "Rx580d0"
+		},
+		"music_title": {
+			"addr": "Rx50d5d"
+		},
+		"music_cmt#line": {
+			"addr": [
+				"Rx50fe8",
+				"Rx510b1"
+			]
+		},
+		"music_cmt": {
+			"addr": [
+				"Rx50ffb",
+				"Rx510c4"
+			]
 		}
 	}
 }
