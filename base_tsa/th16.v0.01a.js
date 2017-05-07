@@ -12,6 +12,15 @@
 		},
 		"music_title_prepare": {
 			"addr": "Rx50d59"
+		},
+		"th15_textbox_size_padded": {
+			"addr": "Rx2885c"
+		},
+		"th15_textbox_size": {
+			"addr": [
+				"Rx28860",
+				"Rx28af2"
+			]
 		}
 	},
 	"breakpoints": {

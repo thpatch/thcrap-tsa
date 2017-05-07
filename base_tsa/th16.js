@@ -10,6 +10,10 @@
 		},
 		"music_title_prepare": {
 			"code": "8b4c241c 51 31c0 50 50 50"
+		},
+		"th15_textbox_size": {
+			"code": "51 e8[GetTextExtent] 83c010 f30f1097a4010000 f30f108fa0010000 90909090909090",
+			"title": "Correct text length calculation for the TH15 variety of Fairy Wars-style text boxes"
 		}
 	},
 	"breakpoints": {
