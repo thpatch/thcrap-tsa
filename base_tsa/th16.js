@@ -65,6 +65,15 @@
 		"spell_name": {
 			"spell_name": "edi",
 			"cavesize": "5"
+		},
+		"spell_id#result": {
+			"spell_id_real": "esi",
+			"spell_rank": "eax",
+			"cavesize": "6"
+		},
+		"spell_name#result": {
+			"spell_name": "eax",
+			"cavesize": "7"
 		}
 	},
 	"tsa_font_block": {

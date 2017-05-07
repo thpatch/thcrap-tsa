@@ -75,6 +75,12 @@
 		},
 		"spell_name": {
 			"addr": "Rx17816"
+		},
+		"spell_id#result": {
+			"addr": "Rx4ef3d"
+		},
+		"spell_name#result": {
+			"addr": "Rx4f085"
 		}
 	},
 	"tsa_font_block": {
