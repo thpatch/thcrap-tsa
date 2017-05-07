@@ -143,5 +143,9 @@
 	"th16/dialog_204.js": 2545567094,
 	"th16/stringlocs.v0.01a.js": 1987749458,
 	"th16/text.v0.01a.anm": 3824339000,
-	"versions.js": 2568148991
+	"th16_custom/dialog_103.bin": 3441811309,
+	"th16_custom/dialog_103.js": 3622658545,
+	"th16_custom/dialog_3.js": 3622658545,
+	"th16_custom/stringlocs.v0.01a.js": 3738047822,
+	"versions.js": 44732744
 }
