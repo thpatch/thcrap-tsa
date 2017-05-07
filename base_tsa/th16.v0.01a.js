@@ -6,13 +6,17 @@
 				"Rx67399"
 			]
 		},
+		"sprintf_msvcrt14_esp+3c": {
+			"addr": "Rx67509"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx67316",
 				"Rx67327",
 				"Rx673e4",
 				"Rx67487",
-				"Rx67498"
+				"Rx67498",
+				"Rx675dd"
 			]
 		},
 		"music_title_prepare": {

@@ -9,6 +9,10 @@
 			"title": "Safe Visual Studio 2015-style sprintf (esp+34)",
 			"code": "e8[strings_vsprintf_msvcrt14]89442434"
 		},
+		"sprintf_msvcrt14_esp+3c": {
+			"title": "Safe Visual Studio 2015-style sprintf (esp+3c)",
+			"code": "e8[strings_vsprintf_msvcrt14]8944243c"
+		},
 		"music_title_prepare": {
 			"code": "8b4c241c 51 31c0 50 50 50"
 		},
