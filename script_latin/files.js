@@ -76,6 +76,7 @@
 	"th15/ascii/ascii.png": 1520512050,
 	"th15/ascii/ascii_1280.png": 3440573990,
 	"th15/ascii/ascii_960.png": 2136998300,
+	"th16.v0.01a.js": 3575074672,
 	"th16/ascii/ascii.png": 1520512050,
 	"th16/ascii/ascii_1280.png": 3440573990,
 	"th16/ascii/ascii_960.png": 2136998300
