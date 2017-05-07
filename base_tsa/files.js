@@ -141,7 +141,7 @@
 	"th16/ascii/ascii_960.png": 2497078814,
 	"th16/dialog_203.js": 2545567094,
 	"th16/dialog_204.js": 2545567094,
-	"th16/stringlocs.v0.01a.js": 1987749458,
+	"th16/stringlocs.v0.01a.js": 3429730036,
 	"th16/text.v0.01a.anm": 3824339000,
 	"th16_custom/dialog_103.bin": 3441811309,
 	"th16_custom/dialog_103.js": 3622658545,

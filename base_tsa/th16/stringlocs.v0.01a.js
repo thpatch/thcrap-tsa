@@ -16,5 +16,14 @@
 	"Rx8c854": "th10 Music Room spoiler 2",
 	"Rx8c88c": "th10 Music Room spoiler 3",
 	"Rx8c8b8": "th10 Music Room spoiler 4",
-	"Rx8c8f4": "th10 Music Room spoiler 5"
+	"Rx8c8f4": "th10 Music Room spoiler 5",
+	"Rx8c74c": "th16_ascii_score_empty",
+	"Rx8bf14": "th16_ascii_score_spring",
+	"Rx8bf1c": "th16_ascii_score_summer",
+	"Rx8bf24": "th16_ascii_score_autumn",
+	"Rx8bf2c": "th16_ascii_score_winter",
+	"Rx8bf34": "th16_ascii_score_sp",
+	"Rx8bf38": "th16_ascii_score_sm",
+	"Rx8bf3c": "th16_ascii_score_at",
+	"Rx8bf40": "th16_ascii_score_wt"
 }
