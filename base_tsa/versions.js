@@ -514,6 +514,11 @@
 			"th15_custom",
 			"v1.00a",
 			"(original)"
+		],
+		"6dd1c7ac48be083a8c3b90434245186a3a6e6293a46359ebc96a43fcf98e1486": [
+			"th16",
+			"v0.01a",
+			"(original)"
 		]
 	},
 	"sizes": {
@@ -760,6 +765,11 @@
 		"121344": [
 			"th15_custom",
 			"v1.00a",
+			"(original)"
+		],
+		"652800": [
+			"th16",
+			"v0.01a",
 			"(original)"
 		]
 	}
