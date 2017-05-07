@@ -1,13 +1,18 @@
 {
 	"binhacks": {
 		"sprintf_msvcrt14_esp+34": {
-			"addr": "Rx67279",
-			"code": "e8[strings_vsprintf_msvcrt14]89442434"
+			"addr": [
+				"Rx67279",
+				"Rx67399"
+			]
 		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx67316",
-				"Rx67327"
+				"Rx67327",
+				"Rx673e4",
+				"Rx67487",
+				"Rx67498"
 			]
 		},
 		"music_title_prepare": {
