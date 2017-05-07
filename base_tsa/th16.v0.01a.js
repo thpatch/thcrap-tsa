@@ -59,6 +59,15 @@
 				"Rx50ffb",
 				"Rx510c4"
 			]
+		},
+		"spell_id": {
+			"addr": "Rx1f9da"
+		},
+		"spell_id#real": {
+			"addr": "Rx1768a"
+		},
+		"spell_name": {
+			"addr": "Rx17816"
 		}
 	},
 	"tsa_font_block": {

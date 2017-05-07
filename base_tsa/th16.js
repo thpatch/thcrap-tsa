@@ -49,6 +49,18 @@
 			"track": "edx",
 			"format_id": "Music Room Note Title",
 			"cavesize": "5"
+		},
+		"spell_id": {
+			"spell_id": "eax",
+			"cavesize": "8"
+		},
+		"spell_id#real": {
+			"spell_id_real": "ebx",
+			"cavesize": "9"
+		},
+		"spell_name": {
+			"spell_name": "edi",
+			"cavesize": "5"
 		}
 	},
 	"tsa_font_block": {
