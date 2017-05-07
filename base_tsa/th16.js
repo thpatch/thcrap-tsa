@@ -1,7 +1,13 @@
 {
 	"title": "東方天空璋　～ Hidden Star in Four Seasons",
 	"formats": {
-		"anm": "anm11"
+		"anm": "anm11",
+		"msg": "msg11"
+	},
+	"binhacks": {
+		"sprintf_msvcrt14_esp+34": {
+			"title": "Safe Visual Studio 2015-style sprintf (esp+34)"
+		}
 	},
 	"breakpoints": {
 		"file_size": {

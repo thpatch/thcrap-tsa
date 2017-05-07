@@ -9,7 +9,7 @@
 	"alcostg_custom/dialog_103.js": 450950490,
 	"alcostg_custom/stringlocs.v1.00a.js": 724832697,
 	"formats.js": 290473403,
-	"global.js": 4099149685,
+	"global.js": 3518787588,
 	"patch.js": 1114190375,
 	"stringdefs.js": 1722675708,
 	"th06.js": 3353611440,
@@ -136,7 +136,7 @@
 	"th15_custom/dialog_103.js": 2438523396,
 	"th15_custom/dialog_3.js": 2438523396,
 	"th15_custom/stringlocs.v1.00a.js": 1503611542,
-	"th16.js": 1383352816,
-	"th16.v0.01a.js": 1007902793,
+	"th16.js": 579737364,
+	"th16.v0.01a.js": 892752685,
 	"versions.js": 2568148991
 }
