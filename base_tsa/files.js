@@ -137,7 +137,7 @@
 	"th15_custom/dialog_3.js": 2438523396,
 	"th15_custom/stringlocs.v1.00a.js": 1503611542,
 	"th16.js": 1391088844,
-	"th16.v0.01a.js": 555958757,
+	"th16.v0.01a.js": 1341428642,
 	"th16/ascii/ascii_960.png": 2497078814,
 	"th16/dialog_203.js": 2545567094,
 	"th16/dialog_204.js": 2545567094,
