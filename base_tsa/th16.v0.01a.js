@@ -16,7 +16,7 @@
 	},
 	"breakpoints": {
 		"file_size": {
-			"addr": "Rx0239f"
+			"addr": "Rx0238d"
 		},
 		"file_load": {
 			"addr": "Rx023c5"
