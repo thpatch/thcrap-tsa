@@ -37,6 +37,13 @@
 		},
 		"result_spell_align": {
 			"addr": "Rx675c1"
+		},
+		"ruby_prepare": {
+			"addr": [
+				"Rx287cd",
+				"Rx289e2"
+			],
+			"code": "be c9854d00 89c3 58 6a2c 56 90"
 		}
 	},
 	"breakpoints": {
@@ -81,6 +88,12 @@
 		},
 		"spell_name#result": {
 			"addr": "Rx4f085"
+		},
+		"ruby_offset": {
+			"addr": [
+				"Rx287d2",
+				"Rx289e7"
+			]
 		}
 	},
 	"tsa_font_block": {

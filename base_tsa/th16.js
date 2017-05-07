@@ -19,6 +19,9 @@
 		"th15_textbox_size": {
 			"code": "51 e8[GetTextExtent] 83c010 f30f1097a4010000 f30f108fa0010000 90909090909090",
 			"title": "Correct text length calculation for the TH15 variety of Fairy Wars-style text boxes"
+		},
+		"ruby_prepare": {
+			"code": "Prepare Ruby offset calculation"
 		}
 	},
 	"breakpoints": {
@@ -74,6 +77,11 @@
 		"spell_name#result": {
 			"spell_name": "eax",
 			"cavesize": "7"
+		},
+		"ruby_offset": {
+			"str": "esi",
+			"offset": "eax",
+			"cavesize": "5"
 		}
 	},
 	"tsa_font_block": {
