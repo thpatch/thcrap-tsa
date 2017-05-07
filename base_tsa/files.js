@@ -139,6 +139,7 @@
 	"th16.js": 20448306,
 	"th16.v0.01a.js": 3327236105,
 	"th16/ascii/ascii_960.png": 2497078814,
+	"th16/stringlocs.v0.01a.js": 1987749458,
 	"th16/text.v0.01a.anm": 3824339000,
 	"versions.js": 2568148991
 }

@@ -1,0 +1,20 @@
+{
+	"Rx8c688": "th15 Full-width 0",
+	"Rx8c68c": "th15 Full-width 1",
+	"Rx8c690": "th15 Full-width 2",
+	"Rx8c694": "th15 Full-width 3",
+	"Rx8c698": "th15 Full-width 4",
+	"Rx8c69c": "th15 Full-width 5",
+	"Rx8c6a0": "th15 Full-width 6",
+	"Rx8c6a4": "th15 Full-width 7",
+	"Rx8c6a8": "th15 Full-width 8",
+	"Rx8c6ac": "th15 Full-width 9",
+	"Rx8c6b0": "th08 Music Room spoiler 5",
+	"Rx8c6b4": "th15 Result Known Spell",
+	"Rx8c6cc": "th15 Result Unknown Spell",
+	"Rx8c818": "th10 Music Room spoiler 1",
+	"Rx8c854": "th10 Music Room spoiler 2",
+	"Rx8c88c": "th10 Music Room spoiler 3",
+	"Rx8c8b8": "th10 Music Room spoiler 4",
+	"Rx8c8f4": "th10 Music Room spoiler 5"
+}
