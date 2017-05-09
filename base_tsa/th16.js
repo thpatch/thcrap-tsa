@@ -21,7 +21,7 @@
 			"code": "8b4c241c 51 31c0 50 50 50"
 		},
 		"th15_textbox_size": {
-			"code": "51 e8[GetTextExtent] 83c010 f30f1097a4010000 f30f108fa0010000 90909090909090",
+			"code": "51 e8[GetTextExtent] 83e81c 7302 31c0 f30f1097a4010000 f30f108fa0010000 8b8f84010000 c1e902 909090909090909090",
 			"title": "Correct text length calculation for the TH15 variety of Fairy Wars-style text boxes"
 		},
 		"ruby_prepare": {
