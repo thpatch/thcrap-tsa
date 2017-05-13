@@ -32,11 +32,14 @@
 		"file_header": {
 			"addr": "Rx0dea2c"
 		},
-		"replace_file": {
-			"addr": "Rx0dbe77"
+		"replace_file#prepare": {
+			"addr": "Rx0dc426"
 		},
-		"replace_file#2nd_call": {
-			"addr": "Rx0dbe10"
+		"replace_file": {
+			"addr": [
+				"Rx0dbe77",
+				"Rx0dbe10"
+			]
 		}
 	}
 }

@@ -30,11 +30,12 @@
 			"key": "edi",
 			"cavesize": 5
 		},
+		"replace_file#prepare": {
+			"cavesize": 5,
+			"buffer": "ecx",
+			"size": "edx"
+		}
 		"replace_file": {
-			"cavesize": 6,
-			"file_struct": "esi"
-		},
-		"replace_file#2nd_call": {
 			"cavesize": 6,
 			"file_struct": "esi"
 		}
