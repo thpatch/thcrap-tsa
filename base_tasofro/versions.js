@@ -5,10 +5,15 @@
             "v1.31b",
             "(original)"
         ],
-        "ba8a68c68ab160c016f0683d993eff0e1b18eb145f84358c90fdd59fc2d48435": [
+        "d940b32a5165e4b0a0b3743746530d0a72cb19c3b127f244e802732a05063f4d": [
             "th155",
             "v0.01a",
             "(original)"
+        ],
+        "ba8a68c68ab160c016f0683d993eff0e1b18eb145f84358c90fdd59fc2d48435": [
+            "th155",
+            "v0.01a",
+            "(no verify trust)"
         ]
     },
     "sizes": {
