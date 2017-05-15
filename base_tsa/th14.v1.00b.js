@@ -39,7 +39,7 @@
 			"addr": "Rx7dc8a"
 		},
 		"result_spell_align": {
-			"addr": "0x47dddc"
+			"addr": "Rx7ddfe"
 		},
 		"music_title_prepare": {
 			"addr": "0x46235d"

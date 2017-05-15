@@ -18,6 +18,9 @@
 		},
 		"spell_align": {
 			"addr": "Rx7a70a"
+		},
+		"result_spell_align": {
+			"addr": "Rx7a87e"
 		}
 	},
 	"breakpoints": {

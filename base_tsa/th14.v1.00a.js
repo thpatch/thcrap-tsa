@@ -31,7 +31,7 @@
 			"addr": "Rx7dd8a"
 		},
 		"result_spell_align": {
-			"addr": "0x47dedc"
+			"addr": "Rx7defe"
 		}
 	},
 	"breakpoints": {

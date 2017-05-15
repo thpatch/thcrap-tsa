@@ -40,8 +40,7 @@
 			"code": "8b451c8d1c008b461cc1e80b83e0018944e414 ff7518ff74e42ce8[GetTextExtentForFontID]83c008d1e08b562c90909090909090909090f30f104a38"
 		},
 		"result_spell_align": {
-			"addr": "0x478f1e",
-			"code": "31d2"
+			"addr": "Rx78f1e"
 		},
 		"music_title_prepare": {
 			"addr": "0x45db51"

@@ -17,8 +17,7 @@
 			"title": "Spell card alignment"
 		},
 		"result_spell_align": {
-			"code": "8944e4148b430831d2eb1990909090909090909090909090909090909090909090909090",
-			"title": "Remove spell \"alignment\" in the result screen"
+			"code": "31d2"
 		},
 		"music_title_prepare": {
 			"code": "8b4ce41c5131c05050505068ffffff0056ff35cc564f0090",
