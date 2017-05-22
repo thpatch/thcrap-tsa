@@ -34,7 +34,7 @@
 			"cavesize": 5,
 			"buffer": "ecx",
 			"size": "edx"
-		}
+		},
 		"replace_file": {
 			"cavesize": 6,
 			"file_struct": "esi"
