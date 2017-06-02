@@ -9,8 +9,14 @@
 		"sprintf_call_esp+14": {
 			"addr": "Rx5f8dc"
 		},
+		"sprintf_call_esp+18": {
+			"addr": "Rx5fa79"
+		},
 		"sprintf_rep": {
-			"addr": "Rx5f903"
+			"addr": [
+				"Rx5f903",
+				"Rx5fabc"
+			]
 		},
 		"font_ruby_size": {
 			"addr": "0x44cfcb"
