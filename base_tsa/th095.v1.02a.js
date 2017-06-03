@@ -79,6 +79,15 @@
 		},
 		"music_cmt": {
 			"addr": "0x451607"
+		},
+		"gentext#help_id": {
+			"addr": "Rx28bab"
+		},
+		"gentext#help_line_1": {
+			"addr": "Rx28bb0"
+		},
+		"gentext#help_line_2": {
+			"addr": "Rx28c12"
 		}
 	}
 }

@@ -64,6 +64,19 @@
 			"str": "esi",
 			"offset": "eax",
 			"cavesize": "7"
+		},
+		"gentext#hint_id": {
+			"file": "hint.js",
+			"ids": "ecx",
+			"cavesize": 6
+		},
+		"gentext#hint_line_1": {
+			"str": "ecx",
+			"cavesize": 5
+		},
+		"gentext#hint_line_2": {
+			"str": "ecx",
+			"cavesize": 5
 		}
 	}
 }

@@ -75,6 +75,19 @@
 			"str": "esi",
 			"offset": "eax",
 			"cavesize": "5"
+		},
+		"gentext#help_id": {
+			"file": "help.js",
+			"ids": "edx",
+			"cavesize": 6
+		},
+		"gentext#help_line_1": {
+			"str": "edx",
+			"cavesize": 5
+		},
+		"gentext#help_line_2": {
+			"str": "edx",
+			"cavesize": 5
 		}
 	},
 	"tsa_font_block": {

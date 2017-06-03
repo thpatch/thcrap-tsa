@@ -104,6 +104,19 @@
 			"str": "edx",
 			"format_id": "Music Room Note Title",
 			"cavesize": "5"
+		},
+		"gentext#help_id": {
+			"file": "help.js",
+			"ids": "edx",
+			"cavesize": 5
+		},
+		"gentext#help_line_1": {
+			"str": "eax",
+			"cavesize": 6
+		},
+		"gentext#help_line_2": {
+			"str": "edx",
+			"cavesize": 6
 		}
 	}
 }

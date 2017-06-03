@@ -99,6 +99,15 @@
 				"Rx2f729",
 				"Rx2f92d"
 			]
+		},
+		"gentext#hint_id": {
+			"addr": "Rx49d57"
+		},
+		"gentext#hint_line_1": {
+			"addr": "Rx49da3"
+		},
+		"gentext#hint_line_2": {
+			"addr": "Rx49de2"
 		}
 	},
 	"tsa_font_block": [

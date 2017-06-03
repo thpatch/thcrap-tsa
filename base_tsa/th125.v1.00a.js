@@ -72,6 +72,15 @@
 				"Rx1c577",
 				"Rx1c636"
 			]
+		},
+		"gentext#help_id": {
+			"addr": "Rx2d758"
+		},
+		"gentext#help_line_1": {
+			"addr": "Rx2d768"
+		},
+		"gentext#help_line_2": {
+			"addr": "Rx2d7a5"
 		}
 	},
 	"tsa_font_block": {
