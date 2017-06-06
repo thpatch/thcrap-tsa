@@ -25,6 +25,18 @@
 			"addr": "Rx5f9ff",
 			"title": "Unpatch the questionable spell name width addition in the English patch",
 			"code": "508b02578bbc24c0000000508bc5e8eefdffff8b8c2494000000838e84040000015f5d5b33cce85aba000081c48c000000c3cccccccc"
+		},
+		"help_align_1": {
+			"addr": "Rx2d76b",
+			"code": "6a 00 68 00003000 68 c0e0ff00 33db 8db5 b8030000 e8 bc220300"
+		},
+		"help_align_2": {
+			"addr": "Rx2d7a5",
+			"code": "895424 10 9090909090909090 8db5 74080000 e8 84220300"
+		},
+		"help_align_3": {
+			"addr": "Rx2d7db",
+			"code": "83c4 14"
 		}
 	},
 	"breakpoints": {

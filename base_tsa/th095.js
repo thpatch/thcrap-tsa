@@ -43,6 +43,12 @@
 		"unpatch_spell_scale": {
 			"code": "0f",
 			"title": "Reset English patch spell scaling thingy"
+		},
+		"help_align_1": {
+			"title": "Center-align help string #1"
+		},
+		"help_align_2": {
+			"title": "Center-align help string #2"
 		}
 	},
 	"title": "東方文花帖　～ Shoot the Bullet",

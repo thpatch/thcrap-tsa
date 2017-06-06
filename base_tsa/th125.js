@@ -7,6 +7,15 @@
 		"font_ruby_size": {
 			"code": "6a0f",
 			"title": "Ensure correct size of ruby font"
+		},
+		"help_align_1": {
+			"title": "Center-align the help messages, #1 (first line)"
+		},
+		"help_align_2": {
+			"title": "Center-align the help messages, #2 (second line, reusing the stack of the first call)"
+		},
+		"help_align_3": {
+			"title": "Center-align the help messages, #3 (clean the stack)"
 		}
 	},
 	"title": "ダブルスポイラー　～ 東方文花帖",
