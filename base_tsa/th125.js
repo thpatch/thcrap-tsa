@@ -4,6 +4,10 @@
 			"code": "8b8e880400008bbefc030000d94738c1e90483e101518b94e4b000000052ffb4e4a8000000ffb4e4a8000000ff3508094d0052e8[GetTextExtentForFont]50db04e458eb2e90909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
 			"title": "Spell card alignment"
 		},
+		"center_align": {
+			"code": "ffb424 9c000000 ff30 e8[GetTextExtentForFontID] 83c0 03 d1e0 89c3 8b8e 88040000 8bbe fc030000 d947 38 c1e9 04",
+			"title": "Correct alignment for centered text"
+		},
 		"font_ruby_size": {
 			"code": "6a0f",
 			"title": "Ensure correct size of ruby font"
