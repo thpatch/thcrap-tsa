@@ -20,6 +20,10 @@
 		},
 		"help_align_3": {
 			"title": "Center-align the help messages, #3 (clean the stack)"
+		},
+		"help_align_scalefix": {
+			"code": "83c0 0e",
+			"title": "Hack around the combined +11 and 77,78% scaling factors to correctly align the help messages"
 		}
 	},
 	"title": "ダブルスポイラー　～ 東方文花帖",

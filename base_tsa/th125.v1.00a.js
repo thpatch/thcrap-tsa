@@ -40,6 +40,9 @@
 		"help_align_3": {
 			"addr": "Rx2d7db",
 			"code": "83c4 14"
+		},
+		"help_align_scalefix": {
+			"addr": "Rx5fad2"
 		}
 	},
 	"breakpoints": {
