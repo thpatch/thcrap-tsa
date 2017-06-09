@@ -108,6 +108,18 @@
 		},
 		"gentext#hint_line_2": {
 			"addr": "Rx49de2"
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": ["Rx65b66", "Rx661ec"]
+		},
+		"gentext#trophy_result_desc_params": {
+			"addr": "Rx68265"
+		},
+		"gentext#trophy_result_desc_str": {
+			"addr": "Rx6829b"
+		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx67ff2"
 		}
 	},
 	"tsa_font_block": [

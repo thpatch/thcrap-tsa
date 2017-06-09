@@ -77,6 +77,29 @@
 		"gentext#hint_line_2": {
 			"str": "ecx",
 			"cavesize": 5
+		},
+		"gentext#trophy_result_nickname": {
+			"file": "trophy.js",
+			"ids": "ecx",
+			"str": "eax",
+			"cavesize": 5,
+			"cave_exec": false
+		},
+		"gentext#trophy_result_desc_params": {
+			"file": "trophy.js",
+			"ids": ["ecx", "edx"],
+			"line": "eax",
+			"cavesize": 6
+		},
+		"gentext#trophy_result_desc_str": {
+			"str": "eax",
+			"cavesize": 5
+		},
+		"gentext#trophy_ingame": {
+			"file": "trophy.js",
+			"ids": "esi",
+			"str": "eax",
+			"cavesize": 6
 		}
 	}
 }
