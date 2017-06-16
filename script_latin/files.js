@@ -51,6 +51,7 @@
 	"th143/ascii/ascii.png": 1520512050,
 	"th143/ascii/ascii_1280.png": 3440573990,
 	"th143/ascii/ascii_960.png": 2136998300,
+	"th143/trophy.js": 2773020860,
 	"th145/data/event/balloon/a05x2.png": 80076677,
 	"th145/data/event/balloon/a11x2.png": 2392809766,
 	"th145/data/event/balloon/a15x3.png": 3565596466,
