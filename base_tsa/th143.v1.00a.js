@@ -55,6 +55,12 @@
 		},
 		"meiryo_strcmp_remove": {
 			"addr": "Rx6bee7"
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx67fc9"
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx68017"
 		}
 	},
 	"breakpoints": {

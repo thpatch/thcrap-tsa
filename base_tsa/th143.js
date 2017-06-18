@@ -13,6 +13,16 @@
 		"titlemsg_box_size_2": {
 			"title": "Day description box size (cleanup)",
 			"code": "909090909090909090"
+		},
+		"trophy_ingame_lineflip_1": {
+			"title": "Flip the two lines in the new nickname popup (line #1)",
+			"code": "ffb3 44020000",
+			"ignore": true
+		},
+		"trophy_ingame_lineflip_2": {
+			"title": "Flip the two lines in the new nickname popup (line #2)",
+			"code": "ffb3 40020000",
+			"ignore": true
 		}
 	},
 	"breakpoints": {
