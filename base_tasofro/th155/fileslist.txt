@@ -200,6 +200,7 @@ data/actor/effect/texture/moji_winner_1p.png
 data/actor/effect/texture/moji_winner_2p.png
 data/actor/effect/texture/moji_winner_jp.png
 data/actor/effect/texture/namelist_left.png
+data/actor/effect/texture/namelist_right.png
 data/actor/effect/texture/ninki_num_minus.png
 data/actor/effect/texture/ninki_num_plus.png
 data/actor/effect/texture/occultAura0000.dds
