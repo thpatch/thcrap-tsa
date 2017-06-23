@@ -53,6 +53,9 @@
 		"titlemsg_box_size_2": {
 			"addr": "Rx5f213"
 		},
+		"titlemsg_emptylines": {
+			"addr": ["Rx643a3", "Rx645b2"]
+		},
 		"meiryo_strcmp_remove": {
 			"addr": "Rx6bee7"
 		},

@@ -14,6 +14,10 @@
 			"title": "Day description box size (cleanup)",
 			"code": "909090909090909090"
 		},
+		"titlemsg_emptylines": {
+			"title": "Don't show empty day description lines",
+			"code": "00"
+		},
 		"trophy_ingame_lineflip_1": {
 			"title": "Flip the two lines in the new nickname popup (line #1)",
 			"code": "ffb3 44020000",
