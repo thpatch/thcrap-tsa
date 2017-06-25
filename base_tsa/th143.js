@@ -7,12 +7,19 @@
 	},
 	"binhacks": {
 		"titlemsg_box_size_1": {
-			"title": "Day description box size (calculation)",
-			"code": "50 6a0056e8[GetTextExtentForFontID]89c6 6a0053e8[GetTextExtentForFontID] 5a b90000803f660f6ed1660f6ed9660f6ee1 909090909090"
+			"title": "Day description box size, #1: Calculate the width of both lines",
+			"code": "e9 9d000000 51 52 56 6a00 52 e8[GetTextExtentForFontID] 50 6a00 56 e8[GetTextExtentForFontID] 5e b9 0000803f 660f6ed1 0f29d3 0f29d4"
 		},
 		"titlemsg_box_size_2": {
-			"title": "Day description box size (cleanup)",
+			"title": "Day description box size, #2: Remove the original width calculation of the second line",
 			"code": "909090909090909090"
+		},
+		"titlemsg_box_size_3": {
+			"title": "Day description box size, #3: Turn into a function",
+			"code": "660f5ad8 f30f5cdd f30f59de f30f5fd9 31c9 660f6ec1 f30f5fd8 5e 5a 59 c3 9090"
+		},
+		"titlemsg_prepare": {
+			"title": "Prepare patching of both day description lines in a single breakpoint"
 		},
 		"titlemsg_emptylines": {
 			"title": "Don't show empty day description lines",

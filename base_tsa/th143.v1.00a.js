@@ -48,16 +48,23 @@
 			"code": "ff7518ff74e42c e8[GetTextExtentForFontID]  83c003c1e00289c1 8b451c8b5e2c 90909090"
 		},
 		"titlemsg_box_size_1": {
-			"addr": "Rx5f1ac"
+			"addr": "Rx5f1ae"
 		},
 		"titlemsg_box_size_2": {
 			"addr": "Rx5f213"
+		},
+		"titlemsg_box_size_3": {
+			"addr": "Rx5f230"
 		},
 		"titlemsg_emptylines": {
 			"addr": ["Rx643a3", "Rx645b2"]
 		},
 		"meiryo_strcmp_remove": {
 			"addr": "Rx6bee7"
+		},
+		"titlemsg_prepare": {
+			"addr": ["Rx630ae", "Rx62ef3", "Rx6323c"],
+			"code": "8d51 08 8db1 08010000 b8 b3f14500 ffd0 56 52 f30f1015 3c9f4c00 f30f100d ac9f4c00 90"
 		},
 		"trophy_ingame_lineflip_1": {
 			"addr": "Rx67fc9"
