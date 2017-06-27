@@ -136,6 +136,12 @@
 		},
 		"gentext#trophy_ingame": {
 			"addr": "Rx67ff2"
+		},
+		"gentext#titlemsg_id": {
+			"addr": "Rx62ec6"
+		},
+		"gentext#titlemsg_str": {
+			"addr": ["Rx630b7", "Rx62efc", "Rx63245"]
 		}
 	},
 	"tsa_font_block": [

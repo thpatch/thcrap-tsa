@@ -121,6 +121,17 @@
 			"ids": "esi",
 			"str": "eax",
 			"cavesize": 6
+		},
+		"gentext#titlemsg_id": {
+			"file": "titlemsg.js",
+			"ids": "ecx",
+			"cavesize": 6
+		},
+		"gentext#titlemsg_str": {
+			"file": "titlemsg.js",
+			"str": ["edx", "esi"],
+			"line": 0,
+			"cavesize": 5
 		}
 	}
 }
