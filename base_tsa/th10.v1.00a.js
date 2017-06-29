@@ -69,5 +69,8 @@
 				"0x4344a6"
 			]
 		}
+	},
+	"tsa_font_block": {
+		"addr": "Rx918e0"
 	}
 }

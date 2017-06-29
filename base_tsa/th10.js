@@ -9,7 +9,7 @@
 			"title": "Move enemy text to the left (line 2)"
 		},
 		"spell_align": {
-			"code": "8b8e600300008bbe94030000d1e983e10151ffb4e4a0000000ff35a0184900ff74e41ce8[GetTextExtentForFont]83c00450db04e45890909090909085c0",
+			"code": "8b8e 60030000 8bbe 94030000 d1e9 83e1 01 51 55 ff7424 18 e8 [GetTextExtentForFontID] 89c1 8b9424 a0000000 9090909090",
 			"title": "Spell card alignment"
 		}
 	},
@@ -72,5 +72,10 @@
 			"format_id": "Music Room Note Title",
 			"cavesize": "6"
 		}
+	},
+	"tsa_font_block": {
+		"offset": -4,
+		"min": 16,
+		"max": 30
 	}
 }
