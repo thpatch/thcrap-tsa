@@ -2,75 +2,75 @@
 	"binhacks": {
 		"sprintf_call_esp+18": {
 			"addr": [
-				"0x447a7e",
-				"0x447be9"
+				"Rx4557e",
+				"Rx456e9"
 			]
 		},
 		"sprintf_call_esp+1c": {
-			"addr": "0x447b19"
+			"addr": "Rx45619"
 		},
 		"sprintf_rep": {
 			"addr": [
-				"0x447aab",
-				"0x447b7a",
-				"0x447c40"
+				"Rx455ab",
+				"Rx4567a",
+				"Rx45740"
 			]
 		},
 		"enemy_text_offset_1": {
-			"addr": "0x41631a"
+			"addr": "Rx14a2e"
 		},
 		"enemy_text_offset_2": {
-			"addr": "Rx1632f"
+			"addr": "Rx14a42"
 		},
 		"spell_align": {
-			"addr": "0x447b30"
+			"addr": "Rx45630"
 		},
 		"result_spell_align": {
-			"addr": "0x447c39"
+			"addr": "Rx45739"
 		}
 	},
 	"breakpoints": {
 		"file_size": {
-			"addr": "0x44b3ea"
+			"addr": "Rx48fba"
 		},
 		"file_load": {
-			"addr": "0x44b410"
+			"addr": "Rx48fe0"
 		},
 		"file_loaded": {
-			"addr": "0x434ee1"
+			"addr": "Rx32b01"
 		},
 		"spell_id": {
-			"addr": "0x410edc"
+			"addr": "Rx0fa1c"
 		},
 		"spell_id#real": {
-			"addr": "0x410f30"
+			"addr": "Rx0fa70"
 		},
 		"spell_name": {
-			"addr": "0x409678"
+			"addr": "Rx09518"
 		},
 		"spell_id#result": {
-			"addr": "0x43278b"
+			"addr": "Rx3041b"
 		},
 		"spell_name#result": {
-			"addr": "0x432876"
+			"addr": "Rx30506"
 		},
 		"music_title": {
-			"addr": "0x434201"
+			"addr": "Rx31e81"
 		},
 		"music_cmt#params": {
 			"addr": [
-				"0x4343be",
-				"0x434493"
+				"Rx3203e",
+				"Rx32113"
 			]
 		},
 		"music_cmt": {
 			"addr": [
-				"0x4343d1",
-				"0x4344a6"
+				"Rx32051",
+				"Rx32126"
 			]
 		}
 	},
 	"tsa_font_block": {
-		"addr": "Rx918e0"
+		"addr": "Rx8f640"
 	}
 }

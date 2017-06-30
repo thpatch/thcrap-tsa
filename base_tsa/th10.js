@@ -5,7 +5,7 @@
 			"title": "Move enemy text to the left (line 1)"
 		},
 		"enemy_text_offset_2": {
-			"code": "83c007",
+			"code": "31c0 90909090",
 			"title": "Move enemy text to the left (line 2)"
 		},
 		"spell_align": {
@@ -15,7 +15,7 @@
 	},
 	"title": "東方風神録　～ Mountain of Faith",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th10dl.html",
-	"latest": "v1.00a",
+	"latest": ["v0.02a", "v1.00a"],
 	"formats": {
 		"msg": "msg10",
 		"anm": "anm06",
