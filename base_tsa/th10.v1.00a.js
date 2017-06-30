@@ -20,7 +20,8 @@
 			"addr": "0x41631a"
 		},
 		"enemy_text_offset_2": {
-			"addr": "Rx1632f"
+			"addr": "Rx16335",
+			"code": "83c007"
 		},
 		"spell_align": {
 			"addr": "0x447b30"
