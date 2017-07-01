@@ -52,6 +52,9 @@
 		}
 	},
 	"breakpoints": {
+		"mission": {
+			"addr": "0x44d020"
+		},
 		"file_size": {
 			"addr": "0x41aa23"
 		},

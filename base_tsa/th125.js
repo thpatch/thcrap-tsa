@@ -33,6 +33,14 @@
 		"anm": "anm11"
 	},
 	"breakpoints": {
+		"mission": {
+			"line": "EAX",
+			"stage": 4,
+			"scene": 8,
+			"chara": 12,
+			"ret_fixup": 12,
+			"cavesize": "6"
+		},
 		"file_size": {
 			"file_size": "edi",
 			"file_name": "ebp",
