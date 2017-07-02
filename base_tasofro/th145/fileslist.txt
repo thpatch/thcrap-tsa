@@ -10786,6 +10786,7 @@ data/material/灯篭/コンクリ床03.mat
 data/material/賽銭箱/mat1.mat
 data/material/賽銭箱/コンクリ床パーツ01.mat
 data/material/賽銭箱/板杉.mat
+data/plugin/se_libact.dll
 data/plugin/se_chirp_helper.dll
 data/plugin/se_hash.dll
 data/plugin/se_information.dll
