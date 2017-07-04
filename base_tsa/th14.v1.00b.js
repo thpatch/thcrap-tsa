@@ -52,6 +52,10 @@
 		}
 	},
 	"breakpoints": {
+		"devicelost": {
+			"pres_params": "RxD9054",
+			"addr": "Rx6A8FC"
+		},
 		"file_size": {
 			"addr": "0x402b89"
 		},
