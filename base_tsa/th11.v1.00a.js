@@ -41,6 +41,10 @@
 		}
 	},
 	"breakpoints": {
+		"devicelost": {
+			"pres_params": "RxC3374",
+			"addr": "Rx465FE"
+		},
 		"file_size": {
 			"addr": "0x45848e"
 		},

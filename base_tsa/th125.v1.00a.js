@@ -46,6 +46,10 @@
 		}
 	},
 	"breakpoints": {
+		"devicelost": {
+			"pres_params": "RxD0DC4",
+			"addr": "Rx4F2BE"
+		},
 		"file_size": {
 			"addr": "0x4630de"
 		},

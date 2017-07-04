@@ -47,6 +47,10 @@
 		"anm": "anm11"
 	},
 	"breakpoints": {
+		"devicelost": {
+			"d3dd9": "EAX",
+			"cavesize": "11"
+		},
 		"file_size": {
 			"file_size": "eax",
 			"file_name": "ebx",
