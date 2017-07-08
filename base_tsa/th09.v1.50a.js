@@ -35,10 +35,10 @@
 		"inplace_xor_rep": {
 			"addr": "Rx16c8e"
 		},
-		"buffer_overflow_ending_rem" : {
+		"ending_copy_rem" : {
 			"addr": "Rx0ec7d"
 		},
-		"buffer_overflow_ending_rep" : {
+		"ending_copy_rep" : {
 			"addr": "Rx0eda4"
 		},
 		"menu_desc_align_1": {
