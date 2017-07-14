@@ -42,10 +42,10 @@
 				"Rx5e4f0"
 			]
 		},
-		"buffer_overflow_ending_rem" : {
+		"ending_copy_rem" : {
 			"addr": "Rx1e2e9"
 		},
-		"buffer_overflow_ending_rep" : {
+		"ending_copy_rep" : {
 			"addr": "Rx1e11d"
 		}
 	},
