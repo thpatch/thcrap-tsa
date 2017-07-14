@@ -52,10 +52,10 @@
 		"inplace_xor_short_rep": {
 			"addr": "Rx34620"
 		},
-		"buffer_overflow_ending_rem" : {
+		"ending_copy_rem" : {
 			"addr": "Rx2946d"
 		},
-		"buffer_overflow_ending_rep" : {
+		"ending_copy_rep" : {
 			"addr": "Rx2934b"
 		}
 	},
