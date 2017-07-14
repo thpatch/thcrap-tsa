@@ -1,3 +1,3 @@
 {
-	"thcrap_version_min": "0x20170704"
+	"thcrap_version_min": "0x20170714"
 }
