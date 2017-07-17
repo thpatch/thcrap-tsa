@@ -23,10 +23,6 @@
 		"end": "end10"
 	},
 	"breakpoints": {
-		"devicelost": {
-			"d3dd9": "EAX",
-			"cavesize": "13"
-		},
 		"file_size": {
 			"file_size": "edi",
 			"file_name": "ebp",

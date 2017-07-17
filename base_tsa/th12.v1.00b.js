@@ -38,10 +38,6 @@
 		}
 	},
 	"breakpoints": {
-		"devicelost": {
-			"pres_params": "RxCE9DC",
-			"addr": "Rx505AE"
-		},
 		"file_size": {
 			"addr": "0x463c9e"
 		},

@@ -47,10 +47,6 @@
 		}
 	},
 	"breakpoints": {
-		"devicelost": {
-			"pres_params": "RxD94B4",
-			"addr": "Rx6851C"
-		},
 		"file_size": {
 			"addr": "0x402e29"
 		},

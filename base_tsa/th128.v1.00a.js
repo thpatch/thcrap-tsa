@@ -33,10 +33,6 @@
 		}
 	},
 	"breakpoints": {
-		"devicelost": {
-			"pres_params": "RxD2F5C",
-			"addr": "Rx54E06"
-		},
 		"file_size": {
 			"addr": "0x469ccd"
 		},
