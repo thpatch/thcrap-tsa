@@ -1,0 +1,20 @@
+{   
+	  "/sprites/48/keyframe/layout/fontHeight": "18",
+    "/sprites/49/keyframe/layout/fontHeight": "18",
+    "/sprites/50/keyframe/layout/fontHeight": "18",
+    "/sprites/61/keyframe/layout/fontHeight": "18",
+    "/sprites/62/keyframe/layout/fontHeight": "18",
+    "/sprites/63/keyframe/layout/fontHeight": "18",
+    "/sprites/48/dst_x": "463.00",
+    "/sprites/49/dst_x": "463.00",
+    "/sprites/50/dst_x": "463.00",
+    "/sprites/61/dst_x": "448.00",
+    "/sprites/62/dst_x": "448.00",
+    "/sprites/63/dst_x": "448.00",
+    "/sprites/48/keyframe/layout/charactorSpace": "-3",
+    "/sprites/49/keyframe/layout/charactorSpace": "-3",
+    "/sprites/50/keyframe/layout/charactorSpace": "-3",
+    "/sprites/61/keyframe/layout/charactorSpace": "-3",
+    "/sprites/62/keyframe/layout/charactorSpace": "-3",
+    "/sprites/63/keyframe/layout/charactorSpace": "-3"
+}
