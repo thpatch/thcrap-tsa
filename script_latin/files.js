@@ -73,6 +73,8 @@
 	"th145/data/system/char_select3/char_select3.act.jdiff": 3562587576,
 	"th145/data/system/network_vs/network_vs.act.jdiff": 1683301201,
 	"th145/data/system/pause/pause.act.jdiff": 1888382809,
+	"th145/data/system/system/effect/spell_name.act.jdiff": 888683997,
+	"th145/data/system/system/effect/spell_name2.act.jdiff": 888683997,
 	"th145/data/system/talk/balloon.act": 2044460839,
 	"th15.v0.01a.js": 318160988,
 	"th15.v0.01b.js": 2937413094,
