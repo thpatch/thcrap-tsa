@@ -70,7 +70,7 @@
 	"th145/data/event/balloon/hukidasi-l.png": 1760874497,
 	"th145/data/event/balloon/hukidasi-m.png": 2216883563,
 	"th145/data/event/balloon/hukidasi-s.png": 1758270533,
-	"th145/data/system/char_select3/char_select3.act.jdiff": 3562587576,
+	"th145/data/system/char_select3/char_select3.act.jdiff": 2143701705,
 	"th145/data/system/network_vs/network_vs.act.jdiff": 1683301201,
 	"th145/data/system/pause/pause.act.jdiff": 1888382809,
 	"th145/data/system/system/effect/spell_name.act.jdiff": 888683997,
