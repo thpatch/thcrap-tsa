@@ -159,6 +159,7 @@ data/actor/effect/texture/spellBack.m3r
 data/actor/effect/texture/spellChargeA0000.png
 data/actor/effect/texture/spellRing0000.png
 data/actor/effect/texture/spellRing0001.png
+data/actor/effect/texture/spot_name0000.png
 data/actor/effect/texture/story_moji_title.png
 data/actor/effect/texture/testFront0000.dds
 data/actor/effect/texture/wallCrash.png
@@ -10266,6 +10267,7 @@ data/effect/Texture/Effect/ringA0000.nhtex
 data/effect/Texture/Effect/shockWave0000.nhtex
 data/effect/Texture/Effect/side_smash0000.nhtex
 data/effect/Texture/Effect/smoke0000.nhtex
+data/effect/Texture/Effect/smoke_mamizou0000.nhtex
 data/effect/Texture/Effect/spark0000.nhtex
 data/effect/Texture/Effect/speedLineA0000.nhtex
 data/effect/Texture/Effect/spellRing0001.nhtex
@@ -10283,6 +10285,7 @@ data/effect/dead_exp2.eft
 data/effect/fireWork.eft
 data/effect/futo_fireTower.eft
 data/effect/futo_tornade.eft
+data/effect/graze.eft
 data/effect/guardCrash.eft
 data/effect/guard_baria.eft
 data/effect/hijiri_chopInpact.eft
@@ -10302,6 +10305,8 @@ data/effect/kokoro_pose0000.eft
 data/effect/kokoro_pose0001.eft
 data/effect/kokoro_pose0002.eft
 data/effect/kokoro_pose0003.eft
+data/effect/mamizou_smokeBurst.eft
+data/effect/mamizou_smokeBurstB.eft
 data/effect/mamizou_steam.eft
 data/effect/marisa_aside.eft
 data/effect/marisa_asideB.eft
@@ -10840,11 +10845,13 @@ data/script/const.nut
 data/script/const_key.nut
 data/script/font.nut
 data/script/game.nut
+data/script/game_arcade.nut
 data/script/game_battle.nut
 data/script/game_load.nut
 data/script/game_occult.nut
 data/script/game_scene.nut
 data/script/game_story.nut
+data/script/game_tutorial.nut
 data/script/global.nut
 data/script/hit.nut
 data/script/input.nut
