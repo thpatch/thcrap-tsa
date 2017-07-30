@@ -51,6 +51,14 @@
 		"music_room_cmt_shift_2nd_part": {
 			"code": "8B45FC8B1588456D0081C2348A01006BC03801C2C702000077C383EA70C702000077C3909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
 			"title": "In music comment, shift the 2nd half of the text 247px to the left"
+		},
+		"text_1024": {
+			"code": "68 00040000",
+			"title": "Enlarge the width of the text surface to 1024 pixels"
+		},
+		"text_prepare_surface_width": {
+			"code": "8b45a8 9090",
+			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",

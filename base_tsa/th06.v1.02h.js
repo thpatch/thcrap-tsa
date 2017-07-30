@@ -65,6 +65,12 @@
 		},
 		"music_room_cmt_shift_2nd_part": {
 			"addr": "0x425b9b"
+		},
+		"text_1024": {
+			"addr": "Rx1f014"
+		},
+		"text_prepare_surface_width": {
+			"addr": ["Rx1f0dd", "Rx1f16a"]
 		}
 	},
 	"breakpoints": {
