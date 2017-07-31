@@ -59,6 +59,14 @@
 		"text_prepare_surface_width": {
 			"code": "8b45a8 9090",
 			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap"
+		},
+		"text_prepare_surface_width_trial_1": {
+			"code": "50 ff7588 56 56",
+			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap (Trial, #1)"
+		},
+		"text_prepare_surface_width_trial_2": {
+			"code": "8d4d84 ff7588 90",
+			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap (Trial, #2)"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
