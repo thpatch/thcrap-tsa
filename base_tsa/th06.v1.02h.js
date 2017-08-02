@@ -71,6 +71,12 @@
 		},
 		"text_prepare_surface_width": {
 			"addr": ["Rx1f0dd", "Rx1f16a"]
+		},
+		"text_sprite_height": {
+			"addr": ["Rx34cc6",            "Rx34db5", "Rx34ea6",            "Rx34f9b"]
+		},
+		"text_sprite_width": {
+			"addr": ["Rx34cd8", "Rx34d55", "Rx34dc7", "Rx34eb8", "Rx34f32", "Rx34fad"]
 		}
 	},
 	"breakpoints": {

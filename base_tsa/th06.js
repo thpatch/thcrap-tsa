@@ -67,6 +67,16 @@
 		"text_prepare_surface_width_trial_2": {
 			"code": "8d4d84 ff7588 90",
 			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap (Trial, #2)"
+		},
+		"text_sprite_height": {
+			"expected": "14",
+			"code": "2c",
+			"title": "Use sprite height for text sprites, not texture height"
+		},
+		"text_sprite_width": {
+			"expected": "18",
+			"code": "30",
+			"title": "Calculate text alignment based on sprite width, not texture width"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
