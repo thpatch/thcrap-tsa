@@ -77,6 +77,10 @@
 			"expected": "18",
 			"code": "30",
 			"title": "Calculate text alignment based on sprite width, not texture width"
+		},
+		"sprite3d_rotated_voodookill": {
+			"code": "83ef40 d907 d84a1c 8b8ac0000000 6800008043 d94118 d90424 def9 dec9 59 d91f d94218 d9e0 d84f14 d95f14 d902 d9ee ded9 dfe0 f6c444 7b23",
+			"title": "Correctly scale rotated sprites in 3D space from textures wider than 256 pixels"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",

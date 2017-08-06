@@ -77,6 +77,9 @@
 		},
 		"text_sprite_width": {
 			"addr": ["Rx34cd8", "Rx34d55", "Rx34dc7", "Rx34eb8", "Rx34f32", "Rx34fad"]
+		},
+		"sprite3d_rotated_voodookill": {
+			"addr": "Rx331ba"
 		}
 	},
 	"breakpoints": {
