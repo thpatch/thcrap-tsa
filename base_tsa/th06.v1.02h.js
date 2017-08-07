@@ -80,6 +80,9 @@
 		},
 		"sprite3d_rotated_voodookill": {
 			"addr": "Rx331ba"
+		},
+		"sprite3d_unrotated_voodookill": {
+			"addr": "Rx33709"
 		}
 	},
 	"breakpoints": {
