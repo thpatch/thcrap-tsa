@@ -41,7 +41,8 @@
 		"replace_file#prepare": {
 			"cavesize": 5,
 			"buffer": "ecx",
-			"size": "edx"
+			"size": "edx",
+			"pNumberOfBytesRead": "esi"
 		},
 		"replace_file": {
 			"cavesize": 6,
