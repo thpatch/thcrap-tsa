@@ -18,14 +18,14 @@
 			"code": "e8[strings_vsprintf_msvcrt14]8985f4feffff"
 		},
 		"music_title_prepare": {
-			"code": "8b4c241c 51 31c0 50 50 50"
+			"code": "8b54241c 52 31c0 50 50 50"
 		},
 		"th15_textbox_size": {
-			"code": "51 e8[GetTextExtent] 83e81c 7302 31c0 f30f1097a4010000 f30f108fa0010000 8b8f84010000 c1e902 909090909090909090",
+			"code": "51 e8[GetTextExtent] 83e81c 7302 31c0 f30f1097b4010000 f30f108fb0010000 8b8f90010000 c1e902 909090909090909090",
 			"title": "Correct text length calculation for the TH15 variety of Fairy Wars-style text boxes"
 		},
-		"ruby_prepare": {
-			"code": "Prepare Ruby offset calculation"
+		"spell_align": {
+			"code": "ff7518 56 e8[GetTextExtentForFontID] 83c008 d1e0 89c6 8b442410 8b4c240c 8b542414 8b4c8808 8bc1 c1f808 8b9482f0f48401 0fb6c1 8d0c40 8b8224010000 8b0cc8 8b451c 8d1400 89f0 8b742410 909090"
 		}
 	},
 	"breakpoints": {
@@ -50,7 +50,7 @@
 			"cavesize": "7"
 		},
 		"music_title": {
-			"str": "ecx",
+			"str": "edx",
 			"track": "eax",
 			"format_id": "Music Room Numbered Title",
 			"cavesize": "5"

@@ -30,16 +30,17 @@
 			"addr": [
 				"Rx28860",
 				"Rx28af2"
-			]
+			],
+			"code": "51 e8[GetTextExtent] 83e81c 7302 31c0 f30f1097a4010000 f30f108fa0010000 8b8f84010000 c1e902 909090909090909090"
 		},
 		"spell_align": {
-			"addr": "Rx673f0",
-			"code": "ff7518 56 e8[GetTextExtentForFontID] 83c008 d1e0 89c6 8b442410 8b4c240c 8b542414 8b4c8808 8bc1 c1f808 8b9482f0f48401 0fb6c1 8d0c40 8b8224010000 8b0cc8 8b451c 8d1400 89f0 8b742410 909090"
+			"addr": "Rx673f0"
 		},
 		"result_spell_align": {
 			"addr": "Rx675c1"
 		},
 		"ruby_prepare": {
+			"title": "Prepare Ruby offset calculation",
 			"addr": [
 				"Rx287cd",
 				"Rx289e2"
