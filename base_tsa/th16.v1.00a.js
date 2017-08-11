@@ -90,6 +90,10 @@
 		},
 		"spell_name#result": {
 			"addr": "Rx52ed5"
+		},
+
+		"spell_name#practice": {
+			"addr": "Rx56622"
 		}
 	},
 	"tsa_font_block": {

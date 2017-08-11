@@ -86,6 +86,12 @@
 			"spell_name": "eax",
 			"cavesize": "7"
 		},
+		"spell_name#practice": {
+			"spell_id_real": "edi",
+			"spell_rank": "ebx",
+			"spell_name": "eax",
+			"cavesize": 9
+		},
 		"ruby_offset": {
 			"str": "esi",
 			"offset": "eax",
