@@ -81,13 +81,15 @@
 			]
 		},
 		"spell_id": {
-			"addr": "Rx1f9da"
+			"addr": "Rx1f9da",
+			"cavesize": 8
 		},
 		"spell_id#real": {
 			"addr": "Rx1768a"
 		},
 		"spell_name": {
-			"addr": "Rx17816"
+			"addr": "Rx17816",
+			"spell_name": "edi"
 		},
 		"spell_id#result": {
 			"addr": "Rx4ef3d"

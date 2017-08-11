@@ -67,14 +67,14 @@
 		},
 		"spell_id": {
 			"spell_id": "eax",
-			"cavesize": "8"
+			"cavesize": 6
 		},
 		"spell_id#real": {
 			"spell_id_real": "ebx",
 			"cavesize": "9"
 		},
 		"spell_name": {
-			"spell_name": "edi",
+			"spell_name": "esi",
 			"cavesize": "5"
 		},
 		"spell_id#result": {

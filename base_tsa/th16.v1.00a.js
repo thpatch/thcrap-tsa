@@ -75,6 +75,21 @@
 				"Rx2a736"
 			],
 			"cavesize": 7
+		},
+		"spell_id": {
+			"addr": "Rx217c9"
+		},
+		"spell_id#real": {
+			"addr": "Rx17f4a"
+		},
+		"spell_name": {
+			"addr": "Rx180d6"
+		},
+		"spell_id#result": {
+			"addr": "Rx52d8d"
+		},
+		"spell_name#result": {
+			"addr": "Rx52ed5"
 		}
 	},
 	"tsa_font_block": {
