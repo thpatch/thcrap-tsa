@@ -524,6 +524,16 @@
 			"th16_custom",
 			"v0.01a",
 			"(original)"
+		],
+		"c11776019f083978e66027e7394dafb1fb9543afca986f28049a49417e341929": [
+			"th16",
+			"v1.00a",
+			"(original)"
+		],
+		"000a65acf850e6bcc383dba3a4e735c07fc0a44994adcffa00318e79b9b320f4": [
+			"th16_custom",
+			"v1.00a",
+			"(original)"
 		]
 	},
 	"sizes": {
@@ -779,7 +789,12 @@
 		],
 		"124928": [
 			"th16_custom",
-			"v0.01a",
+			"v1.00a",
+			"(original)"
+		],
+		"683520": [
+			"th16",
+			"v1.00a",
 			"(original)"
 		]
 	}
