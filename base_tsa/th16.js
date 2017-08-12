@@ -2,7 +2,8 @@
 	"title": "東方天空璋　～ Hidden Star in Four Seasons",
 	"formats": {
 		"anm": "anm11",
-		"msg": "msg11"
+		"msg": "msg11",
+		"end": "end10"
 	},
 	"binhacks": {
 		"sprintf_msvcrt14_esp+34": {
