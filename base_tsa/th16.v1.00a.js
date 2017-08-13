@@ -25,7 +25,7 @@
 		},
 		"music_title_prepare": {
 			"addr": "Rx54aef",
-			"code": "8b54241c 52 31c0 50 50 50 a1 480f4c00"
+			"code": "8b542418 52 31c0 50 50 50 a1 480f4c00"
 		},
 		"th15_textbox_size": {
 			"addr": [
@@ -91,7 +91,6 @@
 		"spell_name#result": {
 			"addr": "Rx52ed5"
 		},
-
 		"spell_name#practice": {
 			"addr": "Rx56622"
 		}
