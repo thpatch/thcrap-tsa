@@ -93,6 +93,6 @@
 		}
 	},
 	"tsa_font_block": {
-		"addr": "Rx11e458"
+		"addr": "Rx11e45c"
 	}
 }
