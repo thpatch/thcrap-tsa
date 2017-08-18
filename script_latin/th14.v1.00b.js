@@ -1,10 +1,7 @@
 {
 	"binhacks": {
 		"font_dialog_params": {
-			"addr": [
-				"Rx67a47",
-				"Rx67a9f"
-			]
+			"addr": "Rx67a47"
 		},
 		"font_dialog_set": {
 			"addr": [

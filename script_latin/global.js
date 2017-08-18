@@ -11,12 +11,10 @@
 		"font_dialog_set": {
 			"code": "6a019090",
 			"title": "Use alternate dialog font"
-		},
-		"font_ruby_size": {
-			"code": "6a16",
-			"expected": "6a0f",
-			"title": "Set size of the Ruby font to 22"
 		}
 	},
-	"font": "Touhou Biolinum"
+	"font": "Touhou Biolinum",
+	"fontrules": {
+		"* 15 * 700": "* 21 * 100 NONANTIALIASED_QUALITY"
+	}
 }
