@@ -85,6 +85,13 @@
 		"sprite3d_unrotated_voodookill": {
 			"code": "8b5508 8b8ac0000000 8dbd40ffffff 7414 d9412c d84a18 d9e8 d9e8 dec1 def9 d86f34 d95f34 8b8298000000 894738 d907 d84a1c 6800008043 d94118 d90424 def9 dec9 58 d91f 9090",
 			"title": "Correctly scale unrotated sprites in 3D space from textures wider than 256 pixels"
+		},
+		"ending_copy_rem": {
+			"code": "894dd0 803900 7406 41 ff45cc ebf5 89886c110000 909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
+			"title": "Remove the 32-byte split in ending messages, #1 (remember line start and skip to the end of the string)"
+		},
+		"ending_copy_rep": {
+			"title": "Remove the 32-byte split in ending messages, #2 (LEA → MOV)"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",

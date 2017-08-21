@@ -83,6 +83,12 @@
 		},
 		"sprite3d_unrotated_voodookill": {
 			"addr": "Rx33709"
+		},
+		"ending_copy_rem": {
+			"addr": "Rx103fe"
+		},
+		"ending_copy_rep": {
+			"addr": "Rx104d5"
 		}
 	},
 	"breakpoints": {
