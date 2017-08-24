@@ -32,6 +32,7 @@
 	"title": "東方深秘録 ～ Urban Legend in Limbo",
 	"url_trial": "http://tasofro.net/arc/th145_trial.zip",
 	"latest": "v1.41",
+	"crypt": "th145",
 	"breakpoints": {
 		"file_header": {
 			"struct": "eax",
@@ -46,7 +47,10 @@
 		},
 		"replace_file": {
 			"cavesize": 6,
-			"file_struct": "esi"
+			"file_struct": "esi",
+			"hFile_offset": 4,
+			"buffer_offset": 8,
+			"hash_offset": 65564
 		},
 		"detour_plugin": {
 			"cavesize": 5,

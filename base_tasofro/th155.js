@@ -16,6 +16,7 @@
 	"title": "東方憑依華 ~ Antinomy of Common Flowers",
 	"url_trial": "http://tasofro.net/arc/th155_trial.zip",
 	"latest": "v0.01a",
+	"crypt": "th145",
 	"breakpoints": {
 		"file_header": {
 			"struct": "ebp",
@@ -30,13 +31,19 @@
 		},
 		"replace_file#variable_size": {
 			"cavesize": 6,
-			"file_struct": "esi"
+			"file_struct": "esi",
+			"hFile_offset": 4,
+			"buffer_offset": 8,
+			"hash_offset": 65564
 		},
 		"replace_file#fixed_size": {
 			"cavesize": 6,
 			"file_struct": "esi",
 			"buffer": 0,
-			"size": 65536
+			"size": 65536,
+			"hFile_offset": 4,
+			"buffer_offset": 8,
+			"hash_offset": 65564
 		}
 	}
 }
