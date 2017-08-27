@@ -47,5 +47,19 @@
 	"th143/bullet/bullet4.png": 124201005,
 	"th143/bullet/bullet5.png": 2240522360,
 	"th143/bullet/laser1.png": 2802666538,
-	"th143/bullet/laser2.png": 3266990667
+	"th143/bullet/laser2.png": 3266990667,
+	"th15/bullet/bullet1.png": 2817462530,
+	"th15/bullet/bullet2.png": 1594898893,
+	"th15/bullet/bullet3.png": 2172806343,
+	"th15/bullet/bullet4.png": 2631152939,
+	"th15/bullet/bullet5.png": 183708951,
+	"th15/bullet/laser1.png": 4011436134,
+	"th15/bullet/laser2.png": 3279176967,
+	"th16/bullet/bullet1.png": 2817462530,
+	"th16/bullet/bullet2.png": 1594898893,
+	"th16/bullet/bullet3.png": 2172806343,
+	"th16/bullet/bullet4.png": 2631152939,
+	"th16/bullet/bullet5.png": 183708951,
+	"th16/bullet/laser1.png": 4011436134,
+	"th16/bullet/laser2.png": 3279176967
 }
