@@ -50,7 +50,7 @@
 	"th135/data/system/talk/b11x2.png": 2367670809,
 	"th135/data/system/talk/b15x3.png": 2259606415,
 	"th135/data/system/talk/balloon.act.jdiff": 3842758274,
-	"th135/data/system/talk/balloon.csv": 3720450864,
+	"th135/data/system/talk/balloon.csv": 2398086647,
 	"th135/data/system/talk/c05x2.png": 4127250524,
 	"th135/data/system/talk/c11x2.png": 1409507753,
 	"th135/data/system/talk/c15x3.png": 1825940176,
