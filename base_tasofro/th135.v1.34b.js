@@ -1,4 +1,9 @@
 {
+	"binhacks": {
+		"reverse_character_bytes": {
+			"addr": "Rx32dba4"
+		}
+	},
 	"breakpoints": {
 		"file_header": {
 			"addr": "Rx1ca202"
