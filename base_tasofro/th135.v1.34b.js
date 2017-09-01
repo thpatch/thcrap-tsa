@@ -2,6 +2,9 @@
 	"binhacks": {
 		"reverse_character_bytes": {
 			"addr": "Rx32dba4"
+		},
+		"replace_GetFullPathName": {
+			"addr": "Rx2b4492"
 		}
 	},
 	"breakpoints": {

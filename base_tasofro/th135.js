@@ -3,6 +3,10 @@
 		"reverse_character_bytes": {
 			"code": "721b8b0e0fc9536a045b29c3c1e9084b75fa87c85b909090909090",
 			"title": "Correctly reverses the bytes of the character in [esi], without assuming a 2-bytes character."
+		},
+		"replace_GetFullPathName": {
+			"code": "89d98a108811404184d275f690909090909090",
+			"title": "Replace a GetFullPathName call with a strcpy"
 		}
 	},
 	"title": "東方心綺楼　～ Hopeless Masquerade",
