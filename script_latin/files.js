@@ -42,7 +42,7 @@
 	"th13.v1.00c.js": 3336463548,
 	"th13/ascii/ascii.png": 1520512050,
 	"th13/front/ename_full.png": 2286706255,
-	"th135/data/ed/balloon_ed01.png": 741636941,
+	"th135/data/ed/balloon_ed01.png": 4061655147,
 	"th135/data/system/talk/a05x2.png": 3769206145,
 	"th135/data/system/talk/a11x2.png": 2300121,
 	"th135/data/system/talk/a15x3.png": 945031425,
