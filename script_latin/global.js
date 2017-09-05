@@ -16,5 +16,6 @@
 	"font": "Touhou Biolinum",
 	"fontrules": {
 		"* 15 * 700": "* 21 * 100 NONANTIALIASED_QUALITY"
-	}
+	},
+	"thcrap_version_min": "0x20170905"
 }
