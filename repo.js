@@ -17,7 +17,7 @@
 	},
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/nmlgc/",
-		"https://raw.githubusercontent.com/nmlgc/thcrap-nmlgc/master/"
+		"http://mirrors.thpatch.net/nmlgc/"
 	],
 	"title": "Nmlgc's patch repository"
 }
