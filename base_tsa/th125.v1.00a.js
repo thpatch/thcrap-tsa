@@ -62,8 +62,11 @@
 		"spell_id#menu": {
 			"addr": "0x443683"
 		},
-		"spell_id#ingame": {
+		"spell_id#ingame_from_menu": {
 			"addr": "0x40e31c"
+		},
+		"spell_id#ingame_from_next": {
+			"addr": "Rx2b383"
 		},
 		"spell_id#replay": {
 			"addr": "0x446a0f"

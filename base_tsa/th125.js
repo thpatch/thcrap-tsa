@@ -54,9 +54,13 @@
 			"spell_id": "ecx",
 			"cavesize": "5"
 		},
-		"spell_id#ingame": {
+		"spell_id#ingame_from_menu": {
 			"spell_id": "esi",
 			"cavesize": "6"
+		},
+		"spell_id#ingame_from_next": {
+			"spell_id": "eax",
+			"cavesize": 6
 		},
 		"spell_id#replay": {
 			"spell_id": "edx",
