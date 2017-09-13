@@ -1,6 +1,6 @@
 {
 	"id": "base_tsa",
-	"thcrap_version_min": "0x20170913",
+	"thcrap_version_min": "0x20170914",
 	"min_build": "0x20140528",
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/nmlgc/base_tsa/",
