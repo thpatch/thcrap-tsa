@@ -6,7 +6,8 @@
         "6c0b4e2fda1d1991a60a733d47abbdf541a8fc8cdf0c0737fc7e1dd89d846307": ["th145", "v1.41",  "(original)"],
 
         "d940b32a5165e4b0a0b3743746530d0a72cb19c3b127f244e802732a05063f4d": ["th155", "v0.01a", "(original)"],
-        "ba8a68c68ab160c016f0683d993eff0e1b18eb145f84358c90fdd59fc2d48435": ["th155", "v0.01a", "(no verify trust)"]
+        "ba8a68c68ab160c016f0683d993eff0e1b18eb145f84358c90fdd59fc2d48435": ["th155", "v0.01a", "(no verify trust)"],
+        "c50f0e280aacf2e77445646f26aed0940ddbd603146a9b52c4fba62b466d7ec9": ["th155", "v0.021", "(original)"]
     },
     "sizes": {
         "5454336": ["th135", "v1.34b", "(original)"],
@@ -14,6 +15,7 @@
         "4831744": ["th145", "v1.31b", "(original)"],
         "4876288": ["th145", "v1.41",  "(original)"],
 
-        "5123760": ["th155", "v0.01a", "(original)"]
+        "5123760": ["th155", "v0.01a", "(original)"],
+        "5238960": ["th155", "v0.021", "(original)"]
     }
 }
