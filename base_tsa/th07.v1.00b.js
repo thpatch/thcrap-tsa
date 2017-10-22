@@ -51,10 +51,10 @@
 	},
 	"breakpoints": {
 		"file_name": {
-			"addr": "Rx313e4"
+			"addr": "Rx313a0"
 		},
 		"file_size": {
-			"addr": "0x4313f4"
+			"addr": "Rx313ab"
 		},
 		"file_load": {
 			"addr": "0x431420"

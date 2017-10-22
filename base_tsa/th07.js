@@ -35,10 +35,10 @@
 	"breakpoints": {
 		"file_name": {
 			"file_name": "eax",
-			"cavesize": 5
+			"cavesize": 6
 		},
 		"file_size": {
-			"file_size": "ecx",
+			"file_size": "eax",
 			"cavesize": "6"
 		},
 		"file_load": {
