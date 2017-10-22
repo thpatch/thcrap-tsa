@@ -1,61 +1,26 @@
 {
 	"binhacks": {
-		"force_jump": {
+		"ret": {
 			"addr": [
-				"Rx11EE42",
-				"Rx11EE94",
-				"Rx11F740",
-				"Rx11F7C1",
-				"Rx11F7E1",
-				"Rx11FB11",
-				"Rx11FC1B",
-				"Rx11FC44",
-				"Rx1206A6",
-				"Rx12070D",
-				"Rx120759",
-				"Rx1207BB"
+				"Rx11e270",
+				"Rx120650"
 			]
-		},
-		"nop_long_je": {
-			"addr": "Rx11F073"
-		},
-		"nop_jump": {
-			"addr": [
-				"Rx11F737",
-				"Rx11FC3B",
-				"Rx120693",
-				"Rx120788"
-			]
-		},
-		"nop_long_jump": {
-			"addr": [
-				"Rx11F775",
-				"Rx0103A7",
-				"Rx022139"
-			]
-		},
-		"nop_CreateProcess": {
-			"addr": "Rx11FBC7"
-		},
-		"nop_AddAccessDeniedAce": {
-			"addr": "Rx11DA3D"
 		}
 	},
 	"breakpoints": {
-		"file_header": {
+		"th135_file_header": {
 			"addr": "Rx02A348",
-			"struct": "ebp",
-			"struct_offset": -72
+			"file_hash": "[ebp-72]",
+			"file_size": "[ebp-72+12]"
 		},
-		"replace_file#prepare": {
-			"addr": "Rx032B77",
-			"cavesize": 6
-		},
-		"replace_file": {
+		"th135_read_file#prepare": {
 			"addr": [
-				"Rx032401",
-				"Rx03239C"
+				"Rx0323f9",
+				"Rx032394"
 			]
+		},
+		"th135_read_file": {
+			"addr": "Rx032B7D"
 		},
 		"detour_plugin": {
 			"addr": "Rx1166BF"

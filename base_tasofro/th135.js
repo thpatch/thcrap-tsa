@@ -14,30 +14,19 @@
 	"latest": "v1.34b",
 	"crypt": "th135",
 	"breakpoints": {
-		"file_header": {
-			"struct": "eax",
-			"key_offset": 16,
+		"th135_file_header": {
+			"file_hash": "[eax]",
+			"file_size": "[eax+12]",
+			"file_key": "eax+16",
 			"cavesize": 5
 		},
-		"replace_file#prepare": {
-			"cavesize": 6,
-			"buffer": "edx",
-			"size": "ecx",
-			"pNumberOfBytesRead": "eax"
-		},
-		"replace_file#variable_size": {
+		"th135_read_file#prepare": {
 			"cavesize": 5,
-			"file_struct": "esi",
-			"buffer_offset": 4,
-			"hFile_offset": 65548,
-			"hash_offset": 65564
+			"hash": "[esi+65564]"
 		},
-		"replace_file#fixed_size": {
-			"cavesize": 9,
-			"file_struct": "esi",
-			"buffer_offset": 4,
-			"hFile_offset": 65548,
-			"hash_offset": 65564
+		"th135_read_file": {
+			"cavesize": 6,
+			"apply": true
 		}
 	}
 }

@@ -8,17 +8,17 @@
 		}
 	},
 	"breakpoints": {
-		"file_header": {
+		"th135_file_header": {
 			"addr": "Rx1ca202"
 		},
-		"replace_file#prepare": {
-			"addr": "Rx1c8ccc"
+		"th135_read_file#prepare": {
+			"addr": [
+				"Rx1c842f",
+				"Rx1c8487"
+			]
 		},
-		"replace_file#variable_size": {
-			"addr": "Rx1c8436"
-		},
-		"replace_file#fixed_size": {
-			"addr": "Rx1c848e"
+		"th135_read_file": {
+			"addr": "Rx1c8cd5"
 		}
 	}
 }
