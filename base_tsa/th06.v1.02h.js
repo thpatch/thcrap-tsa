@@ -6,6 +6,9 @@
 		"sprintf_rep": {
 			"addr": "Rx34d8e"
 		},
+		"file_remove_size_assignment": {
+			"addr": "Rx1e399"
+		},
 		"buffer_overflow_rem": {
 			"addr": [
 				"0x434b85",
@@ -100,7 +103,8 @@
 			"addr": "0x43cb91"
 		},
 		"th06_file_load": {
-			"addr": "0x43cbac"
+			"addr": "0x43cbac",
+			"file_size": "[0x69d914]"
 		},
 		"th06_file_loaded": {
 			"addr": "0x43ce19"

@@ -1,5 +1,9 @@
 {
 	"binhacks": {
+		"file_remove_size_assignment": {
+			"code": "83c404 90909090909090",
+			"title": "Remove the assignment of the file size global, which we did in th06_file_load before"
+		},
 		"buffer_overflow_rem": {
 			"code": "eb1990",
 			"title": "Fix buffer overflows (remove copy)"
