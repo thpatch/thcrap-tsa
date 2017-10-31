@@ -13,6 +13,9 @@
 			"file_hash": "[ebp-72]",
 			"file_size": "[ebp-72+12]"
 		},
+		"th135_file_name": {
+			"addr": "Rx32E5E"
+		},
 		"th135_read_file#prepare": {
 			"addr": [
 				"Rx0323f9",

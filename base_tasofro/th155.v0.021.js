@@ -11,6 +11,9 @@
 		"th135_file_header": {
 			"addr": "Rx025d88"
 		},
+		"th135_file_name": {
+			"addr": "Rx032c0e"
+		},
 		"th135_read_file#prepare": {
 			"addr": [
 				"Rx02de2c",

@@ -14,6 +14,11 @@
 		"th135_file_header": {
 			"addr": "Rx0dea2c"
 		},
+		"th135_file_name": {
+			"file_name": "ebp-108",
+			"addr": "Rx0ecb03",
+			"cavesize": 5
+		},
 		"th135_read_file#prepare": {
 			"addr": [
 				"Rx0dbe6f",

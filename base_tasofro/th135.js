@@ -20,6 +20,10 @@
 			"file_key": "eax+16",
 			"cavesize": 5
 		},
+		"th135_file_name": {
+			"file_name": "ecx",
+			"cavesize": 5
+		},
 		"th135_read_file#prepare": {
 			"cavesize": 5,
 			"hash": "[esi+65564]"

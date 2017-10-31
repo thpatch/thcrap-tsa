@@ -16,6 +16,10 @@
 			"file_key": "edi",
 			"cavesize": 5
 		},
+		"th135_file_name": {
+			"file_name": "esi",
+			"cavesize": 6
+		},
 		"th135_read_file#prepare": {
 			"cavesize": 5,
 			"hash": "[esi+65564]"
