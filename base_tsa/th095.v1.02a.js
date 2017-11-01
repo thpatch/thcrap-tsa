@@ -53,7 +53,7 @@
 	},
 	"breakpoints": {
 		"file_size": {
-			"addr": "0x41aa23"
+			"addr": "0x41a9fe"
 		},
 		"file_load": {
 			"addr": "0x41aa5e"

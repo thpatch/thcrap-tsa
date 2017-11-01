@@ -59,9 +59,9 @@
 	},
 	"breakpoints": {
 		"file_size": {
-			"file_size": "ecx",
-			"file_name": "edx",
-			"cavesize": "6"
+			"file_size": "eax",
+			"file_name": "[ebp-8]",
+			"cavesize": 7
 		},
 		"file_load": {
 			"file_buffer": "edx",
