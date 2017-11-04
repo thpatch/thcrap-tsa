@@ -1,5 +1,15 @@
 {
 	"binhacks": {
+		"fix_satono_1": {
+			"title": "Fix Spell Practice bugs for Stage 5, #1: Jump to code cave",
+			"addr": "Rx21596",
+			"code": "e9 65990600"
+		},
+		"fix_satono_2": {
+			"title": "Fix Spell Practice bugs for Stage 5, #2: Call BossDeadB() if the second character is killed",
+			"addr": "Rx8af00",
+			"code": "83bf7040000000 7507 6870214900 eb05 681aaf4800 e98166f9ff 426f7373446561644200"
+		},
 		"sprintf_msvcrt14_esp+34": {
 			"addr": [
 				"Rx6d9c9",
