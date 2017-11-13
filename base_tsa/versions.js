@@ -31,7 +31,9 @@
 
 		"360f542349a08707de5c788ef5a950d5d3ad0fd727a23e74b6813db40dfe77a9": ["th11", "v0.02a", "(original)"],
 		"2978b17f6184d100d249d4311348dd30c5c32ec75c014b667a525b797d3d8813": ["th11", "v1.00a", "(original)"],
+		"9ab285272251cae99984c9ba15320542ad20a642a0e98a4dd7827d64021ee4a0": ["th11", "v1.00a", "Drake's Boss Rush patch"],
 		"18555e5055909570dbf46ca2a7cb796c50174fcdffb863a83357110d7f3f770b": ["th11", "v1.00a", "English patch"],
+		"e333e600c27e3154f03001605ec3993456e20814212aa183d7ecbc4176a18539": ["th11", "v1.00a", "English patch, Drake's Boss Rush patch"],
 		"f42c5d3540489e8c99ac81d88293ef7a830ad3a402d67dcd83f575816775dbd7": ["th11", "v1.00a", "Korean patch (Gungsuh font)"],
 		"5cc754c4ddd52ee788910a479372330645969fffaade5b3a7a42c8b099e8dbbe": ["th11", "v1.00a", "Korean patch (Nanum Gothic font)"],
 
