@@ -12,18 +12,6 @@
 		"overflow_spell_ingame_rep": {
 			"addr": "0x443ef7"
 		},
-		"spell_fetch_id_menu_entry": {
-			"addr": "0x44897a"
-		},
-		"spell_fetch_id_menu_level": {
-			"addr": "0x449ee6"
-		},
-		"spell_fetch_id_menu_scene": {
-			"addr": "0x44a965"
-		},
-		"spell_fetch_id_menu_replay": {
-			"addr": "0x434474"
-		},
 		"spell_align_menu": {
 			"addr": "0x443fb0"
 		},
@@ -61,23 +49,13 @@
 		"file_loaded": {
 			"addr": "0x4552ba"
 		},
-		"spell_id#menu_entry": {
-			"addr": "0x448988"
-		},
-		"spell_id#menu_level": {
-			"addr": "0x449ef4"
-		},
-		"spell_id#menu_scene": {
-			"addr": "0x44a973"
-		},
-		"spell_id#menu_replay": {
-			"addr": "0x434488"
-		},
 		"spell_name": {
-			"addr": "0x408715"
+			"addr": "0x408715",
+			"spell_id": "[[Rxca2f0]]"
 		},
 		"spell_name#menu": {
-			"addr": "0x448556"
+			"addr": "0x448556",
+			"spell_id": "[[Rxca2f0]]"
 		},
 		"music_title#track": {
 			"addr": "0x45148f"
