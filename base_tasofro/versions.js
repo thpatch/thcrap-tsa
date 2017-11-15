@@ -1,5 +1,7 @@
 {
     "hashes": {
+        "56350024879199861579c11b0e1c67b9590e10a8d40cd5996b109deec9afca7e": ["th105",    "v1.06a", "(original)"],
+
         "111948df4129e27b18b96cedeafbec7e536eef1aa2fe23547b86793f93456ac0": ["th135",    "v1.34b", "(original)"],
 
         "407a0475387ab07f40de3a33c9e50a027dcd7858be0782b347a694c6b858c2d9": ["th145",    "v1.00",  "(original)"],
@@ -19,6 +21,8 @@
         "4a4749cf36c7b98f7ad9a4e73a88d13b319ffdf2b61e16230a36398eb2908380": ["megamari", "v1.00",  "(original)"]
     },
     "sizes": {
+        "3129344": ["th105",    "v1.06a", "(original)"],
+
         "5454336": ["th135",    "v1.34b", "(original)"],
 
         "5983744": ["th145",    "v1.00",  "(original)"],
