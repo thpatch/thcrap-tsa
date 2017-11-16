@@ -1,5 +1,10 @@
 {
     "hashes": {
+        "a9ac2868f69186713bf8ae5d2be3bf6f9174c11da4b46a134e49197925542b0a": ["th105",    "v1.01",  "(original)"],
+        "db9e0df93ac17b9f9bb65bd08a69b6cea58427e87c532d8fb391c91b145e1d11": ["th105",    "v1.02",  "(original)"],
+        "8d623dcd734f2cfd8d3454bc2557137a3d2b07c39641fe3239e1bc32dde3cccb": ["th105",    "v1.03",  "(original)"],
+        "4aefbb1eb2f6b4e35637cde61dba8b4dce40539d1ef2e5a3ebaf41eee9a3aa93": ["th105",    "v1.04",  "(original)"],
+        "59130345ba54effb9b7b32c16674f3fe4fae4e49a1fe9bf21e2780cfdd95f03a": ["th105",    "v1.06",  "(original)"],
         "56350024879199861579c11b0e1c67b9590e10a8d40cd5996b109deec9afca7e": ["th105",    "v1.06a", "(original)"],
 
         "111948df4129e27b18b96cedeafbec7e536eef1aa2fe23547b86793f93456ac0": ["th135",    "v1.34b", "(original)"],
@@ -21,6 +26,9 @@
         "4a4749cf36c7b98f7ad9a4e73a88d13b319ffdf2b61e16230a36398eb2908380": ["megamari", "v1.00",  "(original)"]
     },
     "sizes": {
+        "2977792": ["th105",    "v1.02",  "(original)"],
+        "3084288": ["th105",    "v1.03",  "(original)"],
+        "3039232": ["th105",    "v1.06",  "(original)"],
         "3129344": ["th105",    "v1.06a", "(original)"],
 
         "5454336": ["th135",    "v1.34b", "(original)"],
