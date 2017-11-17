@@ -78,6 +78,7 @@
 
 		"6dd1c7ac48be083a8c3b90434245186a3a6e6293a46359ebc96a43fcf98e1486": ["th16", "v0.01a", "(original)"],
 		"c11776019f083978e66027e7394dafb1fb9543afca986f28049a49417e341929": ["th16", "v1.00a", "(original)"],
+		"28706073602c95bccafd86ee535b54e8ab9312cf6d211343c7ceab5bad7968da": ["th16", "v1.00a", "(original, unpacked Steam release)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
