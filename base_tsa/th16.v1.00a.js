@@ -105,7 +105,35 @@
 			"addr": "Rx56622"
 		}
 	},
-	"tsa_font_block": {
-		"addr": "Rxdf90c"
-	}
+	"init_stages": [
+		{
+			"binhacks": {
+				"steamstub_crack": {
+					"title": "Crack SteamStub by disabling its integrity check",
+					"addr": "Rxe3b73",
+					"code": "eb",
+					"expected": "74"
+				}
+			},
+			"breakpoints": {
+				"init_next_stage#1": {
+					"addr": "Rxe40b7",
+					"cavesize": 6
+				},
+				"init_next_stage#game": {
+					"addr": "Rxe3333",
+					"cavesize": 5
+				}
+			}
+		},
+		{
+			"binhacks": {
+				"steamdrm_crack": {
+					"title": "Crack SteamDRM: Remove all communication with the Steam client",
+					"addr": "0x100066d0",
+					"code": "90909090909090909090 b030 884513 e9"
+				}
+			}
+		}
+	]
 }
