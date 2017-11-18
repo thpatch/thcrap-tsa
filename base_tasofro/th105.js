@@ -9,13 +9,19 @@
 			"file_size": "edx",
 			"cavesize": 5
 		},
-		"nsml_read_file#prepare": {
+		"th105_file_new": {
 			"file_name": "ecx",
+			"file_object": "esi",
 			"cavesize": 7
 		},
 		"nsml_read_file": {
+			"file_object": "esi",
 			"apply": true,
 			"cavesize": 6
+		},
+		"th105_file_delete": {
+			"file_object": "esi",
+			"cavesize": 5
 		}
 	}
 }
