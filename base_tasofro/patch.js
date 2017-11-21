@@ -4,6 +4,6 @@
 		"http://thcrap.nmlgc.net/repos/nmlgc/base_tasofro/",
 		"http://mirrors.thpatch.net/nmlgc/base_tasofro/"
 	],
-	"thcrap_version_min": "0x20171120",
+	"thcrap_version_min": "0x20171122",
 	"title": "Basic support for Tasogare Frontier games"
 }
