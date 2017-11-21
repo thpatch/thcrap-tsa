@@ -118,6 +118,7 @@
 			"breakpoints": {
 				"init_next_stage#1": {
 					"addr": "Rxe40b7",
+					"module": "ebx",
 					"cavesize": 6
 				},
 				"init_next_stage#game": {
@@ -127,10 +128,11 @@
 			}
 		},
 		{
+			"The addresses here are relative to": "SteamDRMP.dll",
 			"binhacks": {
 				"steamdrm_crack": {
 					"title": "Crack SteamDRM: Remove all communication with the Steam client",
-					"addr": "0x100066d0",
+					"addr": "Rx66d0",
 					"code": "90909090909090909090 b030 884513 e9"
 				}
 			}
