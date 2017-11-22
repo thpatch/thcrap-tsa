@@ -105,6 +105,9 @@
 			"addr": "Rx56622"
 		}
 	},
+	"tsa_font_block": {
+		"addr": "Rxdf90c"
+	},
 	"init_stages": [
 		{
 			"binhacks": {
