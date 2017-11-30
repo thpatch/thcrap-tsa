@@ -1,4 +1,9 @@
 {
+	"binhacks": {
+		"mov_char_to_eax": {
+			"addr": "Rx12713"
+		}
+	},
 	"breakpoints": {
 		"nsml_file_header": {
 			"addr": "Rx1BC6C"
