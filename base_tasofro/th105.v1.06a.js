@@ -11,6 +11,9 @@
 		},
 		"th105_file_delete": {
 			"addr": "Rx1B893"
+		},
+		"th105_fix_csv_parser": {
+			"addr": "RxF28A"
 		}
 	}
 }

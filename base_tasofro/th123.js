@@ -24,6 +24,13 @@
 		"th105_file_delete": {
 			"file_object": "esi",
 			"cavesize": 5
+		},
+		"th105_fix_csv_parser": {
+			"character": "eax",
+			"special_character": "ecx",
+			"string": "ebp",
+			"is_in_quote": "byte ptr [edi+0x2D]",
+			"cavesize": 6
 		}
 	}
 }
