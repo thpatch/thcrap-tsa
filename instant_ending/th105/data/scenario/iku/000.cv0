@@ -1,0 +1,15 @@
+Stage:5,0
+
+Label:Start
+PlayBgm:data/bgm/st00.ogg
+End:
+
+Label:Lose
+End:
+
+Label:Continue
+End:
+
+Label:Win
+FadeBgm:2000,0
+End:
