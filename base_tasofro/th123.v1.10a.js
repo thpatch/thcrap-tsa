@@ -18,7 +18,7 @@
 			"addr": "RxD193"
 		},
 		"th105_fix_csv_parser": {
-			"character": "RxF4AA"
+			"addr": "RxF4AA"
 		}
 	}
 }
