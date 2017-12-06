@@ -37,6 +37,11 @@
 			"string": "ebp",
 			"is_in_quote": "byte ptr [edi+0x2D]",
 			"cavesize": 6
+		},
+		"th105_cv0_escape_comma": {
+			"string": "edx",
+			"delim": "byte ptr [[ebp+c]]",
+			"cavesize": 19
 		}
 	}
 }
