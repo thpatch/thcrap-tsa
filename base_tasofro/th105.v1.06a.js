@@ -19,6 +19,9 @@
 		},
 		"th105_fix_csv_parser": {
 			"addr": "RxF28A"
+		},
+		"th105_cv0_escape_comma": {
+			"addr": "Rx28B267"
 		}
 	}
 }
