@@ -1,7 +1,7 @@
 ﻿{
 	"binhacks": {
 		"mov_char_to_eax": {
-			"code": "8d041f 50 50 e8[tasofro_CharNextA] 59 2bc1 b104 50 2ac8 8b041f 0fc8 84c9 7407 c1e808 fec9 ebf5 59 909090909090",
+			"code": "8d041f 50 52 50 e8[tasofro_CharNextA] 5a 59 2bc1 b104 50 2ac8 8b041f 0fc8 84c9 7407 c1e808 fec9 ebf5 59 90909090",
 			"title": "Move a character to eax, without assuming a 2-bytes encoding."
 		}
 	},
