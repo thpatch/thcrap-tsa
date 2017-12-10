@@ -88,7 +88,7 @@
 			"addr": "Rx33709"
 		},
 		"ending_copy_rem": {
-			"addr": "Rx103fe"
+			"addr": "Rx103f2"
 		},
 		"ending_copy_rep": {
 			"addr": "Rx104d5"

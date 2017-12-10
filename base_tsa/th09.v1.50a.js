@@ -39,7 +39,8 @@
 			"addr": "Rx0ec7d"
 		},
 		"ending_copy_rep" : {
-			"addr": "Rx0eda4"
+			"addr": "Rx0eda4",
+			"code": "8b4db0"
 		},
 		"menu_desc_align_1": {
 			"addr": "Rx3be86"

@@ -91,11 +91,17 @@
 			"title": "Correctly scale unrotated sprites in 3D space from textures wider than 256 pixels"
 		},
 		"ending_copy_rem": {
-			"code": "894dd0 803900 7406 41 ff45cc ebf5 89886c110000 909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
+			"code": "-.-8B8548FFFFFF8B886C110000-.- 894dd0 803900 7406 41 ff45cc ebf5 89886c110000 909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
 			"title": "Remove the 32-byte split in ending messages, #1 (remember line start and skip to the end of the string)"
 		},
 		"ending_copy_rep": {
+			"code": "8b55d0 -.-5268D0D0C0008B8548FFFFFF-.-",
 			"title": "Remove the 32-byte split in ending messages, #2 (LEA → MOV)"
+		},
+		"unpatch_ending_halfskip": {
+			"addr": "Rx10521",
+			"title": "Unpatch the static English patch's rendering skip of the second-half ending text sprite",
+			"code": "-.-7402EB21C745FC01000000C745CC00000000B90900000033C08D7DD0-.-"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
