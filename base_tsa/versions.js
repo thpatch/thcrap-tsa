@@ -36,6 +36,7 @@
 		"e333e600c27e3154f03001605ec3993456e20814212aa183d7ecbc4176a18539": ["th11", "v1.00a", "English patch, Drake's Boss Rush patch"],
 		"f42c5d3540489e8c99ac81d88293ef7a830ad3a402d67dcd83f575816775dbd7": ["th11", "v1.00a", "Korean patch (Gungsuh font)"],
 		"5cc754c4ddd52ee788910a479372330645969fffaade5b3a7a42c8b099e8dbbe": ["th11", "v1.00a", "Korean patch (Nanum Gothic font)"],
+		"df6edcf5649b1df917ef91000e3047d49ba3be33301d8d6789b74b1f8b78b435": ["th11", "v1.00a", "Riri's practice patch, v1.03"],
 
 		"c6d15044394a33d6116c09eac44b33fdec814541c78518e29f60d54f49bdbd3a": ["th12", "v0.02a", "(original)"],
 		"e2939ba3f92e427216a619191a682a8197cc59a64eab99302a7b98811d6120a9": ["th12", "v1.00a", "(original)"],
@@ -167,6 +168,7 @@
 
 		"657920": ["th11", "v0.02a", "(original)"],
 		"688128": ["th11", "v1.00a", "(original)"],
+		"696320": ["th11", "v1.00a", "Riri's practice patch, v1.03"],
 
 		"724480": ["th12", "v0.02a", "(original)"],
 		"737280": ["th12", "v1.00b", "(original)"],
