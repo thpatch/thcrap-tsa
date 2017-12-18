@@ -2,6 +2,9 @@
 	"binhacks": {
 		"mov_char_to_eax": {
 			"addr": "Rx129B3"
+		},
+		"strings_lookup": {
+			"addr": "Rx12925"
 		}
 	},
 	"breakpoints": {
