@@ -13,15 +13,13 @@
 	"url_update": "http://tasofro.net/touhou105/download.html",
 	"latest": "v1.06a",
 	"breakpoints": {
-		"nsml_file_header": {
-			"file_name": "esi",
-			"fn_size":   "edi",
-			"file_size": "edx",
-			"cavesize": 5
-		},
-		"th105_file_new": {
+		"th105_open_file": {
 			"file_name": "ecx",
 			"file_object": "esi",
+			"cavesize": 7
+		},
+		"th105_open_file#file_size": {
+			"file_size": "[esi+c]",
 			"cavesize": 7
 		},
 		"nsml_read_file": {
@@ -29,7 +27,7 @@
 			"apply": true,
 			"cavesize": 6
 		},
-		"th105_file_delete": {
+		"fragmented_close_file": {
 			"file_object": "esi",
 			"cavesize": 5
 		},

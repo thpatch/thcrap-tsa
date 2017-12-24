@@ -8,16 +8,16 @@
 		}
 	},
 	"breakpoints": {
-		"nsml_file_header": {
-			"addr": "Rx1BC6C"
-		},
-		"th105_file_new": {
+		"th105_open_file": {
 			"addr": "RxCF71"
+		},
+		"th105_open_file#file_size": {
+			"addr": "RxCF98"
 		},
 		"nsml_read_file": {
 			"addr": "Rx1C143"
 		},
-		"th105_file_delete": {
+		"fragmented_close_file": {
 			"addr": "Rx1B893"
 		},
 		"th105_fix_csv_parser": {

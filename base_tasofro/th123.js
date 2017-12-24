@@ -20,10 +20,9 @@
 			"game_fallback": "th105",
 			"cavesize": 5
 		},
-		"th105_file_new": {
+		"th105_open_file": {
 			"file_name": "ecx",
 			"file_object": "esi",
-			"game_fallback": "th105",
 			"cavesize": 7
 		},
 		"nsml_read_file": {
@@ -31,7 +30,7 @@
 			"apply": true,
 			"cavesize": 6
 		},
-		"th105_file_delete": {
+		"fragmented_close_file": {
 			"file_object": "esi",
 			"cavesize": 5
 		},
