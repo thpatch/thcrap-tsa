@@ -13,16 +13,13 @@
 	"url_update": "http://tasofro.net/touhou123/download.html",
 	"latest": "v1.10a",
 	"breakpoints": {
-		"nsml_file_header": {
-			"file_name": "esi",
-			"fn_size":   "edi",
-			"file_size": "edx",
-			"game_fallback": "th105",
-			"cavesize": 5
-		},
 		"th105_open_file": {
 			"file_name": "ecx",
 			"file_object": "esi",
+			"cavesize": 7
+		},
+		"th105_open_file#file_size": {
+			"file_size": "[esi+c]",
 			"cavesize": 7
 		},
 		"nsml_read_file": {

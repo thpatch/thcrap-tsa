@@ -8,11 +8,11 @@
 		}
 	},
 	"breakpoints": {
-		"nsml_file_header": {
-			"addr": "Rx1BD4C"
-		},
 		"th105_open_file": {
 			"addr": "RxD211"
+		},
+		"th105_open_file#file_size": {
+			"addr": "RxD238"
 		},
 		"nsml_read_file": {
 			"addr": "Rx1C223"
