@@ -11,6 +11,10 @@
 		"fix_sjis_3": {
 			"code": "FF7508 E8[tasofro_CharNextA] 5D C3 90",
 			"title": "Fix shift-jis assumption (3)"
+		},
+		"fix_sjis_4": {
+			"code": "56 E8[tasofro_CharNextA] 8BF0 90909090909090909090909090909090909090909090909090909090909090",
+			"title": "Fix shift-jis assumption (4)"
 		}
 	}
 }

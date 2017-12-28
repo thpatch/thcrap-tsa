@@ -8,6 +8,9 @@
 		},
 		"fix_sjis_3": {
 			"addr": "Rx019A23"
+		},
+		"fix_sjis_4": {
+			"addr": "Rx01CED4"
 		}
 	}
 }
