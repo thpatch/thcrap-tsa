@@ -1,0 +1,2 @@
+key,val,master_active,master_func,slave_func,master_life,slave_life,master_name,slave_name
+type,i,b,s,s,i,i,s,s
