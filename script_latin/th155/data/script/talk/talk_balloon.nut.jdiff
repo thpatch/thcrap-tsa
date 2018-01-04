@@ -11,7 +11,10 @@
 	"/Functions/1/Instructions/120/2": "16",
 
 
-	"/Functions/1/Instructions/114/0": "2",
-	"/Functions/1/Instructions/114/2": "-100",
-	"/Functions/1/Instructions/114/3": "0"
+	"/Functions/1/Instructions/106": "getk(7,10,0)",
+	"/Functions/1/Instructions/107": "loadint(8,0)",
+	"/Functions/1/Instructions/108": "jcmp(7,1,8,3)",
+	"/Functions/1/Instructions/109": "loadfloat(7,-1097229926)",
+	"/Functions/1/Instructions/112/2": "0x3fc00000",
+	"/Functions/1/Instructions/114/0": "mul"
 }
