@@ -1,9 +1,16 @@
 {
 	"hashes": {
-		"2ca6b41ce2b07fb2b8a119f9683fc497dd724edcbc130b5076f8d86323b9091f": ["th07", "v0.11",  "(original)"],
-		"1251458d0564c565610b28bc94a434f5d4e8aee5d0882fa278b19277c7ac4cf7": ["th07", "v1.00",  "(original)"],
-		"35467eaf8dc7fc85f024f16fb2037255f151cefda33cf4867bc9122aaa2e80ca": ["th07", "v1.00b", "(original)"],
-		"275cfdcab6ad463be4d3d646ddc21811dc65cb1c7e88c7b18bb8a89f25316655": ["th07", "v1.00b", "English patch"],
+		"a44d2581d5a51c5ac93ec2331045e7b29e7386a2414f700097dfab7cd789a34c": ["th07", "v0.01",   "(original)"],
+		"4e0d82301a3dcad4d8cde64aeaf0fdad85bb12941fc4381b744ed8c1be1cdedc": ["th07", "v0.02",   "(original)"],
+		"6c07a9f90ff2a60fe2c1d4f04573aae440baa040c7d87a335d9aa4ff6483b4de": ["th07", "v0.03",   "(original)"],
+		"5d38b33e6bcb1c968b95cdf9bb751ca5116c36b14378690e40743bb3cd8473ae": ["th07", "v0.04a",  "(original)"],
+		"8ee7fb3fb0f38e1c1144d95cfecb13120d6ee6ebc01992e28f6891f579771f5c": ["th07", "v0.04a2", "(original)"],
+		"8bf865803ee88f2765f1def53a3a4872871d8e5478fe93c5df77cfc1663caadc": ["th07", "v0.04b",  "(original)"],
+		"7bfaf12cdf6bfd4444e2c3f63a4ad07c2a10aa88aa7113c90d48f3f479726e97": ["th07", "v0.06",   "(original)"],
+		"2ca6b41ce2b07fb2b8a119f9683fc497dd724edcbc130b5076f8d86323b9091f": ["th07", "v0.11",   "(original)"],
+		"1251458d0564c565610b28bc94a434f5d4e8aee5d0882fa278b19277c7ac4cf7": ["th07", "v1.00",   "(original)"],
+		"35467eaf8dc7fc85f024f16fb2037255f151cefda33cf4867bc9122aaa2e80ca": ["th07", "v1.00b",  "(original)"],
+		"275cfdcab6ad463be4d3d646ddc21811dc65cb1c7e88c7b18bb8a89f25316655": ["th07", "v1.00b",  "English patch"],
 
 		"a0e04caa9e51f305009aa434ce5bd787424224b972ad72470a77827d36ac8081": ["th08", "v0.03",  "(original)"],
 		"e287dbb4d19781f2da9c161ac0010df7e52e8c8a238c339838a631cfc3b02682": ["th08", "v1.00",  "(original)"],
@@ -144,6 +151,8 @@
 		"000a65acf850e6bcc383dba3a4e735c07fc0a44994adcffa00318e79b9b320f4": ["th16_custom", "v1.00a", "(original)"]
 	},
 	"sizes": {
+		"620000": ["th07", "v0.04b", "(original)"],
+		"628000": ["th07", "v0.06",  "(original)"],
 		"596992": ["th07", "v0.11",  "(original)"],
 		"607744": ["th07", "v1.00",  "(original)"],
 		"650752": ["th07", "v1.00b", "(original)"],
