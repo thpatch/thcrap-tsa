@@ -1,4 +1,4 @@
 {
 	"/Functions/1/Instructions/105" : "loadint(4,0)  // ed_message.png x position",
-	"/Functions/1/Instructions/110" : "loadint(4,545) // ed_message.png y position"
+	"/Functions/1/Instructions/110" : "loadint(4,535) // ed_message.png y position"
 }
