@@ -1,3 +1,5 @@
 {
+	"/Instructions/4": "loadint(5,130) // Ending text x position",
+	"/Instructions/7": "loadint(5,497) // Ending text y position",
 	"/Functions/3/Instructions/28/2": "0"
 }
