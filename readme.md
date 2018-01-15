@@ -10,23 +10,23 @@ Basic support for Tasogare Frontier games.
 ## base_tsa
 Basic support for Team Shanghai Alice games.
 
-# bitch
+## bitch
 Keep Alice's "bitch" line in TH08.
 
-# instant_ending
+## instant_ending
 Show the ending immediately upon entering Stage 1.
 It doesn't support TH07 and TH08 yet.
 
-# real_bullet_size
+## real_bullet_size
 Resize bullets to match their actual hitbox.
 By sibgamer, http://tinyurl.com/real-bullet-size
 
-# script_latin
+## script_latin
 Shared data for languages using Latin script.
 
-# tsa_en
+## tsa_en
 Official English translation by ZUN.
 Covers only the custom.exe programs.
 
-# western_name_order
+## western_name_order
 Put the characters names in western order (first name first).
