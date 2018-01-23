@@ -25,7 +25,8 @@
         "d940b32a5165e4b0a0b3743746530d0a72cb19c3b127f244e802732a05063f4d": ["th155",    "v0.01a", "(original)"],
         "ba8a68c68ab160c016f0683d993eff0e1b18eb145f84358c90fdd59fc2d48435": ["th155",    "v0.01a", "(no verify trust)"],
         "c50f0e280aacf2e77445646f26aed0940ddbd603146a9b52c4fba62b466d7ec9": ["th155",    "v0.024", "(original)"],
-        "0d124e005b28cdab14dc791ac1e0dd7f9eda758bdd21edcdc1e9507b282db216": ["th155",    "v1.01",  "(original)"],
+        "0d124e005b28cdab14dc791ac1e0dd7f9eda758bdd21edcdc1e9507b282db216": ["th155",    "v1.02b", "(original)"],
+        "a0b8c8b7b13d00d0cc961465d2b24827dd665599397b99e18cde602df24323b7": ["th155",    "v1.03",  "(original)"],
 
         "185b3ee84de981749bafe0fb7bf9b6f61c33617ef60a86c1648d5e4e9bc2301c": ["nsml",     "v1.00",  "(original)"],
         "2db975a408e260499d52126f25ecf2fbc529cad52d1bffc2a0b7ca2ff695f155": ["nsml",     "v1.10",  "(original)"],
@@ -54,7 +55,8 @@
 
         "5123760": ["th155",    "v0.01a", "(original)"],
         "5238960": ["th155",    "v0.024", "(original)"],
-        "5262552": ["th155",    "v1.01",  "(original)"],
+        "5262552": ["th155",    "v1.02b", "(original)"],
+        "5287640": ["th155",    "v1.03",  "(original)"],
 
         "1191424": ["nsml",     "v1.00",  "(original)"],
         "1193984": ["nsml",     "v1.10",  "(original)"],
