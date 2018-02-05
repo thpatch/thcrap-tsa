@@ -13,6 +13,9 @@ Basic support for Team Shanghai Alice games.
 ## bitch
 Keep Alice's "bitch" line in TH08.
 
+## [cheat](cheat/README.md)
+Various cheats, ported from third-party SpoilerAL .ssg files.
+
 ## instant_ending
 Show the ending immediately upon entering Stage 1.
 It doesn't support TH07 and TH08 yet.
