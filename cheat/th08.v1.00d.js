@@ -14,6 +14,11 @@
 			"addr": "0x44A906",
 			"code": "00",
 			"expected": "04"
+		},
+		"Main/Power settings/Max Power": {
+			"addr": "0x43B295",
+			"code": "2EE961",
+			"expected": "0F84ED"
 		}
 	}
 }

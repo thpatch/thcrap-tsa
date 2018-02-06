@@ -1,3 +1,7 @@
+## Notes
+- `Items don't deplete` for TH14.3 still won't let you take more than 7
+  pictures in a single run.
+
 ## Credits
 Original SpoilerAL files by:
 - niL

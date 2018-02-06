@@ -9,6 +9,11 @@
 			"addr": "0x43EB6A",
 			"code": "00",
 			"expected": "04"
+		},
+		"Main/Power settings/Max Power": {
+			"addr": "0x42F02B",
+			"code": "EB16",
+			"expected": "742D"
 		}
 	}
 }
