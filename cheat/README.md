@@ -19,7 +19,7 @@ the cheat to work as intended.
   <tbody>
     <tr>
       <td>Invincibility</td>
-      <td>nothing</td>
+      <td>Auto-deathbombing</td>
       <td>✅ enabled</td>
       <td><pre lang="json">
 "binhacks": {
@@ -29,6 +29,22 @@ the cheat to work as intended.
   "Main/Invincible#3": { "ignore": true }
 }</pre></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Auto-deathbomb</td>
+      <td>Invincibility</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Auto-bomb": { "ignore": true },
+  "Main/Auto-bomb#1": { "ignore": true },
+  "Main/Auto-bomb#2": { "ignore": true },
+  "Main/Auto-bomb#3": { "ignore": true },
+  "Main/Auto-bomb#4": { "ignore": true }
+}</pre></td>
+      <td><ul>
+        <li>TH08: Always uses the two-bomb Last Spell.</li>
+        <li>TH13 Trial: Does not work with ≥1 flames on the trance gauge, see #18.</td>
     </tr>
     <tr>
       <td>Max Power</td>

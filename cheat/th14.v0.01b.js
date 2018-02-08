@@ -9,6 +9,11 @@
 			"addr": "0x43416D",
 			"code": "7C",
 			"expected": "80"
+		},
+		"Main/Auto-bomb": {
+			"addr": "0x44BE94",
+			"code": "C6",
+			"expected": "F6"
 		}
 	}
 }

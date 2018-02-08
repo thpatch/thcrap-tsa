@@ -9,6 +9,11 @@
 			"addr": "0x416D61",
 			"code": "C70508E64800B80BB80B66BEB80B8974",
 			"expected": "0FBF0508E64800668B350AE648008944"
+		},
+		"Main/Auto-bomb": {
+			"addr": "0x425DEE",
+			"code": "C6",
+			"expected": "F6"
 		}
 	}
 }
