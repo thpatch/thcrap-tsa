@@ -19,7 +19,7 @@ the cheat to work as intended.
   <tbody>
     <tr>
       <td>Invincibility</td>
-      <td>Auto-deathbombing</td>
+      <td>Infinite lives, Auto-deathbombing</td>
       <td>✅ enabled</td>
       <td><pre lang="json">
 "binhacks": {
@@ -44,7 +44,49 @@ the cheat to work as intended.
 }</pre></td>
       <td><ul>
         <li>TH08: Always uses the two-bomb Last Spell.</li>
-        <li>TH13 Trial: Does not work with ≥1 flames on the trance gauge, see #18.</td>
+        <li>TH13 Trial: Does not work with ≥1 flames on the trance gauge, see #18.</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td>Infinite lives</td>
+      <td>Invincibility, Auto-deathbombing + Infinite bombs</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Infinite lives": { "ignore": true },
+  "Main/Infinite lives#1": { "ignore": true },
+  "Main/Infinite lives#2": { "ignore": true },
+  "Main/Infinite lives#3": { "ignore": true }
+}</pre></td>
+      <td><ul>
+        <li>TH09: Gives infinite rounds until you have to continue, <i>not</i> infinite lives within a round.</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td>TH09.5 / TH12.5 : Revive on hit</td>
+      <td>Invincibility</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Revive on hit": { "ignore": true },
+  "Main/Revive on hit#1": { "ignore": true },
+  "Main/Revive on hit#2": { "ignore": true },
+  "Main/Revive on hit#3": { "ignore": true },
+  "Main/Revive on hit#4": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Infinite bombs</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Infinite bombs": { "ignore": true },
+  "Main/Infinite bombs#1": { "ignore": true },
+  "Main/Infinite bombs#2": { "ignore": true }
+}</pre></td>
+      <td></td>
     </tr>
     <tr>
       <td>Max Power</td>

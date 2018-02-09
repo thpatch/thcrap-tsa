@@ -1,5 +1,20 @@
 {
 	"binhacks": {
+		"Main/Infinite lives": {
+			"addr": "0x44D0FA",
+			"code": "00",
+			"expected": "FF"
+		},
+		"Main/Infinite bombs#1": {
+			"addr": "0x44CA78",
+			"code": "00",
+			"expected": "FE"
+		},
+		"Main/Infinite bombs#2": {
+			"addr": "0x44CAA4",
+			"code": "00",
+			"expected": "FF"
+		},
 		"Main/Invincible#1": {
 			"addr": "0x44A339",
 			"code": "00",
