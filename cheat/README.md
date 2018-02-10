@@ -91,7 +91,10 @@ the cheat to work as intended.
     <tr>
       <td>Max Power</td>
       <td>nothing</td>
-      <td>✅ enabled</td>
+      <td>
+        <p>Uwabami Breakers: ❌ disabled (crashes when loading Stage 2)</p>
+        <p>Other games: ✅ enabled</p>
+      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Power settings/Max Power": { "ignore": true },
