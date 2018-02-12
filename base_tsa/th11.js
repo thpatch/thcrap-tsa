@@ -21,6 +21,9 @@
 		},
 		"directinput_fix_4": {
 			"title": "Correctly initialize DirectInput, #4: Don't create a second window, just check for an invalid handle"
+		},
+		"fix_alice_practice_end_crash": {
+			"title": "Fix the crash when shooting with Alice's options during the pause menu after completing a stage in Practice mode"
 		}
 	},
 	"title": "東方地霊殿　～ Subterranean Animism",
