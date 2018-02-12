@@ -19,6 +19,18 @@
 			"addr": "0x431279",
 			"code": "C6",
 			"expected": "F6"
+		},
+		"Main/Boss timer freeze#1": {
+			"addr": "0x40C0DD",
+			"code": "EB",
+			"expected": "7C",
+			"ignore": true
+		},
+		"Main/Boss timer freeze#2": {
+			"addr": "0x41278C",
+			"code": "90",
+			"expected": "42",
+			"ignore": true
 		}
 	}
 }

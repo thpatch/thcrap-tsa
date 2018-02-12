@@ -94,6 +94,12 @@
 			"addr": "0x45CE94",
 			"code": "0F1F00",
 			"expected": "FF4F18"
+		},
+		"Main/Boss timer freeze": {
+			"addr": "0x4215C8",
+			"code": "90",
+			"expected": "40",
+			"ignore": true
 		}
 	}
 }

@@ -28,6 +28,11 @@
 			"addr": "0x43A0EA",
 			"code": "00",
 			"expected": "19"
+		},
+		"Main/Boss timer freeze": {
+			"addr": "0x41DEDA",
+			"code": "EB",
+			"expected": "75"
 		}
 	}
 }

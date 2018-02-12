@@ -142,6 +142,21 @@ the cheat to work as intended.
       <td>Still won't let you take more than 7
   pictures in a single run.</td>
     </tr>
+    <tr>
+      <td>Boss timer freeze</td>
+      <td>nothing</td>
+      <td>
+        <p>TH09.5, Uwabami Breakers, TH12.5: ✅ enabled</p>
+        <p>Other games: ❌ disabled</p>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Power settings/Boss timer freeze": { "ignore": false },
+  "Main/Power settings/Boss timer freeze#1": { "ignore": false },
+  "Main/Power settings/Boss timer freeze#2": { "ignore": false }
+}</pre></td>
+      <td>Disabled by default in all games with survival spell cards, all of which do not end with this cheat enabled.</td>
+    </tr>
   </tbody>
 </table>
 

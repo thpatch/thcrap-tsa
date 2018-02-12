@@ -44,6 +44,12 @@
 			"addr": "0x428A9D",
 			"code": "66C70504D9690002",
 			"expected": "8B45088990D80900"
+		},
+		"Main/Boss timer freeze": {
+			"addr": "0x412DD1",
+			"code": "EB",
+			"expected": "75",
+			"ignore": true
 		}
 	}
 }
