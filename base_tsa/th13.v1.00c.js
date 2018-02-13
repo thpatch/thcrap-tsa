@@ -53,6 +53,17 @@
 		},
 		"unpatch_strings_result_unknown_spell": {
 			"addr": "Rx53d54"
+		},
+		"fix_practice_replay_crash#1": {
+			"title": "Fix the crash after the end-of-stage dialogue in Practice replays, #1",
+			"addr": "Rx47ce9",
+			"code": "df",
+			"expected": "cf"
+		},
+		"fix_practice_replay_crash#2": {
+			"title": "Fix the crash after the end-of-stage dialogue in Practice replays, #2",
+			"addr": "Rx52b30",
+			"code": "0fb6470a e82768ffff 31c0 48 a3d4e74b00"
 		}
 	},
 	"breakpoints": {
