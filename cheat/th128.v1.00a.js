@@ -51,6 +51,16 @@
 			"code": "90",
 			"expected": "42",
 			"ignore": true
+		},
+		"Main/Charge rate is always 100%": {
+			"addr": "0x41F429",
+			"code": "00",
+			"expected": "0A"
+		},
+		"Main/Max Motivation": {
+			"addr": "0x425FFF",
+			"code": "A08601",
+			"expected": "204E00"
 		}
 	}
 }

@@ -36,6 +36,11 @@
 			"code": "A7",
 			"expected": "3F",
 			"ignore": true
+		},
+		"Main/Auto-collect items": {
+			"addr": "0x43F949",
+			"code": "2EE9",
+			"expected": "0F85"
 		}
 	}
 }

@@ -50,6 +50,21 @@
 			"code": "EB",
 			"expected": "75",
 			"ignore": true
+		},
+		"Main/PoC even if not on Max Power": {
+			"addr": "0x41F71D",
+			"code": "00",
+			"expected": "6A"
+		},
+		"Main/Carry over/Graze": {
+			"addr": "0x41BE27",
+			"code": "48",
+			"expected": "60"
+		},
+		"Main/Carry over/Score items": {
+			"addr": "0x41BE1D",
+			"code": "88",
+			"expected": "A0"
 		}
 	}
 }

@@ -24,7 +24,7 @@
 			"code": "C3",
 			"expected": "83"
 		},
-		"Main/Loading rate is always 100%": {
+		"Main/Charge rate is always 100%": {
 			"addr": "0x43A0EA",
 			"code": "00",
 			"expected": "19"

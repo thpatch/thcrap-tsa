@@ -51,6 +51,11 @@
 			"code": "EB",
 			"expected": "75",
 			"ignore": true
+		},
+		"Main/PoC even if not on Max Power": {
+			"addr": "0x432C63",
+			"code": "EB",
+			"expected": "74"
 		}
 	}
 }

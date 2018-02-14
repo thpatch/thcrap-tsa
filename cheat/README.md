@@ -19,7 +19,7 @@ the cheat to work as intended.
   <tbody>
     <tr>
       <td>Invincibility</td>
-      <td>Infinite lives, Auto-deathbombing</td>
+      <td>Infinite lives, Auto-deathbomb</td>
       <td>✅ enabled</td>
       <td><pre lang="json">
 "binhacks": {
@@ -63,6 +63,26 @@ the cheat to work as intended.
       </ul></td>
     </tr>
     <tr>
+      <td>Uwabami Breakers: Freeze time</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Time/Freeze": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Uwabami Breakers: Don't increase time on death</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Time/Don't increase on death": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>TH09.5 / TH12.5 : Revive on hit</td>
       <td>Invincibility</td>
       <td>✅ enabled</td>
@@ -73,6 +93,16 @@ the cheat to work as intended.
   "Main/Revive on hit#2": { "ignore": true },
   "Main/Revive on hit#3": { "ignore": true },
   "Main/Revive on hit#4": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH12.8: Max Motivation</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Max Motivation": { "ignore": true }
 }</pre></td>
       <td></td>
     </tr>
@@ -104,12 +134,12 @@ the cheat to work as intended.
       <td></td>
     </tr>
     <tr>
-      <td>TH09.5 / TH12.5: Loading rate is always 100%</td>
+      <td>TH09.5, TH12.5, TH12.8: Charge rate is always 100%</td>
       <td>nothing</td>
       <td>✅ enabled</td>
       <td><pre lang="json">
 "binhacks": {
-  "Main/Loading rate is always 100%": { "ignore": true }
+  "Main/Charge rate is always 100%": { "ignore": true }
 }</pre></td>
       <td></td>
     </tr>
@@ -156,6 +186,105 @@ the cheat to work as intended.
   "Main/Power settings/Boss timer freeze#2": { "ignore": false }
 }</pre></td>
       <td>Disabled by default in all games with survival spell cards, all of which do not end with this cheat enabled.</td>
+    </tr>
+    <tr>
+      <td>TH06: Carry over Graze to the next stage</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Carry over/Graze": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH06: Carry over score items to the next stage</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Carry over/Score items": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH06, TH07, TH08: PoC even if not on Max Power</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/PoC even if not on Max Power": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH11, TH15: Auto-collect items</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Auto-collect items": { "ignore": true }
+}</pre></td>
+      <td>TH11: Permanently sets the communication gauge to max strength.</td>
+    </tr>
+    <tr>
+      <td>TH13: Auto-collect spirit items</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Auto-collect spirit items": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH13: Start with full trance gauge</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Trance/Start with full gauge": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH13: Keep trance gauge maxed</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Trance/Keep maxed": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH13: Freeze trance timer</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Trance/Freeze timer": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH13: Don't decrease trance on death</td>
+      <td>Auto-deathbomb, Freeze trance timer</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Trance/Doesn't decrease on death": { "ignore": true }
+}</pre></td>
+      <td>Obviously only has an effect with < 1 flame on the gauge, since anything more will start a trance on death and deplete the gauge.</td>
     </tr>
   </tbody>
 </table>

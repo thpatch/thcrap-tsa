@@ -31,6 +31,11 @@
 			"code": "90",
 			"expected": "42",
 			"ignore": true
+		},
+		"Main/Auto-collect items": {
+			"addr": "0x420B34",
+			"code": "00",
+			"expected": "03"
 		}
 	}
 }

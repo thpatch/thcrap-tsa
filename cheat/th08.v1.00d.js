@@ -61,6 +61,11 @@
 			"code": "EB",
 			"expected": "75",
 			"ignore": true
+		},
+		"Main/PoC even if not on Max Power": {
+			"addr": "0x440836",
+			"code": "EB",
+			"expected": "74"
 		}
 	}
 }

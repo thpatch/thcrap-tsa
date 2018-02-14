@@ -46,6 +46,31 @@
 			"code": "0F1F440000",
 			"expected": "E83C69FEFF",
 			"ignore": true
+		},
+		"Main/Auto-collect spirit items": {
+			"addr": "0x438893",
+			"code": "00",
+			"expected": "0D"
+		},
+		"Main/Trance/Start with full gauge": {
+			"addr": "0x42D407",
+			"code": "5802",
+			"expected": "C800"
+		},
+		"Main/Trance/Keep maxed": {
+			"addr": "0x405CDB",
+			"code": "C70508E84B0058020000751A",
+			"expected": "7524812D08E84B00C8000000"
+		},
+		"Main/Trance/Freeze timer": {
+			"addr": "0x43D507",
+			"code": "6690",
+			"expected": "FF0E"
+		},
+		"Main/Trance/Doesn't decrease on death": {
+			"addr": "0x4435D9",
+			"code": "660F1F4400",
+			"expected": "891D08E84B"
 		}
 	}
 }
