@@ -196,7 +196,7 @@ the cheat to work as intended.
 "binhacks": {
   "Main/Carry over/Graze": { "ignore": true }
 }</pre></td>
-      <td></td>
+      <td>Also keeps the value between runs.</td>
     </tr>
     <tr>
       <td>TH06: Carry over score items to the next stage</td>
@@ -207,7 +207,7 @@ the cheat to work as intended.
 "binhacks": {
   "Main/Carry over/Score items": { "ignore": true }
 }</pre></td>
-      <td></td>
+      <td>Also keeps the value between runs.</td>
     </tr>
     <tr>
       <td>TH06, TH07, TH08: PoC even if not on Max Power</td>
