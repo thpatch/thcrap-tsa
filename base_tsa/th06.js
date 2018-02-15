@@ -97,6 +97,10 @@
 		"ending_copy_rep": {
 			"code": "8b55d0 -.-5268D0D0C0008B8548FFFFFF-.-",
 			"title": "Remove the 32-byte split in ending messages, #2 (LEA → MOV)"
+		},
+		"remove_score_cap": {
+			"title": "Don't cap the score at 999,999,990",
+			"code": "ffffff7f"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
