@@ -92,6 +92,11 @@
 		},
 		"ending_copy_rep": {
 			"addr": "Rx104d5"
+		},
+		"unpatch_ending_halfskip": {
+			"addr": "Rx10521",
+			"title": "Unpatch the static English patch's rendering skip of the second-half ending text sprite",
+			"code": "-.-7402EB21C745FC01000000C745CC00000000B90900000033C08D7DD0-.-"
 		}
 	},
 	"breakpoints": {

@@ -97,11 +97,6 @@
 		"ending_copy_rep": {
 			"code": "8b55d0 -.-5268D0D0C0008B8548FFFFFF-.-",
 			"title": "Remove the 32-byte split in ending messages, #2 (LEA → MOV)"
-		},
-		"unpatch_ending_halfskip": {
-			"addr": "Rx10521",
-			"title": "Unpatch the static English patch's rendering skip of the second-half ending text sprite",
-			"code": "-.-7402EB21C745FC01000000C745CC00000000B90900000033C08D7DD0-.-"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
