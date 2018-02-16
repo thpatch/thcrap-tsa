@@ -31,6 +31,9 @@
 			"code": "8105F0AF4C0001",
 			"expected": "C7872809000004"
 		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter/Do not erase enemy bullets": {
+			"addr": "0x431205"
+		},
 		"Main/Power settings/Max Power": {
 			"addr": "0x41FA93",
 			"code": "00",

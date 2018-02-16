@@ -62,6 +62,19 @@ the cheat to work as intended.
       <td>Implemented for TH06, TH07, TH08, TH10, Uwabami Breakers, TH11, TH12, TH12.8, TH13 v1.00c, TH14 v1.00b, and TH14.3.</td>
     </tr>
     <tr>
+      <td>Do not erase enemy bullets on death</td>
+      <td>Invincibility</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Invincible (with hit sound) + HiScore as hit counter/Do not erase enemy bullets": { "ignore": true }
+}</pre></td>
+      <td>
+        <p><b>Requires</b> the <i>Invincibility (with hit sound) + HiScore as hit counter</i> cheat.</p>
+        <p>Implemented for TH10, Uwabami Breakers, TH11, TH12, and TH12.8.</p>
+      </td>
+    </tr>
+    <tr>
       <td>Auto-deathbomb</td>
       <td>Invincibility</td>
       <td>✅ enabled</td>
