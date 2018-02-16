@@ -18,17 +18,50 @@
 		"Main/Invincible#1": {
 			"addr": "0x44A339",
 			"code": "00",
-			"expected": "07"
+			"expected": "07",
+			"ignore": true
 		},
 		"Main/Invincible#2": {
 			"addr": "0x44A44B",
 			"code": "00",
-			"expected": "07"
+			"expected": "07",
+			"ignore": true
 		},
 		"Main/Invincible#3": {
 			"addr": "0x44A906",
 			"code": "00",
+			"expected": "04",
+			"ignore": true
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#1": {
+			"addr": "0x44CC3D",
+			"code": "0000",
+			"expected": "1603"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#2": {
+			"addr": "0x44CD16",
+			"code": "00",
 			"expected": "04"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#3": {
+			"addr": "0x44CD46",
+			"code": "2EE9FB030000",
+			"expected": "8B1510F56001"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#4": {
+			"addr": "0x436C21",
+			"code": "B890CF64",
+			"expected": "A110F560"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#5": {
+			"addr": "0x436C2A",
+			"code": "E0",
+			"expected": "EC"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#6": {
+			"addr": "0x436C57",
+			"code": "EB37",
+			"expected": "7E0C"
 		},
 		"Main/Power settings/Max Power": {
 			"addr": "0x43B295",

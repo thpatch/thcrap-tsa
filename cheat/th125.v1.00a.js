@@ -16,13 +16,22 @@
 		},
 		"Main/Revive on hit#4": {
 			"addr": "0x436DF8",
-			"code": "EB19",
-			"expected": "85C9"
+			"code": "EB19"
 		},
 		"Main/Invincible": {
 			"addr": "0x436C20",
 			"code": "C3",
-			"expected": "83"
+			"expected": "83",
+			"ignore": true
+		},
+		"Main/Invincible (with hit sound)#1": {
+			"addr": "0x436C2C",
+			"code": "01",
+			"expected": "02"
+		},
+		"Main/Invincible (with hit sound)#2": {
+			"addr": "0x436DF8",
+			"code": "EB19"
 		},
 		"Main/Charge rate is always 100%": {
 			"addr": "0x43A0EA",

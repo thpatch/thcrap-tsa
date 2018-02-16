@@ -19,8 +19,11 @@ the cheat to work as intended.
   <tbody>
     <tr>
       <td>Invincibility</td>
-      <td>Infinite lives, Auto-deathbomb</td>
-      <td>✅ enabled</td>
+      <td>Infinite lives, Auto-deathbomb, Invincibility (with hit sound), Invincibility (with hit sound) + HiScore as hit counter</td>
+      <td>
+        <p>TH16: ✅ enabled</p>
+        <p>Other games: ❌ disabled</p>
+      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Invincible": { "ignore": true },
@@ -29,6 +32,34 @@ the cheat to work as intended.
   "Main/Invincible#3": { "ignore": true }
 }</pre></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Invincibility (with hit sound)</td>
+      <td>Invincibility</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Invincible (with hit sound)": { "ignore": true },
+  "Main/Invincible (with hit sound)#1": { "ignore": true },
+  "Main/Invincible (with hit sound)#2": { "ignore": true }
+}</pre></td>
+      <td>Implemented for TH09.5, TH12.5, TH13 v0.01a, TH14 v0.01b, and TH14.3.</td>
+    </tr>
+    <tr>
+      <td>Invincibility (with hit sound) + HiScore as hit counter</td>
+      <td>Invincibility</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Invincible (with hit sound) + HiScore as hit counter": { "ignore": true },
+  "Main/Invincible (with hit sound) + HiScore as hit counter#1": { "ignore": true },
+  "Main/Invincible (with hit sound) + HiScore as hit counter#2": { "ignore": true },
+  "Main/Invincible (with hit sound) + HiScore as hit counter#3": { "ignore": true },
+  "Main/Invincible (with hit sound) + HiScore as hit counter#4": { "ignore": true },
+  "Main/Invincible (with hit sound) + HiScore as hit counter#5": { "ignore": true },
+  "Main/Invincible (with hit sound) + HiScore as hit counter#6": { "ignore": true }
+}</pre></td>
+      <td>Implemented for TH06, TH07, TH08, TH10, Uwabami Breakers, TH11, TH12, TH12.8, TH13 v1.00c, TH14 v1.00b, and TH14.3.</td>
     </tr>
     <tr>
       <td>Auto-deathbomb</td>
@@ -83,7 +114,7 @@ the cheat to work as intended.
       <td></td>
     </tr>
     <tr>
-      <td>TH09.5 / TH12.5 : Revive on hit</td>
+      <td>TH09.5 / TH12.5: Revive on hit</td>
       <td>Invincibility</td>
       <td>✅ enabled</td>
       <td><pre lang="json">

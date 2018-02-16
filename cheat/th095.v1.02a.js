@@ -18,12 +18,24 @@
 		"Main/Invincible#1": {
 			"addr": "0x4304F4",
 			"code": "00",
-			"expected": "04"
+			"expected": "04",
+			"ignore": true
 		},
 		"Main/Invincible#2": {
 			"addr": "0x430691",
 			"code": "00",
-			"expected": "04"
+			"expected": "04",
+			"ignore": true
+		},
+		"Main/Invincible (with hit sound)#1": {
+			"addr": "0x4306DE",
+			"code": "01",
+			"expected": "02"
+		},
+		"Main/Invincible (with hit sound)#2": {
+			"addr": "0x4307BB",
+			"code": "80",
+			"expected": "00"
 		},
 		"Main/Charge rate is always 100%": {
 			"addr": "0x433EE2",

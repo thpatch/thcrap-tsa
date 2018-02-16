@@ -3,7 +3,33 @@
 		"Main/Invincible": {
 			"addr": "0x426EA0",
 			"code": "C20400",
-			"expected": "83EC14"
+			"expected": "83EC14",
+			"ignore": true
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#1": {
+			"addr": "0x426EAF",
+			"code": "8105F05F490001",
+			"expected": "C7855804000004"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#2": {
+			"addr": "0x4175B8",
+			"code": "F05F49",
+			"expected": "80E548"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#3": {
+			"addr": "0x4175BE",
+			"code": "EB",
+			"expected": "7D"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#4": {
+			"addr": "0x4183FB",
+			"code": "14",
+			"expected": "18"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#5": {
+			"addr": "0x4183FE",
+			"code": "F05F49",
+			"expected": "80E548"
 		},
 		"Main/Power settings/Max Power": {
 			"addr": "0x416D61",

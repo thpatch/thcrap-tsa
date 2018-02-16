@@ -13,7 +13,13 @@
 		"Main/Invincible": {
 			"addr": "0x44D310",
 			"code": "C3",
-			"expected": "55"
+			"expected": "55",
+			"ignore": true
+		},
+		"Main/Invincible (with hit sound)": {
+			"addr": "0x44D3E7",
+			"code": "01",
+			"expected": "04"
 		},
 		"Main/Power settings/Max Power": {
 			"addr": "0x43416D",

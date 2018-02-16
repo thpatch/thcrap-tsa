@@ -3,7 +3,23 @@
 		"Main/Invincible": {
 			"addr": "0x44F140",
 			"code": "C3",
-			"expected": "55"
+			"expected": "55",
+			"ignore": true
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#1": {
+			"addr": "0x42EB38",
+			"code": "35F02F54",
+			"expected": "B3440100"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#2": {
+			"addr": "0x434211",
+			"code": "C705F02F540000000000C3",
+			"expected": "C3CCCCCCCCCCCCCCCCCCCC"
+		},
+		"Main/Invincible (with hit sound) + HiScore as hit counter#3": {
+			"addr": "0x44F26C",
+			"code": "8105F02F540001",
+			"expected": "C7878406000004"
 		},
 		"Main/Items don't deplete#1": {
 			"addr": "0x457860",
