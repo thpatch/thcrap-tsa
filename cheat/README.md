@@ -210,6 +210,17 @@ the cheat to work as intended.
       <td>Also keeps the value between runs.</td>
     </tr>
     <tr>
+      <td>TH06: Don't cap Graze at 9,999</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      </td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Remove Graze cap": { "ignore": true }
+}</pre></td>
+      <td>Affects score calculation, which is why it's here and not in <tt>base_tsa</tt>. </td>
+    </tr>
+    <tr>
       <td>TH06, TH07, TH08: PoC even if not on Max Power</td>
       <td>nothing</td>
       <td>✅ enabled</td>

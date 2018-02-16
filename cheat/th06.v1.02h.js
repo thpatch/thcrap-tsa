@@ -65,6 +65,11 @@
 			"addr": "0x41BE1D",
 			"code": "88",
 			"expected": "A0"
+		},
+		"Main/Remove Graze cap": {
+			"addr": "0x427648",
+			"code": "3F420F",
+			"expected": "0F2700"
 		}
 	}
 }
