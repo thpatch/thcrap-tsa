@@ -158,9 +158,10 @@ the cheat to work as intended.
 "binhacks": {
   "Main/Infinite bombs": { "ignore": true },
   "Main/Infinite bombs#1": { "ignore": true },
-  "Main/Infinite bombs#2": { "ignore": true }
+  "Main/Infinite bombs#2": { "ignore": true },
+  "Main/Infinite deathbombs": { "ignore": true }
 }</pre></td>
-      <td></td>
+      <td>TH10, Uwabami Breakers, TH11: Doesn't reduce power for a bomb. These games treat deathbombs separately, which are covered by the <tt>Main/Infinite deathbombs</tt> hack.</td>
     </tr>
     <tr>
       <td>Max Power</td>

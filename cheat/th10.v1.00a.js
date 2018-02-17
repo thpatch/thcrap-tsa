@@ -5,6 +5,16 @@
 			"code": "90",
 			"expected": "49"
 		},
+		"Main/Infinite bombs": {
+			"addr": "0x4259DB",
+			"code": "00",
+			"expected": "EC"
+		},
+		"Main/Infinite deathbombs": {
+			"addr": "0x425C4A",
+			"code": "00",
+			"expected": "EC"
+		},
 		"Main/Invincible": {
 			"addr": "0x426CF0",
 			"code": "C20400",

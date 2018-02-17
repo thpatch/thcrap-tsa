@@ -45,6 +45,11 @@
 			"code": "E90000",
 			"expected": "E85016"
 		},
+		"Main/Infinite deathbombs": {
+			"addr": "0x425E22",
+			"code": "E90000",
+			"expected": "E8E914"
+		},
 		"Main/Auto-bomb": {
 			"addr": "0x425DEE",
 			"code": "C6",
