@@ -39,6 +39,11 @@
 			"code": "B864000000",
 			"expected": "1BC083E050"
 		},
+		"Main/Power settings/Doesn't decrease on death": {
+			"addr": "0x425ABD",
+			"code": "00",
+			"expected": "C0"
+		},
 		"Main/Auto-bomb": {
 			"addr": "0x425C13",
 			"code": "C6",

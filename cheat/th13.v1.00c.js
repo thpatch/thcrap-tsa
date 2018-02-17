@@ -46,6 +46,11 @@
 			"code": "EC",
 			"expected": "F0"
 		},
+		"Main/Power settings/Doesn't decrease on death": {
+			"addr": "0x445A2D",
+			"code": "E8",
+			"expected": "F0"
+		},
 		"Main/Auto-bomb": {
 			"addr": "0x443525",
 			"code": "C6",

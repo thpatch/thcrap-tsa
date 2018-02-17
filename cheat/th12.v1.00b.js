@@ -44,6 +44,11 @@
 			"code": "D0",
 			"expected": "B0"
 		},
+		"Main/Power settings/Doesn't decrease on death": {
+			"addr": "0x43944B",
+			"code": "48",
+			"expected": "D4"
+		},
 		"Main/Power settings/Max Power#2": {
 			"addr": "0x421EB9",
 			"code": "EB65",

@@ -26,6 +26,11 @@
 			"code": "44",
 			"expected": "48"
 		},
+		"Main/Power doesn't decrease on death": {
+			"addr": "0x4582FA",
+			"code": "45",
+			"expected": "4D"
+		},
 		"Main/Auto-bomb": {
 			"addr": "0x454CC9",
 			"code": "C6",

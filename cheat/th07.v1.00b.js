@@ -52,6 +52,11 @@
 			"code": "EB16",
 			"expected": "742D"
 		},
+		"Main/Power settings/Doesn't decrease on death": {
+			"addr": "0x440DD3",
+			"code": "00",
+			"expected": "F0"
+		},
 		"Main/Auto-bomb#1": {
 			"addr": "0x440B8E",
 			"code": "54",

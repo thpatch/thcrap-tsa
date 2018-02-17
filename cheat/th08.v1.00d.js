@@ -68,6 +68,11 @@
 			"code": "2EE961",
 			"expected": "0F84ED"
 		},
+		"Main/Power settings/Doesn't decrease on death": {
+			"addr": "0x44CDB1",
+			"code": "00",
+			"expected": "F0"
+		},
 		"Main/Auto-bomb#1": {
 			"addr": "0x44C85D",
 			"code": "30",

@@ -31,6 +31,11 @@
 			"code": "78",
 			"expected": "7C"
 		},
+		"Main/Power settings/Doesn't decrease on death": {
+			"addr": "0x443ADD",
+			"code": "74",
+			"expected": "7C"
+		},
 		"Main/Auto-bomb": {
 			"addr": "0x44168C",
 			"code": "C6",

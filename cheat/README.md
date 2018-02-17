@@ -178,6 +178,16 @@ the cheat to work as intended.
       <td></td>
     </tr>
     <tr>
+      <td>Power doesn't decrease on death</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Power settings/Doesn't decrease on death": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>TH09.5, TH12.5, TH12.8: Charge rate is always 100%</td>
       <td>nothing</td>
       <td>✅ enabled</td>
