@@ -62,9 +62,6 @@
 		"file_loaded": {
 			"addr": "Rx5188b"
 		},
-		"update_poll": {
-			"addr": "Rx580d0"
-		},
 		"music_title": {
 			"addr": "Rx50d5d"
 		},

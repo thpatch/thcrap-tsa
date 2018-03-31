@@ -54,9 +54,6 @@
 		"file_loaded": {
 			"cavesize": "5"
 		},
-		"update_poll": {
-			"cavesize": "5"
-		},
 		"music_title": {
 			"str": "ecx",
 			"track": "eax",

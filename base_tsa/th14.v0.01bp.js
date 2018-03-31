@@ -96,9 +96,6 @@
 				"Rx30eb0"
 			],
 			"cavesize": "7"
-		},
-		"update_poll": {
-			"addr": "0x468b90"
 		}
 	},
 	"tsa_font_block": {

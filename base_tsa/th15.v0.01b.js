@@ -87,9 +87,6 @@
 				"Rx369b2",
 				"Rx36bc3"
 			]
-		},
-		"update_poll": {
-			"addr": "0x4739c0"
 		}
 	},
 	"tsa_font_block": {

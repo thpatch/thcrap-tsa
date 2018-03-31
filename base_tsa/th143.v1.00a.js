@@ -87,9 +87,6 @@
 		"file_loaded": {
 			"addr": "Rx68d62"
 		},
-		"update_poll": {
-			"addr": "Rx726a0"
-		},
 		"music_title": {
 			"addr": "Rx66ac5"
 		},

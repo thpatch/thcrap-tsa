@@ -83,9 +83,6 @@
 			],
 			"font_dialog": 4,
 			"font_ruby": 6
-		},
-		"update_poll": {
-			"addr": "0x457ec0"
 		}
 	},
 	"tsa_font_block": [

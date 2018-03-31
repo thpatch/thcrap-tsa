@@ -95,9 +95,6 @@
 				"Rx381f2",
 				"Rx3840c"
 			]
-		},
-		"update_poll": {
-			"addr": "0x475db0"
 		}
 	},
 	"tsa_font_block": {

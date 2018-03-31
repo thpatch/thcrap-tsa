@@ -41,9 +41,6 @@
 		},
 		"spell_name": {
 			"addr": "0x41cc0e"
-		},
-		"update_poll": {
-			"addr": "0x46ad30"
 		}
 	},
 	"tsa_font_block": [

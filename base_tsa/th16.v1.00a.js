@@ -61,9 +61,6 @@
 		"file_loaded": {
 			"addr": "Rx5724b"
 		},
-		"update_poll": {
-			"addr": "Rx5dc50"
-		},
 		"music_title": {
 			"addr": "Rx54af3"
 		},

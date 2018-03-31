@@ -91,9 +91,6 @@
 			"str": "esi",
 			"offset": "eax",
 			"cavesize": "7"
-		},
-		"update_poll": {
-			"cavesize": "5"
 		}
 	},
 	"tsa_font_block": {

@@ -83,9 +83,6 @@
 				"Rx30cf7"
 			],
 			"cavesize": "7"
-		},
-		"update_poll": {
-			"addr": "0x46a500"
 		}
 	},
 	"tsa_font_block": {

@@ -100,9 +100,6 @@
 				"Rx32260"
 			],
 			"cavesize": "7"
-		},
-		"update_poll": {
-			"addr": "0x46ba00"
 		}
 	},
 	"tsa_font_block": {
