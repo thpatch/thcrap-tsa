@@ -26,6 +26,9 @@
 				"Rx02df11",
 				"Rx02df5d"
 			]
+		},
+		"detour_plugin": {
+			"addr": "Rx127AEF"
 		}
 	}
 }
