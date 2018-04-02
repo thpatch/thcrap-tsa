@@ -51,10 +51,6 @@
 		}
 	},
 	"breakpoints": {
-		"devicelost": {
-			"pres_params": "RxE78C4",
-			"addr": "Rx7296C"
-		},
 		"file_size": {
 			"addr": "0x402e39"
 		},

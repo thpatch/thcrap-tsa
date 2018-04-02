@@ -67,10 +67,6 @@
 		}
 	},
 	"breakpoints": {
-		"devicelost": {
-			"pres_params": "RxDC794",
-			"addr": "Rx5D526"
-		},
 		"file_size": {
 			"addr": "0x47254a"
 		},
