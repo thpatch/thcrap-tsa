@@ -1,2 +1,5 @@
 # We're generating these server-side now.
 files.js
+
+*.cache
+*.cache.jdiff
