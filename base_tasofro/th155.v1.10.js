@@ -8,6 +8,7 @@
 			]
 		}
 	},
+	"pl_parsing_strict_eol": true,
 	"breakpoints": {
 		"th135_file_header": {
 			"addr": "Rx025ef8"
