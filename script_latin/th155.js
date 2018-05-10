@@ -11,6 +11,10 @@
 		"push_char": {
 			"code": "505290909090",
 			"title": "Push the bytes of the character in the stack"
+		},
+		"remove_setvertical": {
+			"code": "32c090",
+			"title": "Force the SetVertical calls to disable vertical text"
 		}
 	},
 	"breakpoints": {
