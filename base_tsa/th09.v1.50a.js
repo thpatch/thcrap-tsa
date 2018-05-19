@@ -47,6 +47,9 @@
 		},
 		"menu_desc_align_2": {
 			"addr": "Rx3bef3"
+		},
+		"joy_config_fix": {
+			"addr": "Rx2b776"
 		}
 	},
 	"breakpoints": {

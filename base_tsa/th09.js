@@ -30,6 +30,10 @@
 		"menu_desc_align_2": {
 			"code": "9090909090909090909090",
 			"title": "Menu description alignment, #2: Don't multiply the length by 15"
+		},
+		"joy_config_fix": {
+			"code": "9056",
+			"title": "Poll the right joypad in pad config (non-DirectInput)"
 		}
 	},
 	"title": "東方花映塚　～ Phantasmagoria of Flower View",
