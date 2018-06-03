@@ -17,8 +17,9 @@
 		"western_name_order": "Western name order"
 	},
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/",
-		"http://mirrors.thpatch.net/nmlgc/"
+		"https://thcrap.nmlgc.net/repos/nmlgc/",
+		"http://mirrors.thpatch.net/nmlgc/",
+		"http://thcrap.nmlgc.net/repos/nmlgc/"
 	],
 	"title": "Nmlgc's patch repository"
 }
