@@ -6,6 +6,9 @@
 		"sprintf_rep": {
 			"addr": "Rx34d8e"
 		},
+		"file_remove_size_assignment": {
+			"addr": "Rx1e399"
+		},
 		"buffer_overflow_rem": {
 			"addr": [
 				"0x434b85",
@@ -65,6 +68,38 @@
 		},
 		"music_room_cmt_shift_2nd_part": {
 			"addr": "0x425b9b"
+		},
+		"text_1024": {
+			"addr": "Rx1f014"
+		},
+		"text_prepare_surface_width": {
+			"addr": ["Rx1f0dd", "Rx1f16a"]
+		},
+		"text_sprite_height": {
+			"addr": ["Rx34cc6",            "Rx34db5", "Rx34ea6",            "Rx34f9b"]
+		},
+		"text_sprite_width": {
+			"addr": ["Rx34cd8", "Rx34d55", "Rx34dc7", "Rx34eb8", "Rx34f32", "Rx34fad"]
+		},
+		"sprite3d_rotated_voodookill": {
+			"addr": "Rx331ba"
+		},
+		"sprite3d_unrotated_voodookill": {
+			"addr": "Rx33709"
+		},
+		"ending_copy_rem": {
+			"addr": "Rx103f2"
+		},
+		"ending_copy_rep": {
+			"addr": "Rx104d5"
+		},
+		"unpatch_ending_halfskip": {
+			"addr": "Rx10521",
+			"title": "Unpatch the static English patch's rendering skip of the second-half ending text sprite",
+			"code": "-.-7402EB21C745FC01000000C745CC00000000B90900000033C08D7DD0-.-"
+		},
+		"remove_score_cap": {
+			"addr": ["0x41b8b0", "0x41b8bc"]
 		}
 	},
 	"breakpoints": {
@@ -76,7 +111,8 @@
 			"addr": "0x43cb91"
 		},
 		"th06_file_load": {
-			"addr": "0x43cbac"
+			"addr": "0x43cbac",
+			"file_size": "[0x69d914]"
 		},
 		"th06_file_loaded": {
 			"addr": "0x43ce19"

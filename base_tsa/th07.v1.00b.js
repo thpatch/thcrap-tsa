@@ -42,19 +42,19 @@
 				"Rx5e4f0"
 			]
 		},
-		"buffer_overflow_ending_rem" : {
+		"ending_copy_rem" : {
 			"addr": "Rx1e2e9"
 		},
-		"buffer_overflow_ending_rep" : {
+		"ending_copy_rep" : {
 			"addr": "Rx1e11d"
 		}
 	},
 	"breakpoints": {
 		"file_name": {
-			"addr": "Rx313e4"
+			"addr": "Rx313a0"
 		},
 		"file_size": {
-			"addr": "0x4313f4"
+			"addr": "Rx313ab"
 		},
 		"file_load": {
 			"addr": "0x431420"

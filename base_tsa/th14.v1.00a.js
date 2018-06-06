@@ -61,9 +61,6 @@
 		},
 		"spell_name#practice": {
 			"addr": "0x463d10"
-		},
-		"update_poll": {
-			"addr": "0x46e030"
 		}
 	},
 	"tsa_font_block": {

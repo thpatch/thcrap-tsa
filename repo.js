@@ -9,6 +9,7 @@
 		"base_tasofro": "Basic support for Tasogare Frontier games",
 		"base_tsa": "Basic support for Team Shanghai Alice games",
 		"bitch": "Keep Alice's \"bitch\" line in TH08",
+		"cheat": "Various cheats, ported from third-party SpoilerAL .ssg files",
 		"instant_ending": "Show the ending immediately upon entering Stage 1\n                          (missing support for TH07 and TH08)",
 		"real_bullet_size": "Resize bullets to match their actual hitbox\n                          (by sibgamer, http://tinyurl.com/real-bullet-size)",
 		"script_latin": "Shared data for languages using Latin script",
@@ -16,8 +17,9 @@
 		"western_name_order": "Western name order"
 	},
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/",
-		"https://raw.githubusercontent.com/nmlgc/thcrap-nmlgc/master/"
+		"https://thcrap.nmlgc.net/repos/nmlgc/",
+		"http://mirrors.thpatch.net/nmlgc/",
+		"http://thcrap.nmlgc.net/repos/nmlgc/"
 	],
 	"title": "Nmlgc's patch repository"
 }

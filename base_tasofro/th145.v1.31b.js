@@ -1,45 +1,32 @@
 {
 	"binhacks": {
-		"force_jump": {
+		"ret": {
 			"addr": [
-				"Rx11bd4c",
-				"Rx11bd9e",
-				"Rx11c4ec",
-				"Rx11c561",
-				"Rx11c581",
-				"Rx11c8b1",
-				"Rx11c9e4",
-				"Rx11d352",
-				"Rx11d3bd",
-				"Rx11d409",
-				"Rx11d46b"
+				"Rx11b3c0",
+				"Rx11d310"
 			]
-		},
-		"nop_long_je": {
-			"addr": "Rx11beee"
-		},
-		"nop_jump": {
-			"addr": "Rx11c4e3"
-		},
-		"nop_long_jump": {
-			"addr": "Rx11c521"
 		},
 		"reverse_character_bytes": {
 			"addr": "Rx220f7e"
 		}
 	},
 	"breakpoints": {
-		"file_header": {
+		"th135_file_header": {
 			"addr": "Rx0dea2c"
 		},
-		"replace_file#prepare": {
-			"addr": "Rx0dc426"
+		"th135_file_name": {
+			"file_name": "ebp-108",
+			"addr": "Rx0ecb03",
+			"cavesize": 5
 		},
-		"replace_file": {
+		"th135_read_file#prepare": {
 			"addr": [
-				"Rx0dbe77",
-				"Rx0dbe10"
+				"Rx0dbe6f",
+				"Rx0dbe08"
 			]
+		},
+		"th135_read_file": {
+			"addr": "Rx0dc42d"
 		}
 	}
 }

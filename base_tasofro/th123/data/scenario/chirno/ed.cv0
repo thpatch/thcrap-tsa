@@ -1,0 +1,171 @@
+# ----------------------------------------------------
+# Ending
+# Stage:Ending
+#
+# Hi-lock: (("\\#.*$"            (0 '((t (:foreground "dark slate gray"))) t))) 
+# Hi-lock: (("^[ \t]*Character.*$"              (0 '((t (:foreground "royal blue"))) t))) 
+# Hi-lock: (("^[ \t]*Action.*$"              (0 '((t (:foreground "cornflower blue"))) t))) 
+# Hi-lock: (("^[ \t]*Stage.*$"              (0 '((t (:foreground "sky blue"))) t))) 
+# Hi-lock: (("^[ \t]*Label.*$"            (0 '((t (:foreground "royal blue"))) t))) 
+# Hi-lock: (("^[ \t]*Object.*$"            (0 '((t (:foreground "dim gray"))) t))) 
+# Hi-lock: (("^[ \t]*Sleep.*$"            (0 '((t (:foreground "dim gray"))) t))) 
+# Hi-lock: (("^[ \t]*Face.*$"            (0 '((t (:foreground "medium spring green"))) t))) 
+# Hi-lock: (("^[ \t]*End.*$"            (0 '((t (:foreground "dark slate gray"))) t))) 
+
+Font:ＭＳゴシック,16,3,6
+WindowColor:0,0,0,0
+Color:FFFFFF
+Background:data/scenario/effect/EdBack000.bmp,999,0,0
+CG:data/scenario/chirno/effect/ED000.bmp,96,16,50
+WindowPos:8,372
+Label:Start
+
+
+Bgm:data/bgm/ta06.ogg
+
+# 一枚目
+# 博麗神社　昼
+# 
+# 　一枚目は場所を示す簡単なイラストが入る予定です
+#0１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３
+　――幻想郷の東の境界。博麗神社。\
+　いつもは蝉がうるさい神社に、蝉より騒がしい何かが居る。@
+　それは何やら話の中心に居るようだった。\
+
+
+
+# 二枚目
+# ------------------------------------------------
+# 境内、チルノが何かを説明しようとしている。
+# 霊夢が座ってその話を聞いている
+
+CG:data/scenario/chirno/effect/ED001.bmp,96,16,50
+
+#0１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３
+霊夢　「で？　だいだらぼっちがどうしたの？」\
+チルノ「だいだらぼっちはおっきな妖怪だったんだ！」\
+霊夢　「そりゃね」\
+チルノ「えーっと。その妖怪はどうやら人形みたいで……」\
+魔理沙「ふーん」\
+チルノ「とにかくおっきくて自由に動くの！@
+　　　　あんなのが暴れたら幻想郷の危機よ！」\
+霊夢　「大きな人形って……。@
+　　　　もしかして、これじゃない？」\
+
+
+
+# 三枚目
+# ------------------------------------------------
+# 霊夢が新聞をチルノに見せている
+#0１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３
+CG:data/scenario/chirno/effect/ED002.bmp,96,16,50
+
+霊夢　「非想天則――巨大妖怪型自動操作人形」\
+チルノ「ひそうてんそく？」\
+霊夢　「河童が作った大きな人形よ」\
+チルノ「かっぱー？」\
+霊夢　「これなら、みんな見てるわよ。@
+　　　　今、山の麓に行けば見られるわ」\
+チルノ「なんだー。みんな見ていたのかー。
+　　　　つまんない」\
+
+# ------------------------------------------------
+# チルノは新聞を奪って見ている
+# 何か自分が見た物と異なって、疑問に思っている
+CG:data/scenario/chirno/effect/ED003.bmp,96,16,50
+
+チルノ「ひそうてんそく……。@
+　　　　んー？」\
+霊夢　「動きは凄くリアルよ。@
+　　　　なんでも蒸気で動く仕掛けらしいわ」\
+チルノ「何……これ？」\
+霊夢　「あんたがだいだらぼっちと勘違いしたもの、でしょう？」\
+チルノ「んー？　こんなのだったかなぁ」\
+霊夢　「何にしても、ただのでくの坊だから、恐れる必要はないわ」\
+チルノ「んー？@
+　　　　いや、こんな形じゃなかったよ！@
+　　　　絶対違うよ！」\
+霊夢　「え？」\
+チルノ「もっとリアルな人形でー、@
+　　　　もっと攻撃をしかけそうな感じでー。@
+　　　　とにかく、全然違うよ。違うんだよ！」\
+霊夢　「へー。@
+　　　　その話、ちょっと詳しく教えてくれる？」\
+
+Background:BLACK,0,0
+CG:BLACK,0,0,50
+WindowPos:0,640
+
+Sleep:60
+
+CG:data/scenario/chirno/effect/ec01_0.bmp,64,352,15
+
+#　チルノは必死に思い出して詳細を伝えた。@
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_1.bmp,64,352,15
+#　だいだらぼっちを追って間欠泉地下センターまで行った事。@
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_2.bmp,64,352,15
+#　そこで暑さから逃げてきた事。@
+#　そして、森に大きな妖怪を見た事。\
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_3.bmp,64,352,15
+#　しかし、チルノの話には一番重要な要素が抜けていたのだ。@
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_4.bmp,64,352,15
+#　出会った人間、妖怪の顔を覚えていなかったのである。@
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_5.bmp,64,352,15
+#　つまり、誰と出会ったのか、が抜けていたのだ。\
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_6.bmp,64,352,15
+#　それにより、チルノの話は一種の都市伝説と化した。@
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_7.bmp,64,352,15
+#　プロットだけ出来ているのに重要な要素が欠けていた為、@
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_8.bmp,64,352,15
+#　話は伝わる度に変化し、いつしか立派な怪談となった。@
+　\
+CG:BLACK,0,0,15
+Sleep:15
+
+CG:data/scenario/chirno/effect/ec01_9.bmp,64,352,15
+#　真夏の巨大妖怪伝説、そう呼ばれるようになっていた。\
+　\
+FadeBgm:20000,0
+CG:BLACK,0,0,15
+StaffRoll:
+
+#　その話がアリスの耳に入った時には既に、自分が研究している@
+#　「人形巨大化計画」の事だと思えない程変化していた。\
+
+#　アリスは確信した。@
+#　早く人形の巨大化の魔法を自分の物にして、@
+#　未知の巨大妖怪と戦わねばならない、と。@
+
+End:

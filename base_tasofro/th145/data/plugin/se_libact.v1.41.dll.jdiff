@@ -1,0 +1,16 @@
+{
+	"binhacks": {
+		"fix_sjis_1": {
+			"addr": "Rx01CB40"
+		},
+		"fix_sjis_2": {
+			"addr": "Rx073E20"
+		},
+		"fix_sjis_3": {
+			"addr": "Rx019A23"
+		},
+		"fix_sjis_4": {
+			"addr": "Rx01CED4"
+		}
+	}
+}

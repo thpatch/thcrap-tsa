@@ -9,7 +9,7 @@
 			"title": "Call to spell_align"
 		},
 		"spell_align": {
-			"code": "51536a01ff74e440e8[GetTextExtentForFontID]31d2bb08000000f7f389c683c60231c031d25b59c3",
+			"code": "51536a00ff74e440e8[GetTextExtentForFontID]31d2bb08000000f7f389c683c60231c031d25b59c3",
 			"title": "Spell card alignment"
 		},
 		"result_spell_align": {
@@ -87,9 +87,6 @@
 			"str": "esi",
 			"offset": "eax",
 			"cavesize": "7"
-		},
-		"update_poll": {
-			"cavesize": "5"
 		}
 	},
 	"tsa_font_block": {

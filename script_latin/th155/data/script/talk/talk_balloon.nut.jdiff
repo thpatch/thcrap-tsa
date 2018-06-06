@@ -1,0 +1,20 @@
+{
+	"/Functions/1/Instructions/20/2": "4",
+	"/Functions/1/Instructions/26/2": "4",
+	"/Functions/1/Instructions/35/2": "2",
+
+	"/Functions/2/Instructions/36/2": "0",
+
+	"/Functions/1/Instructions/93/4": "19",
+	"/Functions/1/Instructions/99/4": "17",
+	"/Functions/1/Instructions/107/2": "18",
+	"/Functions/1/Instructions/120/2": "16",
+
+
+	"/Functions/1/Instructions/106": "getk(7,10,0)",
+	"/Functions/1/Instructions/107": "loadint(8,0)",
+	"/Functions/1/Instructions/108": "jcmp(7,1,8,3)",
+	"/Functions/1/Instructions/109": "loadfloat(7,-1097229926)",
+	"/Functions/1/Instructions/112/2": "0x3fc00000",
+	"/Functions/1/Instructions/114/0": "mul"
+}

@@ -5,7 +5,7 @@
 	"id": "bitch",
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/nmlgc/bitch/",
-		"https://raw.githubusercontent.com/nmlgc/thcrap-nmlgc/master/bitch/"
+		"http://mirrors.thpatch.net/nmlgc/bitch/"
 	],
 	"title": "Keep Alice's \"bitch\" line in TH08"
 }

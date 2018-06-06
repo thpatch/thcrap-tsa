@@ -99,9 +99,6 @@
 				"Rx3275f",
 				"Rx3296a"
 			]
-		},
-		"update_poll": {
-			"addr": "0x46de40"
 		}
 	},
 	"tsa_font_block": {

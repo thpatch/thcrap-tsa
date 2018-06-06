@@ -28,6 +28,17 @@
 		},
 		"result_spell_align": {
 			"addr": "0x447c39"
+		},
+		"fix_practice_replay_crash#1": {
+			"title": "Fix the crash after the end-of-stage dialogue in Practice replays, #1 (jump)",
+			"addr": "0x416c3d",
+			"code": "e8beee0400 85c0 75",
+			"expected": "f605a04c470010 74"
+		},
+		"fix_practice_replay_crash#2": {
+			"title": "Fix the crash after the end-of-stage dialogue in Practice replays, #2 (code cave)",
+			"addr": "0x465b00",
+			"code": "f605a04c470010 7403 33c0 c3 a110784700 83785c00 7506 b801000000 c3 a16c4c4700 c3"
 		}
 	},
 	"breakpoints": {

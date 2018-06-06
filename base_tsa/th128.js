@@ -85,9 +85,6 @@
 			"str": "edi",
 			"offset": "eax",
 			"cavesize": "5"
-		},
-		"update_poll": {
-			"cavesize": "6"
 		}
 	}
 }

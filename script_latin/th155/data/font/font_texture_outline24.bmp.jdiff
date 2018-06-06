@@ -1,0 +1,12 @@
+{
+	"font_file":     "THBiolinum.ttf",
+	"font_name":     "Touhou Biolinum",
+	"font_size":     34,
+	"is_bold":       true,
+	"outline_width": 3,
+	"margin":        3,
+	"bg_color":      [0,0,0],
+	"outline_color": [150,150,150],
+	"fg_color":      [255,255,255],
+	"chars_source":  "*"
+}

@@ -1,5 +1,9 @@
 {
 	"binhacks": {
+		"file_remove_size_assignment": {
+			"code": "83c404 90909090909090",
+			"title": "Remove the assignment of the file size global, which we did in th06_file_load before"
+		},
 		"buffer_overflow_rem": {
 			"code": "eb1990",
 			"title": "Fix buffer overflows (remove copy)"
@@ -51,6 +55,52 @@
 		"music_room_cmt_shift_2nd_part": {
 			"code": "8B45FC8B1588456D0081C2348A01006BC03801C2C702000077C383EA70C702000077C3909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
 			"title": "In music comment, shift the 2nd half of the text 247px to the left"
+		},
+		"text_1024": {
+			"code": "68 00040000",
+			"title": "Enlarge the width of the text surface to 1024 pixels"
+		},
+		"text_prepare_surface_width": {
+			"code": "8b45a8 9090",
+			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap"
+		},
+		"text_prepare_surface_width_trial_1": {
+			"code": "50 ff7588 56 56",
+			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap (Trial, #1)"
+		},
+		"text_prepare_surface_width_trial_2": {
+			"code": "8d4d84 ff7588 90",
+			"title": "Use the surface width rather than the sprite width when preparing the text rendering bitmap (Trial, #2)"
+		},
+		"text_sprite_height": {
+			"expected": "14",
+			"code": "2c",
+			"title": "Use sprite height for text sprites, not texture height"
+		},
+		"text_sprite_width": {
+			"expected": "18",
+			"code": "30",
+			"title": "Calculate text alignment based on sprite width, not texture width"
+		},
+		"sprite3d_rotated_voodookill": {
+			"code": "83ef40 d907 d84a1c 8b8ac0000000 6800008043 d94118 d90424 def9 dec9 59 d91f d94218 d9e0 d84f14 d95f14 d902 d9ee ded9 dfe0 f6c444 7b23",
+			"title": "Correctly scale rotated sprites in 3D space from textures wider than 256 pixels"
+		},
+		"sprite3d_unrotated_voodookill": {
+			"code": "8b5508 8b8ac0000000 8dbd40ffffff 7414 d9412c d84a18 d9e8 d9e8 dec1 def9 d86f34 d95f34 8b8298000000 894738 d907 d84a1c 6800008043 d94118 d90424 def9 dec9 58 d91f 9090",
+			"title": "Correctly scale unrotated sprites in 3D space from textures wider than 256 pixels"
+		},
+		"ending_copy_rem": {
+			"code": "-.-8B8548FFFFFF8B886C110000-.- 894dd0 803900 7406 41 ff45cc ebf5 89886c110000 909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
+			"title": "Remove the 32-byte split in ending messages, #1 (remember line start and skip to the end of the string)"
+		},
+		"ending_copy_rep": {
+			"code": "8b55d0 -.-5268D0D0C0008B8548FFFFFF-.-",
+			"title": "Remove the 32-byte split in ending messages, #2 (LEA → MOV)"
+		},
+		"remove_score_cap": {
+			"title": "Don't cap the score at 999,999,990",
+			"code": "ffffff7f"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",

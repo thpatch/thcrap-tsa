@@ -38,6 +38,11 @@
 		"directinput_fix_4": {
 			"addr": "Rx45737",
 			"code": "a1 883d4c00 85c0 0f84"
+		},
+		"fix_alice_practice_end_crash": {
+			"addr": "Rx35233",
+			"code": "85c0 7412 51 d980c4030000 d91c24 e88a3c0200 d95e30 33c0 5e c20400",
+			"expected": "51 d980c4030000 d91c24 e88e3c0200 d95e30 33c0 5e c20400 cccccccc"
 		}
 	},
 	"breakpoints": {

@@ -20,13 +20,8 @@
 			"code": "8b45fc6bc07805b3626200",
 			"title": "Remove English patch spell translation lookup in the Result screen"
 		},
-		"buffer_overflow_ending_rem" : {
-			"code": "837d b0 00 75 03 8955 b0 ff45 ac 42 909090909090909090909090909090909090909090909090909090909090909090909090909090909090",
-			"title": "Remove the useless string copy and buffer overflow in ending messages (remember line start)"
-		},
-		"buffer_overflow_ending_rep" : {
-			"code": "8b45 b0",
-			"title": "Remove the useless string copy and buffer overflow in ending messages (replace pointer)"
+		"ending_copy_rem" : {
+			"code": "8955b0 803a00 742f 42 ff45ac ebf5 9090909090909090909090909090909090909090909090909090909090909090909090909090909090"
 		}
 	},
 	"title": "東方妖々夢　～ Perfect Cherry Blossom",
@@ -40,10 +35,10 @@
 	"breakpoints": {
 		"file_name": {
 			"file_name": "eax",
-			"cavesize": 5
+			"cavesize": 6
 		},
 		"file_size": {
-			"file_size": "ecx",
+			"file_size": "eax",
 			"cavesize": "6"
 		},
 		"file_load": {

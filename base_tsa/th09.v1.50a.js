@@ -35,17 +35,21 @@
 		"inplace_xor_rep": {
 			"addr": "Rx16c8e"
 		},
-		"buffer_overflow_ending_rem" : {
+		"ending_copy_rem" : {
 			"addr": "Rx0ec7d"
 		},
-		"buffer_overflow_ending_rep" : {
-			"addr": "Rx0eda4"
+		"ending_copy_rep" : {
+			"addr": "Rx0eda4",
+			"code": "8b4db0"
 		},
 		"menu_desc_align_1": {
 			"addr": "Rx3be86"
 		},
 		"menu_desc_align_2": {
 			"addr": "Rx3bef3"
+		},
+		"joy_config_fix": {
+			"addr": "Rx2b776"
 		}
 	},
 	"breakpoints": {

@@ -84,12 +84,9 @@
 				"Rx34de2",
 				"Rx34ff3"
 			]
-		},
-		"update_poll": {
-			"addr": "0x471250"
 		}
 	},
 	"tsa_font_block": {
-		"addr": "Rx11b2f8"
+		"addr": "Rx11b2fc"
 	}
 }

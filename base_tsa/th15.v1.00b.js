@@ -95,12 +95,9 @@
 				"Rx38252",
 				"Rx3846c"
 			]
-		},
-		"update_poll": {
-			"addr": "0x475e20"
 		}
 	},
 	"tsa_font_block": {
-		"addr": "Rx1217bc"
+		"addr": "Rx1217c0"
 	}
 }

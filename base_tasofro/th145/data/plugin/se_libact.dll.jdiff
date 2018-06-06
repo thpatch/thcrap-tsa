@@ -1,0 +1,20 @@
+{
+	"binhacks": {
+		"fix_sjis_1": {
+			"code": "52 51 51 E8[tasofro_CharNextA] 59 5A 89C6 29CE EB1F 90909090909090909090909090909090909090909090909090909090909090",
+			"title": "Fix shift-jis assumption (1)"
+		},
+		"fix_sjis_2": {
+			"code": "8D0C1F 51 E8[tasofro_CharNextA] 8D0C1F 31D2 8A11 41 47 39C1 742C C1E208 EBF3 909090909090909090909090909090909090909090909090909090909090909090909090909090",
+			"title": "Fix shift-jis assumption (2)"
+		},
+		"fix_sjis_3": {
+			"code": "FF7508 E8[tasofro_CharNextA] 5D C3 90",
+			"title": "Fix shift-jis assumption (3)"
+		},
+		"fix_sjis_4": {
+			"code": "56 E8[tasofro_CharNextA] 8BF0 90909090909090909090909090909090909090909090909090909090909090",
+			"title": "Fix shift-jis assumption (4)"
+		}
+	}
+}

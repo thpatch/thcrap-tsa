@@ -1,5 +1,5 @@
 {
-	"thcrap_version_min": "0x20170627",
+	"thcrap_version_min": "0x20170905",
 	"thcrap_url": "http://thpatch.net/wiki/Project:Download",
 	"binhacks": {
 		"log_restore": {
@@ -69,6 +69,13 @@
 		"meiryo_strcmp_remove": {
 			"code": "9090",
 			"title": "Don't restrict use of the Meiryo font to Japanese locale"
+		},
+		"ending_copy_rem" : {
+			"title": "Remove the useless string copy and buffer overflow in ending messages, #1 (remember line start and skip to the end of the string)"
+		},
+		"ending_copy_rep" : {
+			"code": "8b",
+			"title": "Remove the useless string copy and buffer overflow in ending messages, #2 (LEA → MOV)"
 		}
 	},
 	"breakpoints": {

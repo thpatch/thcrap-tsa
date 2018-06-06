@@ -50,9 +50,6 @@
 		"file_loaded": {
 			"cavesize": "5"
 		},
-		"update_poll": {
-			"cavesize": "5"
-		},
 		"music_title": {
 			"str": "ecx",
 			"track": "eax",
@@ -93,6 +90,7 @@
 		},
 		"gentext#hint_line_1": {
 			"str": "ecx",
+			"line": 0,
 			"cavesize": 5
 		},
 		"gentext#hint_line_2": {
@@ -120,6 +118,7 @@
 			"file": "trophy.js",
 			"ids": "esi",
 			"str": "eax",
+			"line": 0,
 			"cavesize": 6
 		},
 		"gentext#titlemsg_id": {
