@@ -47,7 +47,7 @@
 			"stage": 12,
 			"scene": 16,
 			"ret_fixup": 16,
-			"cavesize": "6"
+			"cavesize": 6
 		},
 		"file_size": {
 			"file_size": "eax",
