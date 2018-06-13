@@ -46,6 +46,18 @@
 		}
 	},
 	"breakpoints": {
+		"mission": {
+			"addr": "0x445F80"
+		},
+		"mission_check_furi_a": {
+			"addr": "0x445ED3"
+		},
+		"mission_check_furi_a#stage98": {
+			"addr": ["0x445B9F", "0x445C90", "0x445D44", "0x445DF0"]
+		},
+		"mission_printf_hook": {
+			"addr": "0x45F8B0"
+		},
 		"file_size": {
 			"addr": "0x4630de"
 		},
