@@ -9,6 +9,7 @@
 		}
 	},
 	"pl_parsing_strict_eol": true,
+	"subtitles_support": true,
 	"breakpoints": {
 		"th135_file_header": {
 			"addr": "Rx025ef8"
