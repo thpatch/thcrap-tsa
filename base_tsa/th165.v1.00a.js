@@ -9,6 +9,9 @@
 		"music_title_prepare": {
 			"addr": "Rx5ae1f",
 			"code": "8b542418 52 31c0 50 50 50 a1 8cd84e00"
+		},
+		"th165_textbox_size": {
+			"addr": ["Rx26ab0", "Rx26d26"]
 		}
 	},
 	"breakpoints": {
@@ -29,14 +32,14 @@
 		}
 	},
 	"tsa_font_block": [
-		"Rx50f8e4",
-		"Rx50f904",
-		"Rx50f8fc",
-		"Rx50f90c",
-		"Rx50f8e8",
-		"Rx50f908",
-		"Rx50f900",
-		"Rx50f910",
-		"Rx50f8e0"
+		"Rx0f8e4",
+		"Rx0f904",
+		"Rx0f8fc",
+		"Rx0f90c",
+		"Rx0f8e8",
+		"Rx0f908",
+		"Rx0f900",
+		"Rx0f910",
+		"Rx0f8e0"
 	]
 }

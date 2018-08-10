@@ -1,5 +1,11 @@
 {
 	"title": "秘封ナイトメアダイアリー　〜 Violet Detector",
+	"binhacks": {
+		"th165_textbox_size": {
+			"code": "6a00 51 e8[GetTextExtentForFontID] 83e81c 7302 31c0 f30f1093b4010000 f30f108bb0010000 8b8b90010000 c1e902 90909090909090",
+			"title": "Correct text length calculation for the TH16.5 variety of Fairy Wars-style text boxes"
+		}
+	},
 	"breakpoints": {
 		"file_size": {
 			"file_size": "eax",
