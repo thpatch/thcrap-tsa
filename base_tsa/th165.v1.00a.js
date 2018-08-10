@@ -1,10 +1,13 @@
 {
 	"binhacks": {
 		"sprintf_msvcrt14_esp+34": {
-			"addr": ["Rx73d59"]
+			"addr": ["Rx73d59", "Rx73e79"]
 		},
 		"sprintf_rep": {
-			"addr": ["Rx73df6", "Rx73e07"]
+			"addr": [
+				"Rx73df6", "Rx73e07",
+				"Rx73ec4", "Rx73f67", "Rx73f78"
+			]
 		},
 		"music_title_prepare": {
 			"addr": "Rx5ae1f",
