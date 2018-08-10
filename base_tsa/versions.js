@@ -90,6 +90,8 @@
 		"aee27f70c2b9f7e7acba15b3b35449c79e4d707e404646362b8edf961a574731": ["th16", "v1.00a", "(original, Steam release)"],
 		"28706073602c95bccafd86ee535b54e8ab9312cf6d211343c7ceab5bad7968da": ["th16", "v1.00a", "(original, unpacked Steam release)"],
 
+		"ff4f5e0d0a2dcbb071b3a1f0652e8b864146ba155466ba0c57445013edd951af": ["th165", "v1.00a", "(original)"],
+
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
 		"5ab1f4e8bf31fc4f8484ab0882a882f0fb399ba758fc98601ae9a6f6e69b5cdf": ["th06_custom", "v1.02h", "(original)"],
@@ -149,7 +151,9 @@
 		"b3dc4ac8879d2c4d16cc611d2daeea6b6d9fe624a7b4a48806989ccefa377963": ["th15_custom", "v1.00a", "(original)"],
 
 		"81b637d2e0305b1dbf01c32dfb12eea5cd102a912e82021b4cea3d4111754cc5": ["th16_custom", "v0.01a", "(original)"],
-		"000a65acf850e6bcc383dba3a4e735c07fc0a44994adcffa00318e79b9b320f4": ["th16_custom", "v1.00a", "(original)"]
+		"000a65acf850e6bcc383dba3a4e735c07fc0a44994adcffa00318e79b9b320f4": ["th16_custom", "v1.00a", "(original)"],
+
+		"abca7c23404b1ee4cecc153acf225d21b3d6d403653a61852545a772fb18e5c6": ["th165_custom", "v1.00a", "(original)"]
 	},
 	"sizes": {
 		"620000": ["th07", "v0.04b", "(original)"],
@@ -210,6 +214,8 @@
 		"683520": ["th16", "v1.00a", "(original)"],
 		"812400": ["th16", "v1.00a", "(original, Steam release)"],
 
+		"740352": ["th165", "v1.00a", "(original)"],
+
 		"102400": ["th06_custom", "v1.02h", "English patch"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
 		 "94208": ["alcostg_custom", "v1.00a", "(original)"],
@@ -222,6 +228,7 @@
 		"121344": ["th14_custom",  "v1.00bp", "(original, Playism)"],
 		"118784": ["th143_custom", "v1.00a", "(original)"],
 		"121344": ["th15_custom", "v1.00a", "(original)"],
-		"124928": ["th16_custom", "v1.00a", "(original)"]
+		"124928": ["th16_custom", "v1.00a", "(original)"],
+		"125952": ["th165_custom", "v1.00a", "(original)"]
 	}
 }
