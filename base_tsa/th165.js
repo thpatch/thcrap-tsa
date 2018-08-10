@@ -37,6 +37,11 @@
 			"spell_name": "edi",
 			"spell_id": "[[Rxb566c]]",
 			"cavesize": 5
+		},
+		"ruby_offset": {
+			"str": "esi",
+			"offset": "eax",
+			"cavesize": 5
 		}
 	}
 }

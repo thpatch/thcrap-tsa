@@ -38,17 +38,20 @@
 		},
 		"spell_name": {
 			"addr": "Rx15868"
+		},
+		"ruby_offset": {
+			"addr": ["Rx26c73", "Rx269f9"]
 		}
 	},
 	"tsa_font_block": [
-		"Rx0f8e4",
-		"Rx0f904",
-		"Rx0f8fc",
-		"Rx0f90c",
-		"Rx0f8e8",
-		"Rx0f908",
-		"Rx0f900",
-		"Rx0f910",
-		"Rx0f8e0"
+		"Rx10f8e4",
+		"Rx10f904",
+		"Rx10f8fc",
+		"Rx10f90c",
+		"Rx10f8e8",
+		"Rx10f908",
+		"Rx10f900",
+		"Rx10f910",
+		"Rx10f8e0"
 	]
 }
