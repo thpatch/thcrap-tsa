@@ -12,6 +12,9 @@
 		},
 		"th165_textbox_size": {
 			"addr": ["Rx26ab0", "Rx26d26"]
+		},
+		"spell_align": {
+			"addr": "Rx73ed0"
 		}
 	},
 	"breakpoints": {
