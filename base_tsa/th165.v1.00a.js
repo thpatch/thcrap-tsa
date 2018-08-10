@@ -32,6 +32,9 @@
 		},
 		"music_cmt": {
 			"addr": ["Rx5b065", "Rx5b12b"]
+		},
+		"spell_name": {
+			"addr": "Rx15868"
 		}
 	},
 	"tsa_font_block": [

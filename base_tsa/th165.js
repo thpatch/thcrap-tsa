@@ -32,6 +32,11 @@
 			"track": "edx",
 			"format_id": "Music Room Note Title",
 			"cavesize": 5
+		},
+		"spell_name": {
+			"spell_name": "edi",
+			"spell_id": "[[Rxb566c]]",
+			"cavesize": 5
 		}
 	}
 }
