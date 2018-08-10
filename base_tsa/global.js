@@ -62,6 +62,10 @@
 			"code": "5090909090909090909090e8[strings_vsprintf]8b4d0c83c40c509090",
 			"title": "Safe sprintf (ebp-200)"
 		},
+		"sprintf_msvcrt14_esp+34": {
+			"title": "Safe Visual Studio 2015-style sprintf (esp+34)",
+			"code": "e8[strings_vsprintf_msvcrt14]89442434"
+		},
 		"sprintf_rep": {
 			"code": "8b",
 			"title": "Safe sprintf (replace)"

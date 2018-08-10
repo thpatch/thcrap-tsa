@@ -1,4 +1,12 @@
 {
+	"binhacks": {
+		"sprintf_msvcrt14_esp+34": {
+			"addr": ["Rx73d59"]
+		},
+		"sprintf_rep": {
+			"addr": ["Rx73df6", "Rx73e07"]
+		}
+	},
 	"breakpoints": {
 		"file_size": {
 			"addr": "Rx0204c"
