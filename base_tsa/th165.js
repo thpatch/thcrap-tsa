@@ -13,6 +13,19 @@
 		},
 		"file_loaded": {
 			"cavesize": 5
+		},
+		"music_title": {
+			"str": "edx",
+			"track": "eax",
+			"format_id": "Music Room Numbered Title",
+			"cavesize": 5
+		},
+		"music_cmt": {
+			"str": "eax",
+			"line_num": "[edi+0x7B0]",
+			"track": "edx",
+			"format_id": "Music Room Note Title",
+			"cavesize": 5
 		}
 	}
 }

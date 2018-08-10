@@ -5,6 +5,10 @@
 		},
 		"sprintf_rep": {
 			"addr": ["Rx73df6", "Rx73e07"]
+		},
+		"music_title_prepare": {
+			"addr": "Rx5ae1f",
+			"code": "8b542418 52 31c0 50 50 50 a1 8cd84e00"
 		}
 	},
 	"breakpoints": {
@@ -16,6 +20,12 @@
 		},
 		"file_loaded": {
 			"addr": "Rx5ccd8"
+		},
+		"music_title": {
+			"addr": "Rx5ae23"
+		},
+		"music_cmt": {
+			"addr": ["Rx5b065", "Rx5b12b"]
 		}
 	},
 	"tsa_font_block": [
