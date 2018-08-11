@@ -6,11 +6,15 @@
 		"sprintf_msvcrt14_esp+3c": {
 			"addr": "Rx73fe9"
 		},
+		"sprintf_msvcrt14_ebp-108": {
+			"addr": "Rx081a3"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx73df6", "Rx73e07",
 				"Rx73ec4", "Rx73f67", "Rx73f78",
-				"Rx74034", "Rx740bd"
+				"Rx74034", "Rx740bd",
+				"Rx081b1"
 			]
 		},
 		"music_title_prepare": {
