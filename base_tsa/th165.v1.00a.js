@@ -25,6 +25,12 @@
 		},
 		"center_align": {
 			"addr": "Rx74040"
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx5bf0d"
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx5bf5d"
 		}
 	},
 	"breakpoints": {

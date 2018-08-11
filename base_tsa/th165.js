@@ -8,6 +8,16 @@
 		"center_align": {
 			"code": "ff7518 56 e8[GetTextExtentForFontID] 83c003 c1e002 8bf0 8b442418 8b4c2414 8b542410 8b4c8808 8bc1 c1f808 8b9482f0f48401 0fb6c1 8d0c40 8b8224010000 8b542418 8b04c8 89442410 8b451c 03c0 8bce",
 			"title": "Correctly align centered text"
+		},
+		"trophy_ingame_lineflip_1": {
+			"title": "Flip the two lines in the new nickname popup (line #1)",
+			"code": "ffb3 40020000",
+			"ignore": true
+		},
+		"trophy_ingame_lineflip_2": {
+			"title": "Flip the two lines in the new nickname popup (line #2)",
+			"code": "ffb3 3c020000",
+			"ignore": true
 		}
 	},
 	"breakpoints": {
