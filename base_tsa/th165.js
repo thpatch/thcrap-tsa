@@ -77,6 +77,20 @@
 			"str": "eax",
 			"line": 0,
 			"cavesize": 6
+		},
+		"gentext#titlemsg_day": {
+			"file": "titlemsg.js",
+			"ids": ["[[[ebp-0x2C]+0x2cc18]]", 0],
+			"str": ["[ebp+0xC]", "[ebp+0x10]"],
+			"line": 0,
+			"cavesize": 5
+		},
+		"gentext#titlemsg_comment": {
+			"file": "titlemsg.js",
+			"ids": ["[[edi+0x2cc18]+0]", "[[edi+0x2cc18]+4]"],
+			"str": ["[ebp+0x8]", "[ebp+0xC]"],
+			"line": 0,
+			"cavesize": 5
 		}
 	}
 }
