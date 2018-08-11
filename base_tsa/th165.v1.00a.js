@@ -31,6 +31,9 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": "Rx5bf5d"
+		},
+		"titlemsg_emptylines": {
+			"addr": ["Rx58203", "Rx5843f"]
 		}
 	},
 	"breakpoints": {

@@ -18,6 +18,10 @@
 			"title": "Flip the two lines in the new nickname popup (line #2)",
 			"code": "ffb3 3c020000",
 			"ignore": true
+		},
+		"titlemsg_emptylines": {
+			"title": "Don't show empty day comment lines",
+			"code": "00"
 		}
 	},
 	"breakpoints": {
