@@ -72,6 +72,9 @@
 		},
 		"gentext#titlemsg_comment": {
 			"addr": "Rx58503"
+		},
+		"widest_string_f#day_comment": {
+			"addr": "Rx582fe"
 		}
 	},
 	"tsa_font_block": [

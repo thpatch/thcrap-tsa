@@ -95,6 +95,13 @@
 			"str": ["[ebp+0x8]", "[ebp+0xC]"],
 			"line": 0,
 			"cavesize": 5
+		},
+		"widest_string_f#day_comment": {
+			"font_id": 0,
+			"strs": ["[ebp+0xC]", "[ebp+0x10]"],
+			"correction_summand": "-56",
+			"width": "[ebp-8]",
+			"cavesize": 5
 		}
 	}
 }
