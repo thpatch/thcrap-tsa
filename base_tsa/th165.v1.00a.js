@@ -18,6 +18,9 @@
 		},
 		"spell_align": {
 			"addr": "Rx73ed0"
+		},
+		"center_align": {
+			"addr": "Rx74040"
 		}
 	},
 	"breakpoints": {
@@ -52,6 +55,7 @@
 		"Rx10f908",
 		"Rx10f900",
 		"Rx10f910",
-		"Rx10f8e0"
+		"Rx10f8e0",
+		"Rx10f80c"
 	]
 }
