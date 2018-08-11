@@ -54,6 +54,15 @@
 		},
 		"ruby_offset": {
 			"addr": ["Rx26c73", "Rx269f9"]
+		},
+		"gentext#trophy_result_desc": {
+			"addr": "Rx5c1eb"
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": ["Rx5a804"]
+		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx5bf37"
 		}
 	},
 	"tsa_font_block": [
