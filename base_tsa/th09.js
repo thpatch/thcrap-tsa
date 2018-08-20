@@ -39,7 +39,7 @@
 	"title": "東方花映塚　～ Phantasmagoria of Flower View",
 	"url_update": "http://kourindou.exblog.jp/1327589/",
 	"url_trial": "http://www16.big.or.jp/~zun/html/th09dl.html",
-	"latest": "v1.50a",
+	"latest": ["v0.02a", "v1.50a"],
 	"formats": {
 		"msg": "msg09",
 		"anm": "anm06"

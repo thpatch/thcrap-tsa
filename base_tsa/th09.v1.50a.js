@@ -10,10 +10,7 @@
 			"addr": "0x43be7d"
 		},
 		"sprintf_rep": {
-			"addr": [
-				"0x43be01",
-				"0x43beb2"
-			]
+			"addr": ["0x43be01", "0x43beb2"]
 		},
 		"sprintf_call_ebp-200": {
 			"addr": "Rx34341"
