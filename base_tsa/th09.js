@@ -34,6 +34,14 @@
 		"joy_config_fix": {
 			"code": "9056",
 			"title": "Poll the right joypad in pad config (non-DirectInput)"
+		},
+		"spell_copy_rem": {
+			"code": "894618 90909090909090",
+			"title": "Spell card patching, #1: Remove the useless copy to allow patching by replacing the pointer"
+		},
+		"spell_copy_rep": {
+			"code": "8b4618 50",
+			"title": "Spell card patching, #2: LEA → MOV, consistent register"
 		}
 	},
 	"title": "東方花映塚　～ Phantasmagoria of Flower View",
@@ -77,6 +85,12 @@
 			"line_num": "eax",
 			"str": "ecx",
 			"cavesize": "5"
+		},
+		"spell_name": {
+			"spell_id_real": "[[esi+8]+0x20]*10+[ebp+8]",
+			"spell_id": "[[esi+8]+0x20]*10",
+			"spell_name": "eax",
+			"cavesize": 5
 		}
 	}
 }

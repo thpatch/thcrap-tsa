@@ -47,6 +47,12 @@
 		},
 		"joy_config_fix": {
 			"addr": "Rx2b776"
+		},
+		"spell_copy_rem": {
+			"addr": ["Rx03f40", "Rx04013"]
+		},
+		"spell_copy_rep": {
+			"addr": ["Rx04244", "Rx042b1"]
 		}
 	},
 	"breakpoints": {
@@ -70,6 +76,9 @@
 		},
 		"music_cmt": {
 			"addr": "0x426e6f"
+		},
+		"spell_name": {
+			"addr": ["Rx03f40", "Rx04013"]
 		}
 	}
 }
