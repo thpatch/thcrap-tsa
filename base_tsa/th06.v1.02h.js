@@ -87,6 +87,18 @@
 		"sprite3d_unrotated_voodookill": {
 			"addr": "Rx33709"
 		},
+		"dialog_box_leftedge": {
+			"addr": ["Rx191ee", "Rx1927c"],
+			"code": "a1 88456d00 8d807c880100 d820 d8354ca44600 d805dcd66900 d825b4a24600 9090909090"
+		},
+		"dialog_box_rightedge_1": {
+			"addr": ["Rx19232", "Rx192c3"],
+			"code": "d820 90909090"
+		},
+		"dialog_box_rightedge_2": {
+			"addr": ["Rx19244", "Rx192d5"],
+			"code": "d800 90909090"
+		},
 		"ending_copy_rem": {
 			"addr": "Rx103f2"
 		},
