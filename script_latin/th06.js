@@ -1,3 +1,3 @@
 {
-	"font": "Aroania"
+	"font": "Arial"
 }
