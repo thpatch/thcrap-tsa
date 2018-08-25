@@ -81,6 +81,12 @@
 		"text_sprite_width": {
 			"addr": ["Rx34cd8", "Rx34d55", "Rx34dc7", "Rx34eb8", "Rx34f32", "Rx34fad"]
 		},
+		"text_scale_x": {
+			"addr": "Rx1f1c3"
+		},
+		"text_scale_y": {
+			"addr": "Rx1f1cd"
+		},
 		"sprite3d_rotated_voodookill": {
 			"addr": "Rx331ba"
 		},

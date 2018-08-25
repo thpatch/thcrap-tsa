@@ -82,6 +82,14 @@
 			"code": "30",
 			"title": "Calculate text alignment based on sprite width, not texture width"
 		},
+		"text_scale_x": {
+			"title": "Fix text scaling, #1: Correct width",
+			"code": "8d0400 90"
+		},
+		"text_scale_y": {
+			"title": "Fix text scaling, #2: Hardcode the DIB copy region height to 32, matching the hardcoded sprite copy region of 16 above",
+			"code": "c745a020000000"
+		},
 		"sprite3d_rotated_voodookill": {
 			"code": "83ef40 d907 d84a1c 8b8ac0000000 6800008043 d94118 d90424 def9 dec9 59 d91f d94218 d9e0 d84f14 d95f14 d902 d9ee ded9 dfe0 f6c444 7b23",
 			"title": "Correctly scale rotated sprites in 3D space from textures wider than 256 pixels"
