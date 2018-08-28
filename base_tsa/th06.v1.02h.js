@@ -118,6 +118,12 @@
 		},
 		"remove_score_cap": {
 			"addr": ["0x41b8b0", "0x41b8bc"]
+		},
+		"bosstitle_line_order#1": {
+			"addr": "Rx19545"
+		},
+		"bosstitle_line_order#2": {
+			"addr": "Rx1955c"
 		}
 	},
 	"breakpoints": {

@@ -109,6 +109,14 @@
 		"remove_score_cap": {
 			"title": "Don't cap the score at 999,999,990",
 			"code": "ffffff7f"
+		},
+		"bosstitle_line_order#1": {
+			"title": "Render the two boss title lines in the opposite order, #1: Name",
+			"code": "a02a0000"
+		},
+		"bosstitle_line_order#2": {
+			"title": "Render the two boss title lines in the opposite order, #2: Title",
+			"code": "90290000"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
