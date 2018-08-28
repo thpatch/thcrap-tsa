@@ -95,7 +95,7 @@
 			"title": "Correctly scale rotated sprites in 3D space from textures wider than 256 pixels"
 		},
 		"sprite3d_unrotated_voodookill": {
-			"code": "8b5508 8b8ac0000000 8dbd40ffffff 7414 d9412c d84a18 d9e8 d9e8 dec1 def9 d86f34 d95f34 8b8298000000 894738 d907 d84a1c 6800008043 d94118 d90424 def9 dec9 58 d91f 9090",
+			"code": "8b5508 8b8ac0000000 8dbd40ffffff 7414 d9412c d84a18 d9e8 d9e8 dec1 def9 d86f34 d95f34 8b8298000000 894738 d907 d84a1c 6800008043 d94118 d90424 def9 dec9 d91f d94218 d9e0 d84f14 d94114 d90424 def9 dec9 58 d95f14 90",
 			"title": "Correctly scale unrotated sprites in 3D space from textures wider than 256 pixels"
 		},
 		"ending_copy_rem": {
