@@ -88,7 +88,7 @@
 			"addr": "Rx1f1cd"
 		},
 		"sprite3d_rotated_voodookill": {
-			"addr": "Rx331ba"
+			"addr": "Rx33193"
 		},
 		"sprite3d_unrotated_voodookill": {
 			"addr": "Rx33709"
