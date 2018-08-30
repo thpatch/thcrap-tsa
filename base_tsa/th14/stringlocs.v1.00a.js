@@ -1,9 +1,27 @@
 {
+	"Rxc10cc": "Music Room Unknown Title",
 	"0x4c0fa8": "th10 Music Room spoiler 1",
 	"0x4c0fe4": "th10 Music Room spoiler 2",
 	"0x4c101c": "th10 Music Room spoiler 3",
 	"0x4c1048": "th10 Music Room spoiler 4",
 	"0x4c1084": "th10 Music Room spoiler 5",
 	"0x4c0ed0": "th10 Result Known Spell",
-	"0x4c0ee4": "th10 Result Unknown Spell"
+	"0x4c0ee4": "th10 Result Unknown Spell",
+	"Rxc10ec": "th13 spell nothing",
+	"Rxc1138": "th13 Spell Practice Unknown",
+	"Rxc1158": "th13_ascii_spell_score",
+	"Rxc1188": "th13_ascii_spell_unknown",
+	"Rxc116c": "th13_ascii_spell_game",
+	"Rxc0854": "th14_ascii_bonus",
+	"Rxc0860": "th14_ascii_no_bonus",
+	"Rxbffb4": "th10_ascii_stage_1",
+	"Rxbffbc": "th10_ascii_stage_2",
+	"Rxbffc4": "th10_ascii_stage_3",
+	"Rxbffcc": "th10_ascii_stage_4",
+	"Rxbffd4": "th10_ascii_stage_5",
+	"Rxbffdc": "th10_ascii_stage_6",
+	"Rxbffe4": "th10_ascii_stage_clear",
+	"Rxc0f58": "th10_ascii_score_empty",
+	"Rxc0140": "th10_ascii_ranking",
+	"Rxc019c": "th13_ascii_credit"
 }

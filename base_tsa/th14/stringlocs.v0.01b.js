@@ -1,4 +1,5 @@
 {
+	"Rxbc92c": "Music Room Unknown Title",
 	"0x4bc808": "th10 Music Room spoiler 1",
 	"0x4bc844": "th10 Music Room spoiler 2",
 	"0x4bc87c": "th10 Music Room spoiler 3",
