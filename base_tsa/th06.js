@@ -196,6 +196,66 @@
 			"str": "eax",
 			"format_id": "Music Room Numbered Title",
 			"cavesize": "6"
+		},
+		"textimage_set#stage": {
+			"cavesize": 9
+		},
+		"textimage_set#bossbgm": {
+			"cavesize": 9
+		},
+		"textimage_is_active#sttitle": {
+			"slots": "0x700",
+			"cavesize": 5
+		},
+		"textimage_is_active#stlogo": {
+			"slots": "ti_stlogo.png",
+			"cavesize": 5
+		},
+		"textimage_is_active#bgm": {
+			"slots": "0x701",
+			"cavesize": 5
+		},
+		"textimage_is_active#boss": {
+			"slots": ["0x704", "0x705"],
+			"cavesize": 5
+		},
+		"textimage_init": {
+			"images": {
+				"0x700": [{
+					"filename": "ti_sttitle.png",
+					"texture_slot": 47,
+					"sprite_w": 384,
+					"sprite_h": 16
+				}, {
+					"filename": "ti_stlogo.png",
+					"texture_slot": 47,
+					"sprite_w": 384,
+					"sprite_h": 48
+				}],
+				"0x701": {
+					"filename": "ti_bgm.png",
+					"texture_slot": 48,
+					"sprite_w": 384,
+					"sprite_h": 32,
+					"script": "00000104 01000000 00001700 0000110c +384.0f +416.0f +0.0f 78001310 -0.5f +415.5f 00000000 2d000000 a4011310 +0.0f +464.0f 00000000 1e000000 c2010000"
+				},
+				"0x704": {
+					"filename": "ti_bosstitle.png",
+					"texture_slot": 49,
+					"sprite_w": 384,
+					"sprite_h": 64,
+					"script": "00000104 04000000 0000110c +224.0f +352.0f +0.0f 00000304 00000000 00000c08 f0000000 3c000000 68010c08 00000000 3c000000 a4010000"
+				},
+				"0x705": {
+					"filename": "ti_bossname.png",
+					"texture_slot": 50,
+					"sprite_w": 384,
+					"sprite_h": 64,
+					"script": "00000104 05000000 0000110c +224.0f +352.0f +0.0f 00000304 00000000 00000c08 f0000000 3c000000 68010c08 00000000 3c000000 a4010000"
+				}
+			},
+			"groups": [["0x704", "0x705"]],
+			"cavesize": 5
 		}
 	}
 }

@@ -182,6 +182,41 @@
 		},
 		"th06_time_fix": {
 			"addr": "0x4208fb"
+		},
+		"textimage_set#stage": {
+			"addr": "Rx184fd",
+			"sprites": {
+				"0x700": "[Rx29d6d4] - 1",
+				"0x701": "([Rx29d6d4] - 1) * 2",
+				"0x704": "[Rx29d6d4] - 1",
+				"0x705": "[Rx29d6d4] - 1"
+			}
+		},
+		"textimage_set#bossbgm": {
+			"addr": "Rx18cf9",
+			"sprites": {
+				"0x701": "([Rx29d6d4] - 1) * 2 + 1"
+			}
+		},
+		"textimage_is_active#sttitle": {
+			"addr": "Rx18584"
+		},
+		"textimage_is_active#stlogo": {
+			"addr": ["Rx1ae99", "Rx1aec3", "Rx1aee4"]
+		},
+		"textimage_is_active#bgm": {
+			"addr": ["Rx185cf", "Rx18d6b"]
+		},
+		"textimage_is_active#boss": {
+			"addr": "Rx18e64"
+		},
+		"textimage_init": {
+			"addr": "Rx2047e",
+			"D3DXCreateTextureFromFileInMemoryEx": "0x4401c6",
+			"pD3DDevice": "[0x6c6d20]",
+			"TextureSlots": "[0x6d4588]+0x1c110",
+			"SpriteSpecs": "[0x6d4588]",
+			"SpriteScripts": "[0x6d4588]+0x1c934"
 		}
 	}
 }
