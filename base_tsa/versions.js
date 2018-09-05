@@ -101,6 +101,7 @@
 
 		"ff4f5e0d0a2dcbb071b3a1f0652e8b864146ba155466ba0c57445013edd951af": ["th165", "v1.00a", "(original)"],
 		"4ef283d9fdaef6f41a284813867cbb00dd4892532c0d4726da338e5bce64de01": ["th165", "v1.00a", "C key teleport mod"],
+		"f714fcf9ba44af81a4a144e410ec2729901440d00ced049591645f73826c8323": ["th165", "v1.00a", "(original, Steam release)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
@@ -229,6 +230,7 @@
 		"812400": ["th16", "v1.00a", "(original, Steam release)"],
 
 		"740352": ["th165", "v1.00a", "(original)"],
+		"887152": ["th16", "v1.00a", "(original, Steam release)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
