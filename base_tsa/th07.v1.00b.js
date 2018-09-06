@@ -47,6 +47,12 @@
 		},
 		"ending_copy_rep" : {
 			"addr": "Rx1e11d"
+		},
+		"bosstitle_line_order#1": {
+			"addr": "Rx2acfc"
+		},
+		"bosstitle_line_order#2": {
+			"addr": "Rx2ad13"
 		}
 	},
 	"breakpoints": {

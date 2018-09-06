@@ -22,6 +22,14 @@
 		},
 		"ending_copy_rem" : {
 			"code": "8955b0 803a00 742f 42 ff45ac ebf5 9090909090909090909090909090909090909090909090909090909090909090909090909090909090"
+		},
+		"bosstitle_line_order#1": {
+			"title": "Render the two boss title lines in the opposite order, #1: Name",
+			"code": "3c070200"
+		},
+		"bosstitle_line_order#2": {
+			"title": "Render the two boss title lines in the opposite order, #2: Title",
+			"code": "f0040200"
 		}
 	},
 	"title": "東方妖々夢　～ Perfect Cherry Blossom",
