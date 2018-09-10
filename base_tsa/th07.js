@@ -88,6 +88,33 @@
 			"str": "eax",
 			"format_id": "Music Room Note Title",
 			"cavesize": "6"
+		},
+		"textimage_set": {
+			"cavesize": 7
+		},
+		"textimage_is_active": {
+			"slots": ["0x702", "0x703"],
+			"cavesize": 5
+		},
+		"textimage_init": {
+			"images": {
+				"0x702": {
+					"filename": "ti_bosstitle.png",
+					"texture_slot": 50,
+					"sprite_w": 384,
+					"sprite_h": 64,
+					"script": "0300 0c00 00000000 02000000 0600 1400 00000000 +224.0f +352.0f +0.0f 0800 0c00 00000000 00000000 0f00 1000 00000000 f0000000 3c000000 0f00 1000 68010000 00000000 3c000000 0100 0800 a4010000 ffff"
+				},
+				"0x703": {
+					"filename": "ti_bossname.png",
+					"texture_slot": 51,
+					"sprite_w": 384,
+					"sprite_h": 64,
+					"script": "0300 0c00 00000000 03000000 0600 1400 00000000 +224.0f +352.0f +0.0f 0800 0c00 00000000 00000000 0f00 1000 00000000 f0000000 3c000000 0f00 1000 68010000 00000000 3c000000 0100 0800 a4010000 ffff"
+				}
+			},
+			"groups": [["0x702", "0x703"]],
+			"cavesize": 7
 		}
 	}
 }

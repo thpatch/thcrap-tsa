@@ -97,6 +97,24 @@
 				"0x43aab2",
 				"0x43b403"
 			]
+		},
+		"textimage_set": {
+			"addr": "Rx2a2d5",
+			"sprites": {
+				"0x702": "[Rx22f85c] - 1 + (([Rx22f85c] >= 5) * 2) + (([Rx22f85c] == 4) * (word ptr [[ebp-0x78]+0x1fe0c+0x1d4] - 0x4ad / 3))",
+				"0x703": "[Rx22f85c] - 1 + (([Rx22f85c] >= 5) * 2) + (([Rx22f85c] == 4) * (word ptr [[ebp-0x78]+0x1fe0c+0x1d4] - 0x4ad / 3))"
+			}
+		},
+		"textimage_is_active": {
+			"addr": "Rx2a339"
+		},
+		"textimage_init": {
+			"addr": "Rx3414c",
+			"D3DXCreateTextureFromFileInMemoryEx": "Rx62cf4",
+			"pD3DDevice": "[0x575958]",
+			"TextureSlots": "[0x4b9e44]+0x282ac",
+			"SpriteSpecs": "[0x4b9e44]+0x60",
+			"SpriteScripts": "[0x4b9e44]+0x28ef0"
 		}
 	}
 }
