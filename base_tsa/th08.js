@@ -5,7 +5,7 @@
 			"title": "Rearrange the assignment of the file size to the caller's pointer, so that we can set a breakpoint there"
 		},
 		"spell_align": {
-			"code": "ffb578ffffffe8[GetTextExtent]83c00450db04e4589090909090909090909090",
+			"code": "ffb574ffffff ffb578ffffff e8[GetTextExtentForFontID] 83c00450 db04e4 58 9090909090",
 			"title": "Spell card alignment"
 		},
 		"music_title_prepare": {

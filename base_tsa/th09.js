@@ -24,7 +24,7 @@
 			"code": "8945b0 803800 740c 40 47 ebf7 9090909090909090"
 		},
 		"menu_desc_align_1": {
-			"code": "83c40c 50 e8[GetTextExtent] d1e0 8bb724020000 ff76 3c d94618 8b4d14 909090909090909090",
+			"code": "83c40c ff750c 50 e8[GetTextExtentForFontID] d1e0 8bb724020000 ff76 3c d94618 8b4d14 909090909090",
 			"title": "Menu description alignment, #1: Calculate the correct length"
 		},
 		"menu_desc_align_2": {

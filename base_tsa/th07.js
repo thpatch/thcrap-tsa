@@ -1,7 +1,7 @@
 {
 	"binhacks": {
 		"boss_title_align": {
-			"code": "8b45b050e8[GetTextExtent]83c004503edb04e458909090909090",
+			"code": "ff75ac ff75b0 e8[GetTextExtentForFontID] 83c004 50 db04e4 58 9090909090",
 			"title": "Boss title alignment"
 		},
 		"spell_loop": {

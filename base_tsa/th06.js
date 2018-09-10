@@ -17,15 +17,15 @@
 			"title": "Fix buffer overflows (replace ECX)"
 		},
 		"right_align": {
-			"code": "8b45b050e8[GetTextExtent]83c004503edb04e458",
+			"code": "52 ff75b0 e8[GetTextExtentForFontID] 83c004 50 db04e4 58 90909090909090",
 			"title": "Correct right-alignment"
 		},
 		"spell_align": {
-			"code": "eb25909090909090909090909090909090909090909090909090909090909090909090909090908b450c50e8[GetTextExtent]503edb04e458eb0b",
+			"code": "eb23 9090909090909090909090909090909090909090909090909090909090909090909090 8b450c 6a0f 50 e8[GetTextExtentForFontID] 50 3edb04e4 58 eb0b",
 			"title": "Spell card and bomb text alignment"
 		},
 		"stage_title_align": {
-			"code": "8b451850e8[GetTextExtent]d1f883c004503edb04e458eb18",
+			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] d1f8 83c004 50 db04e4 58 eb17 9090",
 			"title": "Stage title alignment"
 		},
 		"spell_align_sillyness": {

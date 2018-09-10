@@ -7,7 +7,7 @@
 			"title": "Restore the game's built-in logging"
 		},
 		"menu_desc_align": {
-			"code": "ff75b0 e8[GetTextExtent] 83c008 d1e0 50 db04e4 58 90",
+			"code": "52 ff75ac ff75b0 e8[GetTextExtentForFontID] 8d440010 50 db04e4 58 59 89ca 90909090",
 			"title": "Menu description alignment"
 		},
 		"result_spell_align": {

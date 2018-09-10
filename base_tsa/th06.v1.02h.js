@@ -28,7 +28,7 @@
 			]
 		},
 		"right_align": {
-			"addr": "0x434d72"
+			"addr": "0x434d6c"
 		},
 		"spell_align": {
 			"addr": [
