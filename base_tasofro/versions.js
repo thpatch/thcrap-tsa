@@ -32,7 +32,9 @@
         "185b3ee84de981749bafe0fb7bf9b6f61c33617ef60a86c1648d5e4e9bc2301c": ["nsml",     "v1.00",  "(original)"],
         "2db975a408e260499d52126f25ecf2fbc529cad52d1bffc2a0b7ca2ff695f155": ["nsml",     "v1.10",  "(original)"],
 
-        "4a4749cf36c7b98f7ad9a4e73a88d13b319ffdf2b61e16230a36398eb2908380": ["megamari", "v1.00",  "(original)"]
+        "4a4749cf36c7b98f7ad9a4e73a88d13b319ffdf2b61e16230a36398eb2908380": ["megamari", "v1.00",  "(original)"],
+
+        "999380a169e2aa60d54f7d9234be3cfeda877da165e4f7ec01b1ae334b4c5dd0": ["marilega", "v1.10",  "(original)"]
     },
     "sizes": {
         "2977792": ["th105",    "v1.02",  "(original)"],
@@ -62,6 +64,8 @@
         "1191424": ["nsml",     "v1.00",  "(original)"],
         "1193984": ["nsml",     "v1.10",  "(original)"],
 
-        "860160":  ["megamari", "v1.00",  "(original)"]
+        "860160":  ["megamari", "v1.00",  "(original)"],
+
+        "2358272": ["marilega", "v1.10",  "(original)"]
     }
 }
