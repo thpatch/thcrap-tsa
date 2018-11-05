@@ -117,6 +117,9 @@
 				"Rx28e24",
 				"Rx2904c"
 			]
+		},
+		"bgmmod_tranceseek_byte_offset": {
+			"addr": "Rx76bf4"
 		}
 	},
 	"tsa_font_block": [

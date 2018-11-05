@@ -112,6 +112,10 @@
 			"str": "ebx",
 			"offset": "eax",
 			"cavesize": "5"
+		},
+		"bgmmod_tranceseek_byte_offset": {
+			"offset": "eax",
+			"cavesize": 6
 		}
 	}
 }

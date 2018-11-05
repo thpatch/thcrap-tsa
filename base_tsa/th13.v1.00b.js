@@ -16,6 +16,9 @@
 		},
 		"file_loaded": {
 			"addr": "0x457fff"
+		},
+		"bgmmod_tranceseek_byte_offset": {
+			"addr": "Rx76c24"
 		}
 	}
 }
