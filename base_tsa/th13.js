@@ -113,9 +113,13 @@
 			"offset": "eax",
 			"cavesize": "5"
 		},
-		"bgmmod_tranceseek_byte_offset": {
-			"offset": "eax",
-			"cavesize": 6
+		"bgmmod_tranceseek_byte_offset#regular": {
+			"offset": "ecx",
+			"cavesize": 8
+		},
+		"bgmmod_tranceseek_byte_offset#looped": {
+			"offset": "edi",
+			"cavesize": 9
 		}
 	}
 }

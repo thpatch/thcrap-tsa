@@ -17,8 +17,11 @@
 		"file_loaded": {
 			"addr": "0x457c2f"
 		},
-		"bgmmod_tranceseek_byte_offset": {
-			"addr": "Rx767d4"
+		"bgmmod_tranceseek_byte_offset#regular": {
+			"addr": "Rx76840"
+		},
+		"bgmmod_tranceseek_byte_offset#looped": {
+			"addr": "Rx7687a"
 		}
 	}
 }

@@ -118,8 +118,11 @@
 				"Rx2904c"
 			]
 		},
-		"bgmmod_tranceseek_byte_offset": {
-			"addr": "Rx76bf4"
+		"bgmmod_tranceseek_byte_offset#regular": {
+			"addr": "Rx76c60"
+		},
+		"bgmmod_tranceseek_byte_offset#looped": {
+			"addr": "Rx76c9a"
 		}
 	},
 	"tsa_font_block": [
