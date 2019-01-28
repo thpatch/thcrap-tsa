@@ -1,4 +1,5 @@
 {
+	"plugin":        "bmpfont_create_gdiplus",
 	"font_file":     "THBiolinum.ttf",
 	"font_name":     "Touhou Biolinum",
 	"font_size":     34,
