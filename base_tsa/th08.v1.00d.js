@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"antitamper_remove_check": {
+			"addr": "Rx0bb80"
+		},
 		"file_size_for_caller_rearrange": {
 			"addr": "Rx3e6f0"
 		},

@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"antitamper_remove_check": {
+			"addr": "Rx04fe0"
+		},
 		"sprintf_call_ebp-50": {
 			"addr": [
 				"0x4542f1",
