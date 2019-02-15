@@ -145,6 +145,12 @@
 		"th06_file_loaded": {
 			"cavesize": "7"
 		},
+		"gentext#stage_title": {
+			"file": "stages.js",
+			"line": 0,
+			"str": "eax",
+			"cavesize": 8
+		},
 		"spell_name": {
 			"spell_id": "ecx",
 			"spell_name": "eax",

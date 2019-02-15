@@ -141,6 +141,10 @@
 		"th06_file_loaded": {
 			"addr": "0x43ce19"
 		},
+		"gentext#stage_title": {
+			"addr": "Rx1856a",
+			"ids": "[0x69d6d4]"
+		},
 		"spell_name": {
 			"addr": "0x40962b"
 		},
