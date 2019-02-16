@@ -39,11 +39,11 @@
 		"stage_title_align": {
 			"addr": "0x434f3c"
 		},
-		"spell_align_sillyness": {
-			"addr": [
-				"0x41affc",
-				"0x41b0b0"
-			]
+		"bomb_bg_pos": {
+			"addr": "0x41affc"
+		},
+		"spell_bg_pos": {
+			"addr": "0x41b0b0"
 		},
 		"spell_prepare": {
 			"addr": "0x407509"

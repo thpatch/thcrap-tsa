@@ -28,9 +28,13 @@
 			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] d1f8 83c004 50 db04e4 58 eb17 9090",
 			"title": "Stage title alignment"
 		},
-		"spell_align_sillyness": {
-			"code": "909090909090909090909090",
-			"title": "Fix spell align sillyness"
+		"bomb_bg_pos": {
+			"code": "d9e8 d9e8 dec1 dcf9 8b7624 d94630 d9e0 def1 dec1 90909090",
+			"title": "Correctly derive the position of the bomb background box"
+		},
+		"spell_bg_pos": {
+			"code": "d9e8 d9e8 dec1 dcf9 8b7624 d94630 def1 dee1 909090909090",
+			"title": "Correctly derive the position of the spell card background box"
 		},
 		"spell_prepare": {
 			"code": "8b75e489f183c10c894de80fbf460490",
