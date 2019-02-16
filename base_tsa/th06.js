@@ -20,9 +20,9 @@
 			"code": "52 ff75b0 e8[GetTextExtentForFontID] 83c004 50 db04e4 58 90909090909090",
 			"title": "Correct right-alignment"
 		},
-		"spell_align": {
+		"spell_bg_width": {
 			"code": "eb23 9090909090909090909090909090909090909090909090909090909090909090909090 8b450c 6a0f 50 e8[GetTextExtentForFontID] 50 3edb04e4 58 eb0b",
-			"title": "Spell card and bomb text alignment"
+			"title": "Calculate the correct width of the player and boss spell card background boxes"
 		},
 		"stage_title_align": {
 			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] d1f8 83c004 50 db04e4 58 eb17 9090",

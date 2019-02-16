@@ -30,7 +30,7 @@
 		"right_align": {
 			"addr": "0x434d6c"
 		},
-		"spell_align": {
+		"spell_bg_width": {
 			"addr": [
 				"0x417b92",
 				"0x417cc8"
