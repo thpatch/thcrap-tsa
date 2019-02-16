@@ -21,7 +21,7 @@
 			"title": "Correct right-alignment"
 		},
 		"spell_bg_width": {
-			"code": "eb23 9090909090909090909090909090909090909090909090909090909090909090909090 8b450c 6a0f 50 e8[GetTextExtentForFontID] 50 3edb04e4 58 eb0b",
+			"code": "eb23 9090909090909090909090909090909090909090909090909090909090909090909090 8b450c 6a0f 50 e8[GetTextExtentForFontID] 83c0 04 50 3edb04e4 58 eb08 9090909090909090",
 			"title": "Calculate the correct width of the player and boss spell card background boxes"
 		},
 		"stage_title_align": {
