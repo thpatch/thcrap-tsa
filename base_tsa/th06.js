@@ -20,21 +20,27 @@
 			"code": "52 ff75b0 e8[GetTextExtentForFontID] 83c004 50 db04e4 58 90909090909090",
 			"title": "Correct right-alignment"
 		},
-		"spell_bg_width": {
-			"code": "eb23 9090909090909090909090909090909090909090909090909090909090909090909090 8b450c 6a0f 50 e8[GetTextExtentForFontID] 83c0 04 50 3edb04e4 58 eb08 9090909090909090",
+		"spell_draw_leftaligned": {
+			"title": "Draw boss spell cards left-aligned rather than right-aligned, since we right-align the position of the reduced sprite instead"
+		},
+		"spell_width": {
+			"code": "8b450c 6a0f 50 e8[GetTextExtentForFontID] 83c004 50 3edb04e4 58 8b4df4 8b89c0000000 d94118 d8d1 dfe0 f6c401 7402 d9c9 ddd8 d9510c d95130 d9c0 d94118 def9 d95924 909090909090",
 			"title": "Calculate the correct width of the player and boss spell card background boxes"
 		},
 		"stage_title_align": {
 			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] d1f8 83c004 50 db04e4 58 eb17 9090",
 			"title": "Stage title alignment"
 		},
-		"bomb_bg_pos": {
-			"code": "d9e8 d9e8 dec1 dcf9 8b7624 d94630 d9e0 def1 dec1 90909090",
-			"title": "Correctly derive the position of the bomb background box"
+		"bomb_pos": {
+			"code": "68 +0.5f d90424 59 8b5804 8db374200000 8dbb94220000 8b4e30 53 ff36 d94130 d94118 d9c1 d8cb dee9 d82e d91e a5 a5 a5 8d76f4 d94008 dee9 dec9 d806 89d8 909090909090909090",
+			"title": "Correctly align the position of the bomb name sprites"
 		},
-		"spell_bg_pos": {
-			"code": "d9e8 d9e8 dec1 dcf9 8b7624 d94630 def1 dee1 909090909090",
-			"title": "Correctly derive the position of the spell card background box"
+		"spell_pos": {
+			"code": "68 +0.5f d90424 59 8b5804 8db384210000 8dbba4230000 8b4e30 53 ff36 d94130 d94118 d9c1 d8cb dee9 d806 d91e a5 a5 a5 8d76f4 d9400c dee9 dec9 d806 89d8 909090909090909090",
+			"title": "Correctly align the position of the spell card name sprites"
+		},
+		"spell_pos_reset": {
+			"title": "Reset the bomb/spell card name sprite position after the sprite rendering call to the unmanipulated one to avoid animation glitches"
 		},
 		"spell_prepare": {
 			"code": "8b75e489f183c10c894de80fbf460490",

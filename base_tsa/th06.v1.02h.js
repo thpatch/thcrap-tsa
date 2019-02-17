@@ -30,7 +30,11 @@
 		"right_align": {
 			"addr": "0x434d6c"
 		},
-		"spell_bg_width": {
+		"spell_draw_leftaligned": {
+			"addr": "0x417cc1",
+			"code": "9bce0100"
+		},
+		"spell_width": {
 			"addr": [
 				"0x417b92",
 				"0x417cc8"
@@ -39,11 +43,15 @@
 		"stage_title_align": {
 			"addr": "0x434f3c"
 		},
-		"bomb_bg_pos": {
-			"addr": "0x41affc"
+		"bomb_pos": {
+			"addr": "0x41afd8"
 		},
-		"spell_bg_pos": {
-			"addr": "0x41b0b0"
+		"spell_pos": {
+			"addr": "0x41b08c"
+		},
+		"spell_pos_reset": {
+			"addr": ["0x41b056", "0x41b104"],
+			"code": "bbd02a4300 ffd3 8d8670ffffff 50 8b0d 88456d00 ffd3 8f06 5b 909090"
 		},
 		"spell_prepare": {
 			"addr": "0x407509"
