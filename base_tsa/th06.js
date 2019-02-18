@@ -54,6 +54,14 @@
 			"code": "89c1c1e10681c1e8bc6900516a0068ffffff00",
 			"title": "Remove English patch spell translation lookup in the Result screen"
 		},
+		"result_spell_cap_pos_1": {
+			"code": "ff30 68 +472.0f d80424 59 90",
+			"title": "(Result screen) Move the capture rate to the right to match the maximum on-screen spell card length (#1: Save original coordinate and move)"
+		},
+		"result_spell_cap_pos_2": {
+			"code": "8f00 9090909090909090909090909090",
+			"title": "(Result screen) Move the capture rate to the right to match the maximum on-screen spell card length (#2: Restore)"
+		},
 		"set_png_buff_size": {
 			"code": "baffffff7f90",
 			"title": "Remove a buffer overflow check in PNG reading (because we usually provide a bigger buffer)"

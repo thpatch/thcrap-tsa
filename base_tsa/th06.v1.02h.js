@@ -62,6 +62,12 @@
 		"unpatch_result_spell": {
 			"addr": "0x42e2a9"
 		},
+		"result_spell_cap_pos_1": {
+			"addr": "0x42eb18"
+		},
+		"result_spell_cap_pos_2": {
+			"addr": "0x42eb67"
+		},
 		"set_png_buff_size": {
 			"addr": [
 				"0x4319dc",
