@@ -168,6 +168,7 @@
 		},
 		"spell_name#result": {
 			"spell_id_real": "eax",
+			"spell_id": "eax",
 			"spell_name": "ecx",
 			"cavesize": "8"
 		},
