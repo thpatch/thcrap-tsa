@@ -40,7 +40,7 @@
 				"0x417cc8"
 			]
 		},
-		"stage_title_align": {
+		"center_align": {
 			"addr": "0x434f3c"
 		},
 		"bomb_pos": {

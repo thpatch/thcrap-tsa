@@ -17,7 +17,7 @@
 			"title": "Fix buffer overflows (replace ECX)"
 		},
 		"right_align": {
-			"code": "52 ff75b0 e8[GetTextExtentForFontID] 83c004 50 db04e4 58 90909090909090",
+			"code": "52 ff75b0 e8[GetTextExtentForFontID] 83c002 50 db04e4 58 90909090909090",
 			"title": "Correct right-alignment"
 		},
 		"spell_draw_leftaligned": {
@@ -27,9 +27,9 @@
 			"code": "8b450c 6a0f 50 e8[GetTextExtentForFontID] 83c004 50 3edb04e4 58 8b4df4 8b89c0000000 d94118 d8d1 dfe0 f6c401 7402 d9c9 ddd8 d9510c d95130 d9c0 d94118 def9 d95924 909090909090",
 			"title": "Calculate the correct width of the player and boss spell card background boxes"
 		},
-		"stage_title_align": {
-			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] d1f8 83c004 50 db04e4 58 eb17 9090",
-			"title": "Stage title alignment"
+		"center_align": {
+			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] 83c002 d1f8 50 db04e4 58 eb17 9090",
+			"title": "Correct center-alignment"
 		},
 		"bomb_pos": {
 			"code": "68 +0.5f d90424 59 8b5804 8db374200000 8dbb94220000 8b4e30 53 ff36 d94130 d94118 d9c1 d8cb dee9 d82e d91e a5 a5 a5 8d76f4 d94008 dee9 dec9 d806 89d8 909090909090909090",
