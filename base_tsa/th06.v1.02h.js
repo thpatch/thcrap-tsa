@@ -139,6 +139,9 @@
 		"bosstitle_line_order#2": {
 			"addr": "Rx1955c"
 		},
+		"result_rank_format": {
+			"addr": "Rx2d4a4", "code": "6800b94700 e8a241"
+		},
 		"result_shottype_leftalign_1": {
 			"addr": "Rx2bd16", "code": "468e"
 		},
