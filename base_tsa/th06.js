@@ -135,6 +135,18 @@
 		"bosstitle_line_order#2": {
 			"title": "Render the two boss title lines in the opposite order, #2: Title",
 			"code": "90290000"
+		},
+		"result_shottype_leftalign_1": {
+			"title": "Work around broken shot type centering in the result screen by just rendering them left-aligned (for now) (#1)"
+		},
+		"result_shottype_leftalign_2": {
+			"title": "Work around broken shot type centering in the result screen by just rendering them left-aligned (for now) (#2)"
+		},
+		"result_shottype_leftalign_3": {
+			"title": "Work around broken shot type centering in the result screen by just rendering them left-aligned (for now) (#3)"
+		},
+		"result_shottype_leftalign_4": {
+			"title": "Work around broken shot type centering in the result screen by just rendering them left-aligned (for now) (#4)"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",

@@ -138,6 +138,18 @@
 		},
 		"bosstitle_line_order#2": {
 			"addr": "Rx1955c"
+		},
+		"result_shottype_leftalign_1": {
+			"addr": "Rx2bd16", "code": "468e"
+		},
+		"result_shottype_leftalign_2": {
+			"addr": "Rx2bd5b", "code": "018e"
+		},
+		"result_shottype_leftalign_3": {
+			"addr": "Rx2e0cf", "code": "8d6a"
+		},
+		"result_shottype_leftalign_4": {
+			"addr": "Rx2e0fc", "code": "606a"
 		}
 	},
 	"breakpoints": {
