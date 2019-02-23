@@ -94,6 +94,9 @@
 		"ruby_offset": {
 			"font_dialog": 0,
 			"font_ruby": 2
+		},
+		"ascii_params": {
+			"cavesize": 5
 		}
 	}
 }

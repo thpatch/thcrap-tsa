@@ -139,6 +139,8 @@
 		"bosstitle_line_order#2": {
 			"addr": "Rx1955c"
 		},
+		"ascii_patch_1": { "addr": "Rx1667" },
+		"ascii_patch_2": { "addr": "Rx1694" },
 		"result_rank_format": {
 			"addr": "Rx2d4a4", "code": "6800b94700 e8a241"
 		},
@@ -250,6 +252,10 @@
 			"TextureSlots": "[0x6d4588]+0x1c110",
 			"SpriteSpecs": "[0x6d4588]",
 			"SpriteScripts": "[0x6d4588]+0x1c934"
+		},
+		"ascii_params": {
+			"addr": "Rx23aa9",
+			"ClassPtr": "0x47b900"
 		}
 	}
 }

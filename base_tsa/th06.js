@@ -136,6 +136,14 @@
 			"title": "Render the two boss title lines in the opposite order, #2: Title",
 			"code": "90290000"
 		},
+		"ascii_patch_1": {
+			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#1: Call, and write the inner function)",
+			"code": "50 ff7510 ff750c e80b000000 83c00f 50 e8[ascii_vpatchf] eb1d | 8b0424 c3 | ff74240c ff74240c 8b4c240c 90"
+		},
+		"ascii_patch_2": {
+			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#2: Return from the inner function)",
+			"code": "c3 909090909090"
+		},
 		"result_rank_format": {
 			"title": "Run the Result rank string through the variadic ASCII printing function"
 		},
@@ -296,6 +304,10 @@
 			},
 			"groups": [["0x704", "0x705"]],
 			"cavesize": 5
+		},
+		"ascii_params": {
+			".Scale": "0x6228",
+			"CharWidth": 14.0
 		}
 	}
 }
