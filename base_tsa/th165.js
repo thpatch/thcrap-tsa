@@ -106,6 +106,10 @@
 			"correction_summand": "-56",
 			"width": "[ebp-8]",
 			"cavesize": 5
+		},
+		"ascii_params": {
+			".Scale": "0x1c914",
+			"CharWidth": 9.0
 		}
 	}
 }

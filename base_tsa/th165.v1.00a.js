@@ -38,6 +38,10 @@
 		},
 		"titlemsg_emptylines": {
 			"addr": ["Rx58203", "Rx5843f"]
+		},
+		"ascii_patch": {
+			"addr": "Rx819f",
+			"code": "ff7514 ff7510 68b1814000 e8 [ascii_vpatchf] eb18 ff74240c 89e0 ff74240c 8b4c240c 50 e8bbfdffff c3 909090"
 		}
 	},
 	"breakpoints": {
@@ -79,6 +83,10 @@
 		},
 		"widest_string_f#day_comment": {
 			"addr": "Rx582fe"
+		},
+		"ascii_params": {
+			"addr": "Rx37fac",
+			"ClassPtr": "[Rxb54f8]"
 		}
 	},
 	"tsa_font_block": [

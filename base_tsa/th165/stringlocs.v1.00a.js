@@ -31,5 +31,10 @@
 	"Rx9cef4": "th165_ascii_replay_fri3",
 	"Rx9cefc": "th165_ascii_replay_sat3",
 	"Rx9cf04": "th165_ascii_replay_diary",
-	"Rx9cf38": "th165_ascii_replay_empty"
+	"Rx9cf18": "th165_ascii_replay_save",
+	"Rx9cf38": "th165_ascii_replay_save_empty",
+	"Rx9d8ac": "th165_ascii_replay_number",
+	"Rx9d8e0": "th165_ascii_replay_number_empty",
+	"Rx9d918": "th165_ascii_replay_user",
+	"Rx9d948": "th165_ascii_replay_user_empty"
 }
