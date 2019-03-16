@@ -92,6 +92,10 @@
 		"antitamper_remove_check": {
 			"title": "Don't quit the game on an invalid anti-tampering checksum",
 			"code": "33c0 c3"
+		},
+		"hud_force_redraw": {
+			"title": "Redraw the HUD every frame, because we might be drawing TL notes there",
+			"code": "eb"
 		}
 	},
 	"breakpoints": {

@@ -155,6 +155,9 @@
 		},
 		"result_shottype_leftalign_4": {
 			"addr": "Rx2e0fc", "code": "606a"
+		},
+		"hud_force_redraw": {
+			"addr": "Rx19f81"
 		}
 	},
 	"breakpoints": {

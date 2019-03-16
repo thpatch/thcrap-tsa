@@ -60,6 +60,9 @@
 		},
 		"ending_copy_rep" : {
 			"addr": "Rx2934b"
+		},
+		"hud_force_redraw": {
+			"addr": "Rx365bd"
 		}
 	},
 	"breakpoints": {

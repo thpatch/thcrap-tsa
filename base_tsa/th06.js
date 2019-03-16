@@ -158,6 +158,9 @@
 		},
 		"result_shottype_leftalign_4": {
 			"title": "Work around broken shot type centering in the result screen by just rendering them left-aligned (for now) (#4)"
+		},
+		"hud_force_redraw": {
+			"code": "909090909090"
 		}
 	},
 	"title": "東方紅魔郷　～ the Embodiment of Scarlet Devil",

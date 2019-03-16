@@ -56,6 +56,9 @@
 		},
 		"bosstitle_line_order#2": {
 			"addr": "Rx2ad13"
+		},
+		"hud_force_redraw": {
+			"addr": "Rx2b677"
 		}
 	},
 	"breakpoints": {
