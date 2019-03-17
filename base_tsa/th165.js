@@ -111,5 +111,10 @@
 			".Scale": "0x1c914",
 			"CharWidth": 9.0
 		}
+	},
+	"tlnotes": {
+		"region_size": [576, 240],
+		"region_topleft": [448, 112],
+		"valign": "top"
 	}
 }

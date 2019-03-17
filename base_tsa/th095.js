@@ -99,5 +99,10 @@
 			"str": "edx",
 			"cavesize": 6
 		}
+	},
+	"tlnotes": {
+		"region_size": [184, 476],
+		"region_topleft": [1064, 160],
+		"valign": "top"
 	}
 }

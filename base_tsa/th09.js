@@ -92,5 +92,11 @@
 			"spell_name": "eax",
 			"cavesize": 5
 		}
+	},
+	"tlnotes": {
+		"region_size": [1024, 192],
+		"region_topleft": [128, 160],
+		"font": "'MS Gothic' 48 0 400 DEFAULT_QUALITY",
+		"valign": "top"
 	}
 }

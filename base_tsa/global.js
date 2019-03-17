@@ -106,5 +106,10 @@
 		"ascii_params": {
 			"cavesize": 5
 		}
+	},
+	"tlnotes": {
+		"reference_resolution": [1280, 960],
+		"font": "'MS Gothic' 32 0 400 DEFAULT_QUALITY",
+		"valign": "bottom"
 	}
 }

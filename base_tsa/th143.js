@@ -132,5 +132,10 @@
 			"line": 0,
 			"cavesize": 5
 		}
+	},
+	"tlnotes": {
+		"region_size": [576, 240],
+		"region_topleft": [448, 112],
+		"valign": "top"
 	}
 }

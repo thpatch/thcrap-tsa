@@ -116,5 +116,9 @@
 			"groups": [["0x702", "0x703"]],
 			"cavesize": 7
 		}
+	},
+	"tlnotes": {
+		"region_size": [384, 512],
+		"region_topleft": [864, 416]
 	}
 }

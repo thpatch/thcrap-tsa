@@ -121,5 +121,9 @@
 			"offset": "edi",
 			"cavesize": 9
 		}
+	},
+	"tlnotes": {
+		"region_size": [400, 354],
+		"region_topleft": [856, 574]
 	}
 }

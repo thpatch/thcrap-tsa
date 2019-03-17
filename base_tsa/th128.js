@@ -86,5 +86,10 @@
 			"offset": "eax",
 			"cavesize": "5"
 		}
+	},
+	"tlnotes": {
+		"region_size": [184, 448],
+		"region_topleft": [1056, 484],
+		"valign": "bottom"
 	}
 }

@@ -113,5 +113,9 @@
 		"offset": 4,
 		"min": 0,
 		"max": 8
+	},
+	"tlnotes": {
+		"region_size": [400, 354],
+		"region_topleft": [856, 574]
 	}
 }

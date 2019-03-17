@@ -37,5 +37,9 @@
 			"spell_name": "eax",
 			"cavesize": "6"
 		}
+	},
+	"tlnotes": {
+		"region_size": [224, 448],
+		"region_topleft": [16, 464]
 	}
 }

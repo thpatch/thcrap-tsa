@@ -147,5 +147,9 @@
 			"format_id": "Music Room Numbered Title",
 			"cavesize": "5"
 		}
+	},
+	"tlnotes": {
+		"region_size": [384, 264],
+		"region_topleft": [864, 664]
 	}
 }
