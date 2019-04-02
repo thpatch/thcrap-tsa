@@ -117,7 +117,7 @@
 					"cavesize": 6
 				},
 				"init_next_stage#game": {
-					"addr": "Rx145333",
+					"addr": "Rx125333",
 					"cavesize": 5
 				}
 			}
