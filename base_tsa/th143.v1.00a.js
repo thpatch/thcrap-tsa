@@ -152,5 +152,38 @@
 		"Rx140e1c",
 		"Rx140dfc",
 		"Rx140df8"
+	],
+	"init_stages": [
+		{
+			"binhacks": {
+				"steamstub_crack": {
+					"title": "Crack SteamStub by disabling its integrity check",
+					"addr": "Rx146423",
+					"code": "eb",
+					"expected": "74"
+				}
+			},
+			"breakpoints": {
+				"init_next_stage#1": {
+					"addr": "Rx147046",
+					"module": "eax",
+					"cavesize": 6
+				},
+				"init_next_stage#game": {
+					"addr": "Rx125333",
+					"cavesize": 5
+				}
+			}
+		},
+		{
+			"The addresses here are relative to": "SteamDRMP.dll",
+			"binhacks": {
+				"steamdrm_crack": {
+					"title": "Crack SteamDRM: Remove all communication with the Steam client",
+					"addr": "Rx6780",
+					"code": "90909090909090909090 b030 88450b e9"
+				}
+			}
+		}
 	]
 }

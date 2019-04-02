@@ -157,9 +157,11 @@
 		"916fd3feb8d4a2c1df1d52869913e56185f4a4b8ba24365da05135ac83a09ccd": ["th14_custom", "v1.00bp", "(original, Playism)"],
 
 		"1cd8c59991a9c36f508d80ad9ab9d7479e742139e9b1e1f50c08d4ecfa2f17f7": ["th143_custom", "v1.00a", "(original)"],
+		"0b10dec9faaea9240fbdb821cd2cbe7dfbdb312070f3caa791f727ff58fa29ef": ["th143", "v1.00a", "(original, Steam release)"],
 
 		"19ecb186f031fc40ed60b6a80a587e957e2add5289d02d2e02e47820efcf44e5": ["th15_custom", "v0.01b", "(original, web trial)"],
 		"b3dc4ac8879d2c4d16cc611d2daeea6b6d9fe624a7b4a48806989ccefa377963": ["th15_custom", "v1.00a", "(original)"],
+		"c31552dbf34a4137e2a1fe066732557e92cbc307261c6ef148a8966181968edc": ["th15", "v1.00b", "(original, Steam release)"],
 
 		"81b637d2e0305b1dbf01c32dfb12eea5cd102a912e82021b4cea3d4111754cc5": ["th16_custom", "v0.01a", "(original)"],
 		"000a65acf850e6bcc383dba3a4e735c07fc0a44994adcffa00318e79b9b320f4": ["th16_custom", "v1.00a", "(original)"],
@@ -220,10 +222,12 @@
 		"896000": ["th14", "v1.00bp", "(original, Playism)"],
 
 		"939008": ["th143", "v1.00a", "(original)"],
+		"1086320": ["th143", "v1.00a", "(original, Steam release)"],
 
 		"927232": ["th15", "v0.01a", "(original, Reitaisai trial)"],
 		"938496": ["th15", "v0.01b", "(original, web trial)"],
 		"951808": ["th15", "v1.00b", "(original)"],
+		"1099120": ["th15", "v1.00b", "(original, Steam release)"],
 
 		"652800": ["th16", "v0.01a", "(original)"],
 		"683520": ["th16", "v1.00a", "(original)"],
