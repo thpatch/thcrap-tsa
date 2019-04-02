@@ -230,7 +230,7 @@
 		"812400": ["th16", "v1.00a", "(original, Steam release)"],
 
 		"740352": ["th165", "v1.00a", "(original)"],
-		"887152": ["th16", "v1.00a", "(original, Steam release)"],
+		"887152": ["th165", "v1.00a", "(original, Steam release)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
