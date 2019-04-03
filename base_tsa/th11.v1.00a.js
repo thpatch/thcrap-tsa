@@ -43,6 +43,10 @@
 			"addr": "Rx35233",
 			"code": "85c0 7412 51 d980c4030000 d91c24 e88a3c0200 d95e30 33c0 5e c20400",
 			"expected": "51 d980c4030000 d91c24 e88e3c0200 d95e30 33c0 5e c20400 cccccccc"
+		},
+		"fix_extra_stage_relocking": {
+			"addr": "Rxede8",
+			"code": "08 94 01 eadd0200"
 		}
 	},
 	"breakpoints": {
