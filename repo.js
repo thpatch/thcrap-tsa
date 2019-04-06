@@ -2,7 +2,7 @@
 	"contact": "thcrap@nmlgc.net",
 	"id": "nmlgc",
 	"neighbors": [
-		"http://srv.thpatch.net"
+		"https://srv.thpatch.net"
 	],
 	"patches": {
 		"aero": "Enable Aero compositing",
