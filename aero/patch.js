@@ -4,8 +4,7 @@
 	],
 	"id": "aero",
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/aero/",
-		"http://mirrors.thpatch.net/nmlgc/aero/"
+		"https://mirrors.thpatch.net/nmlgc/aero/"
 	],
 	"title": "Enable Aero compositing"
 }

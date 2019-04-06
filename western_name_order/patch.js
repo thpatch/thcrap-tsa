@@ -4,8 +4,7 @@
 	],
 	"id": "western_name_order",
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/nmlgc/western_name_order/",
-		"http://mirrors.thpatch.net/nmlgc/western_name_order/"
+		"https://mirrors.thpatch.net/nmlgc/western_name_order/"
 	],
 	"title": "Western name order"
 }
