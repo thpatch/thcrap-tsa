@@ -1,5 +1,6 @@
 {
     "hashes": {
+        "a250686998ea4d095ecb9bddf6b05f773aea646e1934386d3ad32871bfdd44c1": ["th105",    "v1.00",  "(original)"],
         "a9ac2868f69186713bf8ae5d2be3bf6f9174c11da4b46a134e49197925542b0a": ["th105",    "v1.01",  "(original)"],
         "db9e0df93ac17b9f9bb65bd08a69b6cea58427e87c532d8fb391c91b145e1d11": ["th105",    "v1.02",  "(original)"],
         "8d623dcd734f2cfd8d3454bc2557137a3d2b07c39641fe3239e1bc32dde3cccb": ["th105",    "v1.03",  "(original)"],
@@ -37,6 +38,7 @@
         "999380a169e2aa60d54f7d9234be3cfeda877da165e4f7ec01b1ae334b4c5dd0": ["marilega", "v1.10",  "(original)"]
     },
     "sizes": {
+        "2961408": ["th105",    "v1.00",  "(original)"],
         "2977792": ["th105",    "v1.02",  "(original)"],
         "3084288": ["th105",    "v1.03",  "(original)"],
         "3039232": ["th105",    "v1.06",  "(original)"],
