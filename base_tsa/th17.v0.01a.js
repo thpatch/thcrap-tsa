@@ -41,6 +41,10 @@
 			"addr": "Rx5dec9",
 			"code": "90 90 90 90 90",
 			"comment": "This value was pushed in the trophy_remove_copy_and_push_result binhack"
+		},
+		"music_title_prepare": {
+			"addr": "Rx5c56f",
+			"code": "8b542414 52 31c0 50 50 50 a1 38565000"
 		}
 	},
 	"breakpoints": {
