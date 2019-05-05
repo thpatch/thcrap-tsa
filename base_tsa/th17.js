@@ -36,7 +36,7 @@
 			"cavesize": "5"
 		},
 		"music_cmt": {
-			"str": "edx",
+			"str": "eax",
 			"track": "esi",
 			"format_id": "Music Room Note Title",
 			"cavesize": "5"
