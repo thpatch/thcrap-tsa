@@ -40,6 +40,28 @@
 			"track": "esi",
 			"format_id": "Music Room Note Title",
 			"cavesize": "5"
+		},
+		"gentext#trophy_result_desc": {
+			"file": "trophy.js",
+			"ids": ["edi", "ebx"],
+			"line": "[ebp+8]",
+			"str": "eax",
+			"cavesize": 5
+		},
+		"gentext#trophy_result_nickname": {
+			"file": "trophy.js",
+			"ids": "ecx",
+			"str": "eax",
+			"cavesize": 5,
+			"cave_exec": false
+		},
+		"gentext#trophy_ingame": {
+			"file": "trophy.js",
+			"ids": "esi",
+			"str": "edx",
+			"line": 0,
+			"cavesize": 5,
+			"cave_exec": false
 		}
 	},
 	"tsa_font_block": {
