@@ -23,6 +23,9 @@
 				"Rx7466D"
 			]
 		},
+		"th17_textbox_size": {
+			"addr": ["Rx2cac4", "Rx2cdb4"]
+		},
 		"spell_align": {
 			"addr": "Rx74480"
 		},
