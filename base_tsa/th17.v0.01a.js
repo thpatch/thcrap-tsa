@@ -23,5 +23,16 @@
 				"Rx7466D"
 			]
 		}
+	},
+	"breakpoints": {
+		"file_size": {
+			"addr": "Rx0203c"
+		},
+		"file_load": {
+			"addr": "Rx02074"
+		},
+		"file_loaded": {
+			"addr": "Rx5e3d8"
+		}
 	}
 }
