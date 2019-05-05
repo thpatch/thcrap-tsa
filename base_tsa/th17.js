@@ -30,18 +30,15 @@
 			"cavesize": "5"
 		},
 		"music_title": {
-				"str": "edx",
-				"track": "eax",
-				"format_id": "Music Room Numbered Title",
-				"cavesize": "5"
-		},
-		"music_cmt#line": {
-			"line_num": "esi",
+			"str": "edx",
+			"track": "eax",
+			"format_id": "Music Room Numbered Title",
 			"cavesize": "5"
 		},
 		"music_cmt": {
 			"str": "eax",
-			"track": "esi",
+			"track": "[edi-0x6a8]",
+			"line_num": "esi",
 			"format_id": "Music Room Note Title",
 			"cavesize": "5"
 		},
