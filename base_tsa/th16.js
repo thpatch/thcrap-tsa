@@ -6,10 +6,6 @@
 		"end": "end10"
 	},
 	"binhacks": {
-		"sprintf_msvcrt14_ebp-10c": {
-			"title": "Safe Visual Studio 2015-style sprintf (ebp-10c)",
-			"code": "e8[strings_vsprintf_msvcrt14]8985f4feffff"
-		},
 		"music_title_prepare": {
 			"code": "8b54241c 52 31c0 50 50 50"
 		},
