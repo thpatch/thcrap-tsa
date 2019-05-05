@@ -44,12 +44,17 @@
 			"addr": "Rx5c573"
 		},
 		"music_cmt#line": {
-			"addr": "Rx5c7e6"
+			"addr": [ 
+				"Rx5c7e6",
+				"Rx5c8d6"
+			]
 		},
 		"music_cmt": {
-			"addr": "Rx5c8d6"
+			"addr": [
+				"Rx5c7f9",
+				"Rx5c8e9"
+			]
 		}
-		
 	},
 	"tsa_font_block": {
 		"addr": "Rx125F4C"
