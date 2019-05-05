@@ -17,4 +17,24 @@
     "th11 automatic input": "Autodetect (Recommend)",
     "th11 fast input": "Fast (When failed with Autodetect)",
     "th11 input description": "  Choose input method to collect input response.\n  'Safe' and 'Standard' modes give same response as previous Touhou games.\n Performance of your PC if high enough, 'Autodetect'\n mode will give the fastest response.\n　「高速」は「自動」と同程度のレスポンスですが、一部画面が乱れる事があります。\n　＊描画間隔が「毎回」以外では無効です＊"
+    "th16 config": "TH16 Configuration Utility",
+	"th16 slowshot": "Hold SHOT button for slow",
+	"th16 refresh rate": "Frame skip",
+	"th16 full rate": "0 (Recommend)",
+	"th16 half rate": "1 frame",
+	"th16 third rate": "2 frames
+	"th16 input latency": "Input method (to minimize latency)",
+    "th16 stable input": "Safe (When failed with 'Standard')",
+    "th16 normal input": "Standard (Low CPU usage)",
+    "th16 automatic input": "Autodetect (Recommend)",
+    "th16 fast input": "Fast (When failed with Autodetect)",
+	"th16 no save": "Cancel",
+	"th16 save": "Save and Close",
+	"th16 input description": "　Choose input method to collect input response.\n　'Safe' and 'Standard' modes give same response as previous Touhou Games.\n　",
+    "th16 input description 2": "Performance of your PC if high enough, 'Autodetect' mode will give the fastest response.\n　'Fast' mode gives a response almost the same as 'Auto' mode , but may cause some screen glitches.\n　* Disabled when 'Frame Skip' sets 1 or 2 *",
+	"th16 Dialog Always ask": "Ask each startup time",
+	"th16 sensitivity description": "Default is 600. Decrease for more sensitivity. Increase when you feel too sensitive.",
+	"th16 joypad sensitivity": "Joystick dead zone",
+	"th16 default": "Reset",
+	"th16 Dialog Fullscreen": "Fullscreen"
 }
