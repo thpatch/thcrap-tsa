@@ -1,3 +1,3 @@
 {
-	"title": "東方鬼形獣 　～ Hidden Star in Four Seasons"
+	"title": "東方鬼形獣 　～ Wily Beast and Weakest Creature"
 }
