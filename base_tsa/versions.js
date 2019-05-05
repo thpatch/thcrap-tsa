@@ -99,6 +99,8 @@
 		"aee27f70c2b9f7e7acba15b3b35449c79e4d707e404646362b8edf961a574731": ["th16", "v1.00a", "(original, Steam release)"],
 		"28706073602c95bccafd86ee535b54e8ab9312cf6d211343c7ceab5bad7968da": ["th16", "v1.00a", "(original, unpacked Steam release)"],
 
+		"3ffa3963003cce6dc02b1dae5adeb4411138772834efdb195a05b9081027aaba": ["th17", "v0.01a", "(original)"],
+
 		"ff4f5e0d0a2dcbb071b3a1f0652e8b864146ba155466ba0c57445013edd951af": ["th165", "v1.00a", "(original)"],
 		"4ef283d9fdaef6f41a284813867cbb00dd4892532c0d4726da338e5bce64de01": ["th165", "v1.00a", "C key teleport mod"],
 		"f714fcf9ba44af81a4a144e410ec2729901440d00ced049591645f73826c8323": ["th165", "v1.00a", "(original, Steam release)"],
@@ -166,7 +168,9 @@
 		"81b637d2e0305b1dbf01c32dfb12eea5cd102a912e82021b4cea3d4111754cc5": ["th16_custom", "v0.01a", "(original)"],
 		"000a65acf850e6bcc383dba3a4e735c07fc0a44994adcffa00318e79b9b320f4": ["th16_custom", "v1.00a", "(original)"],
 
-		"abca7c23404b1ee4cecc153acf225d21b3d6d403653a61852545a772fb18e5c6": ["th165_custom", "v1.00a", "(original)"]
+		"abca7c23404b1ee4cecc153acf225d21b3d6d403653a61852545a772fb18e5c6": ["th165_custom", "v1.00a", "(original)"],
+
+		"cdfc108cd14e98f783a3ef2e119ef38ea3701f535e3c2ca0ad40f5a034770ae9": ["th17_custom", "v0.01a", "(original)"]
 	},
 	"sizes": {
 		"430080": ["th06", "v0.13",  "(original)"],
@@ -236,6 +240,8 @@
 		"740352": ["th165", "v1.00a", "(original)"],
 		"887152": ["th165", "v1.00a", "(original, Steam release)"],
 
+		"729600": ["th17", "v0.01a", "(original)"],
+
 		"102400": ["th06_custom", "v1.02h", "English patch"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
 		 "94208": ["alcostg_custom", "v1.00a", "(original)"],
@@ -249,6 +255,7 @@
 		"118784": ["th143_custom", "v1.00a", "(original)"],
 		"121344": ["th15_custom", "v1.00a", "(original)"],
 		"124928": ["th16_custom", "v1.00a", "(original)"],
-		"125952": ["th165_custom", "v1.00a", "(original)"]
+		"125952": ["th165_custom", "v1.00a", "(original)"],
+		"129536": ["th17_custom", "v1.00a", "(original)"]
 	}
 }
