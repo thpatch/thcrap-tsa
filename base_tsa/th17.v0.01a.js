@@ -22,6 +22,9 @@
 				"Rx74528",
 				"Rx7466D"
 			]
+		},
+		"spell_align": {
+			"addr": "Rx74480"
 		}
 	},
 	"breakpoints": {
