@@ -18,7 +18,24 @@
 		},
 		"file_loaded": {
 			"cavesize": "5"
+		},
+		"music_title": {
+				"str": "edx",
+				"track": "eax",
+				"format_id": "Music Room Numbered Title",
+				"cavesize": "5"
+		},
+		"music_cmt#line": {
+			"line_num": "esi",
+			"cavesize": "5"
+		},
+		"music_cmt": {
+			"str": "edx",
+			"track": "esi",
+			"format_id": "Music Room Note Title",
+			"cavesize": "5"
 		}
+		
 	},
 	"tsa_font_block": {
 		"offset": 4,
