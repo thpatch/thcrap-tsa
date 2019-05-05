@@ -36,5 +36,6 @@
     "th16 joypad sensitivity": "Joystick dead zone",
     "th16 default": "Reset",
     "th16 Dialog Fullscreen": "Fullscreen",
+    "th165 config": "TH16.5 Configuration Utility",
     "th17 config": "TH17 Configuration Utility"
 }
