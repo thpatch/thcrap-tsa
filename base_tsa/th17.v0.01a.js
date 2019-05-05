@@ -34,5 +34,8 @@
 		"file_loaded": {
 			"addr": "Rx5e3d8"
 		}
+	},
+	"tsa_font_block": {
+		"addr": "Rx125F4C"
 	}
 }
