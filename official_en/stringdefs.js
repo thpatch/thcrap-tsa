@@ -35,5 +35,6 @@
     "th16 sensitivity description": "Default is 600. Decrease for more sensitivity. Increase when you feel too sensitive.",
     "th16 joypad sensitivity": "Joystick dead zone",
     "th16 default": "Reset",
-    "th16 Dialog Fullscreen": "Fullscreen"
+    "th16 Dialog Fullscreen": "Fullscreen",
+    "th17 config": "TH17 Configuration Utility",
 }
