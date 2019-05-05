@@ -56,12 +56,6 @@
 		"music_title": {
 			"addr": "Rx5c573"
 		},
-		"music_cmt#line": {
-			"addr": [ 
-				"Rx5c7e6",
-				"Rx5c8d6"
-			]
-		},
 		"music_cmt": {
 			"addr": [
 				"Rx5c7f9",
