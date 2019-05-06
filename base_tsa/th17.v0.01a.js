@@ -66,6 +66,21 @@
 				"Rx5c8e9"
 			]
 		},
+		"spell_id": {
+			"addr": "Rx23734"
+		},
+		"spell_id#real": {
+			"addr": "Rx1A93E"
+		},
+		"spell_name": {
+			"addr": "Rx1AB50"
+		},
+		"spell_id#result": {
+			"addr": "Rx5A16D"
+		},
+		"spell_name#result": {
+			"addr": "Rx5A2A7"
+		},
 		"gentext#trophy_result_desc": {
 			"addr": "Rx5e0eb"
 		},
