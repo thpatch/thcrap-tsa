@@ -34,7 +34,7 @@
 	"th15 JP": "Touhou Kanjuden",
 	"th16 JP": "Touhou Tenkuushou",
 	"th165 JP": "Hifuu Nightmare Diary",
-	"th17": "Touhou Kikeijuu",
+	"th17 JP": "Touhou Kikeijuu",
 	"th13 Spell Practice Unknown": " No.%3d  ???????????",
 	"th10 Result Unknown Spell": "No. <r$%3d$999>  ????????????????????? <r$%4d/%4d$>",
 	"th15 Result Known Spell": "No. <r$%s%s%s$999>  %s <r$%4d/%4d$>",
