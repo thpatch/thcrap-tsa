@@ -18,5 +18,7 @@
 	"Rx9eb14": "th10 Music Room spoiler 4",
 	"Rx9eb50": "th10 Music Room spoiler 5",
 	"Rx9ea24": "th10_ascii_score_empty",
-	"Rx9ebb8": "th143 Trophy Unknown"
+	"Rx9ebb8": "th143 Trophy Unknown",
+	"Rx9ec50": "th143 Trophy Format",
+	"Rx9ec3c": "th17 Trophy Get"
 }
