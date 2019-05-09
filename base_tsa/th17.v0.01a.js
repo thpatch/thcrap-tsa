@@ -45,6 +45,12 @@
 		"music_title_prepare": {
 			"addr": "Rx5c56f",
 			"code": "8b542414 52 31c0 50 50 50 a1 38565000"
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx5deac"
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx5def0"
 		}
 	},
 	"breakpoints": {
