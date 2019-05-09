@@ -14,11 +14,11 @@
 			"title": "Correctly align right-aligned text (TH16+)",
 			"code": "ff7518 56 e8[GetTextExtentForFontID] 83c008 d1e0 89c6 8b442410 8b4c240c 8b542414 8b4c8808 8bc1 c1f808 8b9482ECFA8401 0fb6c1 8d0c40 8b8224010000 8b0cc8 8b451c 8d1400 89f0 8b742410 909090"
 		},
-		"trophy_ingame_lineflip_1": {
-			"addr": "Rx5deac"
+		"trophy_ingame_lineflip_1":{
+			"code": "ffb3 4002 0000"
 		},
 		"trophy_ingame_lineflip_2": {
-			"addr": "Rx5def0"
+			"code": "ffb3 3c02 0000"
 		}
 	},
 	"breakpoints": {
