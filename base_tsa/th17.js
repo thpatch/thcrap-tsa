@@ -90,6 +90,11 @@
 			"line": 0,
 			"cavesize": 5,
 			"cave_exec": false
+		},
+		"ruby_offset": {
+			"str": "esi",
+			"offset": "eax",
+			"cavesize": "5"
 		}
 	},
 	"tsa_font_block": {
