@@ -51,6 +51,14 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": "Rx5def0"
+		},
+		"trophy_ingame_right_align_1": {
+			"addr": "Rx5dee1",
+			"code": "0b65"
+		},
+		"trophy_ingame_right_align_2": {
+			"addr": "Rx5df18",
+			"code": "d464"
 		}
 	},
 	"breakpoints": {
