@@ -59,6 +59,16 @@
 		"trophy_ingame_right_align_2": {
 			"addr": "Rx5df18",
 			"code": "d464"
+		},
+		"ruby_prepare_1": {
+			"addr": "Rx2c9f3",
+			"code": "BE 11 60 52 00 56 90 90 90 E8 82 46 05 00 83 C4 04 8B D8 6A 2C 56",
+			"title": "Put the static ruby string address 526011 in esi"
+		},
+		"ruby_prepare_2": {
+			"addr": "Rx2cce3",
+			"code": "BE 11 60 52 00 56 90 90 90 E8 92 43 05 00 83 C4 04 8B D8 6A 2C 56",
+			"title": "Put the static ruby string address 526011 in esi"
 		}
 	},
 	"breakpoints": {
@@ -103,6 +113,12 @@
 		},
 		"gentext#trophy_ingame": {
 			"addr": "Rx5de7b"
+		},
+		"ruby_offset": {
+			"addr": [
+				"Rx2ccf1",
+				"Rx2ca01"
+			]
 		}
 	},
 	"tsa_font_block": {
