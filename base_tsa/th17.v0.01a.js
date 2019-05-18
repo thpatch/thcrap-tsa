@@ -30,8 +30,8 @@
 		"spell_align": {
 			"addr": "Rx74480"
 		},
-		"result_spell_align": {
-			"addr": "Rx74651"
+		"center_align": {
+			"addr": "Rx745f0"
 		},
 		"trophy_remove_copy_and_push_result": {
 			"addr": "Rx5de7b",
@@ -52,14 +52,6 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": "Rx5def0"
-		},
-		"trophy_ingame_right_align_1": {
-			"addr": "Rx5dee1",
-			"code": "0b65"
-		},
-		"trophy_ingame_right_align_2": {
-			"addr": "Rx5df18",
-			"code": "d464"
 		},
 		"ruby_prepare_1": {
 			"addr": "Rx2c9f3",
