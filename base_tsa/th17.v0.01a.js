@@ -129,7 +129,7 @@
 			},
 			"breakpoints": {
 				"init_next_stage#1": {
-					"addr": "Rx129323",
+					"addr": "Rx12B036",
 					"module": "eax",
 					"cavesize": 6
 				},
