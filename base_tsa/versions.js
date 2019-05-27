@@ -101,6 +101,7 @@
 
 		"3ffa3963003cce6dc02b1dae5adeb4411138772834efdb195a05b9081027aaba": ["th17", "v0.01a", "(original)"],
 		"41304c38acc014787df29604e6f4b35ce6ae74938999eb11b9381f5232d5ff9b": ["th17", "v0.01a", "(original, Steam release)"],
+		"96e84a0fe765fd99245f217c3cac51e794515f3e9fe07f67c507941e35e96b22": ["th17", "v0.01a", "(original, XP patch)"],
 
 		"ff4f5e0d0a2dcbb071b3a1f0652e8b864146ba155466ba0c57445013edd951af": ["th165", "v1.00a", "(original)"],
 		"4ef283d9fdaef6f41a284813867cbb00dd4892532c0d4726da338e5bce64de01": ["th165", "v1.00a", "C key teleport mod"],
