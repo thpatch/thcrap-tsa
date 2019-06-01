@@ -16,6 +16,6 @@
 	"Music Room Unknown Title": "No. <r$%2d$99>  ？？？？？？？？？？？",
 	"Music Room Note Title": "<t$♪><ls$%d> %s",
 	"Dialog font": "MS Shell Dlg",
-	"th143 Trophy Format": "「%s」",
+	"th143 Trophy Format": "『%s』",
 	"th17 Trophy Get": "の実績を手に入れた"
 }
