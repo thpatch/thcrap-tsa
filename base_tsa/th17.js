@@ -17,10 +17,6 @@
 		"center_align": {
 			"code": "FF 75 18 56 E8[GetTextExtentForFontID] 83 C0 03 C1 E0 02 8B F0 8B 44 24 18 8B 4C 24 14 8B 54 24 10 8B 4C 88 08 8B C1 C1 F8 08 8B 94 82 EC FA 84 01 0F B6 C1 8D 0C 40 8B 82 24 01 00 00 8B 54 24 18 8B 04 C8 89 44 24 10 8B 45 1C 03 C0 8B CE"
 		},
-		"trophy_ingame_lineflip_1":{
-			"code": "ffb3 4002 0000",
-			"ignore": true
-		},
 		"trophy_ingame_lineflip_2": {
 			"code": "ffb3 3c02 0000",
 			"ignore": true
@@ -90,11 +86,10 @@
 		},
 		"gentext#trophy_ingame": {
 			"file": "trophy.js",
-			"ids": "esi",
-			"str": "edx",
+			"ids": "[ebx+0x10]",
+			"str": "ecx",
 			"line": 0,
-			"cavesize": 5,
-			"cave_exec": false
+			"cavesize": 7
 		},
 		"ruby_offset": {
 			"str": "esi",

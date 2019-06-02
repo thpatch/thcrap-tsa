@@ -33,22 +33,19 @@
 		"center_align": {
 			"addr": "Rx745f0"
 		},
-		"trophy_remove_copy_and_push_result": {
-			"addr": "Rx5de7b",
-			"code":"90 90 90 90 90 52 90 90 90 90 90 90 90 8B00898340020000 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90",
-			"comment": "The game copies the string into a static buffer. This binhack begins with the gentext#trophy_ingame breakpoint (the 5 first nop will be replaced with the breakpoint call), then push the result, and removes the original string copy."
-		},
-		"trophy_remove_push": {
-			"addr": "Rx5dec9",
-			"code": "90 90 90 90 90",
-			"comment": "This value was pushed in the trophy_remove_copy_and_push_result binhack"
-		},
 		"music_title_prepare": {
 			"addr": "Rx5c56f",
 			"code": "8b542414 52 31c0 50 50 50 a1 38565000"
 		},
+		"trophy_ingame_prepare": {
+			"code": "41 32 C2 02 D4 80 C4 10 88 41 FF 84 C0 75 EA FF B3 3C 02 00 00 8B 35 38 56 50 00 8B CE E8 43 7A 01 00 85 C0 75 06 89 83 3C 02 00 00 B9 A0 61 52 00 51 90",
+			"addr": "Rx5de9b"
+		},
 		"trophy_ingame_lineflip_1": {
-			"addr": "Rx5deac"
+			"addr": "Rx5deaa",
+			"code": "ffb3 4002 0000",
+			"ignore": true,
+			"comment": "This binhack should be in th17.js but because version specific binhacks (like the one above) always overwrite non version specific binhacks, this one has to be here."
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": "Rx5def0"
@@ -62,6 +59,10 @@
 			"addr": "Rx2cce3",
 			"code": "BE 11 60 52 00 56 90 90 90 E8 92 43 05 00 83 C4 04 8B D8 6A 2C 56",
 			"title": "Put the static ruby string address 526011 in esi"
+		},
+		"remember_trophy_id": {
+			"addr": "Rx5ddd6",
+			"code": "31c9"
 		}
 	},
 	"breakpoints": {
@@ -105,7 +106,7 @@
 			"addr": "Rx5d28f"
 		},
 		"gentext#trophy_ingame": {
-			"addr": "Rx5de7b"
+			"addr": "Rx5decc"
 		},
 		"ruby_offset": {
 			"addr": [
