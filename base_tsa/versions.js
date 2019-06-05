@@ -99,13 +99,13 @@
 		"aee27f70c2b9f7e7acba15b3b35449c79e4d707e404646362b8edf961a574731": ["th16", "v1.00a", "(original, Steam release)"],
 		"28706073602c95bccafd86ee535b54e8ab9312cf6d211343c7ceab5bad7968da": ["th16", "v1.00a", "(original, unpacked Steam release)"],
 
-		"3ffa3963003cce6dc02b1dae5adeb4411138772834efdb195a05b9081027aaba": ["th17", "v0.01a", "(original)"],
-		"41304c38acc014787df29604e6f4b35ce6ae74938999eb11b9381f5232d5ff9b": ["th17", "v0.01a", "(original, Steam release)"],
-		"96e84a0fe765fd99245f217c3cac51e794515f3e9fe07f67c507941e35e96b22": ["th17", "v0.01a", "(original, XP patch)"],
-
 		"ff4f5e0d0a2dcbb071b3a1f0652e8b864146ba155466ba0c57445013edd951af": ["th165", "v1.00a", "(original)"],
 		"4ef283d9fdaef6f41a284813867cbb00dd4892532c0d4726da338e5bce64de01": ["th165", "v1.00a", "C key teleport mod"],
 		"f714fcf9ba44af81a4a144e410ec2729901440d00ced049591645f73826c8323": ["th165", "v1.00a", "(original, Steam release)"],
+
+		"3ffa3963003cce6dc02b1dae5adeb4411138772834efdb195a05b9081027aaba": ["th17", "v0.01a", "(original)"],
+		"41304c38acc014787df29604e6f4b35ce6ae74938999eb11b9381f5232d5ff9b": ["th17", "v0.01a", "(original, Steam release)"],
+		"96e84a0fe765fd99245f217c3cac51e794515f3e9fe07f67c507941e35e96b22": ["th17", "v0.01a", "(original, XP patch)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
