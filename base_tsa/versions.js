@@ -76,6 +76,7 @@
 		"ac0f9d9d0dc92739b52661c5e9f5bf4bab13349bedec1cc87b2330d00f776a2d": ["th13", "v1.00b", "(original)"],
 		"422f40aa176c9aab7d0178ce6033802b4143921a5e0e463ef99259ef6d100a58": ["th13", "v1.00c", "(original)"],
 		"2368f892d2d15ce96e546de33290501bccd03188b875649012d43616314d21c3": ["th13", "v1.00c", "English patch"],
+		"1a6e3eb3b65238a739d7250606e9cb233d16b505c3340a11c4584b583388930d": ["th13", "v1.00c", "(original, Steam release)"],
 
 		"72a7e52d978fb7fcfc0a3a2ced1096305b9161279a029bbf9df2f0b8cb0fe84a": ["th14", "v0.01a",  "(original, Reitaisai trial)"],
 		"e21309b535efb6f91a2460ff66a070cf0d96559bee79b0ea5d504e747dcc4b57": ["th14", "v0.01a",  "(original, Reitaisai trial, XP patch)"],
@@ -86,6 +87,7 @@
 		"6eb78df961d4c1db2d50830165de79891eed6fcd38f7a61c3b680c63f7131d61": ["th14", "v1.00a",  "(original, XP patch #2)"],
 		"f08e885e28d2e0fc8c579e88034dd7de8f2a648d8f08ce781cf08eadc9ffe353": ["th14", "v1.00b",  "(original)"],
 		"147b2b36582465638783c9431a1cc9940c85f6025116832992bdb8594e396a52": ["th14", "v1.00bp", "(original, Playism)"],
+		"4609e701b677b8317e43be92041f0c7075a292182848a7c11215c3a226034f90": ["th14", "v1.00b", "(original, Steam release)"],
 
 		"0162924204a6fea6d822e1a5872310c81168b0efbf565fb213bb38ba9f2290a6": ["th143", "v1.00a", "(original)"],
 
@@ -219,6 +221,7 @@
 		"789504": ["th13", "v1.00a", "(original)"],
 		"790528": ["th13", "v1.00c", "(original)"],
 		"791041": ["th13", "v1.00c", "English patch"],
+		"931984": ["th13", "v1.00c", "(original, Steam release)"],
 
 		"878592": ["th14", "v0.01a",  "(original, Reitaisai trial)"],
 		"879104": ["th14", "v0.01b",  "(original, web trial)"],
@@ -226,6 +229,7 @@
 		"899072": ["th14", "v1.00a",  "(original)"],
 		"897536": ["th14", "v1.00b",  "(original)"],
 		"896000": ["th14", "v1.00bp", "(original, Playism)"],
+		"1038992": ["th14", "v1.00b", "(original, Steam release)"],
 
 		"939008": ["th143", "v1.00a", "(original)"],
 		"1086320": ["th143", "v1.00a", "(original, Steam release)"],
