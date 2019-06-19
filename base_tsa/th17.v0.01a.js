@@ -123,14 +123,14 @@
 			"binhacks": {
 				"steamstub_crack": {
 					"title": "Crack SteamStub by disabling its integrity check",
-					"addr": "Rx12A413",
+					"addr": "Rx12a413",
 					"code": "eb",
 					"expected": "74"
 				}
 			},
 			"breakpoints": {
 				"init_next_stage#1": {
-					"addr": "Rx12B036",
+					"addr": "Rx12b036",
 					"module": "eax",
 					"cavesize": 6
 				},
