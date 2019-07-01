@@ -16,13 +16,13 @@
     "th11 normal input": "Standard (Low CPU usage)",
     "th11 automatic input": "Autodetect (Recommend)",
     "th11 fast input": "Fast (When failed with Autodetect)",
-    "th11 input description": "  Choose input method to collect input response.\n  'Safe' and 'Standard' modes give same response as previous Touhou games.\n Performance of your PC if high enough, 'Autodetect'\n mode will give the fastest response.\n　「高速」は「自動」と同程度のレスポンスですが、一部画面が乱れる事があります。\n　＊描画間隔が「毎回」以外では無効です＊"
+    "th11 input description": "  Choose input method to collect input response.\n  'Safe' and 'Standard' modes give same response as previous Touhou games.\n Performance of your PC if high enough, 'Autodetect'\n mode will give the fastest response.\n　「高速」は「自動」と同程度のレスポンスですが、一部画面が乱れる事があります。\n　＊描画間隔が「毎回」以外では無効です＊",
     "th16 config": "TH16 Configuration Utility",
     "th16 slowshot": "Hold SHOT button for slow",
     "th16 refresh rate": "Frame skip",
     "th16 full rate": "0 (Recommend)",
     "th16 half rate": "1 frame",
-    "th16 third rate": "2 frames
+    "th16 third rate": "2 frames",
     "th16 input latency": "Input method (to minimize latency)",
     "th16 stable input": "Safe (When failed with 'Standard')",
     "th16 normal input": "Standard (Low CPU usage)",
