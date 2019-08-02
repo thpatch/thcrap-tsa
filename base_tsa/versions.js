@@ -66,9 +66,11 @@
 
 		"4895ce367f6ab90c6593a94ca0ecfa2aabe7477f0a9b7dd2ee8860327069436c": ["th125", "v1.00a", "(original)"],
 		"a620057a756dd98efbdb813b1bc1350bc5acdf8d462fcd4be93f85eb6c22d9ee": ["th125", "v1.00a", "English patch"],
+		"2e0f3ff7434605b49da65602b169b7592ffed4b29f14e10a4464c6a96fa54591": ["th125", "v1.00a", "(original, Steam release)"],
 
 		"ba515750ece845b56640fe440592fc39ebb7bdd1ed87c541b67a19b148e767d4": ["th128", "v1.00a", "(original)"],
 		"f26586b24673d0e1477ebbb698c82470803730e11f950caa428c7d25d6e0a415": ["th128", "v1.00a", "English patch"],
+		"73781a26417b823c3b1efe7065bb0c93337e9d50634347a1347c5359457f3ae0": ["th128", "v1.00a", "(original, Steam release)"],
 
 		"09818929cceea76ff4c65630e649bbccdb85d92b2e28bb4dfe6526749e6f4fb6": ["th13", "v0.01a", "(original)"],
 		"6e95052ca552330659fdc1afa7042926573b4133087bb802a745fa68efd7ac74": ["th13", "v1.00a", "(original)"],
@@ -214,8 +216,10 @@
 		"737280": ["th12", "v1.00b", "(original)"],
 
 		"743424": ["th125", "v1.00a", "(original)"],
+		"884880": ["th125", "v1.00a", "(original, Steam release)"],
 
 		"752640": ["th128", "v1.00a", "(original)"],
+		"894096": ["th128", "v1.00a", "(original, Steam release)"],
 
 		"767488": ["th13", "v0.01a", "(original)"],
 		"789504": ["th13", "v1.00a", "(original)"],
