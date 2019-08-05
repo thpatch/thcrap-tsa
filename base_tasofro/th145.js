@@ -5,7 +5,7 @@
 			"title": "Correctly reverses the bytes of the character in [ebx], without assuming a 2-bytes character."
 		}
 	},
-	"title": "東方深秘録 ～ Urban Legend in Limbo",
+	"title": "東方深秘録 ~ Urban Legend in Limbo",
 	"url_trial": "http://tasofro.net/arc/th145_trial.zip",
 	"latest": "v1.41",
 	"crypt": "th145",
