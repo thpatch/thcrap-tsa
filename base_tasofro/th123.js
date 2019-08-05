@@ -9,7 +9,7 @@
 			"title": "Calls strings_lookup to give thcrap a chance to replace the game's strings."
 		}
 	},
-	"title": "東方非想天則　～ 超弩級ギニョルの謎を追え",
+	"title": "東方非想天則 ~ 超弩級ギニョルの謎を追え",
 	"url_update": "http://tasofro.net/touhou123/download.html",
 	"latest": "v1.10a",
 	"breakpoints": {
