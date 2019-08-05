@@ -9,7 +9,7 @@
 			"title": "Replace a GetFullPathName call with a strcpy"
 		}
 	},
-	"title": "東方心綺楼　～ Hopeless Masquerade",
+	"title": "東方心綺楼 ~ Hopeless Masquerade",
 	"url_trial": "http://s1.gptwm.com/tasofro/touhou135/th135_trial_web.zip",
 	"latest": "v1.34b",
 	"crypt": "th135",
