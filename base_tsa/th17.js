@@ -70,6 +70,10 @@
 			"spell_name": "eax",
 			"cavesize": "7"
 		},
+		"spell_name#practice": {
+			"spell_name": "eax",
+			"cavesize": "6"
+		},
 		"gentext#trophy_result_desc": {
 			"file": "trophy.js",
 			"ids": ["edi", "ebx"],
