@@ -110,6 +110,8 @@
 		"3ffa3963003cce6dc02b1dae5adeb4411138772834efdb195a05b9081027aaba": ["th17", "v0.01a", "(original)"],
 		"41304c38acc014787df29604e6f4b35ce6ae74938999eb11b9381f5232d5ff9b": ["th17", "v0.01a", "(original, Steam release)"],
 		"96e84a0fe765fd99245f217c3cac51e794515f3e9fe07f67c507941e35e96b22": ["th17", "v0.01a", "(original, XP patch)"],
+		"bbfdd8d76e5a806738256bb4efe053954bf666a0c2755d8e5458873f70de754a": ["th17", "v1.00a", "(original)"],
+		"85cb011e2e43b316c8fa42a3c402565ecdf2f4379f3bab66d86bcb7beef8255f": ["th17", "v1.00b", "(original)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
@@ -176,7 +178,8 @@
 
 		"abca7c23404b1ee4cecc153acf225d21b3d6d403653a61852545a772fb18e5c6": ["th165_custom", "v1.00a", "(original)"],
 
-		"cdfc108cd14e98f783a3ef2e119ef38ea3701f535e3c2ca0ad40f5a034770ae9": ["th17_custom", "v0.01a", "(original)"]
+		"cdfc108cd14e98f783a3ef2e119ef38ea3701f535e3c2ca0ad40f5a034770ae9": ["th17_custom", "v0.01a", "(original)"],
+		"efee757025f18f3b8a6409bc3b760e431632d79a4b90734dedf50c4ed75564ba": ["th17_custom", "v1.00a", "(original)"],
 	},
 	"sizes": {
 		"430080": ["th06", "v0.13",  "(original)"],
@@ -252,6 +255,8 @@
 
 		"729600": ["th17", "v0.01a", "(original)"],
 		"876912": ["th17", "v0.01a", "(original, Steam release)"],
+		"751104": ["th17", "v1.00a", "(original)"],
+		"747520": ["th17", "v1.00b", "(original)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
