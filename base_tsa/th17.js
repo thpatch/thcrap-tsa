@@ -89,8 +89,7 @@
 		},
 		"ruby_offset": {
 			"str": "esi",
-			"offset": "eax",
-			"cavesize": "5"
+			"offset": "eax"
 		}
 	},
 	"tsa_font_block": {

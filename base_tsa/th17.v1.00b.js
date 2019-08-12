@@ -107,6 +107,10 @@
 		"gentext#trophy_result_desc": {
 			"addr": "Rx5df4b",
 			"ids": [ "[ebp-4]", 1 ]
+		},
+		"ruby_offset": {
+			"addr": [ "Rx2dbf6", "Rx2de80" ],
+			"cavesize": 6
 		}
 	},
 	"tsa_font_block": {

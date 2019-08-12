@@ -118,7 +118,8 @@
 			"addr": [
 				"Rx2ccf1",
 				"Rx2ca01"
-			]
+			],
+			"cavesize": 5
 		}
 	},
 	"tsa_font_block": {
