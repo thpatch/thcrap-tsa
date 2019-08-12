@@ -88,10 +88,7 @@
 		},
 		"gentext#trophy_ingame": {
 			"file": "trophy.js",
-			"ids": "[ebx+0x10]",
-			"str": "ecx",
-			"line": 0,
-			"cavesize": 7
+			"line": 0
 		},
 		"ruby_offset": {
 			"str": "esi",

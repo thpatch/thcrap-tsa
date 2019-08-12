@@ -78,7 +78,13 @@
 			],
 			"line_num": "[edi+0x804]",
 			"track": "[edi+0x808]"
-		}
+		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx5dc92",
+			"ids": "esi",
+			"str": "eax",
+			"cavesize": 5,
+			"cave_exec": false
 	},
 	"tsa_font_block": {
 		"addr": "Rx12a334"

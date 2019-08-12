@@ -108,7 +108,10 @@
 			"addr": "Rx5d28f"
 		},
 		"gentext#trophy_ingame": {
-			"addr": "Rx5decc"
+			"addr": "Rx5decc",
+			"ids": "[ebx+0x10]",
+			"str": "ecx",
+			"cavesize": 7
 		},
 		"ruby_offset": {
 			"addr": [
