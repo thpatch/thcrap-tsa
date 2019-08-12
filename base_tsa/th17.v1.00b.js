@@ -33,6 +33,9 @@
 		"music_title_prepare": {
 			"code": "8b542418 52 31c0 50 50 50 a1 209a50000",
 			"addr": "Rx5a71f"
+		},
+		"th17_textbox_size": {
+			"addr": [ "Rx2dcb8", "Rx2df42" ]
 		}
 	},
 	"breakpoints": {
