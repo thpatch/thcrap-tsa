@@ -44,8 +44,6 @@
 		},
 		"music_cmt": {
 			"str": "eax",
-			"track": "[edi+0x6a8]",
-			"line_num": "esi",
 			"format_id": "Music Room Note Title",
 			"cavesize": "5"
 		},

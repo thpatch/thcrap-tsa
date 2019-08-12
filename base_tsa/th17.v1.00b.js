@@ -1,4 +1,11 @@
 {
+	"binhacks": {
+		"music_title_prepare": {
+			"code": "8b542418 52 31c0 50 50 50 a1 209a50000",
+			"addr": "Rx5a71f"
+		}
+	},
+	
 	"breakpoints": {
 		"file_size": {
 			"addr": "Rx0215c"
@@ -8,34 +15,22 @@
 		},
 		"file_loaded": {
 			"addr": "Rx5e238"
+		},
+		"music_title": {
+			"addr": "Rx5a723"
+		},
+		"music_cmt": {
+			"addr": [ 
+				"Rx5a969", 
+				"Rx5aa34"
+			],
+			"line_num": "[edi+0x804]",
+			"track": "[edi+0x808]"
 		}
-	},
+	}
+}
+
 	"tsa_font_block": {
 		"addr": "Rx12a334"
-	},
-	"binhacks": {
-		"sprintf_msvcrt14_esp+34": {
-			"addr": [
-				"Rx75039",
-				"Rx75159"
-			]
-		},
-		"sprintf_msvcrt14_esp+3c": {
-			"addr": "Rx752c9"
-		},
-		"sprintf_msvcrt14_ebp+10c": {
-			"addr": "Rx082cf"
-		},
-		"sprintf_rep": {
-			"addr": [
-				"Rx082dd",
-				"Rx750d6",
-				"Rx750e7",
-				"Rx751a4",
-				"Rx75247",
-				"Rx75258",
-				"Rx7539d"
-			]
-		}
 	}
 }
