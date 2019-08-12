@@ -82,7 +82,9 @@
 			"addr": [
 				"Rx5c7f9",
 				"Rx5c8e9"
-			]
+			],
+			"track": "[edi+0x6a8]",
+			"line_num": "esi"
 		},
 		"spell_id": {
 			"addr": "Rx23734"
