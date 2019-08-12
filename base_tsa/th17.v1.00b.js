@@ -41,6 +41,15 @@
 		"center_align": {
 			"code":"ff751856e8[GetTextExtentForFontID]89c69090909090909090908b4424188b4c24148b5424108b4c88088bc1c1f8088b9482000186010fb6c18d0c408b82240100008b5424188b04c8894424108b451c03c089f18944241c8b442414",
 			"addr": "Rx75320"
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx5dc6f",
+			"code": "40",
+			"ignore": true,
+			"comment": "This binhack should be in th17.js but because version specific binhacks (like the one above) always overwrite non version specific binhacks, this one has to be here."
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx5dcbd"
 		}
 	},
 	"breakpoints": {
