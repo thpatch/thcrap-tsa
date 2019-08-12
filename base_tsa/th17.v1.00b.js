@@ -85,6 +85,13 @@
 			"str": "eax",
 			"cavesize": 5,
 			"cave_exec": false
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": "Rx5d0e1"
+		},
+		"gentext#trophy_result_desc": {
+			"addr": "Rx5df4b",
+			"ids": [ "[ebp-4]", 1 ]
 		}
 	},
 	"tsa_font_block": {
