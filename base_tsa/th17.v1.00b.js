@@ -81,7 +81,7 @@
 			"addr": "Rx58a87"
 		},
 		"spell_name#practice": {
-			"addr": "Rx5c1ce"
+			"addr": "Rx5c1cd"
 		},
 		"music_title": {
 			"addr": "Rx5a723"
