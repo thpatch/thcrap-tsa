@@ -53,6 +53,7 @@
 			"addr": "Rx2519a"
 		},
 		"spell_id#real": {
+			"cavesize": "9",
 			"addr": "Rx1ad24"
 		},
 		"spell_name": {
