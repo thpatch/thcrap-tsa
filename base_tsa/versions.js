@@ -179,7 +179,7 @@
 		"abca7c23404b1ee4cecc153acf225d21b3d6d403653a61852545a772fb18e5c6": ["th165_custom", "v1.00a", "(original)"],
 
 		"cdfc108cd14e98f783a3ef2e119ef38ea3701f535e3c2ca0ad40f5a034770ae9": ["th17_custom", "v0.01a", "(original)"],
-		"efee757025f18f3b8a6409bc3b760e431632d79a4b90734dedf50c4ed75564ba": ["th17_custom", "v1.00a", "(original)"],
+		"efee757025f18f3b8a6409bc3b760e431632d79a4b90734dedf50c4ed75564ba": ["th17_custom", "v1.00a", "(original)"]
 	},
 	"sizes": {
 		"430080": ["th06", "v0.13",  "(original)"],
