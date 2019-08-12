@@ -9,7 +9,7 @@
 		"sprintf_msvcrt14_esp+3c": {
 			"addr": "Rx752c9"
 		},
-		"sprintf_msvcrt14_ebp+10c": {
+		"sprintf_msvcrt14_ebp-10c": {
 			"addr": "Rx082cf"
 		},
 		"sprintf_rep": {
