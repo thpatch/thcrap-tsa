@@ -85,6 +85,7 @@
 			"str": "eax",
 			"cavesize": 5,
 			"cave_exec": false
+		}
 	},
 	"tsa_font_block": {
 		"addr": "Rx12a334"
