@@ -37,6 +37,10 @@
 		},
 		"th17_textbox_size": {
 			"addr": [ "Rx2dcb8", "Rx2df42" ]
+		},
+		"center_align": {
+			"code":"ff751856e8[GetTextExtentForFontID]89c69090909090909090908b4424188b4c24148b5424108b4c88088bc1c1f8088b9482000186010fb6c18d0c408b82240100008b5424188b04c8894424108b451c03c089f18944241c8b442414",
+			"addr": "Rx75320"
 		}
 	},
 	"breakpoints": {

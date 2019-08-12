@@ -30,9 +30,6 @@
 		"spell_align": {
 			"addr": "Rx74480"
 		},
-		"center_align": {
-			"addr": "Rx745f0"
-		},
 		"music_title_prepare": {
 			"addr": "Rx5c56f",
 			"code": "8b542414 52 31c0 50 50 50 a1 38565000"
@@ -63,6 +60,10 @@
 		"remember_trophy_id": {
 			"addr": "Rx5ddd6",
 			"code": "31c9"
+		},
+		"center_align": {
+			"code": "ff751856e8[GetTextExtentForFontID]83c003c1e0028bf08b4424188b4c24148b5424108b4c88088bc1c1f8088b9482ecfa84010fb6c18d0c408b82240100008b5424188b04c8894424108b451c03c08bce",
+			"addr": "Rx745f0"
 		}
 	},
 	"breakpoints": {
