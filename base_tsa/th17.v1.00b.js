@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"log_restore": {
+			"addr": "Rx04d10"
+		},
 		"sprintf_msvcrt14_esp+34": {
 			"addr": [
 				"Rx75039",
