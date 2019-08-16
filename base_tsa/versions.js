@@ -112,6 +112,7 @@
 		"96e84a0fe765fd99245f217c3cac51e794515f3e9fe07f67c507941e35e96b22": ["th17", "v0.01a", "(original, XP patch)"],
 		"bbfdd8d76e5a806738256bb4efe053954bf666a0c2755d8e5458873f70de754a": ["th17", "v1.00a", "(original)"],
 		"85cb011e2e43b316c8fa42a3c402565ecdf2f4379f3bab66d86bcb7beef8255f": ["th17", "v1.00b", "(original)"],
+		"844394479663eb7f50f98b9c2c2f6bd7b6bc6f1b1ddb93744adb656b19802311": ["th17", "v1.00b", "(original, XP patch)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
