@@ -53,15 +53,6 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": "Rx5dcbd"
-		},
-		"trophy_result_desc_id2": {
-			"code": "8B 75 1c B8 20 AD 52 00 5E 5D C2 04 00 33 C0 5E 5D C2 04 00",
-			"addr": "Rx5df46",
-			"comment": "The second ID in the ids parameter for trophy_result_desc is 0 if the achievement is locked and 1 if it's unlocked. Usually I should be able to specify the second ID with [ebp+1c] but that doesn't work, even though it should"
-		},
-		"trophy_result_desc_id2_adjust_jne": {
-			"addr": "Rx5df10",
-			"code": "41"
 		}
 	},
 	"breakpoints": {
@@ -117,8 +108,8 @@
 			"addr": "Rx5d0e1"
 		},
 		"gentext#trophy_result_desc": {
-			"addr": "Rx5df49",
-			"ids": [ "[ebp-4]", "esi" ],
+			"addr": "Rx5df46",
+			"ids": [ "[ebp-0x4]", "[ebp+0x1c]" ],
 			"cave_exec": false
 		},
 		"ruby_offset": {
