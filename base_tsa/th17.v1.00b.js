@@ -53,14 +53,6 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": "Rx5dcbd"
-		},
-		"bad_ending_fix_pointers": {
-			"addr": "Rxa0d34",
-			"code": "b4154a00 bc154a00 c4154a00"
-		},
-		"bad_ending_fix_cmp": {
-			"addr": "Rx5cbc9",
-			"code": "83f90b"
 		}
 	},
 	"breakpoints": {
