@@ -3,6 +3,6 @@
 	"servers": [
 		"https://mirrors.thpatch.net/nmlgc/base_tasofro/"
 	],
-	"thcrap_version_min": "0x20191005",
+	"thcrap_version_min": "0x20190718",
 	"title": "Basic support for Tasogare Frontier games"
 }
