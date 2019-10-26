@@ -63,6 +63,9 @@
 		},
 		"hud_force_redraw": {
 			"addr": "Rx365bd"
+		},
+		"spell_name_replay": {
+			"addr": "Rx6e833"
 		}
 	},
 	"breakpoints": {
@@ -101,6 +104,9 @@
 		},
 		"spell_name#practice_menu_details": {
 			"addr": "0x46d894"
+		},
+		"spell_name#replay": {
+			"addr": "Rx6e86d"
 		},
 		"spell_comment_line#1": {
 			"addr": "0x46dea9"

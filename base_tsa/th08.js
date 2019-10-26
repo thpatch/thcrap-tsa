@@ -42,6 +42,9 @@
 		},
 		"ending_copy_rem" : {
 			"code": "894db0 803900 7429 41 ff45ac ebf5 9090909090909090909090909090909090909090909090909090909090909090909090"
+		},
+		"spell_name_replay": {
+			"code": "8b8d 30feffff 8189 b0e90000 00180000 66c781 50ea0000 0f0f 8b81 8cc20000 69c0 34010000 8d8401 ce7a0000 8b91 80c20000 0fbf4a 6a 0fbf52 7c 90909090909090909090909090909090909090909090909090909090"
 		}
 	},
 	"title": "東方永夜抄　～ Imperishable Night",
@@ -110,6 +113,13 @@
 			"spell_name": "eax",
 			"cave_exec": false,
 			"cavesize": "11"
+		},
+		"spell_name#replay": {
+			"spell_name": "eax",
+			"spell_id_real": "edx",
+			"spell_rank": "ecx",
+			"cave_exec": false,
+			"cavesize": "5"
 		},
 		"spell_comment_line#1": {
 			"str": "eax",
