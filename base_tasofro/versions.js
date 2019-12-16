@@ -30,6 +30,7 @@
         "0d124e005b28cdab14dc791ac1e0dd7f9eda758bdd21edcdc1e9507b282db216": ["th155",    "v1.02b", "(original)"],
         "a0b8c8b7b13d00d0cc961465d2b24827dd665599397b99e18cde602df24323b7": ["th155",    "v1.03",  "(original)"],
         "fc6708094b53afa3c00584ecb6e9be14bbf57c2fcd568ef8017af27f8b8ee1f8": ["th155",    "v1.10",  "(original)"],
+        "ab81aad13847ba6acadf41f225ec1c7b860eeb7b231fe4384177d4be073500c9": ["th155",    "v1.19_beta3",  "(original, beta)"],
 
         "185b3ee84de981749bafe0fb7bf9b6f61c33617ef60a86c1648d5e4e9bc2301c": ["nsml",     "v1.00",  "(original)"],
         "2db975a408e260499d52126f25ecf2fbc529cad52d1bffc2a0b7ca2ff695f155": ["nsml",     "v1.10",  "(original)"],
@@ -64,6 +65,7 @@
         "5238960": ["th155",    "v0.024", "(original)"],
         "5262552": ["th155",    "v1.02b", "(original)"],
         "5287640": ["th155",    "v1.10",  "(original)"],
+        "5288152": ["th155",    "v1.19_beta3",  "(original, beta)"],
 
         "1191424": ["nsml",     "v1.00",  "(original)"],
         "1193984": ["nsml",     "v1.10",  "(original)"],
