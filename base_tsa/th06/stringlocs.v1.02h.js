@@ -68,5 +68,6 @@
 	"Rx6c4c8": "th06_ascii_practice_format",
 	"Rx1c145": "replay_0",
 	"Rx6bc20": "replay_format",
-	"Rx6c3cc": "replay_user_find"
+	"Rx6c3cc": "replay_user_find",
+	"Rx6af94": "scorefile_fn"
 }
