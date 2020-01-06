@@ -65,5 +65,8 @@
 	"Rx6c460": "th06_ascii_replay_stage_header",
 	"Rx6c484": "th06_ascii_replay",
 	"Rx6c49c": "th06_ascii_replay_header",
-	"Rx6c4c8": "th06_ascii_practice_format"
+	"Rx6c4c8": "th06_ascii_practice_format",
+	"Rx1c145": "replay_0",
+	"Rx6bc20": "replay_format",
+	"Rx6c3cc": "replay_user_find"
 }

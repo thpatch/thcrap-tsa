@@ -1,5 +1,17 @@
 {
 	"binhacks": {
+		"sprintf_replay_1": {
+			"code": "e8[strings_sprintf] 83c4 0c 909090 6a 01",
+			"title": "Replay name sprintf 1"
+		},
+		"sprintf_replay_2": {
+			"code": "e8[strings_sprintf] 83c4 0c ffb5 58ffffff 830424 34 909090909090",
+			"title": "Replay name sprintf 2"
+		},
+		"sprintf_replay_3": {
+			"code": "e8[strings_sprintf] 83c4 0c 6a 01 909090",
+			"title": "Replay name sprintf 2"
+		},
 		"file_remove_size_assignment": {
 			"code": "83c404 90909090909090",
 			"title": "Remove the assignment of the file size global, which we did in th06_file_load before"

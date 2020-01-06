@@ -6,6 +6,15 @@
 		"sprintf_rep": {
 			"addr": "Rx34d8e"
 		},
+		"sprintf_replay_1": {
+			"addr": "Rx2c6dd"
+		},
+		"sprintf_replay_2": {
+			"addr": "Rx2cd4a"
+		},
+		"sprintf_replay_3": {
+			"addr": "Rx382bd"
+		},
 		"file_remove_size_assignment": {
 			"addr": "Rx1e399"
 		},
