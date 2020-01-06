@@ -10,7 +10,7 @@
 		},
 		"sprintf_replay_3": {
 			"code": "e8[strings_sprintf] 83c4 0c 6a 01 909090",
-			"title": "Replay name sprintf 2"
+			"title": "Replay name sprintf 3"
 		},
 		"file_remove_size_assignment": {
 			"code": "83c404 90909090909090",
