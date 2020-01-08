@@ -9,7 +9,7 @@
 			"title": "Replay name sprintf 2"
 		},
 		"sprintf_replay_3": {
-			"code": "e8[strings_sprintf] 83c4 0c 6a 01 909090",
+			"code": "e8[strings_sprintf] 83c4 0c 6a 01 8945 a8",
 			"title": "Replay name sprintf 3"
 		},
 		"file_remove_size_assignment": {

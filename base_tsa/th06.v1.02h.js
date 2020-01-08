@@ -4,7 +4,7 @@
 			"addr": "Rx34c8b"
 		},
 		"sprintf_rep": {
-			"addr": "Rx34d8e"
+			"addr": [ "Rx34d8e", "Rx3830c" ]
 		},
 		"sprintf_replay_1": {
 			"addr": "Rx2c6dd"
