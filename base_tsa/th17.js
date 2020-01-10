@@ -1,5 +1,10 @@
 {
 	"title": "東方鬼形獣 　～ Wily Beast and Weakest Creature",
+	"latest": [
+		"v0.01a", "v1.00b"
+	],
+	"url_trial": "https://kourindou.exblog.jp/28323776/",
+	"url_update": "https://kourindou.exblog.jp/28512725/",
 	"formats": {
 		"anm": "anm11",
 		"msg": "msg11",

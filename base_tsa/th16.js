@@ -1,5 +1,9 @@
 {
 	"title": "東方天空璋　～ Hidden Star in Four Seasons",
+	"latest": [
+		"v0.01a", "v1.00a"
+	],
+	"url_trial": "https://store.steampowered.com/app/745880/__Hidden_Star_in_Four_Seasons/",
 	"formats": {
 		"anm": "anm11",
 		"msg": "msg11",

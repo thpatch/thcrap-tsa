@@ -1,5 +1,8 @@
 {
 	"title": "秘封ナイトメアダイアリー　〜 Violet Detector",
+	"latest": [
+		"v1.00a"
+	],
 	"binhacks": {
 		"sprintf_msvcrt14_ebp-108": {
 			"title": "Safe Visual Studio 2015-style sprintf (ebp-108)",
