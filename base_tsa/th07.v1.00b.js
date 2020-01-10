@@ -10,12 +10,22 @@
 				"0x4545ee"
 			]
 		},
+		"sprintf_replay_1": {
+			"addr": "Rx475ab"
+		},
+		"sprintf_replay_2": {
+			"addr": "Rx47c41"
+		},
+		"sprintf_replay_3": {
+			"addr": "Rx5aa3a"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"0x45431e",
 				"0x454493",
 				"0x454527",
-				"0x45472d"
+				"0x45472d",
+				"Rx5aa8d"
 			]
 		},
 		"sprintf_call_ebp-208": {

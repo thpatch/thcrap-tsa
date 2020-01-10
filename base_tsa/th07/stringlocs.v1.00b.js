@@ -62,5 +62,8 @@
 	"Rx965b0": "th07 Stats Practice",
 	"Rx96580": "th07 Stats Retries +Phantasm",
 	"Rx96554": "th07 Stats Retries",
-	"Rx980e0": "th07 MAX"
+	"Rx980e0": "th07 MAX",
+	"Rx97e1c": "th07_replay_0",
+	"Rx967bc": "th07_replay_format",
+	"Rx95664": "th07_replay_find"
 }
