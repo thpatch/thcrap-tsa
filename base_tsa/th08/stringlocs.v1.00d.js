@@ -117,5 +117,9 @@
 	"Rxb8790": "th08 Spell Condition Line 1 220",
 	"Rxb875c": "th08 Spell Condition Line 1 221",
 	"Rxb8728": "th08 Spell Condition Line 2 221",
-	"Rxb86f0": "th08 Spell Condition Line 1 222"
+	"Rxb86f0": "th08 Spell Condition Line 1 222",
+	"Rxb5820": "th08_replay_0",
+	"Rxb7984": "th08_replay_format",
+	"Rxb9484": "th08_replay_user_find",
+	"Rxb5994": "th08_scorefile_fn"
 }

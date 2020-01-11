@@ -1,5 +1,17 @@
 {
 	"binhacks": {
+		"sprintf_replay_1": {
+			"code": "e8[strings_sprintf] 83c4 0c 6a 01 8d55 f0 89c1 90",
+			"title": "Replay name sprintf 1"
+		},
+		"sprintf_replay_2": {
+			"code": "e8[strings_sprintf] 83c4 0c 8b95 58ffffff 83c2 58 89c1 90909090",
+			"title": "Replay name sprintf 2"
+		},
+		"sprintf_replay_3": {
+			"code": "e8[strings_sprintf] 83c4 0c 6a 01 8d55 f0 89c1 8945 a8 e8 fd03fdff 8945 ec 85c0 9090 74 c1",
+			"title": "Replay name sprintf 3"
+		},
 		"file_size_for_caller_rearrange": {
 			"code": "8b55 f4 8b4d e4 8911",
 			"title": "Rearrange the assignment of the file size to the caller's pointer, so that we can set a breakpoint there"
