@@ -65,5 +65,6 @@
 	"Rx980e0": "th07 MAX",
 	"Rx97e1c": "th07_replay_0",
 	"Rx967bc": "th07_replay_format",
-	"Rx95664": "th07_replay_find"
+	"Rx95664": "th07_replay_user_find",
+	"Rx980c4": "th07_scorefile_fn"
 }
