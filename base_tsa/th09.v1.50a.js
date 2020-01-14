@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"zun_strcat_stringlocs": {
+			"code": "6a 00 ff75 08 e8[strings_lookup] 8945 08 eb 05 55 8bec eb ec 31c0"
+		},
 		"file_decrypted_buffer_size": {
 			"addr": "0x42c19c"
 		},

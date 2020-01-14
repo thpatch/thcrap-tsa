@@ -28,5 +28,10 @@
 	"Rx8f72c": "th09 Music Room spoiler 2",
 	"Rx8f6e8": "th09 Music Room spoiler 3",
 	"Rx8fab0": "th07 Menu Option",
-	"Rx8fa98": "th07 Menu Quit"
+	"Rx8fa98": "th07 Menu Quit",
+	"Rx8f6bc": "th09_replay_format_1",
+	"Rx8fa84": "th09_replay_format_2",
+	"Rx8fa68": "th09_replay_user_format",
+	"Rx8f6a4": "th09_replay_user_find",
+	"Rx8f310": "th09_scorefile_fn"	
 }
