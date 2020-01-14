@@ -12,6 +12,10 @@
 			"code": "50e8[strings_vsprintf]8945b8",
 			"title": "Safe sprintf (second call)"
 		},
+		"sprintf_replay_2": {
+			"code": "e8[strings_sprintf] 8b0d 647e4a00 83c4 0c 8dbb 8c000000 57 89c2 90909090",
+			"title": "Replay name sprinf 2"
+		},
 		"music_title_prepare": {
 			"code": "8d8c0fdca301005153518b8e901b0100e861c9fdff598b45ec803c1800742b8d9361ffffff8b45f450688020300068ffe0d000909090909090",
 			"title": "Prepare Music Room title parameter fetching"
