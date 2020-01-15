@@ -14,5 +14,8 @@
 	"Rx6edc0": "th10 Music Room spoiler 2",
 	"Rx6edf8": "th10 Music Room spoiler 1",
 	"Rx6eebc": "th10 Result Unknown Spell",
-	"Rx6eef8": "th10 Result Known Spell"
+	"Rx6eef8": "th10 Result Known Spell",
+	"Rx6e0c8": "th10_replay_format",
+	"Rx6efec": "th10_replay_user_find",
+	"Rx6e848": "th10_scorefile_fn"
 }
