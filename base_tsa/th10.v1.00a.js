@@ -9,11 +9,32 @@
 		"sprintf_call_esp+1c": {
 			"addr": "0x447b19"
 		},
+		"sprintf_replay_1": {
+			"addr": "Rx239ed"
+		},
+		"sprintf_replay_2": {
+			"addr": "Rx23ee4",
+			"code": "68 c8e04600 54 e8[strings_sprintf] 894424 24"
+		},
+		"sprintf_replay_3": {
+			"addr": "Rx3168f"
+		},
+		"sprintf_replay_4": {
+			"addr": "Rx335fb"
+		},
+		"sprintf_replay_5": {
+			"code": "68 c8e04600 54 e8[strings_sprintf] 894424 1c"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"0x447aab",
 				"0x447b7a",
-				"0x447c40"
+				"0x447c40",
+				"Rx23f12",
+				"Rx23f1e",
+				
+				"Rx33999",
+				"Rx339a5"
 			]
 		},
 		"enemy_text_offset_1": {

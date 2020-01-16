@@ -1,5 +1,23 @@
 {
 	"binhacks": {
+		"sprintf_replay_1": {
+			"code": "e8[strings_sprintf] 83c4 0c 89c1 9090",
+			"title": "Replay name sprintf 1"
+		},
+		"sprintf_replay_2": {
+			"title": "Replay name sprintf 2"
+		},
+		"sprintf_replay_3": {
+			"code": "e8[strings_sprintf] 83c4 0c 89c1 9090909090",
+			"title": "Replay name sprintf 3"
+		},
+		"sprintf_replay_4": {
+			"code": "e8[strings_sprintf] 83c4 0c 89c1 9090",
+			"title": "Replay name sprintf 4"
+		},
+		"sprintf_replay_5": {
+			"title": "Replay name sprintf 5"
+		},
 		"enemy_text_offset_1": {
 			"code": "8d7560",
 			"title": "Move enemy text to the left (line 1)"
