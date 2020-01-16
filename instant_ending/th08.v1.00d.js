@@ -10,6 +10,10 @@
 		"deaths_to_continues": {
 			"addr": "Rx4d0ec",
 			"code": "8b0d 10f56001 fe41 29 90909090"
+		},
+		"set_time_on_death": {
+			"addr": "Rx4d0f5",
+			"code": "c641280a"
 		}
 	}
 }
