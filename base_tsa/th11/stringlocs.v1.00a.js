@@ -8,5 +8,8 @@
 	"0x495fa4": "th10 Music Room spoiler 4",
 	"0x495f6c": "th10 Music Room spoiler 5",
 	"Rx96274": "th10 Result Known Spell",
-	"Rx96288": "th10 Result Unknown Spell"
+	"Rx96288": "th10 Result Unknown Spell",
+	"Rx95384": "th11_replay_format",
+	"Rx96224": "th11_replay_user_find",
+	"Rx957b8": "th11_scorefile_fn"
 }

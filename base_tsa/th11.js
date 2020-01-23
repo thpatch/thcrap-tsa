@@ -1,5 +1,11 @@
 {
 	"binhacks": {
+		"sprintf_replay_push_result_1": {
+			"code": "e8[strings_sprintf] 83c4 0c 50 90909090"
+		},
+		"sprintf_replay_push_result_2": {
+			"code": "e8[strings_sprintf] 83c4 0c 50 90909090909090"
+		},
 		"spell_align": {
 			"code": "8b960804000051d1ea83e20152ffb4e4a8000000ffb4e4a8000000ff35ec2e4c0053e8[GetTextExtentForFont]83c00450db04e45885c0",
 			"title": "Spell card alignment"
