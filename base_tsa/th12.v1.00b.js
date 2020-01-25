@@ -23,11 +23,41 @@
 				"0x460929"
 			]
 		},
+		"sprintf_replay_reuse_1": {
+			"code": "68 24104a00 54 e8[strings_sprintf] 894424 44",
+			"addr": "Rx33416"
+		},
+		"sprintf_replay_reuse_2": {
+			"code": "68 24104a00 54 e8[strings_sprintf] 894424 30",
+			"addr": [ "Rx3442a", "Rx3516c" ]
+		},
+		"sprintf_replay_reuse_4": {
+			"code": "68 24104a00 54 e8[strings_sprintf] 894424 20",
+			"addr": "Rx48e20"
+		},
+		"sprintf_replay_reuse_3": {
+			"code": "68 24104a00 54 e8[strings_sprintf] 83c4 0c 894424 14 50 90909090",
+			"addr": "Rx48a61"
+		},
+		"sprintf_replay_push_1": {
+			"addr": [ "Rx335cb", "Rx33f6b", "Rx34cae" ]
+		},
+		"sprintf_replay_push_2": {
+			"addr": "Rx4659e"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"0x4608b7",
 				"0x4607d4",
-				"0x46099b"
+				"0x46099b",
+				"Rx33440",
+				"Rx3344c",
+				"Rx34455",
+				"Rx34461",
+				"Rx35197",
+				"Rx351a3",
+				"Rx48e4b",
+				"Rx48e57"
 			]
 		},
 		"spell_align": {

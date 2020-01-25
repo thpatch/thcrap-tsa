@@ -12,5 +12,8 @@
 	"Rxa1cf0": "th10 Music Room spoiler 4",
 	"Rxa1d2c": "th10 Music Room spoiler 3",
 	"Rxa1d58": "th10 Music Room spoiler 2",
-	"Rxa1d90": "th10 Music Room spoiler 1"
+	"Rxa1d90": "th10 Music Room spoiler 1",
+	"Rxa1024": "th12_replay_format",
+	"Rxa1f74": "th12_replay_user_find",
+	"Rxa14b0": "th12_scorefile_fn"
 }

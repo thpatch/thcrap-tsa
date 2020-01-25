@@ -1,5 +1,11 @@
 {
 	"binhacks": {
+		"sprintf_replay_push_1": {
+			"code": "e8[strings_sprintf] 83c4 0c 50 90909090"
+		},
+		"sprintf_replay_push_2": {
+			"code": "e8[strings_sprintf] 83c4 0c 50 90909090909090"
+		},
 		"fix_score_1": {
 			"code": "73",
 			"title": "Score counter bugfix (jumps)"
