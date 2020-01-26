@@ -23,6 +23,7 @@
 			"addr": "Rx335fb"
 		},
 		"sprintf_replay_5": {
+			"addr": "Rx3396b",
 			"code": "68 c8e04600 54 e8[strings_sprintf] 894424 1c"
 		},
 		"sprintf_rep": {
