@@ -9,11 +9,41 @@
 		"sprintf_call_ebp-8c": {
 			"addr": "0x46e99f"
 		},
+		"sprintf_replay_reuse_1": {
+			"code": "68 1cbb4a00 55 e8[strings_sprintf] 89 45 bc",
+			"addr": [ "Rx3f23e", "Rx412b3", "Rx54de5" ]
+		},
+		"sprintf_replay_reuse_2": {
+			"code": "68 1cbb4a00 55 e8[strings_sprintf] 894424 44",
+			"addr": "Rx40251"
+		},
+		"sprintf_replay_reuse_3": {
+			"code": "68 1cbb4a00 55 e8[strings_sprintf] 898424 70010000",
+			"addr": "Rx52361"
+		},
+		"sprintf_replay_push_1": {
+			"code": "e8[strings_sprintf] 83c4 0c 50 909090",
+			"addr": [ "Rx3f3cb", "Rx40e2a", "Rx54a40" ]
+		},
+		"sprintf_replay_push_2": {
+			"code": "e8[strings_sprintf] 83c4 0c 50 90909090",
+			"addr": "Rx3fd40"
+		},
+		
 		"sprintf_rep": {
 			"addr": [
 				"0x46e94c",
 				"0x46ea0c",
-				"0x46eac9"
+				"0x46eac9",
+				"Rx3f268",
+				"Rx3f273",
+				"Rx4027c",
+				"Rx40288",
+				"Rx412dd",
+				"Rx412e8",
+				"Rx523ce",
+				"Rx54e12",
+				"Rx54e1d"
 			]
 		},
 		"log_restore": {
