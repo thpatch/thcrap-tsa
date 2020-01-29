@@ -23,5 +23,8 @@
 	"Rxbebd4": "th10_ascii_stage_clear",
 	"Rxbfb48": "th10_ascii_score_empty",
 	"Rxbed30": "th10_ascii_ranking",
-	"Rxbed8c": "th13_ascii_credit"
+	"Rxbed8c": "th13_ascii_credit",
+	"Rxbed98": "th14_replay_format",
+	"Rxbf988": "th14_replay_user_find",
+	"Rxbf268": "th14_scorefile_fn"
 }
