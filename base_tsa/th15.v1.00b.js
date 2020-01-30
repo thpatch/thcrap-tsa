@@ -9,12 +9,32 @@
 				"0x486dd3"
 			]
 		},
+		"sprintf_replay_use_ecx_2": {
+			"addr": [ "Rx51f7b", "Rx6a890" ]
+		},
+		"sprintf_replay_reuse_1": {
+			"code": "68 34d24c00 54 e8[strings_sprintf] 83c4 0c 894424 78 8b4f 34",
+			"addr": "Rx521a0"
+		},
+		"sprintf_replay_reuse_2": {
+			"code": "68 34d24c00 54 e8[strings_sprintf] 898424 68010000",
+			"addr": "Rx67e21"
+		},
+		"sprintf_replay_reuse_3": {
+			"code": "68 34d24c00 54 e8[strings_sprintf] 894424 1c",
+			"addr": "Rx6abe4"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"0x486a98",
 				"0x486aab",
 				"0x486d51",
-				"0x486edf"
+				"0x486edf",
+				"Rx521cb",
+				"Rx521db",
+				"Rx67e83",
+				"Rx6ac0f",
+				"Rx6ac1c"
 			]
 		},
 		"log_restore": {

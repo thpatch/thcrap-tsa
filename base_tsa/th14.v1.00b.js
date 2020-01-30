@@ -29,7 +29,6 @@
 			"addr": [ "Rx49b8a", "Rx4b511", "Rx6143a" ]
 		},
 		"sprintf_replay_use_ecx_2": {
-			"code": "e8[strings_sprintf] 83c4 0c 89c1 9090",
 			"addr": "Rx4a59e"
 		},
 		"sprintf_rep": {

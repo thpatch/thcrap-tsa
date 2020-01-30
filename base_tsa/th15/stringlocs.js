@@ -28,5 +28,8 @@
 	"Rxcdf80": "th10_ascii_score_empty",
 	"Rxcd21c": "th13_ascii_credit",
 	"Rxcd8dc": "th14_ascii_bonus",
-	"Rxcd8e8": "th14_ascii_no_bonus"
+	"Rxcd8e8": "th14_ascii_no_bonus",
+	"Rxcd234": "th15_replay_format",
+	"Rxcdd8c": "th15_replay_user_find",
+	"Rxcd700": "th15_scorefile_fn"
 }
