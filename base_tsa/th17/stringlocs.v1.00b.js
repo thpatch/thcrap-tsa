@@ -22,5 +22,8 @@
 	"Rxa2d0c": "th143 Trophy Format",
 	"Rxa2cf8": "th17 Trophy Get",
 	"Rxa1f1c": "th10_ascii_ranking",
-	"Rxa1f78": "th13_ascii_credit"
+	"Rxa1f78": "th13_ascii_credit",
+	"Rxa1f90": "th17_replay_format",
+	"Rxa27cc": "th17_replay_user_find",
+	"Rxa2280": "th17_scorefile_fn"
 }

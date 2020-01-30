@@ -41,5 +41,8 @@
 	"Rx9366c": "th13_ascii_spell_score",
 	"Rx93680": "th13_ascii_spell_game",
 	"Rx9369c": "th13_ascii_spell_unknown",
-	"Rx937bc": "Sans font"
+	"Rx937bc": "Sans font",
+	"Rx92aac": "th16_replay_format",
+	"Rx931dc": "th16_replay_user_find",
+	"Rx92e18": "th16_scorefile_fn"
 }

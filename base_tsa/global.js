@@ -77,6 +77,9 @@
 		"sprintf_replay_use_ecx_2": {
 			"code": "e8[strings_sprintf] 83c4 0c 89c1 9090"
 		},
+		"sprintf_replay_use_ecx_5": {
+			"code": "e8[strings_sprintf] 83c4 0c 89c1 9090909090"
+		},
 		"sprintf_rep": {
 			"code": "8b",
 			"title": "Safe sprintf (replace)"

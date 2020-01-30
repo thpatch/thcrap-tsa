@@ -15,6 +15,16 @@
 		"sprintf_msvcrt14_ebp-10c": {
 			"addr": "Rx082cf"
 		},
+		"sprintf_replay_use_ecx_2": {
+			"addr": "Rx455ee"
+		},
+		"sprintf_replay_use_ecx_5": {
+			"addr": "Rx56e9e"
+		},
+		"sprintf_replay_reuse_1": {
+			"code": "68 901f4a00 54 e8[strings_sprintf] 894424 1c",
+			"addr": [ "Rx45804", "Rx59976", "Rx59d64" ]
+		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx082dd",
@@ -24,7 +34,13 @@
 				"Rx75247",
 				"Rx75258",
 				"Rx75314",
-				"Rx7539d"
+				"Rx7539d",
+				"Rx45836",
+				"Rx45843",
+				"Rx59988",
+				"Rx599bd",
+				"Rx59d96",
+				"Rx59da3"
 			]
 		},
 		"spell_align": {
