@@ -11,7 +11,7 @@
 		},
 		"sprintf_replay_reuse_1": {
 			"code": "68 84534900 54 e8[strings_sprintf] 894424 40",
-			"addr": [ "Rx2d280", "Rx2ef1c" ]
+			"addr": "Rx2d280"
 		},
 		"sprintf_replay_push_result_1": {
 			"addr": [ "Rx2d42d", "Rx2ea5d", "Rx2dd2b" ]
@@ -20,15 +20,16 @@
 			"addr": "Rx3dc8e"
 		},
 		"sprintf_replay_reuse_2": {
-			"code": "68 84534900 52 e8[strings_sprintf] 894424 30",
-			"addr": "Rx2e1ec"
+			"code": "68 84534900 54 e8[strings_sprintf] 894424 30",
+			"addr": [ "Rx2e1ec", "Rx2ef1c" ]
 		},
 		"sprintf_replay_reuse_3": {
 			"code": "68 84534900 54 e8[strings_sprintf] 83c4 0c 894424 14 50 90909090",
 			"addr": "Rx40021"
 		},
 		"sprintf_replay_reuse_4": {
-			"code": "68 84534900 54 e8[strings_sprintf] 894424 20"
+			"code": "68 84534900 54 e8[strings_sprintf] 894424 20",
+			"addr": "Rx40396"
 		},
 		"sprintf_rep": {
 			"addr": [
@@ -41,7 +42,6 @@
 				"Rx2e223",
 				"Rx2ef47",
 				"Rx2ef53",
-				"Rx40050",
 				"Rx403c1",
 				"Rx403cd"
 			]
