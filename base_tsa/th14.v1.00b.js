@@ -15,21 +15,26 @@
 		},
 		"sprintf_replay_reuse_1": {
 			"code": "68 98ed4b00 54 e8[strings_sprintf] 8945 bc",
-			"addr": [ "Rx499fb", "Rx4b945", "Rx6178a" ]
+			"addr": [ "Rx499fb", "Rx4b945", "Rx6178a" ],
+			"ignore": true
 		},
 		"sprintf_replay_reuse_2": {
-			"code": "68 98ed4b00 54 e8[strings_sprintf] 894424 2c"
+			"code": "68 98ed4b00 54 e8[strings_sprintf] 894424 2c",
+			"ignore": true
 		},
 		"sprintf_replay_reuse_3": {
 			"code": "68 98ed4b00 54 e8[strings_sprintf] 898424 68010000",
-			"addr": "Rx5ed91"
+			"addr": "Rx5ed91",
+			"ignore": true
 		},
 		"sprintf_replay_use_ecx_1": {
 			"code": "e8[strings_sprintf] 83c4 0c 89c1 90",
-			"addr": [ "Rx49b8a", "Rx4b511", "Rx6143a" ]
+			"addr": [ "Rx49b8a", "Rx4b511", "Rx6143a" ],
+			"ignore": true
 		},
 		"sprintf_replay_use_ecx_2": {
-			"addr": "Rx4a59e"
+			"addr": "Rx4a59e",
+			"ignore": true
 		},
 		"sprintf_rep": {
 			"addr": [
@@ -37,16 +42,7 @@
 				"0x40bded",
 				"0x47dbf8",
 				"Rx7dd24",
-				"0x47de3b",
-				"Rx49a25",
-				"Rx49a31",
-				"Rx4aa57",
-				"Rx4aa64",
-				"Rx4b96f",
-				"Rx4b97b",
-				"Rx5edf3",
-				"Rx617b4",
-				"Rx617c0"
+				"0x47de3b"
 			]
 		},
 		"log_restore": {
