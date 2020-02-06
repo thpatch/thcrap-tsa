@@ -83,6 +83,16 @@
 			"code": "00",
 			"expected": "6A"
 		},
+		"Main/Auto-item collection(always)": {
+			"addr": "0x41F6FE",
+			"code": "8B55EC0FBE824301000083F801EB",
+			"ignore": true
+		},
+		"Main/Auto-item collection(only at focused)": {
+			"addr": "0x41F6FE",
+			"code": "83F801742E3E803D0BB06C000174",
+			"ignore": true
+		},
 		"Main/Carry over/Graze": {
 			"addr": "0x41BE27",
 			"code": "48",
