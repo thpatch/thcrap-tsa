@@ -76,17 +76,20 @@
 		"Main/Auto-bomb#1": {
 			"addr": "0x44C85D",
 			"code": "30",
-			"expected": "2C"
+			"expected": "2C",
+			"ignore": true
 		},
 		"Main/Auto-bomb#2": {
 			"addr": "0x44CC18",
 			"code": "FF89",
-			"expected": "8B91"
+			"expected": "8B91",
+			"ignore": true
 		},
 		"Main/Auto-bomb#3": {
 			"addr": "0x44CC21",
 			"code": "66C70528D5640102",
-			"expected": "8B45F88990682A0E"
+			"expected": "8B45F88990682A0E",
+			"ignore": true
 		},
 		"Main/Boss timer freeze#1": {
 			"addr": "0x416CBE",
@@ -104,6 +107,15 @@
 			"addr": "0x440836",
 			"code": "EB",
 			"expected": "74"
+		},
+		"Main/Item auto collect(always)": {
+			"addr": "0x4407EC",
+			"code": "8B55DC0FBE82D702000083F801EB"
+		},
+		"Main/Item auto collect(only at focused)": {
+			"addr": "0x4407EC",
+			"code": "83FA01746E3E803DFB5E7D010174",
+			"ignore": true
 		}
 	}
 }
