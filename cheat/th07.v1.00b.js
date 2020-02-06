@@ -14,13 +14,13 @@
 			"addr": "0x43E37F",
 			"code": "00",
 			"expected": "07",
-			"ignore": false
+			"ignore": true
 		},
 		"Main/Invincible#2": {
 			"addr": "0x43EB6A",
 			"code": "00",
 			"expected": "04",
-			"ignore": false
+			"ignore": true
 		},
 		"Main/Invincible (with hit sound) + HiScore as hit counter#1": {
 			"addr": "0x42BEF6",
