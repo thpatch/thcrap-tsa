@@ -13,14 +13,12 @@
 		"Main/Invincible#1": {
 			"addr": "0x426DD5",
 			"code": "00",
-			"expected": "07",
-			"ignore": true
+			"expected": "07"
 		},
 		"Main/Invincible#2": {
 			"addr": "0x427611",
 			"code": "00",
-			"expected": "04",
-			"ignore": true
+			"expected": "04"
 		},
 		"Main/Invincible (with hit sound) + HiScore as hit counter#1": {
 			"addr": "0x41ABCF",
@@ -83,12 +81,11 @@
 			"code": "00",
 			"expected": "6A"
 		},
-		"Main/Auto-item collection(always)": {
+		"Main/Auto-collect items(always)": {
 			"addr": "0x41F6FE",
-			"code": "8B55EC0FBE824301000083F801EB",
-			"ignore": true
+			"code": "8B55EC0FBE824301000083F801EB"
 		},
-		"Main/Auto-item collection(only at focused)": {
+		"Main/Auto-collect items(only at focused)": {
 			"addr": "0x41F6FE",
 			"code": "83F801742E3E803D0BB06C000174",
 			"ignore": true
