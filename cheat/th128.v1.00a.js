@@ -85,6 +85,24 @@
 			"addr": "0x425FFF",
 			"code": "A08601",
 			"expected": "204E00"
+		},
+		"Main/Auto-collect items#1(always)": {
+			"addr": "0x428F45",
+			"code": "00"
+		},
+		"Main/Auto-collect items#1(only at focused)": {
+			"addr": "0x428F44",
+			"code": "746D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#1(only at unfocused)": {
+			"addr": "0x428F44",
+			"code": "756D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#2": {
+			"addr": ["0x428F56","0x428F67","0x428F78","0x428F87"],
+			"code": "00"
 		}
 	}
 }
