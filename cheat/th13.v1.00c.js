@@ -92,6 +92,24 @@
 			"addr": "0x4435D9",
 			"code": "660F1F4400",
 			"expected": "891D08E84B"
+		},
+		"Main/Auto-collect items#1(always)": {
+			"addr": "0x42EC03",
+			"code": "00"
+		},
+		"Main/Auto-collect items#1(only at focused)": {
+			"addr": "0x42EC02",
+			"code": "746D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#1(only at unfocused)": {
+			"addr": "0x42EC02",
+			"code": "756D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#2": {
+			"addr": ["0x42EC14","0x42EC25","0x42EC36","0x42EC45"],
+			"code": "00"
 		}
 	}
 }
