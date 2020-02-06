@@ -13,12 +13,17 @@
 		"Main/Invincible": {
 			"addr": "0x443F10",
 			"code": "C3",
-			"expected": "55"
+			"expected": "55",
+			"ignore": true
 		},
 		"Main/Power Settings/Max Power": {
-			"addr": ["0x4295FB","0x42964E"],
+			"addr": "0x42CE29",
 			"code": "E8"
 		},
+		"Main/Power doesn't decrease on death": {
+			"addr": "0x44273D",
+			"code": "C0"
+		},		
 		"Main/Season/Start with full gauge": {
 			"addr": "0x42CECC",
 			"code": "7404"
@@ -34,7 +39,8 @@
 		"Main/Auto-bomb": {
 			"addr": "0x4427A1",
 			"code": "C6",
-			"expected": "F6"
+			"expected": "F6",
+			"ignore": true
 		},
 		"Main/Boss timer freeze#1": {
 			"addr": "0x417965",
