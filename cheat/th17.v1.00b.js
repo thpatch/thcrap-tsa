@@ -31,6 +31,11 @@
 			"code": "524E",
 			"expected": "ED4D",
 			"ignore": true
+		},
+		"Main/Auto-collect items": {
+			"addr": "0x4335B1",
+			"code": "E9 540200",
+			"expected": "0F855302"
 		}
 	}
 }
