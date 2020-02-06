@@ -13,8 +13,7 @@
 		"Main/Invincible": {
 			"addr": "0x443F10",
 			"code": "C3",
-			"expected": "55",
-			"ignore": true
+			"expected": "55"
 		},
 		"Main/Power Settings/Max Power": {
 			"addr": "0x42CE29",
@@ -39,8 +38,7 @@
 		"Main/Auto-bomb": {
 			"addr": "0x4427A1",
 			"code": "C6",
-			"expected": "F6",
-			"ignore": true
+			"expected": "F6"
 		},
 		"Main/Boss timer freeze#1": {
 			"addr": "0x417965",
