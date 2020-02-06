@@ -23,9 +23,21 @@
 			"addr": "0x44273D",
 			"code": "C0"
 		},		
-		"Main/Season/Start with full gauge": {
+		"Main/Season/Start with full gauge(Stage 1, Extra stage)": {
 			"addr": "0x42CECC",
 			"code": "7404"
+		},
+		"Main/Season/Start with full gauge(rest of the stages)#1": {
+			"addr": "0x42CEFD",
+			"code": "E9 D8DD0500 90"
+		},
+		"Main/Season/Start with full gauge(rest of the stages)#2": {
+			"addr": "0x48ACDA",
+			"code": "C705 08584A00 74040000"
+		},
+		"Main/Season/Start with full gauge(rest of the stages)#3": {
+			"addr": "0x48ACE4",
+			"code": "E9 1A22FAFF"
 		},
 		"Main/Season/Keep maxed(spring, autumn, winter)": {
 			"addr": "0x40DCAE",
