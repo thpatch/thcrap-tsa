@@ -70,6 +70,24 @@
 			"code": "90",
 			"expected": "42",
 			"ignore": true
+		},
+		"Main/Auto-collect items#1(always)": {
+			"addr": "0x41B79F",
+			"code": "00"
+		},
+		"Main/Auto-collect items#1(only at focused)": {
+			"addr": "0x41B79E",
+			"code": "745D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#1(only at unfocused)": {
+			"addr": "0x41B79E",
+			"code": "755D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#2": {
+			"addr": ["0x41B7B0","0x41B7C1","0x41B7D2","0x41B7E3"],
+			"code": "00"
 		}
 	}
 }
