@@ -70,6 +70,24 @@
 			"code": "90",
 			"expected": "42",
 			"ignore": true
+		},
+		"Main/Auto-collect items#1(always)": {
+			"addr": "0x426E55",
+			"code": "00"
+		},
+		"Main/Auto-collect items#1(only at focused)": {
+			"addr": "0x426E54",
+			"code": "746D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#1(only at unfocused)": {
+			"addr": "0x426E54",
+			"code": "756D",
+			"ignore": true
+		},
+		"Main/Auto-collect items#2": {
+			"addr": ["0x426E66","0x426E77","0x426E88","0x426E97"],
+			"code": "00"
 		}
 	}
 }
