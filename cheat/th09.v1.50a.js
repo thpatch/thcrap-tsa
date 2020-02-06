@@ -25,8 +25,7 @@
 		},
 		"Main/Invincible#1(P1)": {
 			"addr": "0x48DB20",
-			"code": "833DA47E4A0004740583FB0B74028B01C3",
-			"ignore": true
+			"code": "833DA47E4A0004740583FB0B74028B01C3"
 		},
 		"Main/Invincible#1(P2)": {
 			"addr": "0x48DB20",
@@ -40,8 +39,7 @@
 		},
 		"Main/Invincible#2": {
 			"addr": "0x41E8B3",
-			"code": "69F206",
-			"ignore": true
+			"code": "69F206"
 		},
 		"Main/Max Charge gauage#1(P1)": {
 			"addr": "0x48DB00",
