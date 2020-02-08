@@ -123,7 +123,7 @@
 		},
 		"Main/Max Point item#1": {
 			"addr": "0x430400",
-			"code": "E9 F79A0600"
+			"code": "E9 F79A0600 90909090"
 		},
 		"Main/Max Point item#2": {
 			"addr": "0x499EFC",
