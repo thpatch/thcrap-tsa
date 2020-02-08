@@ -42,7 +42,7 @@
 		},
 		"Main/Roaring/Freeze Timer#2-1": {
 			"addr": "0x40EF1D",
-			"code": "E9 B9AF0800"
+			"code": "E9 B9AF0800 9090909090"
 		},
 		"Main/Roaring/Freeze Timer#2-2": {
 			"addr": "0x499EDB",
