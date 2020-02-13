@@ -104,6 +104,15 @@
 			"addr": "0x440836",
 			"code": "EB",
 			"expected": "74"
+		},
+		"Main/Auto-collect items(always)": {
+			"addr": "0x4407EC",
+			"code": "8B55DC0FBE82D702000083F801EB"
+		},
+		"Main/Auto-collect items(only at focused)": {
+			"addr": "0x4407EC",
+			"code": "83FA01746E3E803DFB5E7D010174",
+			"ignore": true
 		}
 	}
 }

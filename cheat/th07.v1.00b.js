@@ -88,6 +88,49 @@
 			"addr": "0x432C63",
 			"code": "EB",
 			"expected": "74"
+		},
+		"Main/Auto-collect items(always)": {
+			"addr": "0x432C84",
+			"code": "0FBE15E5FE4B0083FA017500"
+		},
+		"Main/Auto-collect items(only at focused)": {
+			"addr": "0x432C84",
+			"code": "B8E5FE4B008A100250FE747A",
+			"ignore": true
+		},
+		"Main/Max cherry plus at start#1": {
+			"addr": "0x0042E9A5",
+			"code": "E9 94E30500 90"
+		},
+		"Main/Max cherry plus at start#2": {
+			"addr": "0x0048CD3E",
+			"code": "05 46C3 0000"
+		},
+		"Main/Max cherry plus at start#3": {
+			"addr": "0x0048CD43",
+			"code": "8981 20960000"
+		},
+		"Main/Max cherry plus at start#4": {
+			"addr": "0x0048CD49",
+			"code": "E9 5D1CFAFF"
+		},
+		"Main/Don't increase cherry plus#1": {
+			"addr": "0x0042F60B",
+			"code": "E9 3ED70500 90",
+			"ignore": true
+		},
+		"Main/Don't increase cherry plus#2": {
+			"addr": "0x0048CD4E",
+			"code": "05 0000 0000",
+			"title": "If you want to increase max amount(50,000), write [05 50C3 0000]."
+		},
+		"Main/Don't increase cherry plus#3": {
+			"addr": "0x0048CD53",
+			"code": "8B4D F8"
+		},
+		"Main/Don't increase cherry plus#4": {
+			"addr": "0x0048CD56",
+			"code": "E9 B628FAFF"
 		}
 	}
 }

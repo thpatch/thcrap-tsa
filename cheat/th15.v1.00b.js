@@ -26,10 +26,14 @@
 			"code": "44",
 			"expected": "48"
 		},
-		"Main/Power doesn't decrease on death": {
+		"Main/Power doesn't decrease on death(legacy mode)": {
 			"addr": "0x4582FA",
 			"code": "45",
 			"expected": "4D"
+		},
+		"Main/Power doesn't decrease on death(pointdevice mode)": {
+			"addr": "0x0043DF43",
+			"code": "90 90 90"
 		},
 		"Main/Auto-bomb": {
 			"addr": "0x454CC9",

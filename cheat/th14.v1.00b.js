@@ -57,6 +57,24 @@
 			"code": "90",
 			"expected": "40",
 			"ignore": true
+		},
+		"Main/Auto-collect items#1(always)": {
+			"addr": "0x438C3A",
+			"code": "7500"
+		},
+		"Main/Auto-collect items#1(only at focused)": {
+			"addr": "0x438C3A",
+			"code": "7466",
+			"ignore": true
+		},
+		"Main/Auto-collect items#1(only at unfocused)": {
+			"addr": "0x438C3A",
+			"code": "7566",
+			"ignore": true
+		},
+		"Main/Auto-collect items#2": {
+			"addr": ["0x438C48","0x438C55","0x438C5E","0x438C67"],
+			"code": "00"
 		}
 	}
 }
