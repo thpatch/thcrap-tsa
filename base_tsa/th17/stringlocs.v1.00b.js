@@ -25,5 +25,6 @@
 	"Rxa1f78": "th13_ascii_credit",
 	"Rxa1f90": "th17_replay_format",
 	"Rxa27cc": "th17_replay_user_find",
-	"Rxa2280": "th17_scorefile_fn"
+	"Rxa2280": "th17_scorefile_fn",
+	"Rxa2850": "replay_user_menu_format"
 }
