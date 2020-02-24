@@ -4,13 +4,9 @@
 			"code": "50e8[GetTextExtent]f30f1015b58c4c0083e81c730331c090",
 			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"
 		},
-		"spell_align_call": {
-			"code": "e81a6803009090",
-			"title": "Call to spell_align"
-		},
 		"spell_align": {
-			"code": "51536a00ff74e440e8[GetTextExtentForFontID]31d2bb08000000f7f389c683c60231c031d25b59c3",
-			"title": "Spell card alignment"
+			"title": "Spell card alignment",
+			"code": "8b4c91088bc18b955cffffffc1f8088b9482d8f487010fb6c18d0c408b82240100008b14c88b451c03c0898560ffffff8b471cc1e80c83e00189855cffffffff75185689d6e8[GetTextExtentForFontID]89f28b8d54ffffff83c008d1f090909090909090"
 		},
 		"result_spell_align": {
 			"code": "31d2",

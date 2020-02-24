@@ -11,7 +11,8 @@
 			"addr": [
 				"0x481f1e",
 				"Rx820a0",
-				"0x48220c"
+				"0x48220c",
+				"Rx81fb8"
 			]
 		},
 		"log_restore": {
@@ -26,11 +27,9 @@
 		"spell_name_fetch": {
 			"addr": "0x41f89b"
 		},
-		"spell_align_call": {
-			"addr": "Rx81fe1"
-		},
 		"spell_align": {
-			"addr": "Rxb8800"
+			"addr": "Rx81fe1",
+			"code": "8b4c99088b54240c8bc1c1f8088b9482e0f486010fb6c18d0c408b82240100008b04c88944240c8b451c03c0894424108b471cc1e80b83e00189442418ff751856e8[GetTextExtentForFontID]8b4c241c83c008d1f08b542414f30f104c9a3890909090909090"
 		},
 		"result_spell_align": {
 			"addr": "0x4821c9"

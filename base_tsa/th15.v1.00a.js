@@ -14,7 +14,8 @@
 				"0x486a28",
 				"0x486a3b",
 				"0x486ce1",
-				"0x486e6f"
+				"0x486e6f",
+				"Rx86bd4"
 			]
 		},
 		"log_restore": {
@@ -30,17 +31,8 @@
 		"spell_name_fetch": {
 			"addr": "0x42078b"
 		},
-		"spell_align_call": {
-			"addr": "Rx86c40",
-			"code": "e8bb6c03009090"
-		},
-		"spell_align_call_2": {
-			"addr": "Rx86c56",
-			"code": "909090909090",
-			"title": "No-op things a bit after spell_align"
-		},
 		"spell_align": {
-			"addr": "Rxbd900"
+			"addr": "Rx86c40"
 		},
 		"result_spell_align": {
 			"addr": "0x486e75"

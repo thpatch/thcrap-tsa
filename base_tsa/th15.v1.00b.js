@@ -30,6 +30,7 @@
 				"0x486aab",
 				"0x486d51",
 				"0x486edf",
+				"Rx86c44",
 				"Rx521cb",
 				"Rx521db",
 				"Rx67e83",
@@ -50,17 +51,8 @@
 		"spell_name_fetch": {
 			"addr": "0x4207eb"
 		},
-		"spell_align_call": {
-			"addr": "Rx86cb0",
-			"code": "e84b6c03009090"
-		},
-		"spell_align_call_2": {
-			"addr": "Rx86cc6",
-			"code": "909090909090",
-			"title": "No-op things a bit after spell_align"
-		},
 		"spell_align": {
-			"addr": "Rxbd900"
+			"addr": "Rx86cb0"
 		},
 		"result_spell_align": {
 			"addr": "0x486ee5"
