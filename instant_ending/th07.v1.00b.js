@@ -8,6 +8,10 @@
 		},
 		"skip_continue": {
 			"addr": "Rx4115f"
+		},
+		"instant_ending": {
+			"addr": "Rx2a3b1",
+			"code": "c605 5cf86200 06 e9 52010000 90"
 		}
 	}
 }
