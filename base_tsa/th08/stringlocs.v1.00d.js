@@ -67,6 +67,7 @@
 	"Rxb4e90": "th07 Clear Bonus Life Format",
 	"Rxb4e80": "th07 Clear Bonus Bomb Format",
 	"Rxb4e68": "th08 Clear Last Time Format",
+	"Rxb4ed0": "th08 Clear Time Orbs Format",
 	"Rxb4e5c": "th08 Clear Night Bonus",
 	"Rxb4e38": "th07 Clear Easy Multiplier",
 	"Rxb4e24": "th07 Clear Normal Multiplier",

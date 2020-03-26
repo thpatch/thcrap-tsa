@@ -80,12 +80,12 @@
 	"Rx98424": "th07 Clear Player Penalty*0.5",
 	"Rx98410": "th07 Clear Player Penalty*0.2",
 	"Rx98400": "th07 Clear Total Score Format",
-	"Rx983f4": "th07 Cherry Bonus",
 	"Rx983e0": "th07 Full Power",
 	"Rx983c8": "th07 Supernatural Border",
 	"Rx983b4": "th07 CherryPoint Max",
 	"Rx983a0": "th07 Border Bonus Format",
 	"Rx9838c": "th07 Spell Card Bonus",
+	
 	"Rx97e1c": "th07_replay_0",
 	"Rx967bc": "th07_replay_format",
 	"Rx95664": "th07_replay_user_find",
