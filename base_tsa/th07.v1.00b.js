@@ -1,4 +1,7 @@
-{
+{	
+	"codecaves": {
+		"stage_result_align": "56 8d75 f4 6a 00 68 fc844900 e8[strings_lookup] 89c1 41 8339 00 75 fa 29c1 c1e1 03 b8 c8000000 2bc1 8906 db06 d91e 83c4 08 5e c3"
+	},
 	"binhacks": {
 		"antitamper_remove_check": {
 			"addr": "Rx04fe0"
@@ -69,6 +72,10 @@
 		},
 		"hud_force_redraw": {
 			"addr": "Rx2b677"
+		},
+		"stage_result_align_call": {
+			"addr": "Rx27f73",
+			"code": "e8[codecave:stage_result_align] 8d45 f4 90 833d 5cf86200 06 7d 12 6818854900 50 68 18ce3401 e8 cba0fdff eb 10 68 0c854900"
 		}
 	},
 	"breakpoints": {
