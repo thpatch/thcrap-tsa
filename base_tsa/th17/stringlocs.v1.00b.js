@@ -26,5 +26,5 @@
 	"Rxa1f90": "th17_replay_format",
 	"Rxa27cc": "th17_replay_user_find",
 	"Rxa2280": "th17_scorefile_fn",
-	"Rxa2850": "replay_user_menu_format"
+	"Rxa2850": "th17_replay_user_menu_format"
 }

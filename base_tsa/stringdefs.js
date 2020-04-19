@@ -18,5 +18,6 @@
 	"Music Room Unknown Title": "No. <r$%2d$99>  ？？？？？？？？？？？",
 	"Music Room Note Title": "<t$♪><ls$%d> %s",
 	"Dialog font": "MS Shell Dlg",
-	"replay_user_menu_format": "%s  %s %.2d/%.2d/%.2d %.2d:%.2d %s  %s %s %2.1f%%"
+	"th16_replay_user_menu_format": "%s  %s %.2d/%.2d/%.2d %.2d:%.2d %s %s%s %s %2.1f%%",
+	"th17_replay_user_menu_format": "%s  %s %.2d/%.2d/%.2d %.2d:%.2d %s  %s %s %2.1f%%"
 }

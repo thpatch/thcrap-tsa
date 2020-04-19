@@ -44,5 +44,6 @@
 	"Rx937bc": "Sans font",
 	"Rx92aac": "th16_replay_format",
 	"Rx931dc": "th16_replay_user_find",
-	"Rx92e18": "th16_scorefile_fn"
+	"Rx92e18": "th16_scorefile_fn",
+	"Rx9326c": "th16_replay_user_menu_format"
 }
