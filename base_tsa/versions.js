@@ -43,6 +43,7 @@
 		"5430fac601d645798ccf794362ec7d4cd753814f09d160247dc628b7c6943fd8": ["th10", "v0.02a", "(original)"],
 		"2f14760b6fbbf57549541583283badb9a19a4222b90f0a146d5aa17f01dc9040": ["th10", "v1.00a", "(original)"],
 		"d28e36a6596a4c64b441c148d65a8c12b68e4a683f1d14e7df83d43f92c57d71": ["th10", "v1.00a", "English patch (not recommended)"],
+		"3bdb72cf3d7c33c183359d368c801490dbcf54e6b3b2f060b95d72250b6866a3": ["th10", "v1.00a", "(original, Steam release)"],
 
 		"ea10d27bb7af17c72f7c4ba21d98ef2d23f36a5625affc40d63de88d963dffd1": ["alcostg", "v1.00a", "(original)"],
 
@@ -54,6 +55,7 @@
 		"f42c5d3540489e8c99ac81d88293ef7a830ad3a402d67dcd83f575816775dbd7": ["th11", "v1.00a", "Korean patch (Gungsuh font)"],
 		"5cc754c4ddd52ee788910a479372330645969fffaade5b3a7a42c8b099e8dbbe": ["th11", "v1.00a", "Korean patch (Nanum Gothic font)"],
 		"df6edcf5649b1df917ef91000e3047d49ba3be33301d8d6789b74b1f8b78b435": ["th11", "v1.00a", "Riri's practice patch, v1.03"],
+		"e42c8df5ba2d704fb6bd5c50d9fb35c49ebf3122dab75b19b7ed17b6bc84166d": ["th11", "v1.00a", "(original, Steam release)"],
 
 		"c6d15044394a33d6116c09eac44b33fdec814541c78518e29f60d54f49bdbd3a": ["th12", "v0.02a", "(original)"],
 		"e2939ba3f92e427216a619191a682a8197cc59a64eab99302a7b98811d6120a9": ["th12", "v1.00a", "(original)"],
@@ -63,6 +65,7 @@
 		"d116fed3eef093607f8c4b55fd0ec45dfc99139a7e1913f88570db0968341ba2": ["th12", "v1.00b", "English patch, score counter bugfix (not recommended)"],
 		"7b3d64c41cb078b5cbf5ccce11b14278690e90689f1a1c14dce15b0880efb06c": ["th12", "v1.00b", "English patch, autobomb patch (not recommended)"],
 		"b851680ff45c15ae39257ee7590fcf3c8aba76c839289d94d5a5c30daadb00a1": ["th12", "v1.00b", "English patch, autobomb patch, score counter bugfix (not recommended)"],
+		"91919e9bc48babdcb6c6eab2906d670a25634d9f8e6e4884f35dc4a61fb8bde3 ": ["th12", "v1.00b", "(original, Steam release)"],
 
 		"4895ce367f6ab90c6593a94ca0ecfa2aabe7477f0a9b7dd2ee8860327069436c": ["th125", "v1.00a", "(original)"],
 		"a620057a756dd98efbdb813b1bc1350bc5acdf8d462fcd4be93f85eb6c22d9ee": ["th125", "v1.00a", "English patch (not recommended)"],
@@ -210,15 +213,18 @@
 
 		"476672": ["th10", "v0.02a", "(original)"],
 		"487936": ["th10", "v1.00a", "(original)"],
+		"629392": ["th10", "v1.00a", "(original, Steam release)"],
 
 		"472064": ["alcostg", "v1.00a", "(original)"],
 
 		"657920": ["th11", "v0.02a", "(original)"],
 		"688128": ["th11", "v1.00a", "(original)"],
 		"696320": ["th11", "v1.00a", "Riri's practice patch, v1.03"],
+		"829584": ["th11", "v1.00a", "(original, Steam release)"],
 
 		"724480": ["th12", "v0.02a", "(original)"],
 		"737280": ["th12", "v1.00b", "(original)"],
+		"878736": ["th12", "v1.00b", "(original, Steam release)"],
 
 		"743424": ["th125", "v1.00a", "(original)"],
 		"884880": ["th125", "v1.00a", "(original, Steam release)"],
