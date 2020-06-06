@@ -65,7 +65,7 @@
 		"d116fed3eef093607f8c4b55fd0ec45dfc99139a7e1913f88570db0968341ba2": ["th12", "v1.00b", "English patch, score counter bugfix (not recommended)"],
 		"7b3d64c41cb078b5cbf5ccce11b14278690e90689f1a1c14dce15b0880efb06c": ["th12", "v1.00b", "English patch, autobomb patch (not recommended)"],
 		"b851680ff45c15ae39257ee7590fcf3c8aba76c839289d94d5a5c30daadb00a1": ["th12", "v1.00b", "English patch, autobomb patch, score counter bugfix (not recommended)"],
-		"91919e9bc48babdcb6c6eab2906d670a25634d9f8e6e4884f35dc4a61fb8bde3 ": ["th12", "v1.00b", "(original, Steam release)"],
+		"91919e9bc48babdcb6c6eab2906d670a25634d9f8e6e4884f35dc4a61fb8bde3": ["th12", "v1.00b", "(original, Steam release)"],
 
 		"4895ce367f6ab90c6593a94ca0ecfa2aabe7477f0a9b7dd2ee8860327069436c": ["th125", "v1.00a", "(original)"],
 		"a620057a756dd98efbdb813b1bc1350bc5acdf8d462fcd4be93f85eb6c22d9ee": ["th125", "v1.00a", "English patch (not recommended)"],
