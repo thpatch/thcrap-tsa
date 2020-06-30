@@ -18,7 +18,8 @@
 		"western_name_order": "Western name order"
 	},
 	"servers": [
-		"https://mirrors.thpatch.net/nmlgc/"
+		"https://mirrors.thpatch.net/nmlgc/",
+		"https://raw.githubusercontent.com/thpatch/thcrap-tsa/master/"
 	],
 	"title": "Nmlgc's patch repository"
 }
