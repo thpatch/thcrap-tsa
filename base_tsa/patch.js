@@ -2,8 +2,7 @@
 	"id": "base_tsa",
 	"min_build": "0x20140528",
 	"servers": [
-		"https://mirrors.thpatch.net/nmlgc/base_tsa/",
-		"https://raw.githubusercontent.com/thpatch/thcrap-tsa/master/base_tsa/"
+		"https://mirrors.thpatch.net/nmlgc/base_tsa/"
 	],
 	"thcrap_version_min": "0x20191214",
 	"title": "Basic support for Team Shanghai Alice games",
