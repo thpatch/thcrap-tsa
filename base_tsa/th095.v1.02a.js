@@ -3,8 +3,21 @@
 		"sprintf_call_ebp-88": {
 			"addr": "Rx43d07"
 		},
+		"sprintf_replay_1": {
+			"addr": [ "Rx2839f", "Rx2a7f1" ],
+			"code": "54 e8[strings_sprintf] 8985 00ffffff"
+		},
+		"sprintf_replay_2": {
+			"addr": "Rx50caa",
+			"code": "54 e8[strings_sprintf] 8985 b0fdffff"
+		},
 		"sprintf_rep": {
-			"addr": "Rx43d37"
+			"addr": [ 
+				"Rx43d37",
+				"Rx283bb",
+				"Rx2a800",
+				"Rx50cb9"
+			]
 		},
 		"overflow_spell_menu_rep": {
 			"addr": "0x44406b"
