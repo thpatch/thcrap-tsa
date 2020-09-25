@@ -76,6 +76,10 @@
 		"stage_result_align_call": {
 			"addr": "Rx27f73",
 			"code": "e8[codecave:stage_result_align] 8d45 f4 90 833d 5cf86200 06 7d 12 6818854900 50 68 18ce3401 e8 cba0fdff eb 10 68 0c854900"
+		},
+		"force_disable_vsync": {
+			"addr": "Rx38887",
+			"code": "e9 f6000000 90"
 		}
 	},
 	"breakpoints": {
