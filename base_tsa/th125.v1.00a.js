@@ -18,7 +18,17 @@
 		"sprintf_rep": {
 			"addr": [
 				"Rx5f903",
-				"Rx5fabc"
+				"Rx5fabc",
+				"Rx2d28d",
+				"Rx2d299",
+				"Rx2d423",
+				"Rx2dd88",
+				"Rx2e30a",
+				"Rx2e316",
+				"Rx2ee48",
+				"Rx2f58f",
+				"Rx2f59b",
+				"Rx484e8"
 			]
 		},
 		"font_ruby_size": {
@@ -43,6 +53,30 @@
 		},
 		"help_align_scalefix": {
 			"addr": "Rx5fad2"
+		},
+		"sprintf_replay_1": {
+			"addr": [
+				"Rx2d264",
+				"Rx2d411"
+			],
+			"code": "68 44 f8 49 00 54 e8[strings_sprintf] 89 44 24 4c"
+		},
+		"sprintf_replay_2": {
+			"addr": [
+				"Rx2dd76",
+				"Rx2e2e0",
+				"Rx2ee36",
+				"Rx2f565"
+			],
+			"code": "68 44 f8 49 00 54 e8[strings_sprintf] 89 44 24 3c"
+		},
+		"sprintf_replay_3": {
+			"addr": "Rx484d3",
+			"code": "68 44 f8 49 00 54 e8[strings_sprintf] 89 84 24 5c 01 00 00"
+		},
+		"scorefile_fn_lookup": {
+			"addr": "Rx3d1ff",
+			"code": "578d7c040783ec04546828fd4900e8[strings_lookup]83c408595689c6f3a45e5f8d5424046a01528d44240ce8235e0200909090909090909090909090909090909090909090909090909090909090"
 		}
 	},
 	"breakpoints": {
