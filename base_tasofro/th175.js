@@ -3,6 +3,10 @@
 	"url_trial": "http://www.tasofro.net/touhou175/index.html",
 	"latest": "vbeta3",
 	"breakpoints": {
+		"th135_file_name": {
+			"file_name": "eax",
+			"cavesize": 5
+		},
 		"th175_file_desc": {
 			"desc": "eax",
 			"cavesize": 6

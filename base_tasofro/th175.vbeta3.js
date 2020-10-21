@@ -8,6 +8,9 @@
 		}
 	},
 	"breakpoints": {
+		"th135_file_name": {
+			"addr": "Rx175C3"
+		},
 		"th175_file_desc": {
 			"addr": "Rx173fe"
 		},
