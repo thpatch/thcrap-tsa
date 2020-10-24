@@ -17,6 +17,10 @@
 			"offset": "ecx",
 			"size": "edi",
 			"cavesize": 5
+		},
+		"detour_plugin": {
+			"cavesize": 7,
+			"plugin": "edi"
 		}
 	}
 }

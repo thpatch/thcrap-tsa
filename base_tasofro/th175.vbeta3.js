@@ -16,6 +16,9 @@
 		},
 		"th175_read_file": {
 			"addr": "Rx7958"
+		},
+		"detour_plugin": {
+			"addr": "Rx13096"
 		}
 	}
 }
