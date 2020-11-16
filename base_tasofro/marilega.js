@@ -2,7 +2,6 @@
 	"title": "マリサランド・レガシィ",
 	"url_trial": "http://tasofro.net/arc/th155_trial.zip",
 	"latest": "v1.10",
-	"crypt": "th145",
 	"breakpoints": {
 		"th135_file_header": {
 			"file_hash": "[ebp-72]",

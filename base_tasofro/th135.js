@@ -12,7 +12,6 @@
 	"title": "東方心綺楼 ~ Hopeless Masquerade",
 	"url_trial": "http://s1.gptwm.com/tasofro/touhou135/th135_trial_web.zip",
 	"latest": "v1.34b",
-	"crypt": "th135",
 	"breakpoints": {
 		"th135_file_header": {
 			"file_hash": "[eax]",

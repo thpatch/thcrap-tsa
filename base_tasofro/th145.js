@@ -8,7 +8,6 @@
 	"title": "東方深秘録 ~ Urban Legend in Limbo",
 	"url_trial": "http://tasofro.net/arc/th145_trial.zip",
 	"latest": "v1.41",
-	"crypt": "th145",
 	"breakpoints": {
 		"th135_file_header": {
 			"file_hash": "[eax]",
