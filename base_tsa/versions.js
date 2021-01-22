@@ -67,7 +67,8 @@
 		"7b3d64c41cb078b5cbf5ccce11b14278690e90689f1a1c14dce15b0880efb06c": ["th12", "v1.00b", "English patch, autobomb patch (not recommended)"],
 		"b851680ff45c15ae39257ee7590fcf3c8aba76c839289d94d5a5c30daadb00a1": ["th12", "v1.00b", "English patch, autobomb patch, score counter bugfix (not recommended)"],
 		"91919e9bc48babdcb6c6eab2906d670a25634d9f8e6e4884f35dc4a61fb8bde3": ["th12", "v1.00b", "(original, Steam release, old version 6604501887647785241)"],
-		"988f5ea067b247cde91754cb62f66ffdf71b4d5b874da8000e579b928a71829b": ["th12", "v1.00b", "(original, Steam release)"],
+		"988f5ea067b247cde91754cb62f66ffdf71b4d5b874da8000e579b928a71829b": ["th12", "v1.00b", "(original, Steam release, old version 7325231149869118532)"],
+		"eb275a8c285fd8450fa5ac79fa730a759aeca8b2904aeb16d30e65859372a459": ["th12", "v1.00b", "(original, Steam release)"],
 
 		"4895ce367f6ab90c6593a94ca0ecfa2aabe7477f0a9b7dd2ee8860327069436c": ["th125", "v1.00a", "(original)"],
 		"a620057a756dd98efbdb813b1bc1350bc5acdf8d462fcd4be93f85eb6c22d9ee": ["th125", "v1.00a", "English patch (not recommended)"],
