@@ -15,9 +15,17 @@
 			"addr": "RxCF98"
 		},
 		"nsml_read_file": {
+			"comment": "deprecated",
 			"addr": "Rx1C143"
 		},
 		"fragmented_close_file": {
+			"comment": "deprecated",
+			"addr": "Rx1B893"
+		},
+		"th105_replaceReadFile": {
+			"addr": "Rx1C143"
+		},
+		"th105_close_file": {
 			"addr": "Rx1B893"
 		},
 		"th105_fix_csv_parser": {

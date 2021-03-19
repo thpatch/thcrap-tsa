@@ -23,11 +23,21 @@
 			"cavesize": 7
 		},
 		"nsml_read_file": {
+			"comment": "deprecated",
 			"file_object": "esi",
 			"apply": true,
 			"cavesize": 6
 		},
 		"fragmented_close_file": {
+			"comment": "deprecated",
+			"file_object": "esi",
+			"cavesize": 5
+		},
+		"th105_replaceReadFile": {
+			"file_object": "esi",
+			"cavesize": 6
+		},
+		"th105_close_file": {
 			"file_object": "esi",
 			"cavesize": 5
 		},

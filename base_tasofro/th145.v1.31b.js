@@ -20,12 +20,23 @@
 			"cavesize": 5
 		},
 		"th135_read_file#prepare": {
+			"comment": "deprecated",
 			"addr": [
 				"Rx0dbe6f",
 				"Rx0dbe08"
 			]
 		},
 		"th135_read_file": {
+			"comment": "deprecated",
+			"addr": "Rx0dc42d"
+		},
+		"th135_prepareReadFile": {
+			"addr": [
+				"Rx0dbe6f",
+				"Rx0dbe08"
+			]
+		},
+		"th135_replaceReadFile": {
 			"addr": "Rx0dc42d"
 		}
 	}

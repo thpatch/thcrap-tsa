@@ -17,12 +17,23 @@
 			"addr": "Rx32E5E"
 		},
 		"th135_read_file#prepare": {
+			"comment": "deprecated",
 			"addr": [
 				"Rx0323f9",
 				"Rx032394"
 			]
 		},
 		"th135_read_file": {
+			"comment": "deprecated",
+			"addr": "Rx032B7D"
+		},
+		"th135_prepareReadFile": {
+			"addr": [
+				"Rx0323f9",
+				"Rx032394"
+			]
+		},
+		"th135_replaceReadFile": {
 			"addr": "Rx032B7D"
 		},
 		"detour_plugin": {

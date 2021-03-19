@@ -14,12 +14,21 @@
 			"cavesize": 6
 		},
 		"th135_read_file#prepare": {
+			"comment": "deprecated",
 			"cavesize": 5,
 			"hash": "[esi+65564]"
 		},
 		"th135_read_file": {
+			"comment": "deprecated",
 			"cavesize": 6,
 			"apply": true
+		},
+		"th135_prepareReadFile": {
+			"cavesize": 5,
+			"hash": "[esi+65564]"
+		},
+		"th135_replaceReadFile": {
+			"cavesize": 6
 		}
 	}
 }

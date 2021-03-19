@@ -18,12 +18,26 @@
 			"addr": "Rx032d8e"
 		},
 		"th135_read_file#prepare": {
+			"comment": "deprecated",
 			"addr": [
 				"Rx02df9c",
 				"Rx02dfe4"
 			]
 		},
 		"th135_read_file": {
+			"comment": "deprecated",
+			"addr": [
+				"Rx02dfa1",
+				"Rx02dfed"
+			]
+		},
+		"th135_prepareReadFile": {
+			"addr": [
+				"Rx02df9c",
+				"Rx02dfe4"
+			]
+		},
+		"th135_replaceReadFile": {
 			"addr": [
 				"Rx02dfa1",
 				"Rx02dfed"
