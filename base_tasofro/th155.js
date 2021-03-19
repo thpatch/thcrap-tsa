@@ -1,7 +1,7 @@
 {
 	"title": "東方憑依華 ~ Antinomy of Common Flowers",
 	"url_trial": "http://tasofro.net/arc/th155_trial.zip",
-	"latest": "v1.10",
+	"latest": [ "v1.10", "v1.10_steam", "v1.19beta3" ],
 	"breakpoints": {
 		"th135_file_header": {
 			"file_hash": "[ebp-72]",
