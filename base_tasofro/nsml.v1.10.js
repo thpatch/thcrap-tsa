@@ -10,7 +10,7 @@
 		},
 		"nsml_read_file": {
 			"comment": "deprecated",
-			"addr": "Rx7310"
+			"addr": "Rx10BC2"
 		},
 		"nsml_CPackageFileReader_openFile": {
 			"addr": "Rx7438"
