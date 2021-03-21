@@ -14,6 +14,21 @@
 		},
 		"music_cmt": {
 			"addr": ["Rx63b17", "Rx63c07"]
+		},
+		"spell_id": {
+			"addr": "Rx2C7C4"
+		},
+		"spell_id#real": {
+			"addr": "Rx232B4"
+		},
+		"spell_name": {
+			"addr": "Rx234B3"
+		},
+		"spell_id#result": {
+			"addr": "Rx614A7"
+		},
+		"spell_name#result": {
+			"addr": "Rx615ED"
 		}
 	},
 	"binhacks": {
