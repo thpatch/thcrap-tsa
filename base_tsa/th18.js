@@ -29,6 +29,27 @@
 			"track": "[edi+0x618]",
 			"format_id": "Music Room Note Title",
 			"cavesize": 5
+		},
+		"spell_id": {
+			"spell_id": "eax",
+			"cavesize": "6"
+		},
+		"spell_id#real": {
+			"spell_id_real": "ebx",
+			"cavesize": "9"
+		},
+		"spell_name": {
+			"spell_name": "edi",
+			"cavesize": "5"
+		},
+		"spell_id#result": {
+			"spell_id_real": "esi",
+			"spell_rank": "ecx",
+			"cavesize": "6"
+		},
+		"spell_name#result": {
+			"spell_name": "eax",
+			"cavesize": "7"
 		}
 	},
 	"binhacks": {
