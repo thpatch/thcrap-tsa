@@ -77,7 +77,7 @@
 			"addr": [ "Rx35e62", "Rx360df" ]
 		},
 		"spell_align": {
-			"addr": "Rx7ddc1"
+			"addr": "Rx7ddc5"
 		}
 	},
 	"tsa_font_block": [
