@@ -63,6 +63,19 @@
 			"line": "6 - [esp + 0x18]",
 			"str": "[esp + 0x4]",
 			"cavesize": 6
+		},
+		"gentext#trophy_result_nickname": {
+			"file": "trophy.js",
+			"ids": "ecx",
+			"str": "eax",
+			"cave_exec": false,
+			"cavesize": 5
+		},
+		"gentext#trophy_ingame": {
+			"file": "trophy.js",
+			"ids": "esi",
+			"str": "edi",
+			"cavesize": 6
 		}
 	},
 	"binhacks": {

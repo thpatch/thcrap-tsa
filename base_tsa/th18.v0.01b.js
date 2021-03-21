@@ -35,6 +35,12 @@
 		},
 		"gentext#card_desc": {
 			"addr": "Rx108C0"
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": "Rx6465e"
+		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx12b6c"
 		}
 	},
 	"binhacks": {
