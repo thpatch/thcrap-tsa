@@ -38,6 +38,18 @@
 		},
 		"file_loaded": {
 			"addr": "Rx6588b"
+		},
+		"music_title": {
+			"addr": "Rx63890"
+		},
+		"music_cmt": {
+			"addr": ["Rx63b17", "Rx63c07"]
+		}
+	},
+	"binhacks": {
+		"music_title_prepare": {
+			"addr": "Rx6388c",
+			"code": "8b54241431c05250505050a14c51510090"
 		}
 	},
 	"tsa_font_block": [
