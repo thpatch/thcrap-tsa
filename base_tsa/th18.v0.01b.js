@@ -69,6 +69,9 @@
 		},
 		"th18_textbox_size": {
 			"addr": [ "Rx35e62", "Rx360df" ]
+		},
+		"spell_align": {
+			"addr": "Rx7ddc1"
 		}
 	},
 	"tsa_font_block": [
