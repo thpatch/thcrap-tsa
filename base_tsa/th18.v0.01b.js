@@ -1,4 +1,34 @@
 {
+	"binhacks": {
+		"sprintf_msvcrt14_esp+34": {
+			"addr": [
+				"Rx7DC3B",
+				"Rx7DD6B"
+			]
+		},
+		"sprintf_msvcrt14_esp+3c": {
+			"addr": "Rx7DEEB"
+		},
+		"sprintf_msvcrt14_ebp-10c": {
+			"addr": "Rx13641"
+		},
+		"sprintf_rep": {
+			"addr": [
+				"Rx1367F",
+				"Rx136B6",
+				"Rx136ED",
+				"Rx13714",
+				"Rx7DCEA",
+				"Rx7DCF9",
+				"Rx7DDC1",
+				"Rx7DE6D",
+				"Rx7DE7E",
+				"Rx7DF41",
+				"Rx7DFF9",
+				"Rx7E00A"
+			]
+		}
+	},
 	"breakpoints": {
 		"file_size": {
 			"addr": "Rx211c"
