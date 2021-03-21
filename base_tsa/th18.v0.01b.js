@@ -1,34 +1,4 @@
 {
-	"binhacks": {
-		"sprintf_msvcrt14_esp+34": {
-			"addr": [
-				"Rx7DC3B",
-				"Rx7DD6B"
-			]
-		},
-		"sprintf_msvcrt14_esp+3c": {
-			"addr": "Rx7DEEB"
-		},
-		"sprintf_msvcrt14_ebp-10c": {
-			"addr": "Rx13641"
-		},
-		"sprintf_rep": {
-			"addr": [
-				"Rx1367F",
-				"Rx136B6",
-				"Rx136ED",
-				"Rx13714",
-				"Rx7DCEA",
-				"Rx7DCF9",
-				"Rx7DDC1",
-				"Rx7DE6D",
-				"Rx7DE7E",
-				"Rx7DF41",
-				"Rx7DFF9",
-				"Rx7E00A"
-			]
-		}
-	},
 	"breakpoints": {
 		"file_size": {
 			"addr": "Rx211c"
@@ -50,6 +20,27 @@
 		"music_title_prepare": {
 			"addr": "Rx6388c",
 			"code": "8b54241431c05250505050a14c51510090"
+		},
+		"sprintf_th18_l": {
+			"addr": "Rx7dc37"
+		},
+		"sprintf_th18_r": {
+			"addr": "Rx7dd67"
+		},
+		"sprintf_th18_c": {
+			"addr": "Rx7dee7"
+		},
+		"sprintf_rep": {
+			"addr": [
+				"Rx7DCEA",
+				"Rx7DCF9",
+				"Rx7DDC1",
+				"Rx7DE6D",
+				"Rx7DE7E",
+				"Rx7DF41",
+				"Rx7DFF9",
+				"Rx7E00A"
+			]
 		}
 	},
 	"tsa_font_block": [

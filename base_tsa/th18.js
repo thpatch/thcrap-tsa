@@ -30,5 +30,16 @@
 			"format_id": "Music Room Note Title",
 			"cavesize": 5
 		}
+	},
+	"binhacks": {
+		"sprintf_th18_l": {
+			"code": "ff752450f30f11442420e8[strings_vsprintf]89442434"
+		},
+		"sprintf_th18_r": {
+			"code": "ff752050f30f11442420e8[strings_vsprintf]89442434"
+		},
+		"sprintf_th18_c": {
+			"code": "ff752050897c2428f30f11442424e8[strings_vsprintf]8944243c"
+		}
 	}
 }
