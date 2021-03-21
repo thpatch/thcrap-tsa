@@ -50,6 +50,19 @@
 		"spell_name#result": {
 			"spell_name": "eax",
 			"cavesize": "7"
+		},
+		"gentext#card_name": {
+			"file": "cards.js",
+			"ids": [ "ebx", 0 ],
+			"str": "ecx",
+			"cavesize": 5
+		},
+		"gentext#card_desc": {
+			"file": "cards.js",
+			"ids": [ "[ebp + 0xC]", 1 ],
+			"line": "6 - [esp + 0x18]",
+			"str": "[esp + 0x4]",
+			"cavesize": 6
 		}
 	},
 	"binhacks": {

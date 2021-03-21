@@ -29,6 +29,12 @@
 		},
 		"spell_name#result": {
 			"addr": "Rx615ED"
+		},
+		"gentext#card_name": {
+			"addr": "Rx107ee"
+		},
+		"gentext#card_desc": {
+			"addr": "Rx108C0"
 		}
 	},
 	"binhacks": {
