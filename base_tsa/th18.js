@@ -53,7 +53,7 @@
 		},
 		"gentext#card_name": {
 			"file": "cards.js",
-			"ids": [ "ebx", 0 ],
+			"ids": [ "ebx" ],
 			"str": "ecx",
 			"cavesize": 5
 		},
