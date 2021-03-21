@@ -121,6 +121,8 @@
 		"844394479663eb7f50f98b9c2c2f6bd7b6bc6f1b1ddb93744adb656b19802311": ["th17", "v1.00b", "(original, XP patch)"],
 		"470769ddfbac9404b3fdacbb05893fae387943c22605935ea5ec6caee8388d4d": ["th17", "v1.00b", "(original, Steam release)"],
 
+		"0a93bca26ce88e5ecb091e9924d4ff3a0fe0189e558336e84225b648ea4b2b11": ["th18", "v0.01b", "(original)"],
+
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
 		"5ab1f4e8bf31fc4f8484ab0882a882f0fb399ba758fc98601ae9a6f6e69b5cdf": ["th06_custom", "v1.02h", "(original)"],
@@ -187,7 +189,9 @@
 		"abca7c23404b1ee4cecc153acf225d21b3d6d403653a61852545a772fb18e5c6": ["th165_custom", "v1.00a", "(original)"],
 
 		"cdfc108cd14e98f783a3ef2e119ef38ea3701f535e3c2ca0ad40f5a034770ae9": ["th17_custom", "v0.01a", "(original)"],
-		"efee757025f18f3b8a6409bc3b760e431632d79a4b90734dedf50c4ed75564ba": ["th17_custom", "v1.00a", "(original)"]
+		"efee757025f18f3b8a6409bc3b760e431632d79a4b90734dedf50c4ed75564ba": ["th17_custom", "v1.00a", "(original)"],
+
+		"f79cee7b63e11a6942f24379228b0795df9e3748331f14d7abe0e1e6df399e4c": ["th18_custom", "v0.01a", "(original)"]
 	},
 	"sizes": {
 		"430080": ["th06", "v0.13",  "(original)"],
@@ -270,6 +274,8 @@
 		"747520": ["th17", "v1.00b", "(original)"],
 		"888976": ["th17", "v1.00b", "(original, Steam release)"],
 
+		"794112": ["th18", "v0.01b", "(original)"],
+
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
 		 "94208": ["alcostg_custom", "v1.00a", "(original)"],
@@ -284,6 +290,7 @@
 		"121344": ["th15_custom", "v1.00a", "(original)"],
 		"124928": ["th16_custom", "v1.00a", "(original)"],
 		"125952": ["th165_custom", "v1.00a", "(original)"],
-		"129536": ["th17_custom", "v1.00a", "(original)"]
+		"129536": ["th17_custom", "v1.00a", "(original)"],
+		"132096": ["th18_custom", "v0.01a", "(original)"]
 	}
 }
