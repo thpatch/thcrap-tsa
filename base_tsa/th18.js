@@ -97,6 +97,9 @@
 		"sprintf_th18_c": {
 			"code": "ff752050897c2428f30f11442424e8[strings_vsprintf]8944243c"
 		},
+		"sprintf_th18_ascii": {
+			"code": "ff751050e8[strings_vsprintf]8985f4feffff"
+		},
 		"th18_textbox_size": {
 			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c090909090909090909090f30f1093b4010000f30f108bb00100008bcb"
 		},

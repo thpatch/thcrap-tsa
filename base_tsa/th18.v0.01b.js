@@ -60,6 +60,9 @@
 		"sprintf_th18_c": {
 			"addr": "Rx7dee7"
 		},
+		"sprintf_th18_ascii": {
+			"addr": "Rx1363d"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx7DCEA",
@@ -69,7 +72,11 @@
 				"Rx7DE7E",
 				"Rx7DF41",
 				"Rx7DFF9",
-				"Rx7E00A"
+				"Rx7E00A",
+				"Rx1367F",
+				"Rx136B6",
+				"Rx136ED",
+				"Rx13714"
 			]
 		},
 		"center_align": {
