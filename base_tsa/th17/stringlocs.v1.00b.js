@@ -20,7 +20,7 @@
 	"Rxa29c4": "th10_ascii_score_empty",
 	"Rxa2c10": "th143 Trophy Unknown",
 	"Rxa2d0c": "th143 Trophy Format",
-	"Rxa2cf8": "th17 Trophy Get",
+	"Rxa2cf8": "th143 Trophy Get",
 	"Rxa1f1c": "th10_ascii_ranking",
 	"Rxa1f78": "th13_ascii_credit",
 	"Rxa1f90": "th17_replay_format",
