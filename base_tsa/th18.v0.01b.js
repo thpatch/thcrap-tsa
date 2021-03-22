@@ -41,6 +41,9 @@
 		},
 		"gentext#trophy_ingame": {
 			"addr": "Rx12b6c"
+		},
+		"gentext#trophy_result_desc": {
+			"addr": "Rx6555a"
 		}
 	},
 	"binhacks": {
@@ -78,6 +81,10 @@
 		},
 		"spell_align": {
 			"addr": "Rx7ddc5"
+		},
+		"trophy_result_desc_prepare": {
+			"addr": "Rx65520",
+			"code": "754251528b450853b3078d045003c2b277c1e0088d8034304c0003c6be087a54002bf08a088d400132ca02d380c310884c06ff84c975ec5b5a59b8087a54005e5dc2040033c05e5dc20400",
 		}
 	},
 	"tsa_font_block": [

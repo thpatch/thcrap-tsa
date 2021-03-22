@@ -76,6 +76,14 @@
 			"ids": "esi",
 			"str": "edi",
 			"cavesize": 6
+		},
+		"gentext#trophy_result_desc": {
+			"file": "trophy.js",
+			"ids": [ "ecx", "edx" ],
+			"line": "[ebp+8]",
+			"str": "eax",
+			"cave_exec": false,
+			"cavesize": 5
 		}
 	},
 	"binhacks": {
