@@ -22,6 +22,7 @@
 	"Rxacfa4": "th143 Trophy Unknown",
 	"Rxabaec": "th143 Trophy Format",
 	"Rxabadc": "th18 Trophy Get",
+	"Rxad03c": "th18 Trophy Get Legacy",
 	"Rxac728": "th10_ascii_ranking",
 	"Rxace10": "th10_ascii_score_empty",
 	"Rxac784": "th13_ascii_credit"
