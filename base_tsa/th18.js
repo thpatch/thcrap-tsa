@@ -53,8 +53,9 @@
 		},
 		"gentext#card_name": {
 			"file": "abilities.js",
-			"ids": [ "ebx" ],
+			"ids": "ebx",
 			"str": "ecx",
+			"line": 0,
 			"cavesize": 5
 		},
 		"gentext#card_desc": {
