@@ -11,6 +11,12 @@
 		"font_dialog_set": {
 			"code": "6a019090",
 			"title": "Use alternate dialog font"
+		},
+		"trophy_ingame_lineflip_1": {
+			"ignore": false
+		},
+		"trophy_ingame_lineflip_2": {
+			"ignore": false
 		}
 	},
 	"font": "Touhou Biolinum",

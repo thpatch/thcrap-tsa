@@ -107,7 +107,13 @@
 		"trophy_ingame_legacy_push_edi": {
 			"code": "57",
 			"addr": "Rx6534f"
-		}
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": [ "Rx6531c", "Rx12b51" ]
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": [ "Rx65360", "Rx12b94" ]
+		},
 	},
 	"tsa_font_block": [
 		"Rx1476a0",

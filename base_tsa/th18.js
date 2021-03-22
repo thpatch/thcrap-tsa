@@ -113,6 +113,14 @@
 		},
 		"spell_align": {
 			"code": "ff751856e8[GetTextExtentForFontID]83c008d1e0f30f2ac88b44240c8b5424108b4c98088bc1c1f8088b94822c0789010fb6c18b74240c8d0c408b82240100008b0cc88b451c8d1400f30f10442414f30f2cc0f30f10449e38eb2890909090909090909090909090909090909090909090909090909090909090909090909090909090"
-		}
+		},
+		"trophy_ingame_lineflip_1": {
+			"code": "ffb340020000",
+			"ignore": true
+		},
+		"trophy_ingame_lineflip_2": {
+			"code": "ffb33c020000",
+			"ignore": true
+		},
 	}
 }
