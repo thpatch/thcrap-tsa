@@ -59,7 +59,7 @@
 		},
 		"gentext#card_desc": {
 			"file": "abilities.js",
-			"ids": [ "[ebp + 0xC]", 1 ],
+			"ids": [ "[ebp + 0xC]", 0 ],
 			"line": "6 - [esp + 0x18]",
 			"str": "[esp + 0x4]",
 			"cavesize": 6
