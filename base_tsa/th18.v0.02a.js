@@ -116,19 +116,19 @@
 		},
 	},
 	"tsa_font_block": [
-		"Rx47b00",
-		"Rx47b04",
-		"Rx47b08",
-		"Rx47b0c",
-		"Rx47b10",
-		"Rx47b14",
-		"Rx47b18",
-		"Rx47b1c",
-		"Rx47afc",
-		"Rx47af8",
-		"Rx47b20",
-		"Rx47b24",
-		"Rx47af8"
+		"Rx147b00",
+		"Rx147b04",
+		"Rx147b08",
+		"Rx147b0c",
+		"Rx147b10",
+		"Rx147b14",
+		"Rx147b18",
+		"Rx147b1c",
+		"Rx147afc",
+		"Rx147af8",
+		"Rx147b20",
+		"Rx147b24",
+		"Rx147af8"
 	],
 	"init_stages": [
 		{
