@@ -122,6 +122,7 @@
 		"470769ddfbac9404b3fdacbb05893fae387943c22605935ea5ec6caee8388d4d": ["th17", "v1.00b", "(original, Steam release)"],
 
 		"0a93bca26ce88e5ecb091e9924d4ff3a0fe0189e558336e84225b648ea4b2b11": ["th18", "v0.01b", "(original)"],
+		"d9308458c67e489c34bd715cbbb9a42d504be1e352ec068d49164ae1b40d8577": ["th18", "v0.02a", "(original)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
@@ -275,6 +276,7 @@
 		"888976": ["th17", "v1.00b", "(original, Steam release)"],
 
 		"794112": ["th18", "v0.01b", "(original)"],
+		"795648": ["th18", "v0.02a", "(original)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
