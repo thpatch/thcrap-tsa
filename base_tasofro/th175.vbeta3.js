@@ -1,30 +1,33 @@
 {
-	"binhacks": {
-		"ret": {
-			"addr": [
+	binhacks: {
+		ret: {
+			addr: [
 				"Rx1B70",
 				"Rx3570"
 			]
 		}
 	},
-	"breakpoints": {
+	breakpoints: {
 		"th135_file_name#eax": {
-			"addr": "Rx175C3"
+			addr: "Rx175C3"
 		},
 		"th135_file_name#esi": {
-			"addr": [
+			addr: [
 				"Rx8967",
 				"Rx2659D"
 			]
 		},
-		"th175_file_desc": {
-			"addr": "Rx173fe"
+		th175_open_file: {
+			addr: "Rx17181"
 		},
-		"th175_read_file": {
-			"addr": "Rx7958"
+		th175_replaceReadFile: {
+			addr: "Rx16994"
 		},
-		"detour_plugin": {
-			"addr": "Rx13096"
+		th175_close_file: {
+			addr: "Rx17E30"
+		},
+		detour_plugin: {
+			addr: "Rx13096"
 		}
 	}
 }
