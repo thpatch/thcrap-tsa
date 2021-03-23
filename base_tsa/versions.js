@@ -121,6 +121,7 @@
 		"844394479663eb7f50f98b9c2c2f6bd7b6bc6f1b1ddb93744adb656b19802311": ["th17", "v1.00b", "(original, XP patch)"],
 		"470769ddfbac9404b3fdacbb05893fae387943c22605935ea5ec6caee8388d4d": ["th17", "v1.00b", "(original, Steam release)"],
 
+		"4344442687164ede40f9a70b5da17c65bee18e3fcb87594ac3aa34e8232ce509": ["th18", "v0.01a", "(original)"],
 		"0a93bca26ce88e5ecb091e9924d4ff3a0fe0189e558336e84225b648ea4b2b11": ["th18", "v0.01b", "(original)"],
 		"d9308458c67e489c34bd715cbbb9a42d504be1e352ec068d49164ae1b40d8577": ["th18", "v0.02a", "(original)"],
 
