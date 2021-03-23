@@ -121,6 +121,6 @@
 		"trophy_ingame_lineflip_2": {
 			"code": "ffb33c020000",
 			"ignore": true
-		},
+		}
 	}
 }
