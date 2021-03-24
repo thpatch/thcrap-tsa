@@ -113,7 +113,7 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": [ "Rx12bc4", "Rx654f0" ]
-		},
+		}
 	},
 	"tsa_font_block": [
 		"Rx147b00",
