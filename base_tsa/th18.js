@@ -72,14 +72,14 @@
 			"cave_exec": false,
 			"cavesize": 5
 		},
-		"gentext#trophy_ingame": {
-			"file": "trophy.js",
+		"gentext#ability_unlock": {
+			"file": "abilities.js",
 			"ids": "esi",
 			"line": 0,
 			"str": "edi",
 			"cavesize": 6
 		},
-		"gentext#trophy_ingame_legacy": {
+		"gentext#trophy_ingame": {
 			"file": "trophy.js",
 			"ids": "esi",
 			"line": 0,
