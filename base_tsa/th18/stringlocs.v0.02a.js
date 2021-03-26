@@ -28,6 +28,7 @@
 	"Rxac784": "th13_ascii_credit",
 	"Rxaba44": "th18_ascii_shop_money",
 	"Rxaba54": "th18_ascii_shop_cost",
+	"Rxab9ec": "th18_ascii_ability_slot",
 	"Rxabd4c": "th18_ascii_menu_quit",
 	"Rxabf48": "th18_ascii_menu_default",
 	"Rxacb90": "th18_ascii_menu_game_start",
