@@ -25,5 +25,7 @@
 	"Rxad03c": "th18 Trophy Get",
 	"Rxac728": "th10_ascii_ranking",
 	"Rxace10": "th10_ascii_score_empty",
-	"Rxac784": "th13_ascii_credit"
+	"Rxac784": "th13_ascii_credit",
+	"Rxaba44": "th18_ascii_shop_money",
+	"Rxaba54": "th18_ascii_shop_cost"
 }
