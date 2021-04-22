@@ -39,10 +39,10 @@
 		"gentext#trophy_result_nickname": {
 			"addr": "Rx6465e"
 		},
-		"gentext#trophy_ingame": {
+		"gentext#ability_unlock": {
 			"addr": "Rx12b6c"
 		},
-		"gentext#trophy_ingame_legacy": {
+		"gentext#trophy_ingame": {
 			"addr": "Rx6533e"
 		},
 		"gentext#trophy_result_desc": {
@@ -94,17 +94,17 @@
 		},
 		"trophy_result_desc_prepare": {
 			"addr": "Rx65520",
-			"code": "754251528b450853b3078d045003c2b277c1e0088d8034304c0003c6be087a54002bf08a088d400132ca02d380c310884c06ff84c975ec5b5a59b8087a54005e5dc2040033c05e5dc20400",
+			"code": "754251528b450853b3078d045003c2b277c1e0088d8034304c0003c6be087a54002bf08a088d400132ca02d380c310884c06ff84c975ec5b5a59b8087a54005e5dc2040033c05e5dc20400"
 		},
-		"trophy_ingame_legacy_use_edi": {
+		"trophy_ingame_use_edi": {
 			"code": "69fe04070000b9087a5400b2778b00898340020000b4072bf98a840f342f4c00",
 			"addr": "Rx652eb"
 		},
-		"trophy_ingame_legacy_use_edi_2": {
+		"trophy_ingame_use_edi_2": {
 			"code": "8b3d4c5151008bcf",
 			"addr": "Rx65322"
 		},
-		"trophy_ingame_legacy_push_edi": {
+		"trophy_ingame_push_edi": {
 			"code": "57",
 			"addr": "Rx6534f"
 		},
@@ -113,7 +113,7 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": [ "Rx65360", "Rx12b94" ]
-		},
+		}
 	},
 	"tsa_font_block": [
 		"Rx1476a0",
