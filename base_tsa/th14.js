@@ -22,14 +22,6 @@
 		"music_title_prepare": {
 			"code": "8b4ce41c5131c05050505068ffffff0056ff35cc564f0090",
 			"title": "Prepare music room title fetching"
-		},
-		"thcrap_migrate_jump": {
-			"code": "e9599b0200",
-			"title": "Update notification for 2014-01-03 (jump)"
-		},
-		"thcrap_migrate_msg": {
-			"code": "41206e65772076657273696f6e2028323031342d30312d323729206f662074686520257320697320617661696c61626c652e0a0a49742063616e20626520646f776e6c6f616465642066726f6d0a0a09687474703a2f2f746870617463682e6e65742f50726f6a6563743a446f776e6c6f61640000e8[PROJECT_VERSION]3d270114207d17e8[PROJECT_NAME]50683c0f4b006a406a00e8[log_mboxf]83c410e86d1cfeffe97a64fdff",
-			"title": "Update notification for 2014-01-03 (check and message)"
 		}
 	},
 	"title": "東方輝針城　～  Double Dealing Character",

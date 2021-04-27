@@ -71,12 +71,6 @@
 		},
 		"music_title_prepare": {
 			"addr": "0x46235d"
-		},
-		"thcrap_migrate_jump": {
-			"addr": "Rx87453"
-		},
-		"thcrap_migrate_msg": {
-			"addr": "Rxb0f3c"
 		}
 	},
 	"breakpoints": {
