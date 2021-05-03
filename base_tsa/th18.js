@@ -1,7 +1,8 @@
 {
 	"title": "東方虹龍洞　〜 Unconnected Marketeers",
 	"latest": [
-		"v0.02a"
+		"v0.02a",
+		"v1.00a"
 	],
 	"breakpoints": {
 		"file_size": {
