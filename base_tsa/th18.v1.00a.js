@@ -33,7 +33,7 @@
 			"addr": "Rx2a354"
 		},
 		"spell_name": {
-			"spell_name": "edi",
+			"spell_name": "esi",
 			"addr": "Rx2a553"
 		},
 		"gentext#trophy_result_nickname": {
