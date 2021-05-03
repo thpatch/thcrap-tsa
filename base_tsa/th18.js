@@ -51,6 +51,12 @@
 			"spell_name": "eax",
 			"cavesize": "7"
 		},
+		"spell_name#practice": {
+			"spell_name": "eax",
+			"spell_id_real": "ecx",
+			"spell_rank": "esi",
+			"cavesize": "7"
+		},
 		"gentext#card_name": {
 			"file": "abilities.js",
 			"ids": "ebx",

@@ -16,6 +16,25 @@
 			"line_num": "[edi+0x70C]",
 			"track": "[edi+0x710]",
 			"addr": [ "Rx6b630", "Rx6b6fb" ]
+		},
+		"spell_name#practice": {
+			"addr": "Rx6cb7c"
+		},
+		"spell_id#result": {
+			"addr": "Rx695f7"
+		},
+		"spell_name#result": {
+			"addr": "Rx69735"
+		},
+		"spell_id": {
+			"addr": "Rx34f14"
+		},
+		"spell_id#real": {
+			"addr": "Rx2a354"
+		},
+		"spell_name": {
+			"spell_name": "edi",
+			"addr": "Rx2a553"
 		}
 	},
 	"binhacks": {
