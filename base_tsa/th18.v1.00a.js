@@ -35,7 +35,19 @@
 		"spell_name": {
 			"spell_name": "edi",
 			"addr": "Rx2a553"
-		}
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": "6db10"
+		},
+		"gentext#trophy_result_desc": {
+			"addr": "Rx6eb3a"
+		},
+		"gentext#card_name": {
+			"addr": "Rx1669c"
+		},
+		"gentext#card_desc": {
+			"addr": "Rx167b0"
+		},
 	},
 	"binhacks": {
 		"music_title_prepare": {
@@ -74,6 +86,10 @@
 		"center_align": {
 			"addr": "Rx87481",
 			"code": "89ffff7518ff742434e8[GetTextExtentForFontID]f30f2ad08b4424108b5424148b7c24108b4c98088bc1c1f808f30f104c9f38f30f590d38914b008b94822c0712030fb6c18b7c241c8d0c408b82240100008b0cc88b451c8d1400f30f10442418f30f2cc0eb2c9090909090909090909090909090909090909090909090909090909090909090909090909090909090909090"
+		},
+		"trophy_result_desc_prepare": {
+			"code": "754251528b450853b3078d045003c2b277c1e0088d8044f54c0003c6beb01357002bf08a088d400132ca02d380c310884c06ff84c975ec5b5a59b8b01357005e5dc2040033c05e5dc20400",
+			"addr": "Rx6eb00"
 		}
 	},
 	"tsa_font_block": [
