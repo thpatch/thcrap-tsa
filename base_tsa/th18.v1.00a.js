@@ -37,7 +37,7 @@
 			"addr": "Rx2a553"
 		},
 		"gentext#trophy_result_nickname": {
-			"addr": "6db10"
+			"addr": "Rx6db10"
 		},
 		"gentext#trophy_result_desc": {
 			"addr": "Rx6eb3a"
