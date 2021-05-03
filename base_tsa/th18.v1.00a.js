@@ -10,6 +10,27 @@
 			"addr": "Rx6ee4b"
 		}
 	},
+	"binhacks": {
+		"sprintf_th18_l": {
+			"addr": "Rx87177"
+		},
+		"sprintf_th18_r": {
+			"addr": "Rx872a7"
+		},
+		"sprintf_th18_c": {
+			"addr": "Rx87427"
+		},
+		"sprintf_rep": {
+			"Rx8722A",
+			"Rx87239",
+			"Rx87301", 
+			"Rx873ad",
+			"Rx873be",
+			"Rx87481",
+			"Rx87539",
+			"Rx8754a"
+		}
+	},
 	"tsa_font_block": [
 		"Rx170930",
 		"Rx170934",
