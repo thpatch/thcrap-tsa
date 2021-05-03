@@ -8,9 +8,21 @@
 		},
 		"file_loaded": {
 			"addr": "Rx6ee4b"
+		},
+		"music_title": {
+			"addr": "Rx6B3f0"
+		},
+		"music_cmt": {
+			"line_num": "[edi+0x70C]",
+			"track": "[edi+0x710]",
+			"addr": [ "Rx6b630", "Rx6b6fb" ]
 		}
 	},
 	"binhacks": {
+		"music_title_prepare": {
+			"addr": "Rx6b3ec",
+			"code": "8b54241831c05250505050a15cf6510090"
+		},
 		"sprintf_th18_l": {
 			"addr": "Rx87177"
 		},
@@ -21,14 +33,16 @@
 			"addr": "Rx87427"
 		},
 		"sprintf_rep": {
-			"Rx8722A",
-			"Rx87239",
-			"Rx87301", 
-			"Rx873ad",
-			"Rx873be",
-			"Rx87481",
-			"Rx87539",
-			"Rx8754a"
+			"addr": [
+				"Rx8722A",
+				"Rx87239",
+				"Rx87301", 
+				"Rx873ad",
+				"Rx873be",
+				"Rx87481",
+				"Rx87539",
+				"Rx8754a"
+			]
 		}
 	},
 	"tsa_font_block": [
