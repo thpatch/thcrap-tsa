@@ -48,6 +48,16 @@
 		"gentext#card_desc": {
 			"addr": "Rx167b0"
 		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx6e882",
+			"str": "eax",
+			"cave_exec": false
+		},
+		"gentext#ability_unlock": {
+			"addr": "Rx19276",
+			"ids": "ebx",
+			"str": "eax"
+		}
 	},
 	"binhacks": {
 		"music_title_prepare": {
