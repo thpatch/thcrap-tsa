@@ -81,7 +81,7 @@
 		},
 		"th18_textbox_size": {
 			"addr": [ "Rx3ec32", "Rx3f2f2" ],
-			"code": "6a0051e8e67b7b7383e8[GetTextExtentForFontID]c090909090909090909090f30f1097c4010000f30f108fc00100008bcf"
+			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c090909090909090909090f30f1097c4010000f30f108fc00100008bcf"
 		},
 		"center_align": {
 			"addr": "Rx87481",
