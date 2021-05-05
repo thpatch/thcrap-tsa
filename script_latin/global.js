@@ -17,6 +17,12 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"ignore": false
+		},
+		"ability_ingame_lineflip_1": {
+			"ignore": false
+		},
+		"ability_ingame_lineflip_2": {
+			"ignore": false
 		}
 	},
 	"font": "Touhou Biolinum",

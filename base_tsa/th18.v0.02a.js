@@ -109,10 +109,16 @@
 			"addr": "Rx654df"
 		},
 		"trophy_ingame_lineflip_1": {
-			"addr": [ "Rx12b81", "Rx654ac" ]
+			"addr": "Rx654ac"
 		},
 		"trophy_ingame_lineflip_2": {
-			"addr": [ "Rx12bc4", "Rx654f0" ]
+			"addr": "Rx654f0"
+		},
+		"ability_ingame_lineflip_1": {
+			"addr": "Rx12b81"
+		},
+		"ability_ingame_lineflip_2": {
+			"addr": "Rx12bc4"
 		}
 	},
 	"tsa_font_block": [

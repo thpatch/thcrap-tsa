@@ -100,6 +100,20 @@
 		"trophy_result_desc_prepare": {
 			"code": "754251528b450853b3078d045003c2b277c1e0088d8044f54c0003c6beb01357002bf08a088d400132ca02d380c310884c06ff84c975ec5b5a59b8b01357005e5dc2040033c05e5dc20400",
 			"addr": "Rx6eb00"
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx6E85D"
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx6E8AD"
+		},
+		"ability_ingame_lineflip_1": {
+			"addr": "Rx1925c",
+			"code": "8D 8F 44 02 00 00"
+		},
+		"ability_ingame_lineflip_2": {
+			"addr": "Rx1929B",
+			"code": "8D 8F 40 02 00 00"
 		}
 	},
 	"tsa_font_block": [

@@ -128,6 +128,14 @@
 		"trophy_ingame_lineflip_2": {
 			"code": "ffb33c020000",
 			"ignore": true
+		},
+		"ability_ingame_lineflip_1": {
+			"code": "ffb340020000",
+			"ignore": true
+		},
+		"ability_ingame_lineflip_2": {
+			"code": "ffb33c020000",
+			"ignore": true
 		}
 	}
 }
