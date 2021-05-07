@@ -1,8 +1,5 @@
 {
 	"breakpoints": {
-		"log_restore": {
-			"addr": "Rx4e80"
-		},
 		"file_size": {
 			"addr": "Rx20ec"
 		},
@@ -63,6 +60,9 @@
 		}
 	},
 	"binhacks": {
+		"log_restore": {
+			"addr": "Rx4e80"
+		},
 		"music_title_prepare": {
 			"addr": "Rx6b3ec",
 			"code": "8b54241831c05250505050a15cf6510090"
