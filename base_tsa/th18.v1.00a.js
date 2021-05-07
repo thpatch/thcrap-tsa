@@ -1,5 +1,8 @@
 {
 	"breakpoints": {
+		"log_restore": {
+			"addr": "Rx4e80"
+		},
 		"file_size": {
 			"addr": "Rx20ec"
 		},
