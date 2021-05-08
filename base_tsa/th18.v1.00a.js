@@ -61,7 +61,7 @@
 	},
 	"binhacks": {
 		"log_restore": {
-			"addr": [ "Rx04e80", "Rx3a280", "Rx42440", "Rx562a0", "Rx6f1d0", "Rx71110", "Rx76310", "Rx77af0", "Rx89590", "Rx8b010", "Rx8b020" ]
+			"addr": [ "Rx04e80", "Rx3a280", "Rx42440", "Rx562a0", "Rx6f1d0", "Rx71110", "Rx76310", "Rx77af0", "Rx8b010", "Rx8b020" ]
 		},
 		"music_title_prepare": {
 			"addr": "Rx6b3ec",
