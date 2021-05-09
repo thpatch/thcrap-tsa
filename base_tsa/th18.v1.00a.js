@@ -57,6 +57,9 @@
 			"addr": "Rx19276",
 			"ids": "ebx",
 			"str": "eax"
+		},
+		"ruby_offset": {
+			"addr": [ "Rx3e9fe", "Rx3f0ba" ]
 		}
 	},
 	"binhacks": {

@@ -100,6 +100,11 @@
 			"str": "eax",
 			"cave_exec": false,
 			"cavesize": 5
+		},
+		"ruby_offset": {
+			"str": "esi",
+			"offset": "eax",
+			"cavesize": 6
 		}
 	},
 	"binhacks": {
