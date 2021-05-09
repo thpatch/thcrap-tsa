@@ -79,6 +79,9 @@
 		"sprintf_th18_c": {
 			"addr": "Rx87427"
 		},
+		"sprintf_th18_ascii": {
+			"addr": "Rx19ccd"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx8722A",
@@ -88,7 +91,11 @@
 				"Rx873be",
 				"Rx87481",
 				"Rx87539",
-				"Rx8754a"
+				"Rx8754a",
+				"Rx19d0f",
+				"Rx19d46",
+				"Rx19d7d",
+				"Rx19da4"
 			]
 		},
 		"spell_align": {
