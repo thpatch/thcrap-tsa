@@ -186,15 +186,17 @@ the cheat to work as intended.
 "binhacks": {
   "Main/Power settings/Doesn't decrease on death": { "ignore": true }
 }</pre></td>
-      <td></td>
+      <td>TH18: Power also doesn't decrease on buying card.</td>
     </tr>
     <tr>
-      <td>TH09.5, TH12.5, TH12.8: Charge rate is always 100%</td>
+      <td>TH09.5, TH12.5, TH12.8, TH16.5: Charge rate is always 100%</td>
       <td>nothing</td>
       <td>✅ enabled</td>
       <td><pre lang="json">
 "binhacks": {
-  "Main/Charge rate is always 100%": { "ignore": true }
+  "Main/Charge rate is always 100%": { "ignore": true },
+  "Main/Charge rate is always 100%#1": { "ignore": true },
+  "Main/Charge rate is always 100%#2": { "ignore": true }
 }</pre></td>
       <td></td>
     </tr>
@@ -246,7 +248,6 @@ the cheat to work as intended.
       <td>TH06: Carry over Graze to the next stage</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Carry over/Graze": { "ignore": true }
@@ -257,7 +258,6 @@ the cheat to work as intended.
       <td>TH06: Carry over score items to the next stage</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Carry over/Score items": { "ignore": true }
@@ -268,7 +268,6 @@ the cheat to work as intended.
       <td>TH06: Don't cap Graze at 9,999</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Remove Graze cap": { "ignore": true }
@@ -279,7 +278,6 @@ the cheat to work as intended.
       <td>TH06, TH07, TH08: PoC even if not on Max Power</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/PoC even if not on Max Power": { "ignore": true }
@@ -290,7 +288,6 @@ the cheat to work as intended.
       <td>TH11, TH15: Auto-collect items</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Auto-collect items": { "ignore": true }
@@ -301,7 +298,6 @@ the cheat to work as intended.
       <td>TH13: Auto-collect spirit items</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Auto-collect spirit items": { "ignore": true }
@@ -312,7 +308,6 @@ the cheat to work as intended.
       <td>TH13: Start with full trance gauge</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Trance/Start with full gauge": { "ignore": true }
@@ -323,7 +318,6 @@ the cheat to work as intended.
       <td>TH13: Keep trance gauge maxed</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Trance/Keep maxed": { "ignore": true }
@@ -334,7 +328,6 @@ the cheat to work as intended.
       <td>TH13: Freeze trance timer</td>
       <td>nothing</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Trance/Freeze timer": { "ignore": true }
@@ -345,12 +338,110 @@ the cheat to work as intended.
       <td>TH13: Don't decrease trance on death</td>
       <td>Auto-deathbomb, Freeze trance timer</td>
       <td>✅ enabled</td>
-      </td>
       <td><pre lang="json">
 "binhacks": {
   "Main/Trance/Doesn't decrease on death": { "ignore": true }
 }</pre></td>
       <td>Obviously only has an effect with < 1 flame on the gauge, since anything more will start a trance on death and deplete the gauge.</td>
+    </tr>
+    <tr>
+      <td>TH16: Start with full season gauge</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Season/Start with full gauge(Stage 1, Extra stage)": { "ignore": true },
+  "Main/Season/Start with full gauge(rest of the stages)#1": { "ignore": true },
+  "Main/Season/Start with full gauge(rest of the stages)#2": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH16: Keep season gauge maxed</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Season/Keep maxed(spring, autumn, winter)": { "ignore": true },
+  "Main/Season/Keep maxed(summer, dog days)": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH17: Freeze Roaring Timer</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Roaring/Freeze Roaring Timer#1": { "ignore": true },
+  "Main/Roaring/Freeze Roaring Timer#2": { "ignore": true },
+  "Main/Roaring/Freeze Roaring Timer#3": { "ignore": true },
+  "Main/Roaring/Freeze Roaring Timer#4": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH17: Doesn't decrease on firing</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Roaring/Doesn't decrease on firing#1": { "ignore": true },
+  "Main/Roaring/Doesn't decrease on firing#2": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH17: Max Graze</td>
+      <td>nothing</td>
+      <td>❌ disabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Max Graze": { "ignore": false }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH17: Max Point item</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Max Point item#1": { "ignore": true },
+  "Main/Max Point item#2": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH18: Max Money</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Max Money#1": { "ignore": true },
+  "Main/Max Money#2": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH18: Money doesn't decrease on death</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Money doesn't decrease on death": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH18: Money doesn't decrease on buying card</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Money doesn't decrease on buying card": { "ignore": true }
+}</pre></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -360,8 +451,8 @@ Original SpoilerAL files by:
 - niL
   - TH06 - TH14.3: http://cheater.up.seesaa.net/th/thssg.zip
   - Uwabami Breakers: http://cheater.seesaa.net/article/231376319.html
-- tama (TH15 - TH16): http://www7b.biglobe.ne.jp/~chibimi/
+- tama (TH15 - TH18): http://www7b.biglobe.ne.jp/~chibimi/
 
 English translations by CreepyNinja_: https://www.shrinemaiden.org/forum/index.php?topic=21105.0
 
-Consistency edits by Nmlgc.
+Consistency edits by Nmlgc and rosenrose.
