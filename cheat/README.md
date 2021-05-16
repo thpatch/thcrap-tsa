@@ -186,7 +186,7 @@ the cheat to work as intended.
 "binhacks": {
   "Main/Power settings/Doesn't decrease on death": { "ignore": true }
 }</pre></td>
-      <td>TH18: Power also doesn't decrease on buying card.</td>
+      <td>TH18: Power also doesn't decrease on buying a card.</td>
     </tr>
     <tr>
       <td>TH09.5, TH12.5, TH12.8, TH16.5: Charge rate is always 100%</td>
@@ -381,7 +381,7 @@ the cheat to work as intended.
       <td></td>
     </tr>
     <tr>
-      <td>TH17: Doesn't decrease on firing</td>
+      <td>TH17: Doesn't decrease roaring on firing</td>
       <td>nothing</td>
       <td>✅ enabled</td>
       <td><pre lang="json">
@@ -434,12 +434,33 @@ the cheat to work as intended.
       <td></td>
     </tr>
     <tr>
-      <td>TH18: Money doesn't decrease on buying card</td>
+      <td>TH18: Money doesn't decrease on buying a card</td>
       <td>nothing</td>
       <td>✅ enabled</td>
       <td><pre lang="json">
 "binhacks": {
-  "Main/Money doesn't decrease on buying card": { "ignore": true }
+  "Main/Money doesn't decrease on buying a card": { "ignore": true }
+}</pre></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TH18: Remove cooldown time on active cards.</td>
+      <td>nothing</td>
+      <td>✅ enabled</td>
+      <td><pre lang="json">
+"binhacks": {
+  "Main/Remove cooldown time#1": { "ignore": true },
+  "Main/Remove cooldown time#2": { "ignore": true },
+  "Main/Remove cooldown time#3": { "ignore": true },
+  "Main/Remove cooldown time#4": { "ignore": true },
+  "Main/Remove cooldown time#5": { "ignore": true },
+  "Main/Remove cooldown time#6": { "ignore": true },
+  "Main/Remove cooldown time#7": { "ignore": true },
+  "Main/Remove cooldown time#8": { "ignore": true },
+  "Main/Remove cooldown time#9": { "ignore": true },
+  "Main/Remove cooldown time#10": { "ignore": true },
+  "Main/Remove cooldown time#11": { "ignore": true },
+  "Main/Remove cooldown time#12": { "ignore": true }
 }</pre></td>
       <td></td>
     </tr>
