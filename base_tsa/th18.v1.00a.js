@@ -82,6 +82,18 @@
 		"sprintf_th18_ascii": {
 			"addr": "Rx19ccd"
 		},
+		"sprintf_replay_reuse_1": {
+			"addr": [ "Rx6a646", "Rx6aa1a" ],
+			"code": "68 746f4b00 54 e8[strings_sprintf] 894424 1c"
+		},
+		"sprintf_replay_reuse_2": {
+			"addr": [ "Rx59a68", "Rx59862" ],
+			"code": "68 746f4b00 54 e8[strings_sprintf] 894424 2c"
+		},
+		"sprintf_replay_use_ecx": {
+			"addr": "Rx67A01",
+			"code": "68 746f4b00 54 e8[strings_sprintf] 89c1 eb 0d 83c4 0c eb 0a 9090909090909090"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx8722A",
@@ -95,7 +107,14 @@
 				"Rx19d0f",
 				"Rx19d46",
 				"Rx19d7d",
-				"Rx19da4"
+				"Rx19da4",
+				
+				"Rx6a658",
+				"Rx6aa60",
+				"Rx6aa6a",
+				"Rx59aae",
+				"Rx59ab8",
+				"Rx59874"
 			]
 		},
 		"spell_align": {

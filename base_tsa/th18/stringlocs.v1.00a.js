@@ -60,5 +60,9 @@
 	"Rxb79ec": "th13_ascii_spell_game",
 	"Rxb7a08": "th13_ascii_spell_unknown",
 	"Rxb71f8": "th14_ascii_bonus",
-	"Rxb7204": "th14_ascii_no_bonus"
+	"Rxb7204": "th14_ascii_no_bonus",
+	"Rxb6064": "th18_scorefile_backup_fn",
+	"Rxb6078": "th18_scorefile_fn",
+	"Rxb6F74": "th18_replay_format",
+	"Rxb75d4": "th18_replay_user_find"
 }
