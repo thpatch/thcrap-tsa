@@ -92,7 +92,7 @@
 		},
 		"sprintf_replay_use_ecx": {
 			"addr": "Rx67A01",
-			"code": "68 746f4b00 54 e8[strings_sprintf] 89c1 eb 0d 83c4 0c eb 0a 9090909090909090"
+			"code": "68 746f4b00 54 e8[strings_sprintf] 89c1 83c4 0c eb 0a 90909090909090909090"
 		},
 		"sprintf_rep": {
 			"addr": [
