@@ -1,19 +1,108 @@
 {
-	"/Functions/1/Instructions/20/2": "4",
-	"/Functions/1/Instructions/26/2": "4",
-	"/Functions/1/Instructions/35/2": "2",
+    // balloon.pat loading: switch width and height in name (a15x3 will be loaded as a3x15)
+    "/Literals/15": "width",
+    "/Literals/17": "height",
 
-	"/Functions/2/Instructions/36/2": "0",
+    // compare function: compare on height first, then on width
+    "/Functions/0/Literals/0": "height",
+    "/Functions/0/Literals/1": "width",
+    // compare function: fix error when comparing widths
+    "/Functions/0/Instructions/16": "loadint(s3, -1)",
+    "/Functions/0/Instructions/22": "loadint(s3, 1)",
 
-	"/Functions/1/Instructions/93/4": "19",
-	"/Functions/1/Instructions/99/4": "17",
-	"/Functions/1/Instructions/120/2": "16",
+    // Balloon::Create
+    "/Functions/1": {
+        "replace_instructions": {
+            // this.sprite.x = 0; this.sprite.y = -src.cx;
+            "95": "loadint(s7, 0)",
+            "99": "dload(s6, \"y\", s7, \"cx\")",
+        },
+        "insert_instructions": {
+            "104": [
+                /*
+                 * Text centering, squirrel version:
+                 *
+                 * text_x = src.texture.width / 2 - this.text.width / 2;
+                 * if (direction < 0)
+                 *     text_x -= src.texture.width;
+                 * this.text.x = text_x;
+                 */
 
+                "getk(s5, \"text\", s0)",
+                "load(s6, \"x\")",
+                // s4 == src
+                // s7 = src.texture.width / 2
+                "getk(s7, \"texture\", s4)",
+                "getk(s7, \"width\", s7)",
+                "move(s10, s7)", // We might need it later
+                "loadfloat(s9, 2.0)",
+                "div(s7, s9, s7)",
+                // s8 = this.text.width / 2
+                "getk(s8, \"text\", s0)",
+                "getk(s8, \"width\", s8)",
+                "div(s8, s9, s8)",
+                // text_x = s7 - s8
+                "sub(s7, s8, s7)",
+                // if (this.direction < 0)
+                "getk(s8, \"direction\", s0)",
+                "loadint(s9, 0)",
+                "jcmp(s8, 1, s9, 0)", // 0 == CMP_G
+                // text_x -= src.texture.width;
+                "sub(s7, s10, s7)",
+                // this.text.x = text_x;
+                "set(s255, s5, s6, s7)",
 
-	"/Functions/1/Instructions/106": "getk(7,10,0)",
-	"/Functions/1/Instructions/107": "loadint(8,0)",
-	"/Functions/1/Instructions/108": "jcmp(7,1,8,3)",
-	"/Functions/1/Instructions/109": "loadfloat(7,-1097229926)",
-	"/Functions/1/Instructions/112/2": "0x3fc00000",
-	"/Functions/1/Instructions/114/0": "mul"
+                // Text centering - y
+                // this.text.y = src.texture.height / 2 - this.text.height / 2;
+                "getk(s5, \"text\", s0)",
+                "load(s6, \"y\")",
+                // s4 == src
+                // s7 = src.texture.height / 2
+                "getk(s7, \"texture\", s4)",
+                "getk(s7, \"height\", s7)",
+                "loadfloat(s9, 2.0)",
+                "div(s7, s9, s7)",
+                // s8 = this.text.height / 2
+                "getk(s8, \"text\", s0)",
+                "getk(s8, \"height\", s8)",
+                "div(s8, s9, s8)",
+                // text_y = s7 - s8
+                "sub(s7, s8, s7)",
+                // this.text.y = text_y;
+                "set(s255, s5, s6, s7)",
+            ],
+        },
+        "add_literals": [
+            "x",
+            "y",
+        ],
+        "remove_instructions": [
+            // Delete instructions for x centering - we rewrite our own
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+        
+            // Same for y centering
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+        ]
+    },
 }
