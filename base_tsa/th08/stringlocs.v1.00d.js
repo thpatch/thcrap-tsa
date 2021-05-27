@@ -146,5 +146,8 @@
 	"Rxb5820": "th08_replay_0",
 	"Rxb7984": "th08_replay_format",
 	"Rxb9484": "th08_replay_user_find",
-	"Rxb5994": "th08_scorefile_fn"
+	"Rxb5994": "th08_scorefile_fn",
+	"Rxb9448": "th08_spell_description_string_format",
+	"Rxb6ea0": "th08_????????",
+	"Rxb9330": "th08_?????????"
 }

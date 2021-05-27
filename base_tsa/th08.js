@@ -57,6 +57,14 @@
 		},
 		"spell_name_replay": {
 			"code": "8b8d 30feffff 8189 b0e90000 00180000 66c781 50ea0000 0f0f 8b81 8cc20000 69c0 34010000 8d8401 ce7a0000 8b91 80c20000 0fbf4a 6a 0fbf52 7c 90909090909090909090909090909090909090909090909090909090"
+		},
+		"spell_ascii_numbers": {
+			"code": "83C0 30 // 8B4D FC // BA C8DD8B01 // 89040A // 909090909090909090",
+			"title": "Replace shift-jis numbers with ASCII numbers in spell practice"
+		},
+		"spell_ascii_numbers_2": {
+			"code": "90",
+			"title": "Replace shift-jis numbers with ASCII numbers in spell practice (part 2)"
 		}
 	},
 	"title": "東方永夜抄　～ Imperishable Night",

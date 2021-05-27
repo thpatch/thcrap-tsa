@@ -86,6 +86,12 @@
 			"addr": "Rx382ac",
 			"code": "e8[codecave:stage_result_align] 8d45 f4 90 7d12 68 1c4f4b00 50 68 20ce4c00 e8 69a7fcff eb 25 833d ccd26401 07 7c 0c d945 f8 d825 d4424b00 d95d f8 68 104f4b00"
 		},
+		"spell_ascii_numbers": {
+			"addr": "Rx6d7bb"
+		},
+		"spell_ascii_numbers_2": {
+			"addr": "Rx6d7ec"
+		},
 		"TH8ScorefileFixer": {
 			"addr": "0x44869D",
 			"code": "83C4 08 // 8B4D 08 // E8 [codecave:TH8ScorefileFixer_FixVRSM] // 8945 FC // 2B45 F0 // 2945 F4",
