@@ -1,4 +1,5 @@
 {
+	"steam_appid": "937570",
 	"title": "弾幕アマノジャク　～ Impossible Spell Card",
 	"latest": "v1.00a",
 	"formats": {

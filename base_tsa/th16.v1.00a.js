@@ -1,4 +1,5 @@
 {
+	"steam_appid": "745880",
 	"binhacks": {
 		"fix_satono_1": {
 			"title": "Fix Spell Practice bugs for Stage 5, #1: Jump to code cave",

@@ -1,4 +1,5 @@
 {
+	"steam_appid": "1100180",
 	"binhacks": {
 		"sprintf_call_1": {
 			"code": "50e8[strings_vsprintf]89857cffffff89bd78ffffff",

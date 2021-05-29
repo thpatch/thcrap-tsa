@@ -1,4 +1,5 @@
 {
+	"steam_appid": "1566410",
 	"breakpoints": {
 		"file_size": {
 			"addr": "Rx20ec"

@@ -1,4 +1,5 @@
 {
+	"steam_appid": "1100160",
 	"binhacks": {
 		"sprintf_replay_push_1": {
 			"code": "e8[strings_sprintf] 83c4 0c 50 90909090"

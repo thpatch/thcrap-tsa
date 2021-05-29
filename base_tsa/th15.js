@@ -1,4 +1,5 @@
 {
+	"steam_appid": "937580",
 	"binhacks": {
 		"ddc_textbox_size": {
 			"code": "50e8[GetTextExtent]f30f1015b58c4c0083e81c730331c090",

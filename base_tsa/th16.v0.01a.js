@@ -1,4 +1,5 @@
 {
+	"steam_appid": "752490",
 	"binhacks": {
 		"sprintf_msvcrt14_esp+34": {
 			"addr": [

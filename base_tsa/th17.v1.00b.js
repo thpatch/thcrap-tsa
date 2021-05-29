@@ -1,4 +1,5 @@
 {
+	"steam_appid": "1079160",
 	"binhacks": {
 		"log_restore": {
 			"addr": "Rx04d10"

@@ -1,4 +1,5 @@
 {
+	"steam_appid": "924650",
 	"title": "秘封ナイトメアダイアリー　〜 Violet Detector",
 	"latest": [
 		"v1.00a"
