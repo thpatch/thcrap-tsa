@@ -18,7 +18,7 @@
 			cavesize: 5
 		},
 		th175_open_file: {
-			file_name: "[ebp+c]",
+			file_name: "[ebp+0x0c]",
 			file_reader: "eax",
 			cavesize: 6
 		},
