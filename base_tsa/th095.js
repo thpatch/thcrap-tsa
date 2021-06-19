@@ -1,4 +1,5 @@
 {
+	"steam_appid": "1420650",
 	"binhacks": {
 		"overflow_spell_menu_rep": {
 			"code": "8b5518",
