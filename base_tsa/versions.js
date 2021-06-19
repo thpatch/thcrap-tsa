@@ -225,6 +225,7 @@
 
 		"692736": ["th095", "v1.00a", "(original)"],
 		"696832": ["th095", "v1.02a", "(original)"],
+		"892504": ["th095", "v1.02a", "(original, Steam release)"],
 
 		"476672": ["th10", "v0.02a", "(original)"],
 		"487936": ["th10", "v1.00a", "(original)"],
