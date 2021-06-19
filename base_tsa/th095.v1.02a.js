@@ -91,5 +91,38 @@
 		"gentext#help_line_2": {
 			"addr": "Rx28c12"
 		}
-	}
+	},
+	"init_stages": [
+		{
+			"binhacks": {
+				"steamstub_crack": {
+					"title": "Crack SteamStub by disabling its integrity check",
+					"addr": "Rxea413",
+					"code": "eb",
+					"expected": "74"
+				}
+			},
+			"breakpoints": {
+				"init_next_stage#1": {
+					"addr": "Rxeb036",
+					"module": "eax",
+					"cavesize": 6
+				},
+				"init_next_stage#game": {
+					"addr": "Rxe9333",
+					"cavesize": 5
+				}
+			}
+		},
+		{
+			"The addresses here are relative to": "SteamDRMP.dll",
+			"binhacks": {
+				"steamdrm_crack": {
+					"title": "Crack SteamDRM: Remove all communication with the Steam client",
+					"addr": "Rx3ea0",
+					"code": "90909090909090909090 b030 88450b e9"
+				}
+			}
+		}
+	]
 }

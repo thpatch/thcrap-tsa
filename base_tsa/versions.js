@@ -39,6 +39,7 @@
 		"bb54f6fc54f0eeffaec416ca9f64aef32b5f59b7427fa5a6579f6538e0eddc07": ["th095", "v1.02a", "(original)"],
 		"350efaf4585e461e8071d9818f48a34d09bb0782932630155eddba68e65d5089": ["th095", "v1.02a", "English patch v1.03 (not recommended)"],
 		"4f80eb7b7037a69dc87b6e39a02db855a24ddd6db6befffb60dc6175e07afc4a": ["th095", "v1.02a", "English patch v1.1 (not recommended)"],
+		"c9624156ad23e64434ae460176db68b90beecece41072d88cca1f4e33340790d": ["th095", "v1.02a", "(original, Steam release)"],
 
 		"5430fac601d645798ccf794362ec7d4cd753814f09d160247dc628b7c6943fd8": ["th10", "v0.02a", "(original)"],
 		"2f14760b6fbbf57549541583283badb9a19a4222b90f0a146d5aa17f01dc9040": ["th10", "v1.00a", "(original)"],
