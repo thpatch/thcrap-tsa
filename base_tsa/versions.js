@@ -1,5 +1,6 @@
 {
 	"hashes": {
+		"1eb4ab98622e08e24247cbdd692671d7abca840de3239f147a4f7c377a175552": ["th06", "v0.08", "(original)"],
 		"21cddb2b5a7dfaf38e542b707873a35b3fbfd38c1aa21d5b969e1a49a1855f4b": ["th06", "v0.13",  "(original)"],
 		"7152c0ce2667ff10bd5bbe9c3a2052302dec7d326798eb2e70f106e933831a9d": ["th06", "v1.00",  "(original)"],
 		"0adcf7ad5b451d77b5fb86771c3718d242fc7b27dc5940477d289a797e51785f": ["th06", "v1.02f", "(original)"],
@@ -202,6 +203,7 @@
 		"6b287f8826bf703ac82bf97ac65f7343d32dfffacc875a20fd84a1a0bae7a8c1": ["th18_custom", "v1.00a", "(original)"]
 	},
 	"sizes": {
+		"409600": ["th06", "v0.08", "(original)"],
 		"430080": ["th06", "v0.13",  "(original)"],
 		"512000": ["th06", "v1.02h", "(original)"],
 		"684032": ["th06", "v1.02h", "Russian patch", 1251],
