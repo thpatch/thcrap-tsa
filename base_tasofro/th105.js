@@ -19,7 +19,7 @@
 			"cavesize": 7
 		},
 		"th105_open_file#file_size": {
-			"file_size": "[esi+c]",
+			"file_size": "[esi+0x0c]",
 			"cavesize": 7
 		},
 		"nsml_read_file": {
@@ -50,7 +50,7 @@
 		},
 		"th105_cv0_escape_comma": {
 			"string": "edx",
-			"delim": "byte ptr [[ebp+c]]",
+			"delim": "byte ptr [[ebp+0x0c]]",
 			"cavesize": 19
 		}
 	}
