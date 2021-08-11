@@ -22,6 +22,7 @@
 	"th16": "Touhou Tenkuushou - Hidden Star in Four Seasons",
 	"th165": "Hifuu Nightmare Diary - Violet Detector",
 	"th17": "Touhou Kikeijuu - Wily Beast and Weakest Creature",
+	"th18": "Touhou Kouryuudou - Unconnected Marketeers",
 	"th10 JP": "Touhou Fuujinroku",
 	"alcostg JP": "Tasogare Sakaba",
 	"th11 JP": "Touhou Chireiden",
