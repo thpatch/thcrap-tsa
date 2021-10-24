@@ -71,6 +71,22 @@
 		},
 		"music_title_prepare": {
 			"addr": "0x46235d"
+		},
+		"score_force_visual_update": {
+			"addr": "Rx36623",
+			"code": "83 EC 5C 53 56 57 8B F9 8B 87 80 00 00 00 A9 00 40 00 00 0F 84 2D 01 00 00 A8 10 74 10 E8 1B DD FF FF 31 C0 B0 03 5F 5E 5B 8B E5 5D C3 8B 87 98 00 00 00 40 3C B4 89 87 98 00 00 00"
+		},
+		"score_force_visual_update_jmp_fix_1": {
+			"addr": "Rx36c8a",
+			"code": "b7"
+		},
+		"score_force_visual_update_jmp_fix_2": {
+			"addr": "Rx36c92",
+			"code": "af"
+		},
+		"score_force_visual_update_jmp_fix_3": {
+			"addr": "Rx36c9a",
+			"code": "a7"
 		}
 	},
 	"breakpoints": {

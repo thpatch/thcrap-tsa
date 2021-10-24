@@ -68,6 +68,26 @@
 		},
 		"result_spell_align": {
 			"addr": "Rx6dd11"
+		},
+		"score_force_visual_update": {
+			"addr": "Rx2d7b3",
+			"code": "51 53 56 57 8B F9 8B 87 88 00 00 00 A9 00 40 00 00 0F 84 3E 01 00 00 A8 10 74 10 E8 3D E4 FF FF 31 C0 B0 03 5F 5E 5B 8B E5 5D C3 8B 87 B0 00 00 00 40 3C B4 89 87 B0 00 00 00"
+		},
+		"score_force_visual_update_jmp_fix_1": {
+			"addr": "Rx2da3c",
+			"code": "93"
+		},
+		"score_force_visual_update_jmp_fix_2": {
+			"addr": "Rx2da44",
+			"code": "8B"
+		},
+		"score_force_visual_update_jmp_fix_3": {
+			"addr": "Rx2da4c",
+			"code": "83"
+		},
+		"score_force_visual_update_jmp_fix_4": {
+			"addr": "Rx2da9b",
+			"code": "34"
 		}
 	},
 	"breakpoints": {

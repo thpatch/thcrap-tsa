@@ -94,6 +94,22 @@
 			"title": "Fix the crash after the end-of-stage dialogue in Practice replays, #2",
 			"addr": "Rx52b30",
 			"code": "0fb6470a e82768ffff 31c0 48 a3d4e74b00"
+		},
+		"score_force_visual_update": {
+			"addr": "Rx2c553",
+			"code": "83 EC 5C 53 56 8B 75 08 8B 46 60 57 A9 00 40 00 00 0F 84 01 01 00 00 A8 10 74 12 E8 FD DD FF FF 31 C0 B0 03 5F 5E 5B 8B E5 5D C2 04 00 8B 46 78 40 3C B4 89 46 78"
+		},
+		"score_force_visual_update_jmp_fix_1": {
+			"addr": "Rx2cad9",
+			"code": "96"
+		},
+		"score_force_visual_update_jmp_fix_2": {
+			"addr": "Rx2cae1",
+			"code": "8e"
+		},
+		"score_force_visual_update_jmp_fix_3": {
+			"addr": "Rx2cae9",
+			"code": "86"
 		}
 	},
 	"breakpoints": {

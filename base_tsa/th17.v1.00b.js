@@ -74,6 +74,10 @@
 		"trophy_result_crash_fix": {
 			"addr": [ "Rx5d106", "Rx5d16b", "Rx5d1c5", "Rx5d21c" ],
 			"code": "68 5bd24500 c3"
+		},
+		"score_force_visual_update": {
+			"addr": "Rx31378",
+			"code": "0F 85 5C 02 00 00"
 		}
 	},
 	"breakpoints": {
