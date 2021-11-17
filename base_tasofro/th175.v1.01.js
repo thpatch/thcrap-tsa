@@ -1,4 +1,12 @@
 {
+	binhacks: {
+		ret: {
+			addr: [
+				"RxDF10",
+				"RxF470"
+			]
+		}
+	},
 	"breakpoints": {		
 		"th175_open_file": {
 			"addr": "Rx19177"

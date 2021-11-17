@@ -1,7 +1,7 @@
 {
 	title: "東方剛欲異聞 ~ 水没した沈愁地獄",
 	url_trial: "http://www.tasofro.net/touhou175/index.html",
-	latest: "vbeta3",
+	latest: "v1.01",
 	breakpoints: {
 		"th135_file_name#eax": {
 			// Thcrap don't need the file names, but 3rd party extractors do need them.
