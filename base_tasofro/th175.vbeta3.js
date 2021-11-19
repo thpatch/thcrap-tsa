@@ -21,6 +21,7 @@
 			addr: "Rx17181"
 		},
 		th175_replaceReadFile: {
+			file_handle: "esi",
 			addr: "Rx16994"
 		},
 		th175_close_file: {

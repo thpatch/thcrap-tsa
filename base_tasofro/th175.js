@@ -22,8 +22,11 @@
 			file_reader: "eax",
 			cavesize: 6
 		},
+		th175_prepareReadFile: {
+			package_reader: "eax",
+			cavesize: 5
+		},
 		th175_replaceReadFile: {
-			file_handle: "esi",
 			cavesize: 6
 		},
 		th175_close_file: {

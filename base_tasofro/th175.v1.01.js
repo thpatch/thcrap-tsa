@@ -11,8 +11,10 @@
 		"th175_open_file": {
 			"addr": "Rx19177"
 		},
+		"th175_prepareReadFile": {
+			"addr": "Rx1b572"
+		},
 		"th175_replaceReadFile": {
-			"file_handle": "esi + 4",
 			"addr": "Rx19ccc"
 		},
 		"th175_close_file": {
