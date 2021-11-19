@@ -2,6 +2,20 @@
 	title: "東方剛欲異聞 ~ 水没した沈愁地獄",
 	url_trial: "http://www.tasofro.net/touhou175/index.html",
 	latest: "v1.01",
+	options: {
+		th175_disable_fullscreen: {
+			type: "u8",
+			val: true,
+			title: "[TH17.5] Disable fullscreen at startup"
+		}
+	},
+	binhacks: {
+		remove_fullscreen: {
+			code: "C2 0400",
+			title: "Disable fullscreen at startup for th175",
+			ignore: "!<option:th175_disable_fullscreen>"
+		}
+	},
 	breakpoints: {
 		"th135_file_name#eax": {
 			// Thcrap don't need the file names, but 3rd party extractors do need them.

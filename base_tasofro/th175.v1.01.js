@@ -5,6 +5,9 @@
 				"RxDF10",
 				"RxF470"
 			]
+		},
+		remove_fullscreen: {
+			addr: "Rx4590"
 		}
 	},
 	"breakpoints": {		
