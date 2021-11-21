@@ -4,8 +4,8 @@
 	latest: "v1.01",
 	options: {
 		th175_disable_fullscreen: {
-			type: "u8",
-			val: true,
+			type: "b8",
+			val: false,
 			title: "[TH17.5] Disable fullscreen at startup"
 		}
 	},
@@ -13,7 +13,7 @@
 		remove_fullscreen: {
 			code: "C2 0400",
 			title: "Disable fullscreen at startup for th175",
-			ignore: "!<option:th175_disable_fullscreen>"
+			enable: "<option:th175_disable_fullscreen>",
 		}
 	},
 	breakpoints: {
