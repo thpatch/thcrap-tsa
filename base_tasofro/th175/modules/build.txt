@@ -1,0 +1,1 @@
+cl steam_api.c /link /dll /noentry /out:steam_api.avs
