@@ -1,0 +1,14 @@
+{
+    // Always mark the ennemy as dead, triggering the win script
+    "/Functions/4/Instructions/301": "jmp(s4, 14)",
+
+    // Run the ending script when the stage is won
+    "/Functions/2/Literals/13": "ending/reimu",
+    "/Functions/2/Literals/33": "ending/marisa",
+    "/Functions/2/Literals/52": "ending/murasa",
+    "/Functions/2/Literals/73": "ending/yorigami_js",
+    "/Functions/2/Literals/93": "ending/kanako",
+    "/Functions/2/Literals/116": "ending/flandreA",
+    "/Functions/2/Literals/132": "ending/flandreB",
+    "/Functions/2/Literals/151": "ending/flandreC",
+}
