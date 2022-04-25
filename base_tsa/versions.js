@@ -32,7 +32,7 @@
 		"467085c3c85ceed4b6f5be410e14cd56f1af0b5afa4e0c752270b56ecbc470cf": ["th08", "v1.00d", "English patch (not recommended)"],
 
 		"de2076269ed3747cdbec840dd3eb7b155407f5e536b8caa83d26fc716e9a67cc": ["th09", "v0.02a", "(original)"],
-		"234195e017548c2114c664a6f5592be64720dad5d445a24602e8fa2e792f97ef": ["th09", "v1.00",  "(original)"],
+		"234195e017548c2114c664a6f5592be64720dad5d445a24602e8fa2e792f97ef": ["th09", "v1.00a", "(original)"],
 		"10350095bcf95edb59e03bee9849a2dc8a7714b4927ad5909c569c550fce6822": ["th09", "v1.50a", "(original)"],
 		"f402287326bcee15b6eda743f1edb7882294257d65c8d828d849110cb0c53bb6": ["th09", "v1.50a", "English patch (not recommended)"],
 
@@ -222,7 +222,7 @@
 		"840704": ["th08", "v1.00d", "(original)"],
 		"844800": ["th08", "v1.00d", "English patch (not recommended)"],
 
-		"649728": ["th09", "v1.00",  "(original)"],
+		"649728": ["th09", "v1.00a", "(original)"],
 		"685056": ["th09", "v1.50a", "(original)"],
 
 		"692736": ["th095", "v1.00a", "(original)"],
