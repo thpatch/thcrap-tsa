@@ -1,5 +1,9 @@
 {
 	"binhacks": {
+		"zun_strcat_stringlocs": {
+			"addr": "Rx2adb1",
+			"code": "6a 00 ff75 08 e8[strings_lookup] 8945 08 eb 05 55 8bec eb ec 31c0 83c4 08 90909090"
+		},
 		"file_decrypted_buffer_size": {
 			"code": "51",
 			"title": "Use a scratch register to control the size of the final file buffer only (requires a file_size breakpoint writing to ECX on the same address)"

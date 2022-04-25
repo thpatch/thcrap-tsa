@@ -1,8 +1,7 @@
 {
 	"binhacks": {
 		"zun_strcat_stringlocs": {
-			"addr": "Rx2adb1",
-			"code": "6a 00 ff75 08 e8[strings_lookup] 8945 08 eb 05 55 8bec eb ec 31c0 83c4 08 90909090"
+			"addr": "Rx2adb1"
 		},
 		"file_decrypted_buffer_size": {
 			"addr": "0x42c19c"

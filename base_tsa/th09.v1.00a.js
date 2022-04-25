@@ -1,5 +1,8 @@
 {
 	"binhacks": {
+		"zun_strcat_stringlocs": {
+			"addr": "Rx2a951"
+		},
 		"file_decrypted_buffer_size": {
 			"addr": "0x42b9fc"
 		},
@@ -9,8 +12,21 @@
 		"sprintf_call_2": {
 			"addr": "0x439d3d"
 		},
+		"sprintf_replay_1": {
+			"addr": "Rx264eb",
+			"code": "68 90a64800 54 e8[strings_sprintf] 8945 a8 83c4 0c 6a 01 8d55 e8 89c1 90",
+			"title": "Replay name sprinf 1"
+		},
+		"sprintf_replay_2": {
+			"addr": "Rx2957d"
+		},
+		"sprintf_replay_3": {
+			"addr": "Rx299c1",
+			"code": "68 90a64800 54 e8[strings_sprintf] 83c4 0c 6a 01 8d55 ec 8945 ac 89c1 90",
+			"title": "Replay name sprintf 3"
+		},
 		"sprintf_rep": {
-			"addr": ["0x439cc1", "0x439d72"]
+			"addr": ["Rx39cc1", "Rx39d72", "Rx299d7", "Rx299fc", "Rx26501", "Rx26528", "Rx29592" ]
 		},
 		"sprintf_call_ebp-200": {
 			"addr": "Rx32181"
