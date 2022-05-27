@@ -1,6 +1,16 @@
 {
 	"steam_appid": "1079160",
+	"codecaves": {
+		"th17_restore_esc_r": {
+			"code": "51 6a 07 e8[Rx65450] 8d8f e4010000 51 68 87000000 54 e8[Rx769f0] 6a 06 ff30 e8[Rx76510] 6a 01 ffb7 e8010000 e8[Rx76510] 6a 04 89f1 e8[Rx1b630] 6a 10 89f9 e8[Rx43800] 8b15 3c324b00 e9[Rx45208]",
+			"access": "re"
+		}
+	},
 	"binhacks": {
+		"restore_esc_r": {
+			"addr": "Rx451dc",
+			"code": "e9[codecave:th17_restore_esc_r] <nop:39>"
+		},
 		"log_restore": {
 			"addr": "Rx04d10"
 		},
