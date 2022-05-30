@@ -9,12 +9,21 @@
 		"sprintf_msvcrt14_ebp-108": {
 			"addr": "Rx081a3"
 		},
+		"sprintf_replay_1": {
+			"addr": [ "Rx3d331", "Rx3d56a" ],
+			"code": "68 6ccf4900 54 e8[strings_sprintf] 894424 2c"
+		},
+		"sprintf_replay_2": {
+			"addr": "Rx59322",
+			"code": "68 6ccf4900 54 e8[strings_sprintf] 898424 64010000"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"Rx73df6", "Rx73e07",
 				"Rx73ec4", "Rx73f67", "Rx73f78",
 				"Rx74034", "Rx740bd",
-				"Rx081b1"
+				"Rx081b1",
+				"Rx3d343", "Rx3d59a", "Rx3d5a7", "Rx59398"
 			]
 		},
 		"music_title_prepare": {

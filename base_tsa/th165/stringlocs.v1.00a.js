@@ -36,5 +36,9 @@
 	"Rx9d8ac": "th165_ascii_replay_number",
 	"Rx9d8e0": "th165_ascii_replay_number_empty",
 	"Rx9d918": "th165_ascii_replay_user",
-	"Rx9d948": "th165_ascii_replay_user_empty"
+	"Rx9d948": "th165_ascii_replay_user_empty",
+	"Rx9cd6c": "th165_replay_format",
+	"Rx9d898": "th165_replay_user_find",
+	"Rx9d138": "th165_scorefile_fn",
+	"Rx9d148": "th165_scorefile_bk_fn"
 }
