@@ -1,4 +1,10 @@
 {
+	"codecaves": {
+		"th10_result_spell_align": {
+			"access": "re",
+			"code": "8b4c24 04 8b41 10 81b8 9c000000 af954100 74 07 c741 20 00000000 b8 01000000 c3"
+		}
+	},
 	"binhacks": {
 		"sprintf_call_esp+18": {
 			"addr": [
@@ -31,8 +37,9 @@
 				"0x447aab",
 				"0x447b7a",
 				"0x447c40",
+				"Rx47bf3",
 				"Rx23f12",
-				"Rx23f1e",
+				"Rx23f1e",				
 				
 				"Rx33999",
 				"Rx339a5"
@@ -47,9 +54,6 @@
 		},
 		"spell_align": {
 			"addr": "0x447b30"
-		},
-		"result_spell_align": {
-			"addr": "0x447c39"
 		},
 		"fix_practice_replay_crash#1": {
 			"title": "Fix the crash after the end-of-stage dialogue in Practice replays, #1 (jump)",
@@ -102,6 +106,10 @@
 				"0x4343d1",
 				"0x4344a6"
 			]
+		},
+		"codecave:th10_result_spell_align": {
+			"addr": "Rx47c3b",
+			"cavesize": 5
 		}
 	},
 	"tsa_font_block": {
