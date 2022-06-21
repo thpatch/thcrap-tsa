@@ -1,6 +1,16 @@
 {
 	"steam_appid": "1566410",
+	"codecaves": {
+		"th18_centipede_fix": {
+			"access": "re",
+			"code": "8b4424 04 8b40 10 8b40 24 3d 74794100 74 1f 3d 2a2e4600 75 12 8b0d dccc4c00 33c0 3b0d e0cc4c00 0f94c0 c3 b801000000 c3 33c0 c3"
+		}
+	},
 	"breakpoints": {
+		"codecave:th18_centipede_fix": {
+			"addr": "Rx12c76",
+			"cavesize": 10
+		},
 		"file_size": {
 			"addr": "Rx20ec"
 		},
