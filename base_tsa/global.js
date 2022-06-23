@@ -106,6 +106,10 @@
 		"hud_force_redraw": {
 			"title": "Redraw the HUD every frame, because we might be drawing TL notes there",
 			"code": "eb"
+		},
+		"reacquire_input": {
+			"title": "Fix input glitching out in TH06/TH07",
+			"code": "00000000 74"
 		}
 	},
 	"breakpoints": {

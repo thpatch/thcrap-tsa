@@ -167,6 +167,9 @@
 		},
 		"hud_force_redraw": {
 			"addr": "Rx19f81"
+		},
+		"reacquire_input": {
+			"addr": "Rx1dc58"
 		}
 	},
 	"breakpoints": {

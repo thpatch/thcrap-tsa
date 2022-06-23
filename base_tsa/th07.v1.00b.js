@@ -80,6 +80,9 @@
 		"force_disable_vsync": {
 			"addr": "Rx38887",
 			"code": "e9 f6000000 90"
+		},
+		"reacquire_input": {
+			"addr": "Rx30f03"
 		}
 	},
 	"breakpoints": {

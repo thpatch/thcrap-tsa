@@ -15,6 +15,9 @@
 		"set_png_buff_size_2": {
 			"code": "BA FF FF FF 7F 90",
 			"addr": "Rx209cf"
+		},
+		"reacquire_input": {
+			"addr": "Rx1270b"
 		}
 	},
 	"breakpoints": {
