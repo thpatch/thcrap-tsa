@@ -3,6 +3,10 @@
 		"th10_result_spell_align": {
 			"access": "re",
 			"code": "8b4c24 04 8b41 10 81b8 9c000000 af954100 74 07 c741 20 00000000 b8 01000000 c3"
+		},
+		"th10_spell_align": {
+			"access": "re",
+			"code": "56 57 8b7424 0c 8b7e 10 81bf 9c000000 c2944100 75 08 b8 01000000 5f 5e c3 ff76 0c ff77 18 e8[GetTextExtentForFontID] 8946 1c eb e8"
 		}
 	},
 	"binhacks": {
@@ -37,6 +41,7 @@
 				"0x447aab",
 				"0x447b7a",
 				"0x447c40",
+				"Rx47b23",
 				"Rx47bf3",
 				"Rx23f12",
 				"Rx23f1e",				
@@ -51,9 +56,6 @@
 		"enemy_text_offset_2": {
 			"addr": "Rx16335",
 			"code": "83c007"
-		},
-		"spell_align": {
-			"addr": "0x447b30"
 		},
 		"fix_practice_replay_crash#1": {
 			"title": "Fix the crash after the end-of-stage dialogue in Practice replays, #1 (jump)",
@@ -110,6 +112,10 @@
 		"codecave:th10_result_spell_align": {
 			"addr": "Rx47c3b",
 			"cavesize": 5
+		},
+		"codecave:th10_spell_align": {
+			"addr": "Rx47B5a",
+			"cavesize": 6
 		}
 	},
 	"tsa_font_block": {
