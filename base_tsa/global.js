@@ -1,20 +1,6 @@
 {
 	"thcrap_version_min": "0x20170905",
 	"thcrap_url": "http://thpatch.net/wiki/Project:Download",
-	"options": {
-		"gdi32_dll_name_w": {
-			"type": "w",
-			"val": "gdi32.dll"
-		},
-		"CreateFontW_name": {
-			"type": "s",
-			"val": "CreateFontW"
-		},
-		"MS_Gothic_name_w": {
-			"type": "w",
-			"val": "ＭＳ ゴシック"
-		}
-	},
 	"binhacks": {
 		"log_restore": {
 			"code": "e9[log_printf]",
