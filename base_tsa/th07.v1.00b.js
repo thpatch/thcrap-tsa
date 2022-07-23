@@ -145,6 +145,11 @@
 			"TextureSlots": "[0x4b9e44]+0x282ac",
 			"SpriteSpecs": "[0x4b9e44]+0x60",
 			"SpriteScripts": "[0x4b9e44]+0x28ef0"
+		},
+		"th06_screenshot": {
+			"pD3DDevice": "[0x575958]",
+			"addr": "Rx2feb3",
+			"cavesize": 5
 		}
 	}
 }

@@ -271,6 +271,11 @@
 		"ascii_params": {
 			"addr": "Rx23aa9",
 			"ClassPtr": "0x47b900"
+		},
+		"th06_screenshot": {
+			"pD3DDevice": "[0x6c6d20]",
+			"addr": "Rx1cb67",
+			"cavesize": 5
 		}
 	}
 }
