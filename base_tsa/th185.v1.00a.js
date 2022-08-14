@@ -39,6 +39,10 @@
 				"Rx89039",
 				"Rx8904a"
 			]
+		},
+		"center_align": {
+			"addr": "Rx88f85",
+			"code": "ff751856e8[GetTextExtentForFontID]f30f2ad08b4424108b5424148b7c24108b4c98088bc1c1f808f30f104c9f38f30f590d38c74b008b94822c0712030fb6c18b7c241c8d0c408b82240100008b0cc88b451c8d1400f30f10442418f30f2cc0<nop:47>"
 		}
 	},
 	"tsa_font_block": [
