@@ -8,7 +8,7 @@
 			"code": "f30f11442420e8[strings_vsprintf_msvcrt14]89442434"
 		},
 		"sprintf_th185_2": {
-			"code": "897c2428f30f1144242450e8[strings_vsprintf]8944e43c"
+			"code": "897c2428f30f11442424e8[strings_vsprintf_msvcrt14]8944243c"
 		},
 		"sprintf_rep": {
 			"addr": [
