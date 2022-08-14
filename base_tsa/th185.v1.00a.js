@@ -39,5 +39,38 @@
 		"Rx179c4c",
 		"Rx179c50",
 		"Rx179c20"
+	],
+	"init_stages": [
+		{
+			"binhacks": {
+				"steamstub_crack": {
+					"title": "Crack SteamStub by disabling its integrity check",
+					"addr": "Rx17e413",
+					"code": "eb",
+					"expected": "74"
+				}
+			},
+			"breakpoints": {
+				"init_next_stage#1": {
+					"addr": "Rx17f036",
+					"module": "eax",
+					"cavesize": 6
+				},
+				"init_next_stage#game": {
+					"addr": "Rx17d333",
+					"cavesize": 5
+				}
+			}
+		},
+		{
+			"The addresses here are relative to": "SteamDRMP.dll",
+			"binhacks": {
+				"steamdrm_crack": {
+					"title": "Crack SteamDRM: Remove all communication with the Steam client",
+					"addr": "Rx3e70",
+					"code": "90909090909090909090 b030 88450b e9"
+				}
+			}
+		}
 	]
 }
