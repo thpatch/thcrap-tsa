@@ -35,6 +35,12 @@
 		},
 		"gentext#abilities_ingame": {
 			"addr": "Rx21ad5"
+		},
+		"th185_spell_name": {
+			"addr": "Rx30fab"
+		},
+		"th185_spell_id": {
+			"addr": "Rx3b9f6"
 		}
 	},
 	"binhacks": {
@@ -80,6 +86,9 @@
 		},
 		"ability_ingame_lineflip_2": {
 			"addr": "Rx21afd"
+		},
+		"spell_align": {
+			"addr": "Rx88e05"
 		}
 	},
 	"tsa_font_block": [

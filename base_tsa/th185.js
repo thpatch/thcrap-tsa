@@ -23,6 +23,9 @@
 		"ability_ingame_lineflip_2": {
 			"code": "40",
 			"ignore": true
+		},
+		"spell_align": {
+			"code": "ff751856e8[GetTextExtentForFontID]83c008d1f0f30f2ac88b44240c8b5424108b4c98088bc1c1f8088b94822c0712030fb6c18b74240c8d0c408b82240100008b0cc88b451c8d1400f30f10449e38f30f10542414f30f2cc2<nop:42>"
 		}
 	},
 	"breakpoints": {
@@ -99,6 +102,14 @@
 			"str": "eax",
 			"ids": "ebx",
 			"cavesize": 6
+		},
+		"th185_spell_name": {
+			"spell_name": "ebx",
+			"cavesize": 5
+		},
+		"th185_spell_id": {
+			"sub_name": "[[[[[[edi+0x5590]+0xC]+0x1018]+0x1218]+0x10c]+[[[edi+0x5590]+0xC]+0x4]*8]",
+			"cavesize": 5
 		}
 	}
 }
