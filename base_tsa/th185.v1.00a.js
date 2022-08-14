@@ -22,6 +22,23 @@
 		},
 		"sprintf_th185_2": {
 			"addr": "Rx88f2b"
+		},
+		"sprintf_rep": {
+			"addr": [
+				// draw_ltext
+				"Rx88d2a",
+				"Rx88d39",
+				
+				// draw_rtext
+				"Rx88e01",
+				"Rx88ead",
+				"Rx88ebe",
+				
+				// draw_ctext
+				"Rx88f81",
+				"Rx89039",
+				"Rx8904a"
+			]
 		}
 	},
 	"tsa_font_block": [
