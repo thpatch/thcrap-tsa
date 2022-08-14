@@ -14,6 +14,27 @@
 		},
 		"music_cmt": {
 			"addr": [ "Rx6f515", "Rx6f5de" ]
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": "Rx70166"
+		},
+		"gentext#trophy_result_desc": {
+			"addr": "Rx7113a"
+		},
+		"gentext#abilities_result_name": {
+			"addr": "Rx1bbF3"
+		},
+		"gentext#abilities_result_desc": {
+			"addr": "Rx1be10"
+		},
+		"gentext#abilities_result_desc_l1": {
+			"addr": [ "Rx1bf41", "Rx1c178" ]
+		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx70e0a"
+		},
+		"gentext#abilities_ingame": {
+			"addr": "Rx21ad5"
 		}
 	},
 	"binhacks": {
@@ -43,6 +64,16 @@
 		"center_align": {
 			"addr": "Rx88f85",
 			"code": "ff751856e8[GetTextExtentForFontID]f30f2ad08b4424108b5424148b7c24108b4c98088bc1c1f808f30f104c9f38f30f590d38c74b008b94822c0712030fb6c18b7c241c8d0c408b82240100008b0cc88b451c8d1400f30f10442418f30f2cc0<nop:47>"
+		},
+		"trophy_result_desc_no_touch_ecx_edx": {
+			"addr": "Rx710f0",
+			"code": "558bec5669f104070000398e707c4d0075428b4508535152b3078d045003c2b277c1e0088d80747d4d0003c6bea0a257002bf08a088d400132ca02d380c310884c06ff84c975ec5a595bb8a0a257005e5dc2040033c05e5dc20400"
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx70d62"
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx70e29"
 		}
 	},
 	"tsa_font_block": [
