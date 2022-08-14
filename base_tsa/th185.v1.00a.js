@@ -8,6 +8,12 @@
 		},
 		"file_loaded": {
 			"addr": "Rx7144e"
+		},
+		"music_title": {
+			"addr": "Rx6f2bd"
+		},
+		"music_cmt": {
+			"addr": [ "Rx6f515", "Rx6f5de" ]
 		}
 	},
 	"binhacks": {
