@@ -10,6 +10,14 @@
 			"addr": "Rx7144e"
 		}
 	},
+	"binhacks": {
+		"sprintf_th185_esp+34": {
+			"addr": [ "Rx88c7b", "Rx88dab" ]
+		},
+		"sprintf_th185_2": {
+			"addr": "Rx88f2b"
+		}
+	},
 	"tsa_font_block": [
 		"Rx179c28",
 		"Rx179c2c",
