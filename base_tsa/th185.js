@@ -15,6 +15,14 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"code": "3c"
+		},
+		"ability_ingame_lineflip_1": {
+			"code": "44",
+			"ignore": true
+		},
+		"ability_ingame_lineflip_2": {
+			"code": "40",
+			"ignore": true
 		}
 	},
 	"breakpoints": {

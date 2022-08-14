@@ -74,6 +74,12 @@
 		},
 		"trophy_ingame_lineflip_2": {
 			"addr": "Rx70e29"
+		},
+		"ability_ingame_lineflip_1": {
+			"addr": "Rx21abd"
+		},
+		"ability_ingame_lineflip_2": {
+			"addr": "Rx21afd"
 		}
 	},
 	"tsa_font_block": [
