@@ -132,6 +132,7 @@
 		"5aeb74b19939a29a8cf06e4fe7777aaf9139e93478507e039f43318171020e9f": ["th18", "v1.00a", "(original)"],
 		
 		"25f3978d107890f540b1b813bfdda141727fcbdfdf5d9fc8f107d5812ea9f8e7": ["th185", "v1.00a", "(original, unpacked Steam release)"],
+		"c0595fe926f2733612a29fac8288c50c6bdb0121ad6cce2bda9f2224b51671cc": ["th185", "v1.00a", "(original, unpacked Steam release with Steamless v3.0.0.11)"],
 		"41de6934b12986afbc80c3484b452339ce02359737fc8a2aab0843a414d14b28": ["th185", "v1.00a", "(original, Steam release)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
