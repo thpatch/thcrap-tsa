@@ -3,6 +3,7 @@
 	"latest": [
 		"v1.00a"
 	],
+	"steam_appid": "2097720",
 	"binhacks": {
 		"sprintf_th185_esp+34": {
 			"code": "f30f11442420e8[strings_vsprintf_msvcrt14]89442434"
