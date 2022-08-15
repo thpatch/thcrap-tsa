@@ -1,5 +1,6 @@
 {
 	"Rxb60b4": "th18 card unobtained",
+	"RxB609C": "th18 nothing",
 	"Rxb7828": "th10 Music Room spoiler 1",
 	"Rxb7864": "th10 Music Room spoiler 2",
 	"Rxb789c": "th10 Music Room spoiler 3",
