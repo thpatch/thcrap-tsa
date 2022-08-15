@@ -111,6 +111,13 @@
 		"th185_spell_id": {
 			"sub_name": "[[[[[[edi+0x5590]+0xC]+0x1018]+0x1218]+0x10c]+[[[edi+0x5590]+0xC]+0x4]*8]",
 			"cavesize": 5
+		},
+		"gentext#titlemsg_comment": {
+			"file": "titlemsg.js",
+			"str": "eax",
+			"ids": [ "edi", "[ebp-0x1c]" ],
+			"line": "esi - 2",
+			"cavesize": 6
 		}
 	}
 }

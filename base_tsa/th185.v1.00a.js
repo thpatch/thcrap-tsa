@@ -41,6 +41,36 @@
 		},
 		"th185_spell_id": {
 			"addr": "Rx3b9f6"
+		},
+		"gentext#titlemsg_comment": {
+			"addr": "Rx6e5b5"
+		},
+		"gentext#titlemsg_charname_1": {
+			"addr": "Rx6e869",
+			"file": "titlemsg.js",
+			"ids": [ -1, 0 ],
+			"line": "[ebp-0x2c]",
+			"str": "[ebp-0x28]",
+			"cave_exec": "!([ebp-0x24] == 2)",
+			"cavesize": 5
+		},
+		"gentext#titlemsg_charname_2": {
+			"addr": "Rx6e8d3",
+			"file": "titlemsg.js",
+			"ids": [ -1, 0 ],
+			"line": "[ebp-0x2c]",
+			"str": "[ebp-0x2c]",
+			"cave_exec": "!([ebp-0x24] == 1)",
+			"cavesize": 5
+		},
+		"gentext#titlemsg_charname_3": {
+			"addr": "Rx6e940",
+			"file": "titlemsg.js",
+			"ids": [ -1, 0 ],
+			"line": "[ebp-0x1c]",
+			"str": "[ebp-0x24]",
+			"cave_exec": "!([ebp-0x24] == 0)",
+			"cavesize": 5
 		}
 	},
 	"binhacks": {
@@ -89,6 +119,10 @@
 		},
 		"spell_align": {
 			"addr": "Rx88e05"
+		},
+		"titlemsg_charname_2_instrflip": {
+			"addr": "Rx6e8d5",
+			"code": "894dd48b45e4"
 		}
 	},
 	"tsa_font_block": [
