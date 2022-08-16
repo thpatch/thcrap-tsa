@@ -54,5 +54,6 @@
 	"th15 Full-width 6": "6",
 	"th15 Full-width 7": "7",
 	"th15 Full-width 8": "8",
-	"th15 Full-width 9": "9"
+	"th15 Full-width 9": "9",
+	"th185 titlemsg charname format": "%s    %s    %s"
 }

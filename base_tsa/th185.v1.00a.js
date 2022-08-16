@@ -51,7 +51,7 @@
 			"ids": [ -1, 0 ],
 			"line": "[ebp-0x2c]",
 			"str": "[ebp-0x28]",
-			"cave_exec": "!([ebp-0x24] == 2)",
+			"cave_exec": false,
 			"cavesize": 5
 		},
 		"gentext#titlemsg_charname_2": {
@@ -60,7 +60,7 @@
 			"ids": [ -1, 0 ],
 			"line": "[ebp-0x2c]",
 			"str": "[ebp-0x2c]",
-			"cave_exec": "!([ebp-0x24] == 1)",
+			"cave_exec": false,
 			"cavesize": 5
 		},
 		"gentext#titlemsg_charname_3": {
@@ -69,8 +69,14 @@
 			"ids": [ -1, 0 ],
 			"line": "[ebp-0x1c]",
 			"str": "[ebp-0x24]",
-			"cave_exec": "!([ebp-0x24] == 0)",
+			"cave_exec": false,
 			"cavesize": 5
+		}
+	},
+	"codecaves": {
+		"titlemsg_charname_trim": {
+			"access": "re",
+			"code": "817d04dde94600751a8038007415eb01408a480184c975f8eb04c600004880382074f7a1889e5200e9[Rx88f43]"
 		}
 	},
 	"binhacks": {
@@ -123,6 +129,10 @@
 		"titlemsg_charname_2_instrflip": {
 			"addr": "Rx6e8d5",
 			"code": "894dd48b45e4"
+		},
+		"titlemsg_charname_trim_jmp": {
+			"addr": "Rx88f3e",
+			"code": "e9[codecave:titlemsg_charname_trim]"
 		}
 	},
 	"tsa_font_block": [
