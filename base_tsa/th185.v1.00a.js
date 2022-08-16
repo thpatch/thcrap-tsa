@@ -133,6 +133,12 @@
 		"titlemsg_charname_trim_jmp": {
 			"addr": "Rx88f3e",
 			"code": "e9[codecave:titlemsg_charname_trim]"
+		},
+		"th185_textbox_size_1": {
+			"addr": "Rx450ed"
+		},
+		"th185_textbox_size_2": {
+			"addr": "Rx45738"
 		}
 	},
 	"tsa_font_block": [

@@ -27,6 +27,12 @@
 		},
 		"spell_align": {
 			"code": "ff751856e8[GetTextExtentForFontID]83c008d1f0f30f2ac88b44240c8b5424108b4c98088bc1c1f8088b94822c0712030fb6c18b74240c8d0c408b82240100008b0cc88b451c8d1400f30f10449e38f30f10542414f30f2cc2<nop:42>"
+		},
+		"th185_textbox_size_1": {
+			"code": "6a0050e8[GetTextExtentForFontID]83e81c730231c0<nop:12>"
+		},
+		"th185_textbox_size_2": {
+			"code": "6a0050e8[GetTextExtentForFontID]83e81c730231c0<nop:15>"
 		}
 	},
 	"breakpoints": {
