@@ -71,6 +71,9 @@
 			"str": "[ebp-0x24]",
 			"cave_exec": false,
 			"cavesize": 5
+		},
+		"ruby_offset": {
+			"addr": [ "Rx44df2", "Rx45614" ]
 		}
 	},
 	"codecaves": {

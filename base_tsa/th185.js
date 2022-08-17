@@ -124,6 +124,11 @@
 			"ids": [ "edi", "[ebp-0x1c]" ],
 			"line": "esi - 2",
 			"cavesize": 6
+		},
+		"ruby_offset": {
+			"str": "esi",
+			"offset": "eax",
+			"cavesize": 6
 		}
 	}
 }
