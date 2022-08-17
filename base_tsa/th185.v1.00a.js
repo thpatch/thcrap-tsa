@@ -49,7 +49,7 @@
 			"addr": "Rx6e869",
 			"file": "titlemsg.js",
 			"ids": [ -1, 0 ],
-			"line": "[ebp-0x2c]",
+			"line": "*byte ptr ([ebp-0x14] + [ebp-0x2c] + esi + 0x2660D) ? [ebp-0x2c] : 0",
 			"str": "[ebp-0x28]",
 			"cave_exec": false,
 			"cavesize": 5
@@ -58,7 +58,7 @@
 			"addr": "Rx6e8d3",
 			"file": "titlemsg.js",
 			"ids": [ -1, 0 ],
-			"line": "[ebp-0x2c]",
+			"line": "*byte ptr ([ebp-0x14] + [ebp-0x2c] + esi + 0x2660D) ? [ebp-0x2c] : 0",
 			"str": "[ebp-0x2c]",
 			"cave_exec": false,
 			"cavesize": 5
@@ -67,7 +67,7 @@
 			"addr": "Rx6e940",
 			"file": "titlemsg.js",
 			"ids": [ -1, 0 ],
-			"line": "[ebp-0x1c]",
+			"line": "*byte ptr ([ebp-0x14] + [ebp-0x1c] + esi + 0x2660D) ? [ebp-0x1c] : 0",
 			"str": "[ebp-0x24]",
 			"cave_exec": false,
 			"cavesize": 5
