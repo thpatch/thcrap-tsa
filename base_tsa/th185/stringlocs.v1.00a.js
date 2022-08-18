@@ -28,6 +28,7 @@
 	"Rxbab58": "th185 all enemies",
 	"RxbaB50": "th185 titlemsg charname format",
 	"RxB8A90": "th185 equippable slot",
+	"RxB8AA0": "th185 uneqip",
 	"Rxb8a04": "th185_scorefile_fn",
 	"Rxb89f0": "th185_scorefile_backup_fn"
 }
