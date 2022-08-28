@@ -71,6 +71,7 @@
 		"91919e9bc48babdcb6c6eab2906d670a25634d9f8e6e4884f35dc4a61fb8bde3": ["th12", "v1.00b", "(original, Steam release, old version 6604501887647785241)"],
 		"988f5ea067b247cde91754cb62f66ffdf71b4d5b874da8000e579b928a71829b": ["th12", "v1.00b", "(original, Steam release, old version 7325231149869118532)"],
 		"eb275a8c285fd8450fa5ac79fa730a759aeca8b2904aeb16d30e65859372a459": ["th12", "v1.00b", "(original, Steam release)"],
+		"1a1402d5b3aee73d7d8b3579da45cb8e7596f3a677c6ce8640ec548e51670786": ["th12", "v1.00b", "(original, Steamless v3.1.0.0)"],
 
 		"4895ce367f6ab90c6593a94ca0ecfa2aabe7477f0a9b7dd2ee8860327069436c": ["th125", "v1.00a", "(original)"],
 		"a620057a756dd98efbdb813b1bc1350bc5acdf8d462fcd4be93f85eb6c22d9ee": ["th125", "v1.00a", "English patch (not recommended)"],
