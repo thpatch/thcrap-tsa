@@ -1,6 +1,5 @@
 {
-    // Crashes on my computer for some reason, we'll debug that later
-	// steam_appid: "1440500",
+	steam_appid: "1440500",
 	title: "東方剛欲異聞 ~ 水没した沈愁地獄",
 	url_trial: "http://www.tasofro.net/touhou175/index.html",
 	latest: "v1.14",
