@@ -39,7 +39,7 @@
 		},
 		"music_title_prepare": {
 			"addr": "0x46b7ae",
-			"code": "8b4ce4185131c05050505068ffffff0056ff35183c500090"
+			"code": "8b4c24185131c05050505068ffffff0056ff35183c500090"
 		}
 	},
 	"breakpoints": {

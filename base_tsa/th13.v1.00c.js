@@ -57,7 +57,7 @@
 		},
 		"spell_align": {
 			"addr": "0x46e9cb",
-			"code": "ff7510c1e90c83e10151ff750cff7508ff3510c34d00ffb574ffffffe8[GetTextExtentForFont]83c00850db04e4587906d805b0ea4a00dee9"
+			"code": "ff7510c1e90c83e10151ff750cff7508ff3510c34d00ffb574ffffffe8[GetTextExtentForFont]83c00850db0424587906d805b0ea4a00dee9"
 		},
 		"result_spell_align": {
 			"addr": "0x46eac3"

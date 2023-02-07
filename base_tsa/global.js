@@ -7,7 +7,7 @@
 			"title": "Restore the game's built-in logging"
 		},
 		"menu_desc_align": {
-			"code": "52 ff75ac ff75b0 e8[GetTextExtentForFontID] 8d440010 50 db04e4 58 59 89ca 90909090",
+			"code": "52 ff75ac ff75b0 e8[GetTextExtentForFontID] 8d440010 50 db0424 58 59 89ca 90909090",
 			"title": "Menu description alignment"
 		},
 		"result_spell_align": {
@@ -19,19 +19,19 @@
 			"title": "Prepare deferred spell name fetching"
 		},
 		"sprintf_call_esp+14": {
-			"code": "50e8[strings_vsprintf]8944e414",
+			"code": "50e8[strings_vsprintf]89442414",
 			"title": "Safe sprintf (esp+14)"
 		},
 		"sprintf_call_esp+18": {
-			"code": "50e8[strings_vsprintf]8944e418",
+			"code": "50e8[strings_vsprintf]89442418",
 			"title": "Safe sprintf (esp+18)"
 		},
 		"sprintf_call_esp+1c": {
-			"code": "50e8[strings_vsprintf]8944e41c",
+			"code": "50e8[strings_vsprintf]8944241c",
 			"title": "Safe sprintf (esp+1c)"
 		},
 		"sprintf_call_esp+34": {
-			"code": "50e8[strings_vsprintf]8944e434",
+			"code": "50e8[strings_vsprintf]89442434",
 			"title": "Safe sprintf (esp+34)"
 		},
 		"sprintf_call_esp+38": {
@@ -39,7 +39,7 @@
 			"title": "Safe sprintf (esp+34)"
 		},
 		"sprintf_call_esp+3c": {
-			"code": "50e8[strings_vsprintf]8944e43c",
+			"code": "50e8[strings_vsprintf]8944243c",
 			"title": "Safe sprintf (esp+3c)"
 		},
 		"sprintf_call_ebp-50": {

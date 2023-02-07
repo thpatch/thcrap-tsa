@@ -6,11 +6,11 @@
 			"title": "Safe sprintf (call #1)"
 		},
 		"fw_textbox_size": {
-			"code": "909056e8[GetTextExtent]50db04e4589090909090909090909090",
+			"code": "909056e8[GetTextExtent]50db0424589090909090909090909090",
 			"title": "Correct text length calculation for Fairy Wars-style text boxes"
 		},
 		"spell_align": {
-			"code": "ff7510c1e90c83e10151ff750cff7508ff3510c34d00ffb574ffffffe8[GetTextExtentForFont]83c00850db04e458",
+			"code": "ff7510c1e90c83e10151ff750cff7508ff3510c34d00ffb574ffffffe8[GetTextExtentForFont]83c00850db042458",
 			"title": "Spell card alignment"
 		},
 		"unpatch_fonts": {

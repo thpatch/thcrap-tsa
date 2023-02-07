@@ -14,7 +14,7 @@
 			"title": "Remove spell \"alignment\" in the result screen"
 		},
 		"music_title_prepare": {
-			"code": "8b4ce4185131c05050505068ffffff0056ff3554d74f0090",
+			"code": "8b4c24185131c05050505068ffffff0056ff3554d74f0090",
 			"title": "Prepare music room title fetching"
 		}
 	},

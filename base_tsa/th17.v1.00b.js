@@ -62,7 +62,7 @@
 			"addr": "Rx75381"
 		},
 		"music_title_prepare": {
-			"code": "8b542418 52 31c0 50 50 50 a1 209a50000",
+			"code": "8b542418 52 31c0 50 50 50 a1 209a5000",
 			"addr": "Rx5a71f"
 		},
 		"th17_textbox_size": {
