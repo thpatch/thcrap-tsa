@@ -37,7 +37,7 @@
 		},
 		"spell_align": {
 			"addr": "Rx78daa",
-			"code": "8b451c8d1c008b461cc1e80b83e0018944e414 ff7518ff74e42ce8[GetTextExtentForFontID]83c008d1e08b562c90909090909090909090f30f104a38"
+			"code": "8b451c8d1c008b461cc1e80b83e00189442414 ff7518ff74242ce8[GetTextExtentForFontID]83c008d1e08b562c90909090909090909090f30f104a38"
 		},
 		"result_spell_align": {
 			"addr": "Rx78f1e"

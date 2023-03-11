@@ -29,18 +29,18 @@
 			"title": "Fix buffer overflows (replace ECX)"
 		},
 		"right_align": {
-			"code": "52 ff75b0 e8[GetTextExtentForFontID] 83c002 50 db04e4 58 90909090909090",
+			"code": "52 ff75b0 e8[GetTextExtentForFontID] 83c002 50 db0424 58 90909090909090",
 			"title": "Correct right-alignment"
 		},
 		"spell_draw_leftaligned": {
 			"title": "Draw boss spell cards left-aligned rather than right-aligned, since we right-align the position of the reduced sprite instead"
 		},
 		"spell_width": {
-			"code": "8b450c 6a0f 50 e8[GetTextExtentForFontID] 83c004 50 3edb04e4 58 8b4df4 8b89c0000000 d94118 d8d1 dfe0 f6c401 7402 d9c9 ddd8 d9510c d95130 d9c0 d94118 def9 d95924 909090909090",
+			"code": "8b450c 6a0f 50 e8[GetTextExtentForFontID] 83c004 50 3edb0424 58 8b4df4 8b89c0000000 d94118 d8d1 dfe0 f6c401 7402 d9c9 ddd8 d9510c d95130 d9c0 d94118 def9 d95924 909090909090",
 			"title": "Calculate the correct width of the player and boss spell card background boxes"
 		},
 		"center_align": {
-			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] 83c002 d1f8 50 db04e4 58 eb17 9090",
+			"code": "ff75ac ff7518 e8[GetTextExtentForFontID] 83c002 d1f8 50 db0424 58 eb17 9090",
 			"title": "Correct center-alignment"
 		},
 		"bomb_pos": {

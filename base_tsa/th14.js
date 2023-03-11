@@ -14,14 +14,14 @@
 			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"
 		},
 		"spell_align": {
-			"code": "8b451c8d1c008b461cc1e80b83e0018944e414 ff7518ff74e42ce8[GetTextExtentForFontID]83c008d1e08b562c90909090909090909090",
+			"code": "8b451c8d1c008b461cc1e80b83e00189442414 ff7518ff74242ce8[GetTextExtentForFontID]83c008d1e08b562c90909090909090909090",
 			"title": "Spell card alignment"
 		},
 		"result_spell_align": {
 			"code": "31d2"
 		},
 		"music_title_prepare": {
-			"code": "8b4ce41c5131c05050505068ffffff0056ff35cc564f0090",
+			"code": "8b4c241c5131c05050505068ffffff0056ff35cc564f0090",
 			"title": "Prepare music room title fetching"
 		}
 	},
