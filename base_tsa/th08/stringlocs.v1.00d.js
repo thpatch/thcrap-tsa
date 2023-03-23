@@ -83,6 +83,7 @@
 	"Rxb4fb4": "th07 Full Power",
 	"Rxb4f30": "th07 Spell Card Bonus",
 	"Rxb4f48": "th08 Last Spell Failed",
+	"Rxb4f5c": "th08 Spell Bonus Failed",
 	"Rxb795c": "th08 Spell Result Character Select",
 	"Rxb7a9c": "th08 Stats Time Since Startup",
 	"Rxb7a80": "th08 Stats Total Playtime",
