@@ -1,0 +1,44 @@
+{
+    "/Functions/6/Literals/3": "Story Select Choose option",
+    "/Functions/6/Literals/4": "Story Select Ok",
+    "/Functions/6/Literals/5": "Story Select Back",
+    "/Functions/6/Literals/6": "Story Select See records",
+    "/Functions/7/Literals/4": "Story Select Choose Option 2",
+    "/Functions/7/Literals/5": "Story Select Ok 2",
+    "/Functions/7/Literals/6": "Story Select Cancel",
+    "/Functions/7/Literals/32": "Story Select Tutorial",
+    "/Functions/7/Literals/33": "Story Select Stage 1",
+    "/Functions/7/Literals/34": "Story Select Stage 2",
+    "/Functions/7/Literals/35": "Story Select Stage 3",
+    "/Functions/7/Literals/36": "Story Select Stage 4",
+    "/Functions/7/Literals/37": "Story Select Stage 5",
+    "/Functions/7/Literals/38": "Story Select Stage 6",
+    "/Functions/7/Literals/39": "Story Select Stage 7",
+    "/Functions/7/Literals/40": "Story Select Stage 8", // TODO add to wiki
+    "/Functions/7/Literals/41": "Story Select A Long Day of Duels",
+    "/Functions/7/Literals/42": "Story Select Epilogue",
+    "/Functions/7/Literals/45": "Story Select Greedy Trial", // TODO remove color code on wiki
+    "/Functions/8/Literals/4": "Story Select Switch page",
+    "/Functions/8/Literals/5": "Story Select Back 2",
+    "/Functions/8/Literals/44": "Story Select Hign score", // TODO remove space on wiki
+    "/Functions/8/Literals/53": "Story Select Time to clear", // TODO remove space on wiki
+    "/Functions/8/Literals/60": "Story Select Attempts",
+    "/Functions/8/Literals/62": "Story Select Surrenders",
+    "/Functions/8/Literals/64": "Story Select Clears",
+    "/Functions/8/Literals/66": "Story Select Perfect clears",
+    /* TODO
+    "/Functions/8/Literals/71": "剛欲な挑戦",
+    "/Functions/8/Literals/74": "撃破数",
+    "/Functions/8/Literals/75": "挑戦レベル",
+    "/Functions/8/Literals/76": "スペルブレイク",
+    "/Functions/8/Literals/78": "水の量",
+    "/Functions/8/Literals/80": "吸収した水の量",
+    "/Functions/8/Literals/81": "被害状況",
+    "/Functions/8/Literals/82": "最大コンボ",
+    "/Functions/8/Literals/83": "合計時間",
+    "/Functions/8/Literals/85": "アイテム",
+    "/Functions/8/Literals/86": "トータルスコア",
+    "/Functions/8/Literals/90": "回",
+    "/Functions/8/Literals/99": "個",
+    */
+}

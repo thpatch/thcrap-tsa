@@ -1,0 +1,82 @@
+{
+	"flandre1": {
+		"name": "th175_22"
+	},
+	"jyoon1": {
+		"name": "th175_18",
+		"disp_name": "th175_18"
+	},
+	"kanako1": {
+		"name": "th175_17"
+	},
+	"kogasa1": {
+		"name": "th175_15"
+	},
+	"marisa1": {
+		"name": "th175_13"
+	},
+	"murasa1": {
+		"name": "th175_16"
+	},
+	"niwatari1": {
+		"name": "th175_21"
+	},
+	"okina1": {
+		"name": "th16_15"
+	},
+	"op": {
+		"name": "th175_01"
+	},
+	"reimu1": {
+		"name": "th175_12"
+	},
+	"staff_roll": {
+		"name": "th175_02"
+	},
+	"talk_door": {
+		"name": "th16_14"
+	},
+	"talk_ed": {
+		"name": "th175_03"
+	},
+	"talk_forest": {
+		"name": "th175_04"
+	},
+	"talk_Inferno": {
+		"name": "th175_07"
+	},
+	"talk_oil": {
+		"name": "th175_09"
+	},
+	"talk_reactor": {
+		"name": "th175_08"
+	},
+	"talk_scarlet": {
+		"name": "th175_11"
+	},
+	"talk_town": {
+		"name": "th175_06"
+	},
+	"talk_underground": {
+		"name": "th175_05"
+	},
+	"talk_waterhell": {
+		"name": "th175_10" // Note: the 5th kanji in the wiki is wrong, it should be 不朽の曼殊沙華 instead of 不朽の曼珠沙華
+	},
+	"toutetu1": {
+		"name": "th175_23"
+	},
+	"toutetu2": {
+		"name": "th175_24",
+		"disp_name": "th175_24"
+	},
+	"utuho1": {
+		"name": "th175_20"
+	},
+	"yamame1": {
+		"name": "th175_14"
+	},
+	"yuugi1": {
+		"name": "th175_19"
+	},
+}

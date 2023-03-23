@@ -30,7 +30,7 @@
 		},
 		"music_title_prepare": {
 			"addr": "Rx66ac1",
-			"code": "8b4ce41c5131c05050505068ffffff0056ff35e88d530090"
+			"code": "8b4c241c5131c05050505068ffffff0056ff35e88d530090"
 		},
 		"spell_id_fetch": {
 			"addr": "Rx1dbef",
@@ -41,11 +41,11 @@
 		},
 		"spell_align": {
 			"addr": "Rx82d52",
-			"code": "8b451c01c08944e40c8b461cc1e80b83e0018944e414 53 ff74e42ce8[GetTextExtentForFontID] 83c008d1e08b562cf30f104a38909090909090909090"
+			"code": "8b451c01c08944240c8b461cc1e80b83e00189442414 53 ff74242ce8[GetTextExtentForFontID] 83c008d1e08b562cf30f104a38909090909090909090"
 		},
 		"center_align": {
 			"addr": "Rx82e82",
-			"code": "ff7518ff74e42c e8[GetTextExtentForFontID]  83c003c1e00289c1 8b451c8b5e2c 90909090"
+			"code": "ff7518ff74242c e8[GetTextExtentForFontID]  83c003c1e00289c1 8b451c8b5e2c 90909090"
 		},
 		"titlemsg_box_size_1": {
 			"addr": "Rx5f1ae"

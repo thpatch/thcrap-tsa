@@ -16,7 +16,7 @@
 			"title": "Score counter bugfix (multiplications)"
 		},
 		"spell_align": {
-			"code": "8b968004000051d1ea83e20152ffb4e4a8000000ffb4e4a8000000ff3554e54c0053e8[GetTextExtentForFont]83c00450db04e45885c090",
+			"code": "8b968004000051d1ea83e20152ffb424a8000000ffb424a8000000ff3554e54c0053e8[GetTextExtentForFont]83c00450db04245885c090",
 			"title": "Spell card alignment"
 		}
 	},

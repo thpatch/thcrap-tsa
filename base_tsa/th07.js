@@ -13,7 +13,7 @@
 			"code": "e8[strings_sprintf] 83c4 0c 33d2 42 8945 b0 89c1 e8 e168fdff 8945 f0 85c0 9090 74 c3"
 		},
 		"boss_title_align": {
-			"code": "ff75ac ff75b0 e8[GetTextExtentForFontID] 83c004 50 db04e4 58 9090909090",
+			"code": "ff75ac ff75b0 e8[GetTextExtentForFontID] 83c004 50 db0424 58 9090909090",
 			"title": "Boss title alignment"
 		},
 		"spell_loop": {

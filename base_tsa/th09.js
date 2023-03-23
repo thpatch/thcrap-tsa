@@ -1,4 +1,5 @@
 {
+	"steam_appid": "1420810",
 	"binhacks": {
 		"zun_strcat_stringlocs": {
 			"addr": "Rx2adb1",
