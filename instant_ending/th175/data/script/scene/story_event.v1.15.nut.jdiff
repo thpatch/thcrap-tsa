@@ -1,6 +1,6 @@
 {
     // Always mark the ennemy as dead, triggering the win script
-    "/Functions/4/Instructions/231": "jmp(s3, 8)", // TODO
+    "/Functions/4/Instructions/231": "jmp(s3, 8)",
 
     // Run the ending script when the stage is won
     "/Functions/2/Literals/46": "ending/reimu",
