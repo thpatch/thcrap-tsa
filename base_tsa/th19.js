@@ -17,5 +17,13 @@
 		"file_loaded": {
 			"cavesize": 5
 		}
+	},
+	"binhacks": {
+		"sprintf_th19_l": {
+			"code": "ff752450f30f11442420e8[strings_vsprintf]89442434"
+		},
+		"sprintf_th19_rc": {
+			"code": "ff752050f30f11442420e8[strings_vsprintf]89442434"
+		},
 	}
 }
