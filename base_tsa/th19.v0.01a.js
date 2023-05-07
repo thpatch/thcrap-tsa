@@ -8,6 +8,12 @@
 		},
 		"file_loaded": {
 			"addr": "Rx733db"
+		},
+		"music_title": {
+			"addr": "Rx7056f"
+		},
+		"music_cmt": {
+			"addr": [ "Rx70755", "Rx70879" ]
 		}
 	},
 	"tsa_font_block": [

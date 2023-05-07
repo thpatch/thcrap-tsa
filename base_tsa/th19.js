@@ -16,7 +16,21 @@
 		},
 		"file_loaded": {
 			"cavesize": 5
-		}
+		},
+		"music_title": {
+			"track": "[ebp-0x24]",
+			"str": "eax",
+			"format_id": "Music Room Numbered Title",
+			"cavesize": 7,
+			"cave_exec": false
+		},
+		"music_cmt": {
+			"str": "edx",
+			"line_num": "[eax+0xA40]",
+			"track": "[eax+0xA44]",
+			"format_id": "Music Room Note Title",
+			"cavesize": 5
+		},
 	},
 	"binhacks": {
 		"sprintf_th19_l": {
