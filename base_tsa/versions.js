@@ -208,7 +208,11 @@
 		"f79cee7b63e11a6942f24379228b0795df9e3748331f14d7abe0e1e6df399e4c": ["th18_custom", "v0.01a", "(original)"],
 		"6b287f8826bf703ac82bf97ac65f7343d32dfffacc875a20fd84a1a0bae7a8c1": ["th18_custom", "v1.00a", "(original)"],
 		
-		"afa0747120a4b7ea97478d04a61908236cc82fe3b377248088df71e29673d83c": ["th185_custom", "v1.00a", "(original)"]
+		"afa0747120a4b7ea97478d04a61908236cc82fe3b377248088df71e29673d83c": ["th185_custom", "v1.00a", "(original)"],
+		
+		"5e378a0a1774f437de83224b71b0d899cd80ddcf7ad973400b219b87e5b45232": ["th19", "v0.01a", "(original)"],
+		"3693504794c49e5282005602f0dff1a8addfb4c325293ff3f784b96bb9b42a09": ["th19_custom", "v0.01a", "(original)"],
+		
 	},
 	"sizes": {
 		"409600": ["th06", "v0.08", "(original)"],
@@ -300,6 +304,7 @@
 		
 		"1053440": ["th185", "v1.00a", "(original, unpacked Steam release)"],
 		"883200": ["th185", "v1.00a", "(original, Steam release)"],
+		"867840": ["th19", "v0.01a", "(original)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
@@ -317,7 +322,7 @@
 		"125952": ["th165_custom", "v1.00a", "(original)"],
 		"129536": ["th17_custom", "v1.00a", "(original)"],
 		"132096": ["th18_custom", "v0.01a", "(original)"],
-		"128512": ["th185_custom", "v1.00a", "(original)"]
-		
+		"128512": ["th185_custom", "v1.00a", "(original)"],
+		"137216": ["th19_custom", "v0.01a", "(original)"]		
 	}
 }
