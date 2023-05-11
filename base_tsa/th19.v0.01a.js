@@ -14,6 +14,31 @@
 		},
 		"music_cmt": {
 			"addr": [ "Rx70755", "Rx70879" ]
+		},
+		"spell_id": {
+			"separator": "+",
+			"spell_id": [
+				{   // Character ID
+					"type": "u32",
+					"param": "[0x4d2814 - (((ecx - 0x4d49c0) / 0x3c) * 0x98)]",
+				},
+				{   // Subroutine name
+					"type": "s",
+					"param": "[[[[[[[edi+0x55C8]+0xC]+0x1018]+0x1218]+0x20c]+[[[edi+0x55C8]+0xC]+0x4]*8]]",
+				},
+				{   // Difficulty
+					"type": "u32",
+					"param": "[RxCB6BC]",
+					"count_down": true
+				},
+			],
+			"addr": "Rx27589",
+			"cavesize": 6
+		},
+		"spell_name": {
+			"spell_name": "[ebp+0xC]",
+			"addr": "Rx1ffc1",
+			"cavesize": 5
 		}
 	},
 	"tsa_font_block": [
