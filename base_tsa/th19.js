@@ -21,8 +21,7 @@
 			"track": "[ebp-0x24]",
 			"str": "eax",
 			"format_id": "Music Room Numbered Title",
-			"cavesize": 7,
-			"cave_exec": false
+			"cavesize": 5,
 		},
 		"music_cmt": {
 			"str": "edx",

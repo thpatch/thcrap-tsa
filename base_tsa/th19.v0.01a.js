@@ -10,7 +10,7 @@
 			"addr": "Rx733db"
 		},
 		"music_title": {
-			"addr": "Rx7056f"
+			"addr": "Rx70576"
 		},
 		"music_cmt": {
 			"addr": [ "Rx70755", "Rx70879" ]
