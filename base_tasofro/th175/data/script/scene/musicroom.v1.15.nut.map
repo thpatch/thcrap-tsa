@@ -17,7 +17,7 @@
     "/Functions/2/Literals/108": "MusicRoom AUTO",
     "/Functions/4/Literals/12": "MusicRoom 選択",
     "/Functions/4/Literals/13": "MusicRoom 再生",
-    "/Functions/2/Literals/14": "MusicRoom 停止",
-    "/Functions/2/Literals/15": "MusicRoom 連続再生",
-    "/Functions/2/Literals/16": "MusicRoom 終了",
+    "/Functions/4/Literals/14": "MusicRoom 停止",
+    "/Functions/4/Literals/15": "MusicRoom 連続再生",
+    "/Functions/4/Literals/16": "MusicRoom 終了",
 }
