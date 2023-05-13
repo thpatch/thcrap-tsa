@@ -3,6 +3,7 @@
 	"latest": [
 		"v0.01a"
 	],
+	"steam_appid": "2400340",
 	"breakpoints": {
 		"file_size": {
 			"file_size": "eax",
