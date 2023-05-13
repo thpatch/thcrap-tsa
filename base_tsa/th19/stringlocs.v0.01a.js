@@ -9,7 +9,7 @@
 
 	//"Rxbbb58": "th19 nothing",
 
-	"Rxbd590": "Music Room Unknown Title",
+	"Rxbd590": "th143 Trophy Unknown",
 	"Rxbd44c": "th10 Music Room spoiler 1",
 	"Rxbd488": "th10 Music Room spoiler 2",
 	"Rxbd4c0": "th10 Music Room spoiler 3",
