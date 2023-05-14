@@ -31,6 +31,11 @@
 			"format_id": "Music Room Note Title",
 			"cavesize": 5
 		},
+		"ruby_offset": {
+			"str": "esi",
+			"offset": "eax",
+			"cavesize": 6
+		},
 	},
 	"binhacks": {
 		"sprintf_th19_l": {

@@ -39,7 +39,10 @@
 			"spell_name": "[ebp+0xC]",
 			"addr": "Rx1ffc1",
 			"cavesize": 5
-		}
+		},
+		"ruby_offset": {
+			"addr": [ "Rx37992", "Rx37C9B" ]
+		},
 	},
 	"tsa_font_block": [
 		"Rx131448",
