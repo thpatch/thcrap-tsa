@@ -93,6 +93,12 @@
 				"Rx8cB47",
 				"Rx8cb59"
 			]
-		}
+		},
+		"textbox_size_1": {
+			"addr": "Rx37a80"
+		},
+		"textbox_size_2": {
+			"addr": "Rx37db0"
+		},
 	}
 }

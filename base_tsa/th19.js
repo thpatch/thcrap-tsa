@@ -44,5 +44,11 @@
 		"sprintf_th19_rc": {
 			"code": "ff752050f30f11442420e8[strings_vsprintf]89442434"
 		},
+		"textbox_size_1": {
+			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c08b9fb4010000<nop:7>"
+		},
+		"textbox_size_2": {
+			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c0<nop:7>"
+		},
 	}
 }
