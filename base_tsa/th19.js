@@ -36,6 +36,14 @@
 			"offset": "eax",
 			"cavesize": 6
 		},
+		"gentext#ability_select": {
+			"file": "abilities.js",
+			"ids": [ "ecx", 0 ],
+			"line": 0,
+			"str": "eax",
+			"cavesize": 14,
+			"cave_exec": false
+		},
 	},
 	"binhacks": {
 		"sprintf_th19_l": {

@@ -44,6 +44,9 @@
 		"ruby_offset": {
 			"addr": [ "Rx37992", "Rx37C9B" ]
 		},
+		"gentext#ability_select": {
+			"addr": "Rxf8d4"
+		},
 	},
 	"tsa_font_block": [
 		"Rx131448",
