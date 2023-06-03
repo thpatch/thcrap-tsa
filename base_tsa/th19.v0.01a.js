@@ -2,18 +2,25 @@
 	"steam_appid": "2400360",
 	"breakpoints": {
 		"file_size": {
-			"addr": "Rx1a6c"
+			"addr": "Rx1a6c",
+			"file_name": "ebx",
 		},
 		"file_load": {
-			"addr": "Rx1aa4"
+			"addr": "Rx1aa4",
+			"file_buffer": "edi",
 		},
 		"file_loaded": {
 			"addr": "Rx733db"
 		},
 		"music_title": {
-			"addr": "Rx70576"
+			"addr": "Rx70576",
+			"track": "[ebp-0x24]",
+			"str": "eax",
 		},
 		"music_cmt": {
+			"str": "edx",
+			"line_num": "[eax+0xA40]",
+			"track": "[eax+0xA44]",
 			"addr": [ "Rx70755", "Rx70879" ]
 		},
 		"spell_id": {
@@ -21,7 +28,7 @@
 			"spell_id": [
 				{   // Character ID
 					"type": "u32",
-					"param": "[0x4d2814 - (((ecx - 0x4d49c0) / 0x3c) * 0x98)]",
+					"param": "[Rxd2814 - (((ecx - Rxd49c0) / 0x3c) * 0x98)]",
 				},
 				{   // Subroutine name
 					"type": "s",
@@ -34,18 +41,22 @@
 				},
 			],
 			"addr": "Rx27589",
-			"cavesize": 6
+			"cavesize": 6,
 		},
 		"spell_name": {
-			"spell_name": "[ebp+0xC]",
 			"addr": "Rx1ffc1",
-			"cavesize": 5
 		},
 		"ruby_offset": {
 			"addr": [ "Rx37992", "Rx37C9B" ]
 		},
+		"gentext#ability_unlock_name": {
+			"addr": [ "Rxf32b", "Rxf352" ]
+		},
 		"gentext#ability_select": {
 			"addr": "Rxf8d4"
+		},
+		"gentext#ability_unlock_desc": {
+			"addr": "Rxf610"
 		},
 	},
 	"tsa_font_block": [
@@ -78,10 +89,12 @@
 			"code": "5356e8[GetTextExtentForFontID]8b4c2410f30f10414c83c008d1e0f30f2ac8f30f5cc18b4424108b54240c8b48088bc1c1f8088b9482800720030fb6c18d0c408b82240100008b14c88b451c03c08944240c<nop:54>"
 		},
 		"sprintf_th19_l": {
-			"addr": "Rx8c7a7"
+			"addr": "Rx8c7a7",
+			"code": "ff752450f30f11442420e8[strings_vsprintf]89442434",
 		},
 		"sprintf_th19_rc": {
-			"addr": [ "Rx8ca47", "Rx8c8c7" ]
+			"addr": [ "Rx8ca47", "Rx8c8c7" ],
+			"code": "ff752050f30f11442420e8[strings_vsprintf]89442434",
 		},
 		"sprintf_rep": {
 			"addr": [
@@ -98,10 +111,12 @@
 			]
 		},
 		"textbox_size_1": {
-			"addr": "Rx37a80"
+			"addr": "Rx37a80",
+			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c08b9fb4010000<nop:7>",
 		},
 		"textbox_size_2": {
-			"addr": "Rx37db0"
+			"addr": "Rx37db0",
+			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c0<nop:7>",
 		},
 	}
 }
