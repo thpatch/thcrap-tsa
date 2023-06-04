@@ -49,15 +49,15 @@
 		"ruby_offset": {
 			"addr": [ "Rx37992", "Rx37C9B" ]
 		},
-		"gentext#ability_unlock_name": {
-			"addr": [ "Rxf32b", "Rxf352" ]
+		"gentext#ability_select_desc": {
+			"addr": "RxF8D4",	
 		},
-		"gentext#ability_select": {
-			"addr": "Rxf8d4"
+		"gentext#ability_name": {
+			"addr": [ "RxF32B", "RxF352" ],
 		},
-		"gentext#ability_unlock_desc": {
-			"addr": "Rxf610"
-		},
+		"gentext#ability_desc": {
+			"addr": "RxF427",
+		}
 	},
 	"tsa_font_block": [
 		"Rx131448",

@@ -33,27 +33,26 @@
 			"offset": "eax",
 			"cavesize": 6
 		},
-		"gentext#ability_unlock_name": {
+		"gentext#ability_select_desc": {
 			"file": "abilities.js",
-			"ids": "[ebp+0xC]",
-			"str": "edi",
-			"cavesize": 5
-		},
-		"gentext#ability_select": {
-			"file": "abilities.js",
-			"ids": [ "ecx", 0 ],
+			"ids": [ "[ebp+0x10]", 0 ],
 			"line": 0,
 			"str": "eax",
 			"cavesize": 14,
-			"cave_exec": false
+			"cave_exec": false,
 		},
-		"gentext#ability_unlock_desc": {
+		"gentext#ability_name": {
 			"file": "abilities.js",
-			"ids": [ "eax", 0 ],
-			"line": 1,
-			"str": "eax",
-			"cavesize": 11,
-			"cave_exec": false
+			"ids": "[ebp+0xC]",
+			"str": "edi",
+			"cavesize": 5,
+		},
+		"gentext#ability_desc": {
+			"file": "abilities.js",
+			"ids": [ "[ebp+0xC]", 0 ],
+			"line": "6 - [ebp-0x18] + 1",
+			"str": "[esp+0x4]",
+			"cavesize": 6,
 		},
 	},
 }
