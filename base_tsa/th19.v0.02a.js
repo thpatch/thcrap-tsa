@@ -15,7 +15,7 @@
 		},
 		"music_title": {
 			"addr": "Rx1927c2",
-			"track": "[esp+0xC]",
+			"track": "[ebp-0x2c]",
 			"str": "[esp+0x4]",
 		},
 		"music_cmt": {
