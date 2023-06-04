@@ -1,0 +1,82 @@
+{
+	"play_story": {
+		"name": "0",
+		"hint": "0_0"
+	},
+	"clear_reimu": {
+		"name": "1",
+		"hint": "1_0"
+	},
+	"clear_marisa": {
+		"name": "2",
+		"hint": "2_0"
+	},
+	"clear_kanako": {
+		"name": "3",
+		"hint": "3_0"
+	},
+	"clear_murasa": {
+		"name": "4",
+		"hint": "4_0"
+	},
+	"clear_jyoon": {
+		"name": "5",
+		"hint": "5_0"
+	},
+	"clear_flandre": {
+		"name": "6",
+		"hint": "6_0"
+	},
+	"clear_trueflandre": {
+		"name": "7",
+		"hint": "7_0"
+	},
+	"clear_toutetu": {
+		"name": "8",
+		"hint": "8_0"
+	},
+	"gouyoku_play": {
+		"name": "9",
+		"hint": "9_0"
+	},
+	"gouyoku_clear": {
+		"name": "10",
+		"hint": "10_0"
+	},
+	"gouyoku_nodamageclear": {
+		"name": "11",
+		"hint": "11_0"
+	},
+	"gouyoku_noitem": {
+		"name": "12",
+		"hint": "12_0"
+	},
+	"gain_water": {
+		"name": "13",
+		"hint": "13_0"
+	},
+	"chain_combo": {
+		"name": "14",
+		"hint": "14_0"
+	},
+	"no_continue": {
+		"name": "15",
+		"hint": "15_0"
+	},
+	"no_damage": {
+		"name": "16",
+		"hint": "16_0"
+	},
+	"spell_breaker": {
+		"name": "17",
+		"hint": "17_0"
+	},
+	"full_item": {
+		"name": "18",
+		"hint": "18_0"
+	},
+	"many_item": {
+		"name": "19",
+		"hint": "19_0"
+	}
+}
