@@ -44,13 +44,10 @@
 		"gentext#ability_name": {
 			"file": "abilities.js",
 			"ids": "[ebp+0xC]",
-			"str": "edi",
-			"cavesize": 5,
 		},
 		"gentext#ability_desc": {
 			"file": "abilities.js",
 			"ids": [ "[ebp+0xC]", 0 ],
-			"line": "6 - [ebp-0x18] + 1",
 			"str": "[esp+0x4]",
 			"cavesize": 6,
 		},

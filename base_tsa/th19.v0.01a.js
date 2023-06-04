@@ -53,9 +53,12 @@
 			"addr": "RxF8D4",	
 		},
 		"gentext#ability_name": {
+			"str": "edi",
 			"addr": [ "RxF32B", "RxF352" ],
+			"cavesize": 5,
 		},
 		"gentext#ability_desc": {
+			"line": "6 - [ebp-0x18] + 1",
 			"addr": "RxF427",
 		}
 	},

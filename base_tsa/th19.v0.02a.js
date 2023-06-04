@@ -49,6 +49,18 @@
 		},
 		"ruby_offset": {
 			"addr": [ "Rx15A2F2", "Rx15A6AB" ]
+		},
+		"gentext#ability_select_desc": {
+			"addr": "Rx132964",	
+		},
+		"gentext#ability_name": {
+			"str": "[esp+0x4]",
+			"cavesize": 6,
+			"addr": [ "Rx132E9D", "Rx132F5D" ],
+		},
+		"gentext#ability_desc": {
+			"line": "6 - [ebp-0x10] + 1",
+			"addr": "Rx1330E5",
 		}
 	},
 	"tsa_font_block": [
