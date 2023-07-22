@@ -16,6 +16,9 @@ Keep Alice's "bitch" line in TH08.
 ## [cheat](cheat/README.md)
 Various cheats, ported from third-party SpoilerAL .ssg files.
 
+## eastern_name_order_hepburn
+Keep the japanese characters' names in eastern name order(last name first), but put them in the hepburn spelling.
+
 ## instant_ending
 Show the ending immediately upon entering Stage 1.
 It doesn't support TH07 and TH08 yet.
