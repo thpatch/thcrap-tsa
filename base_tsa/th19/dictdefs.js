@@ -8,6 +8,8 @@
   "ルームに参加しました。": "th19_net_room_joined",
   "対戦相手を待っています。": "th19_net_waiting_for_opponent",
   
+  "接続失敗しました。": "th19_net_connection_failed",
+  
   "失敗しました": "th19_net_failed",
   "時間をおいてもう一度試してください。": "th19_net_try_again",
   
