@@ -8,6 +8,11 @@
 		},
 		"file_loaded": {
 			"addr": "Rx146BD1"
+		},
+		"dict_translate": {
+			"addr": "Rx149D28",
+			"cavesize": 6,
+			"str": "[esp+0x4]",
 		}
 	},
 	"init_stages": [

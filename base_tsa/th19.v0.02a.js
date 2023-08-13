@@ -63,7 +63,6 @@
 			"addr": "Rx19D8A4",
 			"cavesize": 6,
 			"str": "[esp+0x4]",
-			"dump": true,
 		}
 	},
 	"tsa_font_block": [
