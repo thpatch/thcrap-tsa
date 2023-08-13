@@ -22,7 +22,7 @@
 		},
 		"sprintf_th19_r": {
 			"addr": "RxBFA82",
-			"code": "ff7520f30f1185e0faffffff7504e8[strings_vsprintf]8985fcfaffff90909090908b4f2083c40c"
+			"code": "FF 75 20 FF 75 04 F3 0F 11 85 E8 FA FF FF E8 [strings_vsprintf] 89 85 FC FA FF FF 90 90 90 90 90 8B 4E 20 83 C4 0C"
 		},
 		"sprintf_th19_c": {
 			"addr": "RxBF8E2",
