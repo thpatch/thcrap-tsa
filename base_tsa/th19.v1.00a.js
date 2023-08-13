@@ -15,6 +15,34 @@
 			"str": "[esp+0x4]",
 		}
 	},
+	"binhacks": {
+		"sprintf_th19_l": {
+			"addr": "RxBFC12",
+			"code": "ff7524f30f118560ffffffff7504e8[strings_vsprintf]898578ffffff90909090908b4e2083c40c",
+		},
+		"sprintf_th19_r": {
+			"addr": "RxBFA82",
+			"code": "ff7520f30f1185e0faffffff7504e8[strings_vsprintf]8985fcfaffff90909090908b4f2083c40c"
+		},
+		"sprintf_th19_c": {
+			"addr": "RxBF8E2",
+			"code": "ff7520f30f1185e0faffffff7504e8[strings_vsprintf]8985f4faffff90909090908b4e2083c40c"
+		},
+		"sprintf_rep": {
+			"addr": [
+				"RxBFCC3",
+				"RxBFCD4",
+				
+				"RxBF944",
+				"RxBFA00",
+				"RxBFA11",
+				
+				"RxBFAE4",
+				"RxBFB90",
+				"RxBFBA1",
+			]
+		},
+	},
 	"tsa_font_block": [
 		"Rx2078EC",
 		"Rx2090E0",
