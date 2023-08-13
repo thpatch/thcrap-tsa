@@ -28,6 +28,14 @@
 			"addr": "RxBF8E2",
 			"code": "ff7520f30f1185e0faffffff7504e8[strings_vsprintf]8985f4faffff90909090908b4e2083c40c"
 		},
+		"spell_align": {
+			"addr": "RxBFAEA",
+			"code": "5351e8[GetTextExtentForFontID]83c008d1e0f30f1095e8faffff660f6ec80f5bc9f30f10474c8b85e4faffff8b40088bd0c1fa08<nop:35>"
+		},
+		"center_align": {
+			"addr": "RxBF94A",
+			"code": "5351e8[GetTextExtentForFontID]660f6ec80f5bc9f30f10574cf30f59154446a6008b85dcfaffff8b40088bd0c1fa08<nop:56>"
+		},
 		"sprintf_rep": {
 			"addr": [
 				"RxBFCC3",
