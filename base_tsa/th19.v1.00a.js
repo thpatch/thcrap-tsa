@@ -15,6 +15,22 @@
 			"str": "[esp+0x4]",
 		}
 	},
+	"tsa_font_block": [
+		"Rx2078EC",
+		"Rx2090E0",
+		"Rx2090E4",
+		"Rx2090E8",
+		"Rx2090EC",
+		"Rx2090F0",
+		"Rx2090F4",
+		"Rx2090F8",
+		"Rx2078CC",
+		"Rx20084C",
+		"Rx2090FC",
+		"Rx209100",
+		"Rx209104",
+		"Rx209108",
+	],
 	"init_stages": [
 		{
 			"binhacks": {
