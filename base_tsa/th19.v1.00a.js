@@ -4,7 +4,8 @@
 			"addr": "RxC8319"
 		},
 		"file_load": {
-			"addr": "RxC8357"
+			"addr": "RxC8357",
+			"file_buffer": "ebx ? [esp+0x4] != RxC0E43 : 0"
 		},
 		"file_loaded": {
 			"addr": "Rx146BD1"
