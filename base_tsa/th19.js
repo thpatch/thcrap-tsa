@@ -6,10 +6,12 @@
 	"steam_appid": "2400340",
 	"breakpoints": {
 		"file_size": {
+			"file_name": "esi",
 			"file_size": "eax",
-			"cavesize": 5
+			"cavesize": 6
 		},
-		"file_load": {
+		"file_load": {			
+			"file_buffer": "ebx",
 			"stack_clear_size": 8,
 			"cavesize": 5
 		},
