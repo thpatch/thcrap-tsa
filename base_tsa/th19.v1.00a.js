@@ -34,12 +34,8 @@
 			"line": "7 - [ebp-0x4]"
 		},
 		"gentext#ability_name": {
-			//"addr": [ "RxD4A4D", "RxD4B0D" ],
-			"addr": "RxD4967",
-			"ids": "eax",
-			"str": "eax",
-			"cave_exec": false,
-			"cavesize": 8	
+			"addr": [ "RxD4A4D", "RxD4B0D" ],
+			"cavesize": 6	
 		}
 	},
 	"binhacks": {
@@ -61,7 +57,7 @@
 		},
 		"center_align": {
 			"addr": "RxBF94A",
-			"code": "5351e8[GetTextExtentForFontID]660f6ec80f5bc9f30f10574cf30f5915<Rx184644>8b85dcfaffff8b40088bd0c1fa08<nop:56>"
+			"code": "5351e8[GetTextExtentForFontID]660f6ec80f5bc9f30f10574cf30f5915<Rx184644>f30f109de0faffff8b85dcfaffff8b40088bd0c1fa08<nop:48>"
 		},
 		"sprintf_rep": {
 			"addr": [
