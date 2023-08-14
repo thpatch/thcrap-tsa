@@ -1,4 +1,11 @@
 {
+	"Rx17FC50": "Music Room Unknown Title",
+	"Rx17FB1C": "th10 Music Room spoiler 1",
+	"Rx17FB5C": "th10 Music Room spoiler 2",
+	"Rx17FB94": "th10 Music Room spoiler 3",
+	"Rx17FBC4": "th10 Music Room spoiler 4",
+	"Rx17FC00": "th10 Music Room spoiler 5",
+	
 	"Rx17FC78": "th143 Trophy Unknown",	
 	"Rx1803A8": "th18 Trophy Get",
 	"Rx1803D4": "th143 Trophy Format",

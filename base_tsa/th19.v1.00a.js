@@ -36,6 +36,17 @@
 		"gentext#ability_name": {
 			"addr": [ "RxD4A4D", "RxD4B0D" ],
 			"cavesize": 6	
+		},
+		"music_title": {
+			"addr": "Rx13EBD3",
+			"track": "edi",
+			"str": "[esp+0x4]"
+		},
+		"music_cmt": {
+			"addr": [ "Rx13EE1E", "Rx13EEE7" ],
+			"track": "[esi+0xADC]",
+			"line": "[esi+0xAD8]",
+			"str": "eax"
 		}
 	},
 	"binhacks": {
