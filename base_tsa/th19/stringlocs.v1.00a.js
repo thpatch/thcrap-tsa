@@ -4,6 +4,9 @@
 	"Rx1803D4": "th143 Trophy Format",
 	
 	"Rx17679C": "th18 card unobtained",
+	"Rx177044": "th19 no card",
+	"Rx1769EC": "th18 Ability Unlock",
+	"Rx1769FC": "th185 card for sale",
 	
 	"Rx176804": "th185 unequip",
 	"Rx17706C": "th185 equippable slot",
