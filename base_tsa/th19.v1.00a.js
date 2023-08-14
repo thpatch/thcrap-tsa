@@ -92,6 +92,14 @@
 			"code": "40",
 			"addr": [ "Rx144909", "Rx144918" ]
 		},
+		"textbox_width_1": {
+			"addr": "RxFE550",
+			"code": "6a0051e8[GetTextExtentForFontID]8bb7a401000083e81c730231c0<nop:7>"
+		},
+		"textbox_width_2": {
+			"addr": "RxFE8D4",
+			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c0<nop:10>"
+		}
 	},
 	"tsa_font_block": [
 		"Rx2078EC",
