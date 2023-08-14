@@ -35,7 +35,7 @@
 		},
 		"center_align": {
 			"addr": "RxBF94A",
-			"code": "5351e8[GetTextExtentForFontID]660f6ec80f5bc9f30f10574cf30f59154446a6008b85dcfaffff8b40088bd0c1fa08<nop:56>"
+			"code": "5351e8[GetTextExtentForFontID]660f6ec80f5bc9f30f10574cf30f5915<Rx184644>8b85dcfaffff8b40088bd0c1fa08<nop:56>"
 		},
 		"sprintf_rep": {
 			"addr": [
