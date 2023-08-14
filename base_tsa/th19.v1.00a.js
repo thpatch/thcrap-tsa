@@ -47,6 +47,9 @@
 			"track": "[esi+0xADC]",
 			"line": "[esi+0xAD8]",
 			"str": "eax"
+		},
+		"ruby_offset": {
+			"addr": [ "RxFE444", "RxFE7A5" ]
 		}
 	},
 	"binhacks": {
