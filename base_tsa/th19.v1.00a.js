@@ -14,6 +14,15 @@
 			"addr": "Rx149D28",
 			"cavesize": 6,
 			"str": "[esp+0x4]",
+		},
+		"gentext#trophy_result_desc": {
+			"addr": "Rx13E7C7",
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": "Rx13E6CA",
+		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx1448C0"
 		}
 	},
 	"binhacks": {
@@ -50,6 +59,14 @@
 				"RxBFB90",
 				"RxBFBA1",
 			]
+		},
+		"trophy_ingame_lineflip_1": {
+			"code": "44",
+			"addr": [ "Rx1448C7", "Rx1448E0" ]
+		},
+		"trophy_ingame_lineflip_2": {
+			"code": "40",
+			"addr": [ "Rx144909", "Rx144918" ]
 		},
 	},
 	"tsa_font_block": [
