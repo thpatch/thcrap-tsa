@@ -3,6 +3,11 @@
 	"Rx1803A8": "th18 Trophy Get",
 	"Rx1803D4": "th143 Trophy Format",
 	
+	"Rx17679C": "th18 card unobtained",
+	
+	"Rx176804": "th185 unequip",
+	"Rx17706C": "th185 equippable slot",
+	
 	"Rx178F08": "th19 rules barrier manual",    // "手動回復のみ (Manual Only)"
 	"Rx178F24": "th19 rules barrier short",    // "時間長め (Long Time)"
 	"Rx178F3C": "th19 rules barrier long",    // "時間早め (Short Time)"

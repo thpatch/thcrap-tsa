@@ -23,6 +23,23 @@
 		},
 		"gentext#trophy_ingame": {
 			"addr": "Rx1448C0"
+		},
+		"gentext#ability_select_desc": {
+			"addr": "RxD4674",
+			"cavesize": 8,
+			"ids": [ "ecx", 0 ],
+		},
+		"gentext#ability_desc": {
+			"addr": "RxD4CA0",
+			"line": "7 - [ebp-0x4]"
+		},
+		"gentext#ability_name": {
+			//"addr": [ "RxD4A4D", "RxD4B0D" ],
+			"addr": "RxD4967",
+			"ids": "eax",
+			"str": "eax",
+			"cave_exec": false,
+			"cavesize": 8	
 		}
 	},
 	"binhacks": {

@@ -46,6 +46,7 @@
 		"gentext#ability_name": {
 			"file": "abilities.js",
 			"ids": "[ebp+0xC]",
+			"str": "[esp+0x4]",
 		},
 		"gentext#ability_desc": {
 			"file": "abilities.js",
