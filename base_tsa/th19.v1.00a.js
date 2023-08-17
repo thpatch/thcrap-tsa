@@ -5,7 +5,6 @@
 		},
 		"file_load": {
 			"addr": "RxC8357",
-			"file_buffer": "ebx ? [ebp+0x4] != RxC0E43 : 0"
 		},
 		"file_loaded": {
 			"addr": "Rx146BD1"
