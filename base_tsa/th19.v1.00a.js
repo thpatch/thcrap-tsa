@@ -49,6 +49,38 @@
 		},
 		"ruby_offset": {
 			"addr": [ "RxFE444", "RxFE7A5" ]
+		},
+		"spell_id": {
+			"separator": "+",
+			"spell_id": [
+				//{   // Character ID
+				//	"type": "u32",
+				//	"param": "[Rx2192CC - (((ecx - Rx220110) / 0x3c) * 0x98)]",
+				//},
+				{   // Subroutine name
+					"type": "s",
+					"param": "[[[[[[[ebp-0x540]+0x55C8]+0xC]+0x1018]+0x1218]+0x20c]+[[[[ebp-0x540]+0x55C8]+0xC]+0x4]*8]",
+				},
+				{   // Difficulty
+					"type": "u8",
+					"param": "[<codecave:th19_log2_mod11> + byte ptr[[ebp-0x610]+0x1020] % 11]",
+					"count_down": true
+				},
+			],
+			"addr": "RxF1CAC",
+			"cavesize": 6,
+		},
+		"spell_name": {
+			"addr": "RxE611D",
+		},
+	},
+	"codecaves": {
+		"th19_log2_mod11": {
+			// tab = np.zeros(11, dtype=int)
+			// tab[(1<<np.arange(8))%11] = np.arange(8)
+			// print(*(f'{x:02X}' for x in tab))
+			"access": "r",
+			"code": "00 00 01 00 02 04 00 07 03 06 05"
 		}
 	},
 	"binhacks": {
