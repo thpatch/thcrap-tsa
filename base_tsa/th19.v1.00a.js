@@ -9,11 +9,6 @@
 		"file_loaded": {
 			"addr": "Rx146BD1"
 		},
-		"dict_translate": {
-			"addr": "Rx149D28",
-			"cavesize": 6,
-			"str": "[esp+0x4]",
-		},
 		"gentext#trophy_result_desc": {
 			"addr": "Rx13E7C7",
 		},
