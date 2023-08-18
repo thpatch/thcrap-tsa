@@ -57,4 +57,36 @@
 	//"Rx178E0C": "th19 rules ",   // "普通"
 	
 	"Rx17677C": "th19 ability random", // "アビリティカード：ランダム装備"
+	
+	
+	"Rx182A88": "th19 net connected",
+	"Rx182AA4": "th19 net roomrename 1",
+	"Rx182AE4": "th19 net roomrename 2",
+	"Rx182AC0": "th19 net alphanumeric",
+	"Rx182B38": "th19 net alphanumeric",
+	"Rx182B68": "th19 net room joining",
+	"Rx182B94": "th19 net room joined",
+	"Rx182BAC": "th19 net waiting for opponent。",
+	"Rx182BE4": "th19 net joined p1",
+	"Rx182C6C": "th19 net joined p2",
+	"Rx182C18": "th19 net start",
+	"Rx182CA0": "th19 net wait for p1",
+	"Rx182C4C": "th19 net change delay",
+	"Rx182CE4": "th19 net latency none notice",
+	"Rx182E3C": "th19 net connection failed",
+	"Rx182E50": "th19 net try again",
+	"Rx182F64": "th19 net try again",
+	"Rx182F54": "th19 net failed",
+	"Rx182F04": "th19 roomname exists 1",
+	"Rx182F2C": "th19 roomname exists 2",
+	"Rx182EA0": "th19 room not found 1",
+	"Rx182EC4": "th19 room not found 2",
+	"Rx182FAC": "th19 connection lost",
+	"Rx182F8C": "th19 opponent disconnected",
+	"Rx182D18": "th19 net latency low",
+	"Rx182D3C": "th19 net latency low notice",
+	"Rx182D5C": "th19 net latency mid",
+	"Rx182D84": "th19 net latency mid notice",
+	"Rx182DAC": "th19 net latency high",
+	"Rx182DD4": "th19 net latency high notice",
 }

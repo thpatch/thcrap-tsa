@@ -81,6 +81,10 @@
 			// print(*(f'{x:02X}' for x in tab))
 			"access": "r",
 			"code": "00 00 01 00 02 04 00 07 03 06 05"
+		},
+		"th19_net_status_deref": {
+			"access": "re",
+			"code": "8b44241c8b008944241c e9[RxBF8B0]"
 		}
 	},
 	"binhacks": {
@@ -133,7 +137,30 @@
 		"textbox_width_2": {
 			"addr": "RxFE8D4",
 			"code": "6a0051e8[GetTextExtentForFontID]83e81c730231c0<nop:10>"
+		},
+		"net_status_deref_call": {
+			"addr": "Rx149D35",
+			"code": "e8[codecave:th19_net_status_deref]"
+		},
+		"net_status_replace_func": {
+			"addr": "Rx146C50",
+			
+			// Code:
+			
+			// void th19_net_set_status(uint8_t* obj, size_t slot, const char* str) {
+			//     const char* str_real = strings_lookup(str, nullptr);
+			// 
+			//     const char** out = (const char**)(obj + 0x8fc + (slot << 8));
+			// 
+			//     if (!*out || strcmp(*out, str_real) != 0) {
+			//         *out = str_real;
+			//         obj[0xDFC] = 1;
+			//     }
+			// }			
+			
+			"code": "5356576a00ff74241c90e8[strings_lookup]8b5c241c83c4088b7c24108bf0c1e3088b8c3bfc08000085c9742f660f1f4400008a113a10751a84d274128a51013a5001750e83c10283c00284d275e433c0eb051bc083c80185c0740e89b43bfc080000c687fc0d0000015f5e5bc3<int3:58>"
 		}
+			
 	},
 	"tsa_font_block": [
 		"Rx2078EC",
