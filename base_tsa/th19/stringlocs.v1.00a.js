@@ -60,6 +60,7 @@
 	
 	
 	"Rx182A88": "th19 net connected",
+	"Rx182B18": "th19 net playername 1",
 	"Rx182AA4": "th19 net roomrename 1",
 	"Rx182AE4": "th19 net roomrename 2",
 	"Rx182AC0": "th19 net alphanumeric",
