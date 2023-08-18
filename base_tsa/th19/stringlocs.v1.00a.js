@@ -66,7 +66,7 @@
 	"Rx182B38": "th19 net alphanumeric",
 	"Rx182B68": "th19 net room joining",
 	"Rx182B94": "th19 net room joined",
-	"Rx182BAC": "th19 net waiting for opponent。",
+	"Rx182BAC": "th19 net waiting for opponent",
 	"Rx182BE4": "th19 net joined p1",
 	"Rx182C6C": "th19 net joined p2",
 	"Rx182C18": "th19 net start",
