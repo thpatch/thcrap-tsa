@@ -39,6 +39,17 @@
 			"addr": [ "RxD4A4D", "RxD4B0D" ],
 			"cavesize": 6	
 		},
+		"gentext#titlemsg": {
+			"addr": [ "Rx122AD3", "Rx122B10" ],
+			"cavesize": 6,
+			"cave_exec": false,
+			"eip_jump_dist": 15,
+			
+			"file": "titlemsg.js",
+			"ids": "eax",
+			"line": "edi != (esi+0x28)",
+			"str": "edi"
+		},
 		"music_title": {
 			"addr": "Rx13EBD3",
 			"track": "edi",
