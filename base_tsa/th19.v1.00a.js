@@ -27,6 +27,14 @@
 			"addr": "RxD4CA0",
 			"line": "7 - [ebp-0x4]"
 		},
+		"gentext#ability_desc_unlock": {
+			"addr": "RxD5077",
+			"cavesize": 5,
+			"file": "abilities.js",
+			"ids": [ "[ebp+0xC]", 0 ],
+			"line": 1,
+			"str": "eax"
+		},
 		"gentext#ability_name": {
 			"addr": [ "RxD4A4D", "RxD4B0D" ],
 			"cavesize": 6	
