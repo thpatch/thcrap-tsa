@@ -53,10 +53,10 @@
 		"spell_id": {
 			"separator": "+",
 			"spell_id": [
-				//{   // Character ID
-				//	"type": "u32",
-				//	"param": "[Rx2192CC - (((ecx - Rx220110) / 0x3c) * 0x98)]",
-				//},
+				{   // Character ID
+					"type": "u32",
+					"param": "[Rx2079DC - ((([[ebp-0x540]+0x563C] - Rx1AE470) / 0x3c) * 0xC0)]",
+				},
 				{   // Subroutine name
 					"type": "s",
 					"param": "[[[[[[[ebp-0x540]+0x55C8]+0xC]+0x1018]+0x1218]+0x20c]+[[[[ebp-0x540]+0x55C8]+0xC]+0x4]*8]",
