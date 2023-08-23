@@ -1,6 +1,6 @@
 {
 	"codecaves": {
-		"stage_result_align": "56 8d75 f4 6a 00 68 004f4b00 e8[strings_lookup] 89c1 41 8339 00 75 fa 29c1 c1e1 03 b8 c8000000 2bc1 8906 db06 d91e 83c4 08 5e c3",
+		"stage_result_align": "56 8d75 f4 6a 00 68 004f4b00 e8[strings_lookup] 89c1 41 8339 00 75 fa 29c1 c1e1 03 b8 c8000000 2bc1 8906 db06 d91e 83c4 08 5e 833d ccd26401 06 c3",
 		"TH8ScorefileFixer_VRSMContents": "303130306400 // 0000 // 00D40C00 // B96168A2",
 		"TH8ScorefileFixer_FixVRSM": "85C0 // 74 0C // 40 // C3 // CCCCCCCCCCCCCCCCCCCC // 0F2805 <codecave:TH8ScorefileFixer_VRSMContents> // 0F1101 // 0F1745 0C // 89C8 // C3"
 	},
