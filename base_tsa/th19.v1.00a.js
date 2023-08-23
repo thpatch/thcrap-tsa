@@ -58,7 +58,7 @@
 		"music_cmt": {
 			"addr": [ "Rx13EE1E", "Rx13EEE7" ],
 			"track": "[esi+0xADC]",
-			"line": "[esi+0xAD8]",
+			"line_num": "[esi+0xAD8]",
 			"str": "eax"
 		},
 		"ruby_offset": {
