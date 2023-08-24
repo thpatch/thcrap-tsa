@@ -45,11 +45,11 @@
 		},
 		"help_align_1": {
 			"addr": "Rx28bce",
-			"code": "e8 adb30100"
+			"code": "e8 [Rx43f80]"
 		},
 		"help_align_2": {
 			"addr": "Rx28c30",
-			"code": "e8 4bb30100"
+			"code": "e8 [Rx43f80]"
 		}
 	},
 	"breakpoints": {
