@@ -102,6 +102,7 @@
 			"addr": "0x4207ee"
 		},
 		"spell_id#result": {
+			"spell_rank": "eax",
 			"addr": "0x469632"
 		},
 		"spell_name#result": {
