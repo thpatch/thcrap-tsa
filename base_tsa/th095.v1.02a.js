@@ -16,14 +16,10 @@
 				"Rx43d37",
 				"Rx283bb",
 				"Rx2a800",
-				"Rx50cb9"
+				"Rx50cb9",
+				"Rx4406b",
+				"Rx43ef7"
 			]
-		},
-		"overflow_spell_menu_rep": {
-			"addr": "0x44406b"
-		},
-		"overflow_spell_ingame_rep": {
-			"addr": "0x443ef7"
 		},
 		"spell_align_menu": {
 			"addr": "0x443fb0"
