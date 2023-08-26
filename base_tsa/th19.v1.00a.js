@@ -100,17 +100,13 @@
 			"access": "re",
 			"code": "8b44241c8b008944241c e9[RxBF8B0]"
 		},
-		"th19_free_jmp": {
-			"access": "re",
-			"code": "e9[Rx6590e]"
-		},
 		"th19_file_load": {
 			"access": "re",
 			"code": "8b4c24048b5424086a00e8[RxC82A0]83c404c20800"
 		}
 	},
-	"free_func": "codecave:th19_free_jmp",
-	"file_load_func": "codecave:th19_file_load",
+	"free_func": "<Rx6590E>",
+	"file_load_func": "<codecave:th19_file_load>",
 	"binhacks": {
 		"sprintf_th19_l": {
 			"addr": "RxBFC12",
