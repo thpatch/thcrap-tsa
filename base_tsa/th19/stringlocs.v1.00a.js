@@ -21,6 +21,7 @@
 	"Rx178F08": "th19 rules barrier manual",    // "手動回復のみ (Manual Only)"
 	"Rx178F24": "th19 rules barrier short",    // "時間長め (Long Time)"
 	"Rx178F3C": "th19 rules barrier long",    // "時間早め (Short Time)"
+	"Rx178EEC": "th19 rules barrier none",    // "常にバリア無し (No Barrier)"
 	
 	"Rx178EB8": "th19 rules cards all",    // "全てのカードから選択 (All Card)"
 	"Rx178E84": "th19 rules cards random",    // "ランダム (Random)"
