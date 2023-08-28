@@ -35,4 +35,4 @@ Official English translation by ZUN.
 Covers only the custom.exe programs.
 
 ## western_name_order
-Put the characters names in western order (first name first).
+Put the Japanese characters' names in western order (first name first).
