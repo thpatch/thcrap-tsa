@@ -2,13 +2,10 @@
 	"steam_appid": "2400360",
 	"breakpoints": {
 		"file_size": {
-			"addr": "Rx125669",
-			"file_name": "esi",
-			"cavesize": 6,
+			"addr": "Rx125669"
 		},
 		"file_load": {
 			"addr": "Rx1256A7",
-			"file_buffer": "ebx",
 		},
 		"file_loaded": {
 			"addr": "Rx19A4C1"
@@ -66,7 +63,6 @@
 			"addr": "Rx19D8A4",
 			"cavesize": 6,
 			"str": "[esp+0x4]",
-			"dump": true,
 		}
 	},
 	"tsa_font_block": [

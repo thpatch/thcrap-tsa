@@ -132,6 +132,11 @@
 		"6243e3624ae5100eaa5ded846e2d9b2d9e438ee7c20735e197c9c8170fb9627f": ["th18", "v1.00a", "(original, unpacked Steam release with Steamless v3.0.0.11)"],
 		"5aeb74b19939a29a8cf06e4fe7777aaf9139e93478507e039f43318171020e9f": ["th18", "v1.00a", "(original)"],
 		
+		"5e378a0a1774f437de83224b71b0d899cd80ddcf7ad973400b219b87e5b45232": ["th19", "v0.01a", "(original)"],
+		"10769adc9b30933f8cafedeb53c39ada97d6e8454b3ceaa5631a73d350e6c9d5": ["th19", "v0.02a", "(original)"],
+		"70bd0434cd6e6c56a43844b26b59682acd45234f0e0d3ff17f56e4b3f059430d": ["th19", "v1.00a", "(original)"],
+		"e93984618c69ecaabdd0c4ea3a4fba4c2f851bb9c048cefce5143700a4c2414b": ["th19", "v1.00a", "(original, Steam release)"],
+		
 		"25f3978d107890f540b1b813bfdda141727fcbdfdf5d9fc8f107d5812ea9f8e7": ["th185", "v1.00a", "(original, unpacked Steam release)"],
 		"c0595fe926f2733612a29fac8288c50c6bdb0121ad6cce2bda9f2224b51671cc": ["th185", "v1.00a", "(original, unpacked Steam release with Steamless v3.0.0.11)"],
 		"41de6934b12986afbc80c3484b452339ce02359737fc8a2aab0843a414d14b28": ["th185", "v1.00a", "(original, Steam release)"],
@@ -210,9 +215,7 @@
 		
 		"afa0747120a4b7ea97478d04a61908236cc82fe3b377248088df71e29673d83c": ["th185_custom", "v1.00a", "(original)"],
 		
-		"5e378a0a1774f437de83224b71b0d899cd80ddcf7ad973400b219b87e5b45232": ["th19", "v0.01a", "(original)"],
 		"3693504794c49e5282005602f0dff1a8addfb4c325293ff3f784b96bb9b42a09": ["th19_custom", "v0.01a", "(original)"],
-		"10769adc9b30933f8cafedeb53c39ada97d6e8454b3ceaa5631a73d350e6c9d5": ["th19", "v0.02a", "(original)"],
 		"3c9ba1cfc15b20d9b2c4280bb8ef9101c1e7b003ed2bf4fd2eac6f793ff6e921": ["th19_custom", "v0.02a", "(original)"]
 	},
 	"sizes": {
@@ -305,8 +308,11 @@
 		
 		"1053440": ["th185", "v1.00a", "(original, unpacked Steam release)"],
 		"883200": ["th185", "v1.00a", "(original, Steam release)"],
+		
 		"867840": ["th19", "v0.01a", "(original)"],
 		"2316288": ["th19", "v0.02a", "(original)"],
+		"1854464": ["th19", "v1.00a", "(original)"],
+		"2024664": ["th19", "v1.00a", "(original, Steam release)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],

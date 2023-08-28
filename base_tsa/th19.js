@@ -1,15 +1,17 @@
 {
 	"title": "東方獣王園　〜 Unfinished Dream of All Living Ghost",
 	"latest": [
-		"v0.01a"
+		"v0.02a", "v1.00a"
 	],
 	"steam_appid": "2400340",
 	"breakpoints": {
 		"file_size": {
+			"file_name": "esi",
 			"file_size": "eax",
-			"cavesize": 5
+			"cavesize": 6
 		},
-		"file_load": {
+		"file_load": {			
+			"file_buffer": "ebx",
 			"stack_clear_size": 8,
 			"cavesize": 5
 		},
@@ -44,12 +46,35 @@
 		"gentext#ability_name": {
 			"file": "abilities.js",
 			"ids": "[ebp+0xC]",
+			"str": "[esp+0x4]",
 		},
 		"gentext#ability_desc": {
 			"file": "abilities.js",
 			"ids": [ "[ebp+0xC]", 0 ],
 			"str": "[esp+0x4]",
 			"cavesize": 6,
+		},
+		"gentext#trophy_result_desc": {
+			"file": "trophy.js",
+			"ids": [ "ecx", "edx" ],
+			"line": "[esp+0x4]",
+			"str": "eax",
+			"cavesize": 5,
+			"cave_exec": false,
+		},
+		"gentext#trophy_result_nickname": {
+			"file": "trophy.js",
+			"ids": "ecx",
+			"str": "eax",
+			"cavesize": 5,
+			"cave_exec": false
+		},
+		"gentext#trophy_ingame": {
+			"file": "trophy.js",
+			"ids": "[ebp-0xC]",
+			"str": "eax",
+			"cavesize": 5,
+			"cave_exec": false,
 		},
 	},
 }

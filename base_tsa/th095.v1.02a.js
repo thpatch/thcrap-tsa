@@ -16,14 +16,10 @@
 				"Rx43d37",
 				"Rx283bb",
 				"Rx2a800",
-				"Rx50cb9"
+				"Rx50cb9",
+				"Rx4406b",
+				"Rx43ef7"
 			]
-		},
-		"overflow_spell_menu_rep": {
-			"addr": "0x44406b"
-		},
-		"overflow_spell_ingame_rep": {
-			"addr": "0x443ef7"
 		},
 		"spell_align_menu": {
 			"addr": "0x443fb0"
@@ -45,11 +41,11 @@
 		},
 		"help_align_1": {
 			"addr": "Rx28bce",
-			"code": "e8 adb30100"
+			"code": "e8 [Rx43f80]"
 		},
 		"help_align_2": {
 			"addr": "Rx28c30",
-			"code": "e8 4bb30100"
+			"code": "e8 [Rx43f80]"
 		}
 	},
 	"breakpoints": {

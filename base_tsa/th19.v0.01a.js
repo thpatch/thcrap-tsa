@@ -4,6 +4,8 @@
 		"file_size": {
 			"addr": "Rx1a6c",
 			"file_name": "ebx",
+			"file_name": "eax",
+			"cavesize": 5
 		},
 		"file_load": {
 			"addr": "Rx1aa4",
