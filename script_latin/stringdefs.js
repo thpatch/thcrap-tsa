@@ -7,12 +7,6 @@
 	"th06": "Touhou Koumakyou - The Embodiment of Scarlet Devil",
 	"th07": "Touhou Youyoumu - Perfect Cherry Blossom",
 	"th08": "Touhou Eiyashou - Imperishable Night",
-	"th08 Stats Reimu & Yukari": "Reimu & Yukari",
-        "th08 Stats Marisa & Alice": "Marisa & Alice",
-        "th08 Stats Sakuya & Remilia": "Sakuya & Remilia",
-        "th08 Stats Youmu & Yuyuko": "Youmu & Yuyuko",
-        "th08 Stats Alice": "Alice Margatroid",
-        "th08 Stats Remilia": "Remilia Scarlet",
 	"th09": "Touhou Kaeidzuka - Phantasmagoria of Flower View",
 	"th095": "Touhou Bunkachou - Shoot the Bullet",
 	"th10": "Touhou Fuujinroku - Mountain of Faith",
@@ -61,5 +55,11 @@
 	"th15 Full-width 7": "7",
 	"th15 Full-width 8": "8",
 	"th15 Full-width 9": "9",
-	"th185 titlemsg charname format": "%s    %s    %s"
+	"th185 titlemsg charname format": "%s    %s    %s",
+	"th08 Stats Reimu & Yukari": "Reimu & Yukari",
+        "th08 Stats Marisa & Alice": "Marisa & Alice",
+        "th08 Stats Sakuya & Remilia": "Sakuya & Remilia",
+        "th08 Stats Youmu & Yuyuko": "Youmu & Yuyuko",
+        "th08 Stats Alice": "Alice Margatroid",
+        "th08 Stats Remilia": "Remilia Scarlet"
 }
