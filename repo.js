@@ -19,6 +19,7 @@
         "official_en": "Official English translations",
         "real_bullet_size": "Resize bullets to match their actual hitbox\n                          (by sibgamer, http://tinyurl.com/real-bullet-size)",
         "script_latin": "Shared data for languages using Latin script",
+        "twenty_four_hour_clock": "24-hour clock format in TH08",
         "western_name_order": "Western name order"
     }
 }
