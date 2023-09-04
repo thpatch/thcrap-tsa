@@ -34,5 +34,8 @@ Shared data for languages using Latin script.
 Official English translation by ZUN.
 Covers only the custom.exe programs.
 
+## twenty_four_hour_clock
+24-hour clock format in TH08.
+
 ## western_name_order
 Put the Japanese characters' names in western order (first name first).
