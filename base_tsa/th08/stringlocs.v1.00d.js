@@ -81,7 +81,7 @@
 	"Rxb4d84": "th07 Clear Player Penalty*0.05",
 	"Rxb4d74": "th07 Clear Total Score Format",
 	"Rxb4fb4": "th07 Full Power",
-	"Rxb4f30": "th07 Spell Card Bonus",
+	"Rxb4f30": "th06_ascii_centered_spell_bonus",
 	"Rxb4f48": "th08 Last Spell Failed",
 	"Rxb4f5c": "th08 Spell Bonus Failed",
 	"Rxb795c": "th08 Spell Result Character Select",
