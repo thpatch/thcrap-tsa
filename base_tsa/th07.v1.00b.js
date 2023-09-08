@@ -83,7 +83,9 @@
 		},
 		"reacquire_input": {
 			"addr": "Rx30f03"
-		}
+		},
+		"ascii_patch_1": { "addr": "Rx206c" },
+		"ascii_patch_2": { "addr": "Rx2099" }
 	},
 	"breakpoints": {
 		"file_name": {
@@ -145,6 +147,10 @@
 			"TextureSlots": "[0x4b9e44]+0x282ac",
 			"SpriteSpecs": "[0x4b9e44]+0x60",
 			"SpriteScripts": "[0x4b9e44]+0x28ef0"
+		},
+		"ascii_params": {
+			"addr": "Rx38c5f",
+			"ClassPtr": "0x134ce18"
 		},
 		"th06_screenshot": {
 			"pD3DDevice": "[0x575958]",
