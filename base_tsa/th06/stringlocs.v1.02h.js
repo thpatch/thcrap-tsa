@@ -31,7 +31,7 @@
 	"Rx6ac7c": "th06_ascii_centered_stage_demo",
 	"Rx6ac88": "th06_ascii_centered_stage_extra",
 	"Rx6ac94": "th06_ascii_centered_stage_final",
-	"Rx6aca4": "th06_ascii_centered_stage_format",
+	"Rx6aca4": "th06_ascii_centered_stage",
 	"Rx6bc40": "th06_ascii_result_rank_extra",
 	"Rx6bc4c": "th06_ascii_result_rank_lunatic",
 	"Rx6bc58": "th06_ascii_result_rank_hard",
