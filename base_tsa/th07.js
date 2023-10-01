@@ -42,7 +42,15 @@
 		"bosstitle_line_order#2": {
 			"title": "Render the two boss title lines in the opposite order, #2: Title",
 			"code": "f0040200"
-		}
+		},
+		"ascii_patch_1": {
+			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#1: Call, and write the inner function)",
+			"code": "50 ff7510 ff750c e80b000000 83c00f 50 e8[ascii_vpatchf] eb1d | 8b0424 c3 | ff74240c ff74240c 8b4c240c 90"
+		},
+		"ascii_patch_2": {
+			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#2: Return from the inner function)",
+			"code": "c3 909090909090"
+		},
 	},
 	"title": "東方妖々夢　～ Perfect Cherry Blossom",
 	"url_update": "http://www16.big.or.jp/~zun/html/th07_update.html",
@@ -127,6 +135,10 @@
 			},
 			"groups": [["0x702", "0x703"]],
 			"cavesize": 7
+		},
+		"ascii_params": {
+			".Scale": "0x74c4",
+			"CharWidth": 14.0
 		}
 	},
 	"tlnotes": {

@@ -65,7 +65,15 @@
 		"spell_ascii_numbers_2": {
 			"code": "90",
 			"title": "Replace shift-jis numbers with ASCII numbers in spell practice (part 2)"
-		}
+		},
+		"ascii_patch_1": {
+			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#1: Call, and write the inner function)",
+			"code": "50 ff7510 ff750c e80b000000 83c00f 50 e8[ascii_vpatchf] eb1d | 8b0424 c3 | ff74240c ff74240c 8b4c240c 90"
+		},
+		"ascii_patch_2": {
+			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#2: Return from the inner function)",
+			"code": "c3 909090909090"
+		},
 	},
 	"title": "東方永夜抄　～ Imperishable Night",
 	"url_update": "http://www16.big.or.jp/~zun/html/th08dl.html",
@@ -176,6 +184,10 @@
 			"str": "edi",
 			"format_id": "Music Room Numbered Title",
 			"cavesize": "5"
+		},
+		"ascii_params": {
+			".Scale": "0x826c",
+			"CharWidth": 13.0
 		}
 	},
 	"tlnotes": {

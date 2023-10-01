@@ -96,7 +96,9 @@
 			"addr": "0x44869D",
 			"code": "83C4 08 // 8B4D 08 // E8 [codecave:TH8ScorefileFixer_FixVRSM] // 8945 FC // 2B45 F0 // 2945 F4",
 			"expected": "59 // 59 // 40 // 8945 FC // 8B45 FC // 2B45 F0 // 8B4D F4 // 2BC8 // 894D F4"
-		}
+		},
+		"ascii_patch_1": { "addr": "Rx2a3c" },
+		"ascii_patch_2": { "addr": "Rx2a69" }
 	},
 	"breakpoints": {
 		"file_name": {
@@ -155,6 +157,10 @@
 		},
 		"music_cmt": {
 			"addr": "0x448f26"
-		}
+		},
+		"ascii_params": {
+			"addr": "Rx465B5",
+			"ClassPtr": "0x4cce20"
+		},
 	}
 }
