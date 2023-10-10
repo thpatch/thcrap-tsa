@@ -55,5 +55,11 @@
 	"th15 Full-width 7": "7",
 	"th15 Full-width 8": "8",
 	"th15 Full-width 9": "9",
-	"th185 titlemsg charname format": "%s    %s    %s"
+	"th185 titlemsg charname format": "%s    %s    %s",
+	"th08 Stats Reimu & Yukari": "Reimu & Yukari",
+        "th08 Stats Marisa & Alice": "Marisa & Alice",
+        "th08 Stats Sakuya & Remilia": "Sakuya & Remilia",
+        "th08 Stats Youmu & Yuyuko": "Youmu & Yuyuko",
+        "th08 Stats Alice": "Alice Margatroid",
+        "th08 Stats Remilia": "Remilia Scarlet"
 }
