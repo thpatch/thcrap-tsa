@@ -106,7 +106,7 @@
 		},
 		"music_cmt": {
 			"str": "eax",
-			"format_id": "Music Room Note Title",
+			"format_id": "Music Room Numbered Title",
 			"cavesize": "6"
 		},
 		"textimage_set": {
