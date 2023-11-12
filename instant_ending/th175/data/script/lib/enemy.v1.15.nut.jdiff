@@ -1,0 +1,4 @@
+{
+    // Set the damage of every attack to 1000000
+    "/Functions/3/Instructions/0": "loadint(2, 1000000)"
+}
