@@ -14,12 +14,12 @@
 	"Rx9658C": "th095_results_score",
 	"Rx965A0": "th095_results_shot",
 	"Rx965B4": "th095_results_best_shot",
+	"Rx96864": "th095_scorefile_fn",
 	"Rx97884": "th095_replay_user_find",
 	"Rx978CC": "th095_ascii_user_replay",
 	"Rx97904": "th095_ascii_user_replay_empty",
 	"Rx97938": "th095_ascii_replay",
 	"Rx97970": "th095_ascii_replay_empty",
-	"Rx96864": "th095_scorefile_fn",
 	"Rx979B0": "th095_menu_slow_rate",
 	"Rx979C4": "th095_menu_high_score",
 	"Rx979D4": "th095_menu_scene_success_amount"
