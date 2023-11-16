@@ -33,7 +33,7 @@
 	"Rx8fa84": "th09_replay_format_2",
 	"Rx8fa68": "th09_replay_user_format",
 	"Rx8f6a4": "th09_replay_user_find",
-	"Rx8f310": "th09_scorefile_fn"
+	"Rx8f310": "th09_scorefile_fn",
 	"Rx8ee88": "th09 Stage Format",
 	"Rx8f1f4": "th09 No Name",
 	"Rx8f338": "th09 Com Vs Com",
