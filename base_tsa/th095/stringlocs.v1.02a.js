@@ -11,7 +11,7 @@
 	"Rx96548": "th095_results_slow_rate",
 	"Rx96564": "th095_results_total_score",
 	"Rx96578": "th095_results_high_score",
-	"Rx96578": "th095_results_score",
+	"Rx9658C": "th095_results_score",
 	"Rx965A0": "th095_results_shot",
 	"Rx965B4": "th095_results_best_shot",
 	"Rx97884": "th095_replay_user_find",
