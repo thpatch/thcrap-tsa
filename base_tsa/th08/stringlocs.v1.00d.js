@@ -165,5 +165,6 @@
 	"Rxb962c": "th08 Spell Practice Card No",
 	"Rxb7c78": "th06_ascii_2_digit_number_format",
 	"Rxb7c44": "th07 Max Bonus",
-	"Rxb797c": "th07 Date Format"
+	"Rxb797c": "th07 Date Format",
+	"Rxb94Dc": "th08 Replay Spell Number"
 }
