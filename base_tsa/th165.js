@@ -99,7 +99,7 @@
 		},
 		"gentext#titlemsg_comment": {
 			"file": "titlemsg.js",
-			"ids": ["[[edi+0x2cc18]+0 ]", "[[edi+0x2cc18]+4]"],
+			"ids": ["[[edi+0x2cc18]+0]", "[[edi+0x2cc18]+4]"],
 			"str": ["[ebp+0x8]", "[ebp+0xC]"],
 			"line": 0,
 			"cavesize": 5
