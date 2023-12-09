@@ -150,5 +150,21 @@
 	"Rxb5994": "th08_scorefile_fn",
 	"Rxb9448": "th08_spell_description_string_format",
 	"Rxb6ea0": "th08_????????",
-	"Rxb9330": "th08_?????????"
+	"Rxb9330": "th08_?????????",
+	"Rxb6e80": "th08 Now Playing",
+	"Rxb9598": "th07 Practice Stage Header",
+	"Rxb95d8": "th08 Spell Practice Total",
+	"Rxb7cd4": "th08 Results Header",
+	"Rxb9504": "th07 Replay Stage Header",
+	"Rxb9528": "th08 Spell Replay",
+	"Rxb4f48": "th08 Last Spell Failed",
+	"Rxb9560": "th07 Replay Header",
+	"Rxb7c1c": "th07 Replay Save Header",
+	"Rxb7c00": "th07 Replay Save",
+	"Rxb7bc8": "th07 Replay Save Empty",
+	"Rxb962c": "th08 Spell Practice Card No",
+	"Rxb7c78": "th06_ascii_2_digit_number_format",
+	"Rxb7c44": "th07 Max Bonus",
+	"Rxb797c": "th07 Date Format",
+	"Rxb94Dc": "th08 Replay Spell Number"
 }

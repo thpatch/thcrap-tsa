@@ -69,5 +69,15 @@
 	"Rx1c145": "th06_replay_0",
 	"Rx6bc20": "th06_replay_format",
 	"Rx6c3cc": "th06_replay_user_find",
-	"Rx6af94": "th06_scorefile_fn"
+	"Rx6af94": "th06_scorefile_fn",
+	"Rx6c4c8": "th06_practice_format",
+	"Rx6b4e0": "th06_error_two_instances",
+	"rx6b100": "th06_log_header",
+	"rx6b318": "th06_log_tl_hal",
+	"rx6c08c": "th06_log_directsound_init",
+	"rx6b028": "th06_log_no_gamepad",
+	"rx6c300": "th06_log_unable_to_read_file",
+	"rx6b668": "th06_log_directinput_init",
+	"rx6c1e8": "th06_log_sound_file_read_error",
+	"rx6c2a8": "th06_log_sprite_read_error"
 }

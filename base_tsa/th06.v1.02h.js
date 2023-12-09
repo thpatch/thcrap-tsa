@@ -276,6 +276,12 @@
 			"pD3DDevice": "[0x6c6d20]",
 			"addr": "Rx1cb67",
 			"cavesize": 5
-		}
+		},
+        "strings_lookup": {
+            "addr": [
+                "Rx1e623",
+                "Rx1e4d3"
+            ]
+        }
 	}
 }
