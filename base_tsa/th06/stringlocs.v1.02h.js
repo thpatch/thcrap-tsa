@@ -71,7 +71,7 @@
 	"Rx6c3cc": "th06_replay_user_find",
 	"Rx6af94": "th06_scorefile_fn",
 	"Rx6c4c8": "th06_practice_format",
-	"Rx6b4e0": "th06_two_instances_error",
+	"Rx6b4e0": "th06_error_two_instances",
 	"rx6b100": "th06_log_header",
 	"rx6b318": "th06_log_tl_hal",
 	"rx6c08c": "th06_log_directsound_init",
