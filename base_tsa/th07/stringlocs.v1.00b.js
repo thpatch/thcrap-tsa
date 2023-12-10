@@ -132,7 +132,7 @@
 	"rx9717c": "th06_log_directinput_init",
 	"rx95e78": "th06_log_sound_file_read_error",
 	"rx95bf8": "th06_log_texture_read_error",
-	"rx96c78": "th06_log_overwrite_failure",
+	"rx96c78": "th06_log_export_failure",
 	"rx96c20": "th06_log_read_only_full_disk",
 	"rx96e88": "th07_log_reinit_abnormal_config",
 	"rx96f14": "th06_log_reinit_missing_config",
