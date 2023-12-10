@@ -105,6 +105,12 @@
 		},
 		"spell_name": {
 			"addr": ["Rx03f40", "Rx04013"]
-		}
+		},
+        "strings_lookup#cavesize_5": {
+            "addr": "Rx2c5c3"
+        },
+        "strings_lookup#cavesize_6": {
+            "addr": "Rx2c663"
+        }
 	}
 }

@@ -133,7 +133,15 @@
 		},
 		"ascii_params": {
 			"cavesize": 5
-		}
+		},
+        "strings_lookup#cavesize_5": {
+            "str": "[ebp+0x0c]",
+            "cavesize": 5
+        },
+        "strings_lookup#cavesize_6": {
+            "str": "[ebp+0x0c]",
+            "cavesize": 6
+        }
 	},
 	"tlnotes": {
 		"reference_resolution": [1280, 960],

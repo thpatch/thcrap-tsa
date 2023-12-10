@@ -162,5 +162,11 @@
 			"addr": "Rx465B5",
 			"ClassPtr": "0x4cce20"
 		},
+        "strings_lookup#cavesize_5": {
+            "addr": "Rx3ea03"
+        },
+        "strings_lookup#cavesize_6": {
+            "addr": "Rx3eb63"
+        }
 	}
 }

@@ -72,12 +72,13 @@
 	"Rx6af94": "th06_scorefile_fn",
 	"Rx6c4c8": "th06_practice_format",
 	"Rx6b4e0": "th06_error_two_instances",
-	"rx6b100": "th06_log_header",
-	"rx6b318": "th06_log_tl_hal",
-	"rx6c08c": "th06_log_directsound_init",
-	"rx6b028": "th06_log_no_gamepad",
-	"rx6c300": "th06_log_unable_to_read_file",
-	"rx6b668": "th06_log_directinput_init",
-	"rx6c1e8": "th06_log_sound_file_read_error",
-	"rx6c2a8": "th06_log_sprite_read_error"
+	"Rx6b100": "th06_log_header",
+	"Rx6b318": "th06_log_tl_hal",
+	"Rx6c08c": "th06_log_directsound_init",
+	"Rx6b028": "th06_log_no_gamepad",
+	"Rx6c300": "th06_log_unable_to_read_file",
+	"Rx6b668": "th06_log_directinput_init",
+	"Rx6c1e8": "th06_log_sound_file_read_error",
+	"Rx6c2a8": "th06_log_sprite_read_error",
+	"Rx6b7d8": "th06_cfg_write_error"
 }
