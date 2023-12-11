@@ -159,9 +159,9 @@
 		},
         "strings_lookup#cavesize_5": {
             "addr": "Rx315f3"
-        }
+        },
         "strings_lookup#cavesize_6": {
             "addr": "Rx31733"
-        },
+        }
 	}
 }
