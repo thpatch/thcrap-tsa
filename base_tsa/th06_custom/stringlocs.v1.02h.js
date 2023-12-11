@@ -5,5 +5,5 @@
 	"Rx91d4": "th06 left",
 	"Rx91d8": "th06 down",
 	"Rx91dc": "th06 up",
-	"Rx9184": "th06 export failure"
+	"Rx9184": "th06 config export failure"
 }
