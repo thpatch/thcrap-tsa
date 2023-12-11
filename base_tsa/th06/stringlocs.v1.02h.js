@@ -87,7 +87,7 @@
 	"rx6b9a8": "th06_log_reinit_corrupt_config",
 	"rx6b9e0": "th06_log_reinit_missing_config",
 	"rx6b488": "th06_log_first_startup_16bit",
-	"rx6b4b4": "th06_log_first-startup_32bit",
+	"rx6b4b4": "th06_log_first_startup_32bit",
 	"rx6b5f0": "th06_log_character_init_failure",
 	"rx6b440": "th06_log_tl_hal_unavailable",
 	"rx6b424": "th06_log_hal_unavailable_too",
