@@ -90,7 +90,7 @@
 	"rx6b4b4": "th06_log_first_startup_32bit",
 	"rx6b5f0": "th06_log_character_init_failure",
 	"rx6b440": "th06_log_tl_hal_unavailable",
-	"rx6b424": "th06_log_hal_unavailable_too",
+	"rx6b424": "th06_log_hal_unavailable",
 	"rx6b3b8": "th06_log_backbuffer_nonlocking_suggestion",
 	"rx6b380": "th06_log_direct3d_init_failure",
 	"rx6b460": "th06_log_refresh_rate",
