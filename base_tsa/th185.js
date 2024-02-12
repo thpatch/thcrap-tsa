@@ -11,6 +11,9 @@
 		"sprintf_th185_2": {
 			"code": "897c2428f30f11442424e8[strings_vsprintf_msvcrt14]8944243c"
 		},
+		"sprintf_th18_ascii": {
+			"code": "ff751050e8[strings_vsprintf]8985f4feffff"
+		},
 		"trophy_ingame_lineflip_1": {
 			"code": "40"
 		},
