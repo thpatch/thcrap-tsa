@@ -120,10 +120,6 @@
 			"addr": "RxBF8E2",
 			"code": "ff7520f30f1185e0faffffff7504e8[strings_vsprintf]8985f4faffff90909090908b4e2083c40c"
 		},
-		"sprintf_th19_ascii": {
-            "addr": "RxD79DC",
-			"code": "ff751050e8[strings_vsprintf]8985fcfeffff90909090909090909090909090"
-		},
 		"spell_align": {
 			"addr": "RxBFAEA",
 			"code": "5351e8[GetTextExtentForFontID]83c008d1e0f30f1095e8faffff660f6ec80f5bc9f30f10474c8b85e4faffff8b40088bd0c1fa08<nop:35>"
@@ -144,13 +140,6 @@
 				"RxBFAE4",
 				"RxBFB90",
 				"RxBFBA1",
-                
-                // ascii
-                "RxD7A26",
-                "RxD7A60",
-                "RxD7A97",
-                "RxD7ACE",
-                "RxD7AF6",
 			]
 		},
 		"trophy_ingame_lineflip_1": {

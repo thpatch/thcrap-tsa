@@ -91,13 +91,4 @@
 	"Rx182D84": "th19 net latency mid notice",
 	"Rx182DAC": "th19 net latency high",
 	"Rx182DD4": "th19 net latency high notice",
-
-	"Rx17FA34": "th09 Story Mode",
-	"Rx17FA40": "th19 VS Mode", // VS Mode
-	"Rx17FA48": "th19 Online VS Mode", // Online VS Mode
-	"Rx17FA58": "th185_ascii_menu_achievment",
-	"Rx17FA64": "th18_ascii_menu_music_room",
-	"Rx17FA70": "th18_ascii_menu_option",
-	"Rx17FA78": "th18_ascii_menu_manual",
-	"Rx17FA80": "th18_ascii_menu_quit",
 }
