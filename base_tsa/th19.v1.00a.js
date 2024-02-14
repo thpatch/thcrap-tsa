@@ -122,7 +122,7 @@
 		},
 		"sprintf_th19_ascii": {
             "addr": "RxD79DC",
-			"code": "ff751050e8[strings_vsprintf]8985fcfeffff90909090909090909090909090"
+			"code": "ff751050e8[strings_vsprintf]8985fcfeffff8b87989701009090909090909083c40c"
 		},
 		"spell_align": {
 			"addr": "RxBFAEA",
