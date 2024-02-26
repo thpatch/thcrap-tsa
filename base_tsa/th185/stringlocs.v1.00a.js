@@ -32,7 +32,7 @@
 	"Rxb8a04": "th185_scorefile_fn",
 	"Rxb89f0": "th185_scorefile_backup_fn",
 	"RxBAACC": "th18_ascii_menu_game_start",
-	"RxBAAD8": "th185_ascii_menu_achievement",
+	"RxBAAD8": "th185_ascii_menu_achievment",
 	"RxBAAE4": "th18_ascii_menu_music_room",
 	"RxB96F0": "th18_ascii_menu_option",
 	"RxBAAF0": "th18_ascii_menu_manual",
