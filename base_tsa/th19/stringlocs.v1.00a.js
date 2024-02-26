@@ -91,7 +91,6 @@
 	"Rx182D84": "th19 net latency mid notice",
 	"Rx182DAC": "th19 net latency high",
 	"Rx182DD4": "th19 net latency high notice",
-
 	"Rx17FA34": "th09 Story Mode",
 	"Rx17FA40": "th19 VS Mode", // VS Mode
 	"Rx17FA48": "th19 Online VS Mode", // Online VS Mode
@@ -100,4 +99,81 @@
 	"Rx17FA70": "th18_ascii_menu_option",
 	"Rx17FA78": "th18_ascii_menu_manual",
 	"Rx17FA80": "th18_ascii_menu_quit",
+	"Rx182874": "th19_network_status_init", // Init
+	"Rx18287C": "th19_network_status_connecting", // Connecting...
+	"Rx18288C": "th19_network_status_joiningroom", // JoiningRoom...
+	"Rx18289C": "th19_network_status_leavingroom", // LeavingRoom...
+	"Rx1828AC": "th19_network_status_disconnecting", // Disconnecting...
+	"Rx1828C0": "th19_network_status_exitleavingroom", // ExitLeavingRoom...
+	"Rx1828D4": "th19_network_status_exitdisconnecting", // ExitDisconnecting...
+	"Rx1828EC": "th19_network_status_exit", // Exit
+	"Rx1828F4": "th19_network_status_connecterror", // ConnectError
+	"Rx182A2C": "th19_network_status", // Network Status : %s\n
+	"Rx182A58": "th19_network_room_name", // Room Name  :
+	"Rx182A70": "th19_network_player_name", // Player Name:
+	"Rx182B5C": "th19_network_joining", // Joining...
+	"Rx182B88": "th19_network_joined", // Joined : %s
+	"Rx182BC8": "th19_network_wait_for_rival", // Waiting for rival player
+	"Rx182CD4": "th19_network_latency_no_delay", // (no delay)
+	"Rx182D2C": "th19_network_latency_low", // (low latency)
+	"Rx182D70": "th19_network_latency_mid", // (middle latency)
+	"Rx182DC0": "th19_network_latency_high", // (high latency)
+	"Rx182E00": "th19_network_matching_complete", // Matching complete!
+	"Rx182E14": "th19_network_rival_player", // Rival Player is "%s".
+	"Rx182E2C": "th19_network_error_connect", // Connect Error
+	"Rx182E78": "th19_network_error_doesnt_exist", // "%s" doesn't Exist.
+	"Rx182E8C": "th19_network_error_create_is_first", // Create is first.
+	"Rx182EF0": "th19_network_error_already_exist", // "%s" already Exist.
+	"Rx182F4C": "th19_network_error_failed", // Failed.
+	"Rx178468": "th19_warning", // Warning !!
+	"Rx178474": "th19_extra_attack_level", // Extra Attack Level %d
+	"Rx17848C": "th19_boss_attack_level", // Boss Attack Level %d
+	"Rx1784A4": "th19_extra_attack", // Extra Attack !!
+	"Rx1784B4": "th19_boss_attack", // Boss Attack !!
+	"Rx182B5C": "th19_network_joining", // Joining...
+	"Rx17B33C": "th18_ascii_menu_screen",
+	"Rx17B344": "th18_ascii_menu_bgm_vol",
+	"Rx17B34C": "th18_ascii_menu_se_vol",
+	"Rx17B354": "th18_ascii_menu_default",
+	"Rx17B35C": "th18_ascii_menu_quit",
+	"Rx17B364": "th18_ascii_menu_option",
+	"Rx17B36C": "th18_ascii_menu_window",
+	"Rx17B374": "th18_ascii_menu_fullscreen",
+	"Rx17B380": "th18_ascii_menu_borderlessdbd",
+	"Rx17B390": "th18_ascii_menu_borderless",
+	"Rx179590": "th19_menu_keyboard_full", // Keyboard Full
+	"Rx1795A0": "th19_menu_keyboard_left", // Keyboard Left
+	"Rx1795B0": "th19_menu_keyboard_right", // Keyboard Right
+	"Rx1795C0": "th19_menu_gamepad", // GamePad
+	"Rx1795C8": "th19_menu_controller_select", // Controller Select
+	"Rx1795DC": "th19_menu_1player_1", // 1Player <%s>
+	"Rx1795EC": "th19_menu_1player_2", // 1Player <%s%d>
+	"Rx1795FC": "th19_menu_2player_1", // 2Player <%s>
+	"Rx17960C": "th19_menu_2player_2", // 2Player <%s%d>
+	"Rx17961C": "th19_menu_keyconfig_reset", // KeyConfig ALL Reset
+	"Rx179630": "th18_ascii_menu_quit",
+	"Rx179638": "th19_menu_button_puhs_keyconfig", // Button Push : KeyConfig
+	"Rx179650": "th18_ascii_menu_shot",
+	"Rx179658": "th19_menu_charge", // Charge
+	"Rx179660": "th18_ascii_menu_bomb",
+	"Rx179668": "th18_ascii_menu_slow",
+	"Rx179670": "th18_ascii_menu_pause",
+	"Rx179678": "th18_ascii_menu_default",
+	"Rx179680": "th18_ascii_menu_quit",
+	"Rx179688": "th18_ascii_menu_shot",
+	"Rx179690": "th19_menu_charge",
+	"Rx179698": "th18_ascii_menu_bomb",
+	"Rx1796A0": "th18_ascii_menu_slow",
+	"Rx1796A8": "th18_ascii_menu_pause",
+	"Rx1796B0": "th19_menu_up", // Up
+	"Rx1796B4": "th19_menu_down", // Down
+	"Rx1796BC": "th19_menu_left", // Left
+	"Rx1796C4": "th19_menu_right", // Right
+	"Rx1796CC": "th18_ascii_menu_quit",
+	"Rx1796D4": "th18_ascii_menu_keyconfig",
+	"Rx1796E0": "th18_ascii_menu_directinput",
+	"Rx1796EC": "th18_ascii_menu_xinput",
+	"Rx1796F4": "th19_menu_keyboard_left",
+	"Rx179704": "th19_menu_keyboard_right",
+	"Rx179714": "th19_menu_keyboard_full",
 }
