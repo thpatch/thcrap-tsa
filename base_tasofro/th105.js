@@ -53,5 +53,9 @@
 			str: "eax",
 			cavesize: 5
 		},
+		"strings_lookup#2": {
+			str: "[esp+0xc]",
+			cavesize: 5
+		},
 	}
 }

@@ -41,5 +41,8 @@
 		strings_lookup: {
 			addr: "Rx12923"
 		},
+		"strings_lookup#2": {
+			addr: "Rx43736"
+		},
 	}
 }
