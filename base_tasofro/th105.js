@@ -31,7 +31,8 @@
 		},
 		"th105_replaceReadFile": {
 			"file_object": "esi",
-			"cavesize": 6
+			"cavesize": 6,
+			"stack_clear_size": 20
 		},
 		"th105_close_file": {
 			"file_object": "esi",
@@ -49,13 +50,13 @@
 			"delim": "byte ptr [[ebp+0x0c]]",
 			"cavesize": 19
 		},
-		strings_lookup: {
-			str: "eax",
-			cavesize: 5
+		"strings_lookup": {
+			"str": "eax",
+			"cavesize": 5
 		},
 		"strings_lookup#2": {
-			str: "[esp+0xc]",
-			cavesize: 5
+			"str": "[esp+0xc]",
+			"cavesize": 5
 		},
 	}
 }

@@ -42,7 +42,8 @@
 			cavesize: 5
 		},
 		th175_replaceReadFile: {
-			cavesize: 6
+			cavesize: 6,
+			stack_clear_size: 20
 		},
 		th175_close_file: {
 			file_reader: "ecx",

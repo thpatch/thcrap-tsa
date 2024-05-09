@@ -40,7 +40,8 @@
 			"scene": 8,
 			"chara": 12,
 			"ret_fixup": 12,
-			"cavesize": 6
+			"cavesize": 6,
+			"stack_clear_size": 16
 		},
 		"mission_check_furi_a": {
 			"line": "EDI",

@@ -24,7 +24,8 @@
 			"offset": "[esp+0x30]",
 			"c1": "edx",
 			"c2": "eax",
-			"cavesize": 5
+			"cavesize": 5,
+			"type": 2
 		}
 	}
 }
