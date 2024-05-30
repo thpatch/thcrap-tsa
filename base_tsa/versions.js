@@ -59,6 +59,7 @@
 		"df6edcf5649b1df917ef91000e3047d49ba3be33301d8d6789b74b1f8b78b435": ["th11", "v1.00a", "Riri's practice patch, v1.03"],
 		"e42c8df5ba2d704fb6bd5c50d9fb35c49ebf3122dab75b19b7ed17b6bc84166d": ["th11", "v1.00a", "(original, Steam release, old version 6454988231458882848)"],
 		"47cbcfdba984e32ba2887bc0a8c35e21aa8a039c1d87675da8493544d86e2a42": ["th11", "v1.00a", "(original, Steam release)"],
+		"399e05c82912890501e644d0e1113d63db1a0e9bdb50080c2c456f9d66f548d2": ["th11", "v1.00a", "(original, Steamless v3.1.0.5)"],
 
 		"c6d15044394a33d6116c09eac44b33fdec814541c78518e29f60d54f49bdbd3a": ["th12", "v0.02a", "(original)"],
 		"e2939ba3f92e427216a619191a682a8197cc59a64eab99302a7b98811d6120a9": ["th12", "v1.00a", "(original)"],
