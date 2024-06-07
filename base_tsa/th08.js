@@ -73,7 +73,7 @@
 		"ascii_patch_2": {
 			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#2: Return from the inner function)",
 			"code": "c3 909090909090"
-		},
+		}
 	},
 	"title": "東方永夜抄　～ Imperishable Night",
 	"url_update": "http://www16.big.or.jp/~zun/html/th08dl.html",
