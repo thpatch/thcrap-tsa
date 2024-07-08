@@ -16,6 +16,40 @@
 			"addr": "Rx15E800"
 		},
 	},
+	"binhacks": {
+		"sprintf_th19_l": {
+			"addr": "RxCD642",
+			"code": "ff7524f30f118560ffffffff7504e8[strings_vsprintf]898578ffffff90909090908b4e2083c40c",
+		},
+		"sprintf_th19_rc": {
+			"addr": [ "RxCD312", "RxCD4B2" ],
+			"code": "ff7520f30f1185e0faffffff7504e8[strings_vsprintf]8985f4faffff90909090908b4e2083c40c",
+		},
+		"sprintf_th19_ascii": {
+            "addr": "RxE762C",
+			"code": "ff751050e8[strings_vsprintf]8985fcfeffff8b87989701009090909090909083c40c",
+		},
+		"sprintf_rep": {
+			"addr": [
+				"RxCD6F3",
+				"RxCD704",
+				
+				"RxCD505",
+				"RxCD5C0",
+				"RxCD5D1",
+				
+				"RxCD365",
+				"RxCD428",
+				"RxCD439",
+				
+				"RxE7676",
+				"RxE76B0",
+				"RxE76E7",
+				"RxE771E",
+				"RxE7746",
+			]
+		}
+	},
 	"tsa_font_block": [
 		"Rx22B09C",
 		"Rx22CDC0",
