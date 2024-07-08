@@ -98,6 +98,10 @@
 				"RxE7746",
 			]
 		},
+		"center_align": {
+			"addr": "RxCD36B",
+			"code": "5351e8[GetTextExtentForFontID]f30f109de0fafffff30f10574c660f6ec80f5bc9b80000003f660f6ec0f30f59d0f30f5cd1<nop:50>",
+		},
 		"textbox_width_1": {
 			"addr": "Rx110AD9",
 			"code": "6A 00 51 E8[GetTextExtentForFontID] 83 E8 1C 73 02 31 C0 89 C1 8B 74 24 10 90 90 90 90 90 90 90",
