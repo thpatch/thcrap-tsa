@@ -28,6 +28,31 @@
 		},
 		"ruby_offset": {
 			"addr": [ "Rx110657", "Rx1109B1" ]
+		},	
+		"gentext#ability_select_desc": {
+			"addr": "RxE42C5",
+			"cavesize": 8,
+			"ids": [ "ecx", 0 ],
+		},
+		"gentext#ability_name": {
+			"addr": "RxE47CC",
+			"ids": "esi",
+			"str": "eax",
+			"cave_exec": false,
+			"cavesize": 8
+		},
+		"gentext#ability_desc": {
+			"addr": "RxE4965",
+			"line": "7 - [ebp-0x14]"
+		},
+		"gentext#ability_desc_unlock": {
+			"addr": "RxE4D1C",
+			"cavesize": 11,
+			"cave_exec": false,
+			"file": "abilities.js",
+			"ids": [ "eax", 0 ],
+			"line": 1,
+			"str": "eax"
 		},
 	},
 	"binhacks": {
