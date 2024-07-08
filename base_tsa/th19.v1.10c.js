@@ -16,6 +16,23 @@
 			"addr": "Rx15E800"
 		},
 	},
+	"tsa_font_block": [
+		"Rx22B09C",
+		"Rx22CDC0",
+		"Rx22CDC4",
+		"Rx22CDC8",
+		"Rx22CDCC",
+		"Rx22CDD0",
+		"Rx22CDD4",
+		"Rx22CDD8",
+		"Rx22B098",
+		"Rx223E3C",
+		"Rx22CDDC",
+		"Rx22CDE0",
+		"Rx22CDE4",
+		"Rx22CDE8",
+		"Rx223E3C",		
+	],
 	"file_load_func": "<codecave:th19_file_load>",
 	"free_func": "<Rx7DF88>",
 	"init_stages": [
