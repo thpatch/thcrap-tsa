@@ -26,6 +26,9 @@
 			"line_num": "[esi+0xAE8]",
 			"str": "eax"
 		},
+		"ruby_offset": {
+			"addr": [ "Rx110657", "Rx1109B1" ]
+		},
 	},
 	"binhacks": {
 		"sprintf_th19_l": {
