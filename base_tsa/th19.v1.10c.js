@@ -15,6 +15,17 @@
 		"file_loaded": {
 			"addr": "Rx15E800"
 		},
+		"music_title": {
+			"addr": "Rx1554D5",
+			"track": "edi",
+			"str": "[esp+0x4]"
+		},
+		"music_cmt": {
+			"addr": [ "Rx1556F2", "Rx1557BB" ],
+			"track": "[esi+0xAEC]",
+			"line_num": "[esi+0xAE8]",
+			"str": "eax"
+		},
 	},
 	"binhacks": {
 		"sprintf_th19_l": {
