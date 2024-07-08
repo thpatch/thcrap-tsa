@@ -59,6 +59,14 @@
 				"RxE771E",
 				"RxE7746",
 			]
+		},
+		"textbox_width_1": {
+			"addr": "Rx110AD9",
+			"code": "6A 00 51 E8[GetTextExtentForFontID] 83 E8 1C 73 02 31 C0 89 C1 8B 74 24 10 90 90 90 90 90 90 90",
+		},
+		"textbox_width_2": {
+			"addr": "Rx11075F",
+			"code": "6A 00 53 E8[GetTextExtentForFontID] 83 E8 1C 73 02 31 C0 89 C1 8B 86 B4 01 00 00 90 90 90 90 90"
 		}
 	},
 	"tsa_font_block": [
