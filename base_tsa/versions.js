@@ -138,6 +138,8 @@
 		"70bd0434cd6e6c56a43844b26b59682acd45234f0e0d3ff17f56e4b3f059430d": ["th19", "v1.00a", "(original)"],
 		"e93984618c69ecaabdd0c4ea3a4fba4c2f851bb9c048cefce5143700a4c2414b": ["th19", "v1.00a", "(original, Steam release)"],
 		"d096bb605b1820f5bf0c561318d350ae74e1ace98562385fba01b21e319e5f8f": ["th19", "v1.00a", "(original, unpacked Steam release)"],
+//		"fe8b1584420d3c2cca08d66f3ab54d0b7a0b383f18a2eae5b3c9607f67405b72": ["th19", "v1.10c", "(original, Steam release)"],
+		"804107d9033601f69c251a5e6e449bd88d9add36591129db394765295893bac6": ["th19", "v1.10c", "(original, unpacked Steam release)"],
 		
 		"25f3978d107890f540b1b813bfdda141727fcbdfdf5d9fc8f107d5812ea9f8e7": ["th185", "v1.00a", "(original, unpacked Steam release)"],
 		"c0595fe926f2733612a29fac8288c50c6bdb0121ad6cce2bda9f2224b51671cc": ["th185", "v1.00a", "(original, unpacked Steam release with Steamless v3.0.0.11)"],
@@ -218,7 +220,8 @@
 		"afa0747120a4b7ea97478d04a61908236cc82fe3b377248088df71e29673d83c": ["th185_custom", "v1.00a", "(original)"],
 		
 		"3693504794c49e5282005602f0dff1a8addfb4c325293ff3f784b96bb9b42a09": ["th19_custom", "v0.01a", "(original)"],
-		"3c9ba1cfc15b20d9b2c4280bb8ef9101c1e7b003ed2bf4fd2eac6f793ff6e921": ["th19_custom", "v0.02a", "(original)"]
+		"3c9ba1cfc15b20d9b2c4280bb8ef9101c1e7b003ed2bf4fd2eac6f793ff6e921": ["th19_custom", "v0.02a", "(original)"],
+		"76922aae71fdf7c1141d8990afa7f3451721c4d348b7f3f7181e295ca06d1b22": ["th19_custom", "v1.10c", "(original)"],
 	},
 	"sizes": {
 		"409600": ["th06", "v0.08", "(original)"],
@@ -315,6 +318,8 @@
 		"2316288": ["th19", "v0.02a", "(original)"],
 		"1854464": ["th19", "v1.00a", "(original)"],
 		"2024664": ["th19", "v1.00a", "(original, Steam release)"],
+//		"2163416": ["th19", "v1.10c", "(original, Steam release)"],
+		"1993728": ["th19", "v1.10c", "(original, unpacked Steam release)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
@@ -333,6 +338,7 @@
 		"129536": ["th17_custom", "v1.00a", "(original)"],
 		"132096": ["th18_custom", "v0.01a", "(original)"],
 		"128512": ["th185_custom", "v1.00a", "(original)"],
-		"137216": ["th19_custom", "v0.02a", "(original)"]
+		"137216": ["th19_custom", "v0.02a", "(original)"],
+		"137728": ["th19_custom", "v1.10c", "(original)"],
 	}
 }
