@@ -138,7 +138,7 @@
 		"70bd0434cd6e6c56a43844b26b59682acd45234f0e0d3ff17f56e4b3f059430d": ["th19", "v1.00a", "(original)"],
 		"e93984618c69ecaabdd0c4ea3a4fba4c2f851bb9c048cefce5143700a4c2414b": ["th19", "v1.00a", "(original, Steam release)"],
 		"d096bb605b1820f5bf0c561318d350ae74e1ace98562385fba01b21e319e5f8f": ["th19", "v1.00a", "(original, unpacked Steam release)"],
-//		"fe8b1584420d3c2cca08d66f3ab54d0b7a0b383f18a2eae5b3c9607f67405b72": ["th19", "v1.10c", "(original, Steam release)"],
+		"fe8b1584420d3c2cca08d66f3ab54d0b7a0b383f18a2eae5b3c9607f67405b72": ["th19", "v1.10c", "(original, Steam release)"],
 		"804107d9033601f69c251a5e6e449bd88d9add36591129db394765295893bac6": ["th19", "v1.10c", "(original, unpacked Steam release)"],
 		
 		"25f3978d107890f540b1b813bfdda141727fcbdfdf5d9fc8f107d5812ea9f8e7": ["th185", "v1.00a", "(original, unpacked Steam release)"],
@@ -318,7 +318,7 @@
 		"2316288": ["th19", "v0.02a", "(original)"],
 		"1854464": ["th19", "v1.00a", "(original)"],
 		"2024664": ["th19", "v1.00a", "(original, Steam release)"],
-//		"2163416": ["th19", "v1.10c", "(original, Steam release)"],
+		"2163416": ["th19", "v1.10c", "(original, Steam release)"],
 		"1993728": ["th19", "v1.10c", "(original, unpacked Steam release)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
