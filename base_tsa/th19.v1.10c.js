@@ -28,7 +28,17 @@
 		},
 		"ruby_offset": {
 			"addr": [ "Rx110657", "Rx1109B1" ]
-		},	
+		},
+		"gentext#trophy_result_nickname": {
+			"addr": "Rx154F49",
+		},
+		"gentext#trophy_result_desc": {
+			"addr": [ "Rx155014", "Rx1550C7" ],
+		},
+		"gentext#trophy_ingame": {
+			"addr": "Rx15C08C",
+			"ids": "esi",
+		},
 		"gentext#ability_select_desc": {
 			"addr": "RxE42C5",
 			"cavesize": 8,
@@ -95,7 +105,15 @@
 		"textbox_width_2": {
 			"addr": "Rx11075F",
 			"code": "6A 00 53 E8[GetTextExtentForFontID] 83 E8 1C 73 02 31 C0 89 C1 8B 86 B4 01 00 00 90 90 90 90 90"
-		}
+		},
+		"trophy_ingame_lineflip_1": {
+			"code": "54",
+			"addr": [ "Rx15C093", "Rx15C0A9" ]
+		},
+		"trophy_ingame_lineflip_2": {
+			"code": "50",
+			"addr": [ "Rx15C0CF", "Rx15C0DB" ]
+		},
 	},
 	"tsa_font_block": [
 		"Rx22B09C",
