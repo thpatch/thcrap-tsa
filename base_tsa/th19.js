@@ -1,7 +1,7 @@
 {
 	"title": "東方獣王園　〜 Unfinished Dream of All Living Ghost",
 	"latest": [
-		"v0.02a", "v1.00a"
+		"v0.02a", "v1.10c"
 	],
 	"steam_appid": "2400340",
 	"breakpoints": {
