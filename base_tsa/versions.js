@@ -138,6 +138,7 @@
 		"70bd0434cd6e6c56a43844b26b59682acd45234f0e0d3ff17f56e4b3f059430d": ["th19", "v1.00a", "(original)"],
 		"e93984618c69ecaabdd0c4ea3a4fba4c2f851bb9c048cefce5143700a4c2414b": ["th19", "v1.00a", "(original, Steam release)"],
 		"d096bb605b1820f5bf0c561318d350ae74e1ace98562385fba01b21e319e5f8f": ["th19", "v1.00a", "(original, unpacked Steam release)"],
+		"8918fb39d511c9906ef769c6dd2761e7cb44ded5b7c4c1cd99c8992d12c078e9": ["th19", "v1.10c", "(original)"],
 		"fe8b1584420d3c2cca08d66f3ab54d0b7a0b383f18a2eae5b3c9607f67405b72": ["th19", "v1.10c", "(original, Steam release)"],
 		"804107d9033601f69c251a5e6e449bd88d9add36591129db394765295893bac6": ["th19", "v1.10c", "(original, unpacked Steam release)"],
 		
@@ -221,6 +222,7 @@
 		
 		"3693504794c49e5282005602f0dff1a8addfb4c325293ff3f784b96bb9b42a09": ["th19_custom", "v0.01a", "(original)"],
 		"3c9ba1cfc15b20d9b2c4280bb8ef9101c1e7b003ed2bf4fd2eac6f793ff6e921": ["th19_custom", "v0.02a", "(original)"],
+		"f9e654305216ee2af56a91ccca3041134a6ab7fccc665746592d371134fb72be": ["th19_custom", "v1.00a", "(original)"],
 		"76922aae71fdf7c1141d8990afa7f3451721c4d348b7f3f7181e295ca06d1b22": ["th19_custom", "v1.10c", "(original)"],
 	},
 	"sizes": {
