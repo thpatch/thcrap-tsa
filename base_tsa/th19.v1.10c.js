@@ -64,6 +64,16 @@
 			"line": 1,
 			"str": "eax"
 		},
+		"gentext#titlemsg": {
+			"addr": [ "Rx136307", "Rx136356" ],
+			"cavesize": 8,
+			"cave_exec": false,
+			
+			"file": "titlemsg.js",
+			"ids": "[edi]",
+			"line": "(eax-ecx*8) == Rx22C760",
+			"str": "eax"
+		}
 	},
 	"binhacks": {
 		"sprintf_th19_l": {
