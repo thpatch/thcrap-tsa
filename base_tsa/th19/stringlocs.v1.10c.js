@@ -25,6 +25,7 @@
 	
     "Rx19A50C": "th19 rules cards all",
     "Rx19A43C": "th19 rules cards random",
+    "Rx19A4D8": "th19 rules cards random",
     "Rx19A4C8": "th19 rules cards none",
     "Rx19A4EC": "th19 rules cards choose",
 	
@@ -59,6 +60,7 @@
     "Rx1A29E0": "th19 net roomrename 1",
     "Rx1A2A20": "th19 net roomrename 2",
     "Rx1A29FC": "th19 net alphanumeric",
+    "Rx1A2A74": "th19 net alphanumeric",
     "Rx1A2AA4": "th19 net room joining",
     "Rx1A2AD0": "th19 net room joined",
     "Rx1A2AE8": "th19 net waiting for opponent",
