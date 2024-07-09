@@ -3,7 +3,11 @@
 		"th19_file_load": {
 			"access": "re",
 			"code": "8b4c24048b5424086a00e8[RxD6760]83c404c20800"
-		}
+		},
+		"th19_net_status_deref": {
+			"access": "re",
+			"code": "8b44241c8b008944241c e9[RxCD2E0]"
+		},
 	},
 	"breakpoints": {
 		"file_size": {
@@ -131,6 +135,28 @@
 		"trophy_ingame_lineflip_2": {
 			"code": "50",
 			"addr": [ "Rx15C0CF", "Rx15C0DB" ]
+		},
+		"net_status_replace_func": {
+			"addr": "Rx15EBF0",
+			
+			// Code:
+			
+			// void th19_net_set_status(uint8_t* obj, size_t slot, const char* str) {
+			//     const char* str_real = strings_lookup(str, nullptr);
+			// 
+			//     const char** out = (const char**)(obj + 0x920 + (slot << 8));
+			// 
+			//     if (!*out || strcmp(*out, str_real) != 0) {
+			//         *out = str_real;
+			//         obj[0xE20] = 1;
+			//     }
+			// }			
+			
+			"code": "5356576a00ff74241ce8[strings_lookup]8b5c241c83c4088b7c24108bf0c1e3088b8c3b2009000085c9742f660f1f4400008a113a10751a84d274128a51013a5001750e83c10283c00284d275e433c0eb051bc083c80185c0740e89b43b20090000c687200e0000015f5e5bc3<int3:59>"
+		},
+		"net_status_deref_call": {
+			"addr": "Rx1621EB",
+			"code": "e8[codecave:th19_net_status_deref]"
 		},
 	},
 	"tsa_font_block": [
