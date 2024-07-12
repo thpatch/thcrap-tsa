@@ -1442,5 +1442,6 @@
   "data/scene/select/scenario/normal.png",
   "data/scene/select/scenario/hard.png",
   "data/scene/select/scenario/lunatic.png", //difficulty setting in scenario select, uses vastly different font
-  "data/profile/20_Name.png" // Profile naming pop-up, Soku has different aesthetic
+  "data/profile/20_Name.png", // Profile naming pop-up, Soku has different aesthetic
+  "data/menu/practice/Weather_list.png" // Weather list for practice mode
 ]
