@@ -1441,5 +1441,6 @@
   "data/scene/select/scenario/easy.png",
   "data/scene/select/scenario/normal.png",
   "data/scene/select/scenario/hard.png",
-  "data/scene/select/scenario/lunatic.png"//difficulty setting in scenario select, uses vastly different font
+  "data/scene/select/scenario/lunatic.png", //difficulty setting in scenario select, uses vastly different font
+  "data/profile/20_Name.png" // Profile naming pop-up, Soku has different aesthetic
 ]
