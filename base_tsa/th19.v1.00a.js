@@ -89,13 +89,6 @@
 		},
 	},
 	"codecaves": {
-		"th19_log2_mod11": {
-			// tab = np.zeros(11, dtype=int)
-			// tab[(1<<np.arange(8))%11] = np.arange(8)
-			// print(*(f'{x:02X}' for x in tab))
-			"access": "r",
-			"code": "00 00 01 00 02 04 00 07 03 06 05"
-		},
 		"th19_net_status_deref": {
 			"access": "re",
 			"code": "8b44241c8b008944241c e9[RxBF8B0]"

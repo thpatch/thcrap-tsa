@@ -4,6 +4,15 @@
 		"v0.02a", "v1.10c"
 	],
 	"steam_appid": "2400340",
+	"codecaves": {
+		"th19_log2_mod11": {
+			// tab = np.zeros(11, dtype=int)
+			// tab[(1<<np.arange(8))%11] = np.arange(8)
+			// print(*(f'{x:02X}' for x in tab))
+			"access": "r",
+			"code": "00 00 01 00 02 04 00 07 03 06 05"
+		},	
+	},
 	"breakpoints": {
 		"file_size": {
 			"file_name": "esi",

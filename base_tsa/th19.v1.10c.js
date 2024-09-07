@@ -77,7 +77,31 @@
 			"ids": "[edi]",
 			"line": "(eax-ecx*8) == Rx22C760",
 			"str": "eax"
-		}
+		},
+		"spell_id": {
+			"separator": "+",
+			"spell_id": [
+				{   // Character ID
+					"type": "u32",
+					"param": "[Rx22B194 - ((([[ebp-0x590]+0x563C] - Rx1D1A60) / 0x3c) * 0xC8)]",
+					//        [Rx2079DC - ((([[ebp-0x540]+0x563C] - Rx1AE470) / 0x3c) * 0xC0)]"
+				},
+				{   // Subroutine name
+					"type": "s",
+					"param": "[[[[[[[ebp-0x590]+0x55C8]+0xC]+0x1018]+0x1218]+0x20c]+[[[[ebp-0x590]+0x55C8]+0xC]+0x4]*8]",
+				},
+				{   // Difficulty
+					"type": "u8",
+					"param": "[<codecave:th19_log2_mod11> + byte ptr[[[[ebp-0x590]+0x55C8]+0xC]+0x1020] % 11]",
+					"count_down": true
+				},
+			],
+			"addr": "Rx103067",
+			"cavesize": 7,
+		},
+		"spell_name": {
+			"addr": "RxF6976",
+		},
 	},
 	"binhacks": {
 		"sprintf_th19_l": {
