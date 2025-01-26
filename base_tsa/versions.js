@@ -22,7 +22,7 @@
 		"8198b75faf42ad4ab7e509a089bfbb3a4ffb03927350b70926227a6e26255914": ["th07", "v1.00a",  "(original)"],
 		"35467eaf8dc7fc85f024f16fb2037255f151cefda33cf4867bc9122aaa2e80ca": ["th07", "v1.00b",  "(original)"],
 		"275cfdcab6ad463be4d3d646ddc21811dc65cb1c7e88c7b18bb8a89f25316655": ["th07", "v1.00b",  "English patch (not recommended)"],
-		"3383d3e867259977fe3e1ae56f69544133b28e7c38e92143dc944a0a0b345e7a": ["th07", "v1.00b",  "original with some patches"],
+		"3383d3e867259977fe3e1ae56f69544133b28e7c38e92143dc944a0a0b345e7a": ["th07", "v1.00b",  "Ultra mod"],
 
 		"a0e04caa9e51f305009aa434ce5bd787424224b972ad72470a77827d36ac8081": ["th08", "v0.03",  "(original)"],
 		"e287dbb4d19781f2da9c161ac0010df7e52e8c8a238c339838a631cfc3b02682": ["th08", "v1.00",  "(original)"],
