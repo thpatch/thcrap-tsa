@@ -47,6 +47,7 @@
 		"2f14760b6fbbf57549541583283badb9a19a4222b90f0a146d5aa17f01dc9040": ["th10", "v1.00a", "(original)"],
 		"d28e36a6596a4c64b441c148d65a8c12b68e4a683f1d14e7df83d43f92c57d71": ["th10", "v1.00a", "English patch (not recommended)"],
 		"3bdb72cf3d7c33c183359d368c801490dbcf54e6b3b2f060b95d72250b6866a3": ["th10", "v1.00a", "(original, Steam release)"],
+		"a5651450206fd76c113bd13bc4bb33219aea779b325470035b81961d3bbf2c22": ["th10", "v1.00a", "(original, Steamless v3.1.0.5)"],
 
 		"ea10d27bb7af17c72f7c4ba21d98ef2d23f36a5625affc40d63de88d963dffd1": ["alcostg", "v1.00a", "(original)"],
 
