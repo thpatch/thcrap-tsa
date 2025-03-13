@@ -91,6 +91,7 @@
 		"422f40aa176c9aab7d0178ce6033802b4143921a5e0e463ef99259ef6d100a58": ["th13", "v1.00c", "(original)"],
 		"2368f892d2d15ce96e546de33290501bccd03188b875649012d43616314d21c3": ["th13", "v1.00c", "English patch (not recommended)"],
 		"1a6e3eb3b65238a739d7250606e9cb233d16b505c3340a11c4584b583388930d": ["th13", "v1.00c", "(original, Steam release)"],
+		"1ce6c1d0fa6ad0049611a6249e986a1b2a8140481d358abee208f098fdf7fcbe": ["th13", "v1.00c", "(original, Steamless v3.1.0.5)"],
 
 		"72a7e52d978fb7fcfc0a3a2ced1096305b9161279a029bbf9df2f0b8cb0fe84a": ["th14", "v0.01a",  "(original, Reitaisai trial)"],
 		"e21309b535efb6f91a2460ff66a070cf0d96559bee79b0ea5d504e747dcc4b57": ["th14", "v0.01a",  "(original, Reitaisai trial, XP patch)"],
