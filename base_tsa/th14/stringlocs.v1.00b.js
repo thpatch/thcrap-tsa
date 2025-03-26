@@ -29,12 +29,12 @@
 	"Rxbf988": "th14_replay_user_find",
 	"Rxbf268": "th14_scorefile_fn",
 	"Rxbfa78": "th13_replay_spell_practice",
-	"Rxbfa40": "th13_replay_empty_user",
-	"Rxbf9d0": "th13_replay_empty",
-	"Rxbf998": "th13_replay_filled",
+	"Rxbfa40": "th10_replay_empty_user",
+	"Rxbf9d0": "th10_replay_empty",
+	"Rxbf998": "th10_replay_filled",
 	"Rxbec88": "th13_save_replay_spell_practice",
 	"Rxbecac": "th13_save_replay_empty",
-	"Rxbec64": "th13_save_replay_filled",
+	"Rxbec64": "th10_save_replay_filled",
 	"Rxbed04": "th13_saving_replay_spell_practice",
-	"Rxbecd8": "th13_saving_replay"
+	"Rxbecd8": "th10_saving_replay"
 }
