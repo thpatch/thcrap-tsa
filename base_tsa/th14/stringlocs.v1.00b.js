@@ -8,7 +8,8 @@
 	"0x4bfac0": "th10 Result Known Spell",
 	"0x4bfad4": "th10 Result Unknown Spell",
 	"0x4bfcdc": "th13 spell nothing",
-	"Rxbfd28": "th13 Spell Practice Unknown",
+	"Rxbfd1c": "th13 practice spell name known",
+	"Rxbfd28": "th13 practice spell name unknown",
 	"0x4bfd48": "th13_ascii_spell_score",
 	"0x4bfd78": "th13_ascii_spell_unknown",
 	"0x4bfd5c": "th13_ascii_spell_game",
@@ -26,5 +27,14 @@
 	"Rxbed8c": "th13_ascii_credit",
 	"Rxbed98": "th14_replay_format",
 	"Rxbf988": "th14_replay_user_find",
-	"Rxbf268": "th14_scorefile_fn"
+	"Rxbf268": "th14_scorefile_fn",
+	"Rxbfa78": "th13_replay_spell_practice",
+	"Rxbfa40": "th13_replay_empty_user",
+	"Rxbf9d0": "th13_replay_empty",
+	"Rxbf998": "th13_replay_filled",
+	"Rxbec88": "th13_save_replay_spell_practice",
+	"Rxbecac": "th13_save_replay_empty",
+	"Rxbec64": "th13_save_replay_filled",
+	"Rxbed04": "th13_saving_replay_spell_practice",
+	"Rxbecd8": "th13_saving_replay"
 }
