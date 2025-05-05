@@ -24,6 +24,12 @@
 			"cavesize": 7
 		}
 	},
+	"tsa_font_block": {
+		"addr": "Rx1B4770",
+		"offset": 4,
+		"min": 0,
+		"max": 22
+	},
 	"file_load_func": "<codecave:th20_file_load>",
 	"free_func": "<Rx157254>"
 }
