@@ -21,7 +21,8 @@
 		},
 		"th20_lzss_fix": {
 			"addr": "Rx139B9A",
-			"code": "31C08945EC8B450CFFC8"
+			"code": "31C08945EC8B450CFFC8",
+			"enable": false
 		}
 	},
 	"breakpoints": {
