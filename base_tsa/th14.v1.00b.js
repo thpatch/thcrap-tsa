@@ -55,7 +55,7 @@
 		},
 		"ddc_textbox_size_1": {
 			"addr": "0x4327ef",
-			"code": "6a0053e8[GetTextExtentForFontID]f30f100d781a4c0083e81c730331c0"
+			"code": "6a0053e8[GetTextExtentForFontID]f30f100d781a4c0083e81c730231c0"
 		},
 		"ddc_textbox_size_2": {
 			"addr": "0x4329e4",
