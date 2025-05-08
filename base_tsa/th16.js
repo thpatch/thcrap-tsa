@@ -12,10 +12,6 @@
 	"binhacks": {
 		"music_title_prepare": {
 			"code": "8b54241c 52 31c0 50 50 50"
-		},
-		"th15_textbox_size": {
-			"code": "51 e8[GetTextExtent] 83e81c 7302 31c0 f30f1097b4010000 f30f108fb0010000 8b8f90010000 c1e902 909090909090909090",
-			"title": "Correct text length calculation for the TH15 variety of Fairy Wars-style text boxes"
 		}
 	},
 	"breakpoints": {

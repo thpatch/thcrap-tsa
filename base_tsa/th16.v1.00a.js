@@ -61,7 +61,8 @@
 			"addr": [
 				"Rx2a5d0",
 				"Rx2a7c6"
-			]
+			],
+			"code": "6a00 51 e8[GetTextExtentForFontID] 83e81c 7302 31c0 f30f1097b4010000 f30f108fb0010000 8b8f90010000 c1e902 <nop:7>",
 		},
 		"spell_align": {
 			"addr": "Rx6db40"

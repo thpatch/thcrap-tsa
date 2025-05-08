@@ -1,10 +1,6 @@
 {
 	"steam_appid": "937580",
 	"binhacks": {
-		"ddc_textbox_size": {
-			"code": "50e8[GetTextExtent]f30f1015b58c4c0083e81c730331c090",
-			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"
-		},
 		"spell_align": {
 			"title": "Spell card alignment",
 			"code": "8b4c91088bc18b955cffffffc1f8088b9482d8f487010fb6c18d0c408b82240100008b14c88b451c03c0898560ffffff8b471cc1e80c83e00189855cffffffff75185689d6e8[GetTextExtentForFontID]89f28b8d54ffffff83c008d1f090909090909090"

@@ -6,7 +6,7 @@
 			"title": "Safe sprintf (call #1)"
 		},
 		"fw_textbox_size": {
-			"code": "909056e8[GetTextExtent]50db0424589090909090909090909090",
+			"code": "6a0056e8[GetTextExtentForFontID]50db0424589090909090909090909090",
 			"title": "Correct text length calculation for Fairy Wars-style text boxes"
 		},
 		"spell_align": {

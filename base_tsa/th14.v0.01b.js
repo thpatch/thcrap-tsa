@@ -17,12 +17,13 @@
 		"log_restore": {
 			"addr": "0x4075d0"
 		},
-		"ddc_textbox_size": {
-			"addr": [
-				"0x430b70",
-				"0x430d98"
-			],
-			"code": "53e8[GetTextExtent]f30f1015b8e64b0083e81c730331c090"
+		"ddc_textbox_size_1": {
+			"addr": "0x430B6C",
+			"code": "66906a0053e8[GetTextExtentForFontID]f30f1015b8e64b0083e81c730331c090"
+		},
+		"ddc_textbox_size_2": {
+			"addr": "0x430D95"
+			"code": "906a0053e8[GetTextExtentForFontID]f30f1015b8e64b0083e81c730331c090"
 		},
 		"spell_name_fetch": {
 			"addr": "0x41cd7b"
