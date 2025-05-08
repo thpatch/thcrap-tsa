@@ -89,13 +89,6 @@
 		},
 	},
 	"codecaves": {
-		"th19_log2_mod11": {
-			// tab = np.zeros(11, dtype=int)
-			// tab[(1<<np.arange(8))%11] = np.arange(8)
-			// print(*(f'{x:02X}' for x in tab))
-			"access": "r",
-			"code": "00 00 01 00 02 04 00 07 03 06 05"
-		},
 		"th19_net_status_deref": {
 			"access": "re",
 			"code": "8b44241c8b008944241c e9[RxBF8B0]"
@@ -120,6 +113,10 @@
 			"addr": "RxBF8E2",
 			"code": "ff7520f30f1185e0faffffff7504e8[strings_vsprintf]8985f4faffff90909090908b4e2083c40c"
 		},
+		"sprintf_th19_ascii": {
+            "addr": "RxD79DC",
+			"code": "ff751050e8[strings_vsprintf]8985fcfeffff8b87989701009090909090909083c40c"
+		},
 		"spell_align": {
 			"addr": "RxBFAEA",
 			"code": "5351e8[GetTextExtentForFontID]83c008d1e0f30f1095e8faffff660f6ec80f5bc9f30f10474c8b85e4faffff8b40088bd0c1fa08<nop:35>"
@@ -140,6 +137,13 @@
 				"RxBFAE4",
 				"RxBFB90",
 				"RxBFBA1",
+                
+                // ascii
+                "RxD7A26",
+                "RxD7A60",
+                "RxD7A97",
+                "RxD7ACE",
+                "RxD7AF6",
 			]
 		},
 		"trophy_ingame_lineflip_1": {

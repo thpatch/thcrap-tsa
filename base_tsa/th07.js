@@ -50,7 +50,7 @@
 		"ascii_patch_2": {
 			"title": "Hook ZUN's variadic ASCII printing function to perform a bunch of intricate hacks in C++ code (#2: Return from the inner function)",
 			"code": "c3 909090909090"
-		},
+		}
 	},
 	"title": "東方妖々夢　～ Perfect Cherry Blossom",
 	"url_update": "http://www16.big.or.jp/~zun/html/th07_update.html",

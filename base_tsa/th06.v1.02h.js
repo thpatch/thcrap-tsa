@@ -277,7 +277,7 @@
 			"addr": "Rx1cb67",
 			"cavesize": 5
 		},
-        "strings_lookup": {
+        "strings_lookup#cavesize_6": {
             "addr": [
                 "Rx1e623",
                 "Rx1e4d3"

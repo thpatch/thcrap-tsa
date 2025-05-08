@@ -24,7 +24,8 @@
 			"cavesize": 5
 		},
 		"nsml_CPackageFileReader_readFile": {
-			"cavesize": 6
+			"cavesize": 6,
+			"stack_clear_size": 20
 		}
 	}
 }

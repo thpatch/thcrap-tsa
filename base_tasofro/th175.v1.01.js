@@ -18,7 +18,7 @@
 			// if it doesn't free some resources before the OS frees the entire process.
 		}
 	},
-	"breakpoints": {		
+	"breakpoints": {
 		"th175_open_file": {
 			"addr": "Rx19177"
 		},

@@ -1392,5 +1392,56 @@
   "data/se/udonge/056.cv3",
   "data/se/yukari/004.cv3",
   "data/se/yukari/005.cv3",
-  "data/weather/effect/effect.pat"
+  "data/weather/effect/effect.pat",
+  "data/scene/logo/0000.png", //'Presented by' screen
+  "data/scene/select/bg/bg_name00.png", // Stage names in stage select, as it uses vastly different font
+  "data/scene/select/bg/bg_name01.png",
+  "data/scene/select/bg/bg_name02.png",
+  "data/scene/select/bg/bg_name03.png",
+  "data/scene/select/bg/bg_name04.png",
+  "data/scene/select/bg/bg_name05.png",
+  "data/scene/select/bg/bg_name10.png",
+  "data/scene/select/bg/bg_name11.png",
+  "data/scene/select/bg/bg_name12.png",
+  "data/scene/select/bg/bg_name13.png",
+  "data/scene/select/bg/bg_name14.png",
+  "data/scene/select/bg/bg_name15.png",
+  "data/scene/select/bg/bg_name16.png",
+  "data/scene/select/bg/bg_name17.png",
+  "data/scene/select/bg/bg_name18.png",
+  "data/scene/select/bg/bg_name99.png",
+  "data/infoeffect/st00.png", // BGM name sprites, as in Soku the game loads the same sprite for both stage select screen and during a battle instead of two different ones like in SWR... despite them still reading the sprites in different ways (one loads the sprite from left to right, the other right to left)
+  "data/infoeffect/st01.png",
+  "data/infoeffect/st02.png",
+  "data/infoeffect/st03.png",
+  "data/infoeffect/st04.png",
+  "data/infoeffect/st05.png",
+  "data/infoeffect/st10.png",
+  "data/infoeffect/st11.png",
+  "data/infoeffect/st12.png",
+  "data/infoeffect/st13.png",
+  "data/infoeffect/st14.png",
+  "data/infoeffect/st15.png",
+  "data/infoeffect/st16.png",
+  "data/infoeffect/st17.png",
+  "data/infoeffect/st18.png",
+  "data/infoeffect/st19.png",
+  "data/infoeffect/st20.png",
+  "data/infoeffect/st21.png",
+  "data/infoeffect/st22.png",
+  "data/infoeffect/weatherNameB005.png", //two SWR weathers that were reworked in Soku and the pop-up text was updated accordingly
+  "data/infoeffect/weatherNameB010.png",
+  "data/guide/03.png", //online character select guidebar, as the screen was reworked
+  "data/guide/04.png", //online stage select guidebar, as the screen was also reworked
+  "data/guide/90.png", //offline character select guidebar
+  "data/guide/91.png", //offline stage select guidebar
+  "data/guide/92.png", //scenario select guidebar, as this screen wa reworked as well
+  "data/scene/select/bg/bg_select.png", //stage select header; different font and sprite size
+  "data/scene/select/scenario/title.png", //scenario select header, same as above
+  "data/scene/select/scenario/easy.png",
+  "data/scene/select/scenario/normal.png",
+  "data/scene/select/scenario/hard.png",
+  "data/scene/select/scenario/lunatic.png", //difficulty setting in scenario select, uses vastly different font
+  "data/profile/20_Name.png", // Profile naming pop-up, Soku has different aesthetic
+  "data/menu/practice/Weather_list.png" // Weather list for practice mode
 ]

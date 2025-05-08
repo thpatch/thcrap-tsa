@@ -2,6 +2,7 @@
 	binhacks: {
 		ret: {
 			addr: [
+				"Rx25270",
 				"Rx12e820",
 				"Rx130630",
 				"Rx132af0"

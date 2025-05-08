@@ -89,6 +89,9 @@
 		"sprintf_th185_2": {
 			"addr": "Rx88f2b"
 		},
+		"sprintf_th18_ascii": {
+			"addr": "Rx2277d"
+		},
 		"sprintf_rep": {
 			"addr": [
 				// draw_ltext
@@ -103,7 +106,14 @@
 				// draw_ctext
 				"Rx88f81",
 				"Rx89039",
-				"Rx8904a"
+				"Rx8904a",
+				
+				// ascii
+				"Rx227bf",
+				"Rx227f9",
+				"Rx22830",
+				"Rx22867",
+				"Rx2288e",
 			]
 		},
 		"center_align": {

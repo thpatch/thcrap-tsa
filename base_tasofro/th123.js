@@ -4,10 +4,6 @@
 			"code": "8d041f 50 52 50 e8[tasofro_CharNextA] 5a 59 2bc1 b104 50 2ac8 8b041f 0fc8 84c9 7407 c1e808 fec9 ebf5 59 90909090",
 			"title": "Move a character to eax, without assuming a 2-bytes encoding."
 		},
-		"strings_lookup": {
-			"code": "8bd4 57 52 50 e8[strings_lookup] 59 8bd8 90",
-			"title": "Calls strings_lookup to give thcrap a chance to replace the game's strings."
-		}
 	},
 	"title": "東方非想天則 ~ 超弩級ギニョルの謎を追え",
 	"url_update": "http://tasofro.net/touhou123/download.html",
@@ -35,7 +31,8 @@
 		},
 		"th105_replaceReadFile": {
 			"file_object": "esi",
-			"cavesize": 6
+			"cavesize": 6,
+			"stack_clear_size": 20
 		},
 		"th105_close_file": {
 			"file_object": "esi",
@@ -52,6 +49,14 @@
 			"string": "edx",
 			"delim": "byte ptr [[ebp+0x0c]]",
 			"cavesize": 19
-		}
+		},
+		strings_lookup: {
+			str: "eax",
+			cavesize: 5
+		},
+		"strings_lookup#2": {
+			str: "[esp+0xc]",
+			cavesize: 5
+		},
 	}
 }

@@ -3,8 +3,12 @@
 		"mov_char_to_eax": {
 			"addr": "Rx129B3"
 		},
-		"strings_lookup": {
-			"addr": "Rx12925"
+		ret: {
+			// At a first glance, the code at this address looks like some
+			// anti-tampering code? At least it calls IsDebuggerPresent.
+			// And it tends to crash the game when thcrap is loaded, so
+			// let's just ignore it.
+			addr: "Rx41FF4C"
 		}
 	},
 	"breakpoints": {
@@ -33,6 +37,12 @@
 		},
 		"th105_cv0_escape_comma": {
 			"addr": "Rx42112A"
-		}
+		},
+		strings_lookup: {
+			addr: "Rx12923"
+		},
+		"strings_lookup#2": {
+			addr: "Rx43736"
+		},
 	}
 }

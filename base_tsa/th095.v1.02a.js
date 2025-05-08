@@ -86,7 +86,13 @@
 		},
 		"gentext#help_line_2": {
 			"addr": "Rx28c12"
-		}
+		},
+        "strings_lookup#cavesize_5": {
+            "addr": "Rx1b0f3"
+        },
+        "strings_lookup#cavesize_6": {
+            "addr": "Rx1b283"
+        }
 	},
 	"init_stages": [
 		{

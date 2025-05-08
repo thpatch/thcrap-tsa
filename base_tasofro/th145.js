@@ -20,7 +20,8 @@
 			cavesize: 10
 		},
 		th135_replaceReadFile: {
-			cavesize: 6
+			cavesize: 6,
+			stack_clear_size: 20
 		},
 		detour_plugin: {
 			cavesize: 5,

@@ -323,11 +323,7 @@
 		"ascii_params": {
 			".Scale": "0x6228",
 			"CharWidth": 14.0
-		},
-        "strings_lookup": {
-            "str": "[ebp+0x0c]",
-            "cavesize": 6
-        }
+		}
 	},
 	"tlnotes": {
 		"region_size": [384, 412],

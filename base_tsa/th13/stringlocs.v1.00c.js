@@ -1,6 +1,8 @@
 {
 	"Rxac930": "Music Room Unknown Title",
-	"Rxac99c": "th13 Spell Practice Unknown",
+	"Rxac99c": "th13 practice spell name unknown",
+	"Rxac990": "th13 practice spell name known",
+	"Rxac950": "th13 spell nothing",
 	"Rxac84c": "th10 Result Known Spell",
 	"Rxac860": "th10 Result Unknown Spell",
 	"Rxac5ec": "th10 Music Room spoiler 1",
