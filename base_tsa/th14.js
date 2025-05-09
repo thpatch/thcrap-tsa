@@ -5,14 +5,6 @@
 			"code": "50e8[strings_vsprintf]8985fcfeffff",
 			"title": "Safe sprintf (long, call)"
 		},
-		"ddc_textbox_size": {
-			"code": "53e8[GetTextExtent]f30f101583e81c730331c090",
-			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"
-		},
-		"ddc_textbox_size_full": {
-			"code": "53e8[GetTextExtent]f30f100d83e81c730331c090",
-			"title": "Correct text length calculation for the DDC variety of Fairy Wars-style text boxes"
-		},
 		"spell_align": {
 			"code": "8b451c8d1c008b461cc1e80b83e00189442414 ff7518ff74242ce8[GetTextExtentForFontID]83c008d1e08b562c90909090909090909090",
 			"title": "Spell card alignment"

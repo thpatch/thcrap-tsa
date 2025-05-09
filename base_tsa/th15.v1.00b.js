@@ -43,10 +43,10 @@
 		},
 		"ddc_textbox_size": {
 			"addr": [
-				"0x4382f0",
-				"0x4384f4"
+				"0x4382ed",
+				"0x4384f1"
 			],
-			"code": "50e8[GetTextExtent]f30f100da1454c0083e81c730331c090"
+			"code": "906a0050e8[GetTextExtentForFontID]f30f100da1454c0083e81c730331c090"
 		},
 		"spell_name_fetch": {
 			"addr": "0x4207eb"
