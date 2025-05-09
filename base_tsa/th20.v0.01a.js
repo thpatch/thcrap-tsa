@@ -88,6 +88,14 @@
 			"ids": "[ebp-0x80]",
 			"file": "stonetext.js"
 		},
+		"gentext#stone_name_result": {
+			"addr": "Rx124678",
+			"cavesize": 9,
+			"cave_exec": false,
+			"str": "eax",
+			"ids": "edx",
+			"file": "stonetext.js"
+		},
 		"gentext#trophy_name": {
 			"addr": "Rx12A38F",
 			"cavesize": 9,
