@@ -36,6 +36,7 @@
     "Rx1728F8": "th20 clear bonus",
     "Rx170BB8": "th20 notice new gem",
     "Rx170BD0": "th20 notice equip",
+    "Rx173680": "th20 weapon amount",
     "Rx173BB8": "Music Room Unknown Title",
     "Rx173AA0": "th10 Music Room spoiler 1",
     "Rx173AE0": "th10 Music Room spoiler 2",
