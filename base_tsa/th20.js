@@ -1,5 +1,9 @@
 
 {
+    "title": "東方錦上京 ～ Fossilized Wonders",
+    "latest": [
+        "v0.01a"
+    ],
     "breakpoints": {
         "music_title": {
             "format_id": "Music Room Numbered Title",
