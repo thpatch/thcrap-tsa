@@ -14,6 +14,14 @@
 			"addr": "Rx1D6E8",
 			"code": "E9 5C 03 00 00 90 90 90 90 90 90"
 		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx12CA69",
+			"code": "50"
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx12CABD",
+			"code": "4c"
+		},
 		"th20_list_crash_fix": {
 			"addr": "Rx11AD0",
 			"code": "89C88B4C24040F57C00F1340183B4814740AE819000000C20400CCCC8B5108895014E809000000C20400CCCCCCCCCC"
@@ -96,6 +104,15 @@
 			"str": "eax",
 			"ids": [ "[ebp+0x8]", "[ebp+0xC]" ],
 			"line": "[ebp+0x10]",
+			"file": "trophy.js",
+		},
+		"gentext#ingame_trophy_name": {
+			"addr": "Rx12CA58",
+			"cavesize": 9,
+			"cave_exec": false,
+			"str": "eax",
+			"ids": "[ebp-0x20]",
+			"line": 0,
 			"file": "trophy.js",
 		}
 	},
