@@ -79,6 +79,24 @@
 			"str": "edx",
 			"ids": "[ebp-0x80]",
 			"file": "stonetext.js"
+		},
+		"gentext#trophy_name": {
+			"addr": "Rx12A38F",
+			"cavesize": 9,
+			"cave_exec": false,
+			"str": "eax",
+			"ids": "eax",
+			"line": 0,
+			"file": "trophy.js",
+		},
+		"gentext#trophy_desc": {
+			"addr": "Rx12DF23",
+			"cavesize": 8,
+			"eip_jump_dist": "0x4c",
+			"str": "eax",
+			"ids": [ "[ebp+0x8]", "[ebp+0xC]" ],
+			"line": "[ebp+0x10]",
+			"file": "trophy.js",
 		}
 	},
 	"tsa_font_block": {
