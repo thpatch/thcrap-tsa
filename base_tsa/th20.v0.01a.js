@@ -35,6 +35,15 @@
 			"addr": "Rx139B9A",
 			"code": "31C08945EC8B450CFFC8",
 			"enable": false
+		},
+		// Not calling strings_lookup cause it's gonna get called anyways by the safe sprintf hack anyways
+		"std_string_to_literal": {
+			"addr": [ "RxE1921", "RxE19AB" ],
+			"code": "b8<Rx170BB8><nop:29>"
+		},
+		"std_string_to_literal_2": {
+			"addr": "RxE1A2C",
+			"code": "b8<Rx170BD0><nop:29>"
 		}
 	},
 	"breakpoints": {
@@ -94,6 +103,14 @@
 			"cave_exec": false,
 			"str": "eax",
 			"ids": "edx",
+			"file": "stonetext.js"
+		},
+		"gentext#stone_name_unlock": {
+			"addr": "RxE1912",
+			"cavesize": 12,
+			"cave_exec": false,
+			"str": "eax",
+			"ids": "[ebp-0x44]",
 			"file": "stonetext.js"
 		},
 		"gentext#trophy_name": {
