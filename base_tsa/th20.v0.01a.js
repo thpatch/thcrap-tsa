@@ -45,6 +45,40 @@
 		"file_loaded": {
 			"addr": "Rx13B24D",
 			"cavesize": 7
+		},
+		"gentext#stone_name": {
+			"addr": "Rx11B5B4",
+			"cavesize": 19,
+			"cave_exec": false,
+			"str": "edx",
+			"ids": "[ebp-0x90]",
+			"line": 0,
+			"file": "stonetext.js"
+		},
+		"gentext#stone_name_desc": {
+			"addr": "Rx11B824",
+			"cavesize": 16,
+			"cave_exec": false,
+			"str": "edx",
+			"ids": "[ebp-0x58]",
+			"file": "stonetext.js"
+		},
+		"gentext#stone_desc": {
+			"addr": "Rx11B942",
+			"cavesize": 25,
+			"cave_exec": false,
+			"str": "edx",
+			"ids": [ "[ebp-0x58]", 0 ],
+			"line": "[ebp-0x6C]",
+			"file": "stonetext.js"
+		},
+		"gentext#stone_select_name": {
+			"addr": "Rx11BFFE",
+			"cavesize": 16,
+			"cave_exec": false,
+			"str": "edx",
+			"ids": "[ebp-0x80]",
+			"file": "stonetext.js"
 		}
 	},
 	"tsa_font_block": {
