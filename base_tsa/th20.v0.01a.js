@@ -82,52 +82,40 @@
 		"gentext#stone_name": {
 			"addr": "Rx11B5B4",
 			"cavesize": 19,
-			"cave_exec": false,
 			"str": "edx",
 			"ids": "[ebp-0x90]",
 			"line": 0,
-			"file": "stonetext.js"
 		},
 		"gentext#stone_name_desc": {
 			"addr": "Rx11B824",
 			"cavesize": 16,
-			"cave_exec": false,
 			"str": "edx",
 			"ids": "[ebp-0x58]",
-			"file": "stonetext.js"
 		},
 		"gentext#stone_desc": {
 			"addr": "Rx11B942",
 			"cavesize": 25,
-			"cave_exec": false,
 			"str": "edx",
 			"ids": [ "[ebp-0x58]", 0 ],
 			"line": "[ebp-0x6C]",
-			"file": "stonetext.js"
 		},
 		"gentext#stone_select_name": {
 			"addr": "Rx11BFFE",
 			"cavesize": 16,
-			"cave_exec": false,
 			"str": "edx",
 			"ids": "[ebp-0x80]",
-			"file": "stonetext.js"
 		},
 		"gentext#stone_name_result": {
 			"addr": "Rx124678",
 			"cavesize": 9,
-			"cave_exec": false,
 			"str": "eax",
 			"ids": "edx",
-			"file": "stonetext.js"
 		},
 		"gentext#stone_name_unlock": {
 			"addr": "RxE1912",
 			"cavesize": 12,
-			"cave_exec": false,
 			"str": "eax",
 			"ids": "[ebp-0x44]",
-			"file": "stonetext.js"
 		},
 		"gentext#trophy_name": {
 			"addr": "Rx12A38F",
@@ -135,8 +123,6 @@
 			"cave_exec": false,
 			"str": "eax",
 			"ids": "eax",
-			"line": 0,
-			"file": "trophy.js",
 		},
 		"gentext#trophy_desc": {
 			"addr": "Rx12DF23",
@@ -144,17 +130,27 @@
 			"eip_jump_dist": "0x4c",
 			"str": "eax",
 			"ids": [ "[ebp+0x8]", "[ebp+0xC]" ],
-			"line": "[ebp+0x10]",
-			"file": "trophy.js",
+			"line": "[ebp+0x10]"
 		},
 		"gentext#ingame_trophy_name": {
 			"addr": "Rx12CA58",
 			"cavesize": 9,
 			"cave_exec": false,
 			"str": "eax",
-			"ids": "[ebp-0x20]",
-			"line": 0,
-			"file": "trophy.js",
+			"ids": "[ebp-0x20]"
+		},
+		"music_title": {
+			"addr": "Rx122765",
+			"cavesize": 10,
+			"track": "[ebp-0x18]",
+			"str": "[esp+0x4]"
+		},
+		"music_cmt": {
+			"addr": "Rx122887",
+			"cavesize": 10,
+			"str": "[esp+0x4]",
+			"line_num": "[ebp-0x1c]",
+			"track": "[[ebp-0x14]+0x484]"
 		}
 	},
 	"tsa_font_block": {
