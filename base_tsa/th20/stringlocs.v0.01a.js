@@ -1,6 +1,6 @@
 {
-    "RxE1921": "th20 notice new gem",
-    "RxE19AB": "th20 notice equip",
+    "Rx170BB8": "th20 notice new gem",
+    "Rx170BD0": "th20 notice equip",
     "Rx173BB8": "Music Room Unknown Title",
     "Rx173AA0": "th10 Music Room spoiler 1",
     "Rx173AE0": "th10 Music Room spoiler 2",
