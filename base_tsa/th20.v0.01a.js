@@ -44,6 +44,22 @@
 		"std_string_to_literal_2": {
 			"addr": "RxE1A2C",
 			"code": "b8<Rx170BD0><nop:29>"
+		},
+
+		"safe_vsprintf_1": {
+			"addr": [ "Rx4A7F2", "Rx4A9B6", "Rx4AC06" ],
+			"code": "55 e8[strings_vsprintf] 8985 f0faffff"
+		},
+		"safe_sprintf_2": {
+			"addr": "Rx6EFB4",
+			"code": "55 e8[strings_vsprintf] 8985 f0feffff"
+		},
+		"safe_sprintf_3": {
+			"addr": [ "Rx53A23", "Rx53B03" ],
+			"code": "51 ff75 0c ff75 08 e8[strings_vsprintf] 83c4 0c 50 <nop:33>"
+		},
+		"sprintf_rep": {
+			"addr": [ "Rx4A8C7", "Rx4AA5B", "Rx4AB1F", "Rx4ACAB", "Rx4AD67", "Rx6EFDA" ]
 		}
 	},
 	"breakpoints": {
