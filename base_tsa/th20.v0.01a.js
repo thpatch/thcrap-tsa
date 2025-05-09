@@ -105,6 +105,33 @@
 			"str": "edx",
 			"ids": "[ebp-0x80]",
 		},
+
+		"gentext#stone_common_line_0": {
+			"addr": "Rx11BA21",
+			"cavesize": 27,
+			"ids": [ "[ebp-0x74]", 0 ],
+			"str": "edx"
+		},
+		"gentext#stone_common_line_1": {
+			"addr": "Rx11BA96",
+			"cavesize": 26,
+			"ids": [ "[ebp-0x74]", 0 ],
+			"str": "edx"
+		},
+		"gentext#stone_common_line_2_3__left_right": {
+			"addr": "Rx11BB6C",
+			"cavesize": 25,
+			"ids": [ "[ebp-0x58]", 0 ],
+			"line": "[ebp-0x64]",
+			"str": "eax"
+		},
+		"gentext#stone_common_line_2_3__bottom": {
+			"addr": "Rx11BC2D",
+			"cavesize": 25,
+			"line": "[ebp-0x68]",
+			"ids": [ "[ebp-0x58]", 0 ],
+			"str": "edx"
+		},
 		"gentext#stone_name_result": {
 			"addr": "Rx124678",
 			"cavesize": 9,
