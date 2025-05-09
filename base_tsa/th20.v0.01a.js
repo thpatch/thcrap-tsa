@@ -10,6 +10,10 @@
 		}
 	},
 	"binhacks": {
+		"fix-focus-stealing": {
+			"addr": "Rx1D6E8",
+			"code": "E9 5C 03 00 00 90 90 90 90 90 90"
+		},
 		"th20_list_crash_fix": {
 			"addr": "Rx11AD0",
 			"code": "89C88B4C24040F57C00F1340183B4814740AE819000000C20400CCCC8B5108895014E809000000C20400CCCCCCCCCC"
