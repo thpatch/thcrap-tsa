@@ -7,9 +7,17 @@
 		"th20_text_file_strlen_fix": {
 			"access": "re",
 			"code": "5756FF742414FF742414FF742414E8[Rx105D0]83C40C85C0742489C650E8[Rx160DDD]83C40489C7405056E8[Rx15CE93]83C40885C07406C6040700EB0289F05E5FC3"
+		},
+		"th20_musicroom_spoiler_center": {
+			"access": "re",
+			"code": "8B442404C780F4A10100000000008B442408C7000000A043E8000000005883C00C890424E9[Rx6EF50]8B0C24C781F4A1010001000000E9[Rx1228C1]"
 		}
 	},
 	"binhacks": {
+		"musicroom_spoiler_center": {
+			"addr": "Rx1228BC",
+			"code": "e8[codecave:th20_musicroom_spoiler_center]"
+		},
 		"fix-focus-stealing": {
 			"addr": "Rx1D6E8",
 			"code": "E9 5C 03 00 00 90 90 90 90 90 90"
