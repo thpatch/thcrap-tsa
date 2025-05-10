@@ -84,6 +84,10 @@
 		},
 		"sprintf_rep": {
 			"addr": [ "Rx4A8C7", "Rx4AA5B", "Rx4AB1F", "Rx4ACAB", "Rx4AD67", "Rx6EFDA" ]
+		},
+		"textbox_size": {
+			"addr": [ "RxB1D3E", "RxB218C" ],
+			"code": "6A 0B 50 E8[GetTextExtentForFontID] 83 E8 1C 73 07 31 C0 <nop:5>"
 		}
 	},
 	"breakpoints": {
