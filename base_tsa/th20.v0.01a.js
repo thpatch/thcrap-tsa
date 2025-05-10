@@ -144,6 +144,16 @@
 			"str": "eax",
 			"ids": "[ebp-0x44]",
 		},
+		"gentext#stone_name_spell_result": {
+			"addr": "Rx126B6B",
+			"cavesize": 12,
+			"str": "eax",
+			// The game itself performs this multiplication to convert this ID
+			// into a gemstone ID. It's actually really easy to tell that the
+			// game does that because the left shift by 2 and left shift by 8
+			// instructions did not get merged into one left shift by 10.
+			"ids": "ecx << 2"
+		},
 		"gentext#trophy_name": {
 			"addr": "Rx12A38F",
 			"cavesize": 9,
@@ -178,6 +188,25 @@
 			"str": "[esp+0x4]",
 			"line_num": "[ebp-0x1c]",
 			"track": "[[ebp-0x14]+0x484]"
+		},
+		"spell_name#result": {
+			"addr": "Rx1271DD",
+			"cavesize": 6,
+			"cave_exec": false,
+			"spell_name": "eax",
+			"spell_id_real": "[ebp-0xe0]",
+			"spell_rank": "[[ebp-0xe4]+0xbc]"
+		},
+		"spell_id": {
+			"addr": "Rx975D1",
+			"cavesize": 6,
+			"spell_id": "eax",
+		},
+		"spell_name": {
+			"addr": "Rx8B56F",
+			"cavesize": 5,
+			"spell_name": "[esp+0x4]",
+			"spell_id_real": "[ebp+0x8]"
 		}
 	},
 	"tsa_font_block": {

@@ -62,6 +62,11 @@
 			"cave_exec": false,
 			"file": "stonetext.js"
 		},
+		"gentext#stone_name_spell_result": {
+			"cave_exec": false,
+			"line": 0,
+			"file": "stonetext.js"
+		},
 		"gentext#trophy_name": {
 			"cave_exec": false,
 			"line": 0,
