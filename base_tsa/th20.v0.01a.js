@@ -95,7 +95,7 @@
 		},
 		"spell_align": {
 			"addr": "Rx4ACB1",
-			"code": "FF 75 E4 50 E8[GetTextExtentForFontID] 83 E8 08 C1 E0 02 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C 29 C8 <nop:74>"
+			"code": "FF 75 1C 50 E8[GetTextExtentForFontID] 83 C0 02 D1 F0 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C 29 C8 <nop:75>"
 		},
 		"center_align": {
 			"addr": "Rx4AA61",
