@@ -60,6 +60,8 @@
 	"th20 Result Known Spell": "No.<r$%s%s%s$999>  %s",
 	"th20 Result Unknown Spell": "No.<r$%s%s%s$999>  ?????????????????????",
 	"th20 Full-width Space": " ",
+	"th20 charname Reimu Hakurei full": "Reimu Hakurei",
+    "th20 charname Marisa Kirisame full": "Marisa Kirisame",
 	"th185 titlemsg charname format": "%s    %s    %s",
 	"th08 Stats Reimu & Yukari": "Reimu & Yukari",
         "th08 Stats Marisa & Alice": "Marisa & Alice",
