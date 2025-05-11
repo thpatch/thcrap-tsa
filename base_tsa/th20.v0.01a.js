@@ -88,6 +88,14 @@
 		"textbox_size": {
 			"addr": [ "RxB1D3E", "RxB218C" ],
 			"code": "6A 0B 50 E8[GetTextExtentForFontID] 83 E8 1C 73 07 31 C0 <nop:5>"
+		},
+		"spell_align": {
+			"addr": "Rx4ACB1",
+			"code": "FF 75 E4 50 E8[GetTextExtentForFontID] 83 E8 08 C1 E0 02 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C 29 C8 <nop:74>"
+		},
+		"center_align": {
+			"addr": "Rx4AA61",
+			"code": "FF 75 1C 50 E8[GetTextExtentForFontID] 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C D1 E8 29 C8 <nop:86>"
 		}
 	},
 	"breakpoints": {
