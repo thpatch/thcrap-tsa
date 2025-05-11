@@ -60,7 +60,8 @@
 		},
 		"gentext#stone_name_unlock": {
 			"cave_exec": false,
-			"file": "stonetext.js"
+			"file": "stonetext.js",
+			"line": 0,
 		},
 		"gentext#stone_name_spell_result": {
 			"cave_exec": false,
