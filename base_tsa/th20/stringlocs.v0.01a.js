@@ -83,4 +83,6 @@
     "Rx16FD34": "th18_ascii_menu_keyconfig",
     "Rx16C598": "th18_ascii_menu_directinput",
     "Rx16FD4C": "th18_ascii_menu_xinput",
+    "Rx170FF4": "th20 charname Reimu Hakurei full",
+    "Rx171000": "th20 charname Marisa Kirisame full",
 }
