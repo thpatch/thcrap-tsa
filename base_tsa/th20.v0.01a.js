@@ -177,12 +177,14 @@
 			"cavesize": 5,
 			"str": "eax",
 			"ids": "edx",
+			"stack_clear_size": 4,
 		},
 		"gentext#stone_name_unlock": {
 			"addr": "RxE1919",
 			"cavesize": 5,
 			"str": "eax",
 			"ids": "[ebp-0x44]",
+			"stack_clear_size": 4,
 		},
 		"gentext#stone_name_spell_result": {
 			"addr": "Rx126B72",
