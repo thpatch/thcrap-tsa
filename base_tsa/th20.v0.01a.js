@@ -173,30 +173,31 @@
 			"str": "edx"
 		},
 		"gentext#stone_name_result": {
-			"addr": "Rx124678",
-			"cavesize": 9,
+			"addr": "Rx12467C",
+			"cavesize": 5,
 			"str": "eax",
 			"ids": "edx",
 		},
 		"gentext#stone_name_unlock": {
-			"addr": "RxE1912",
-			"cavesize": 12,
+			"addr": "RxE1919",
+			"cavesize": 5,
 			"str": "eax",
 			"ids": "[ebp-0x44]",
 		},
 		"gentext#stone_name_spell_result": {
-			"addr": "Rx126B6B",
-			"cavesize": 12,
+			"addr": "Rx126B72",
+			"cavesize": 5,
 			"str": "eax",
 			// The game itself performs this multiplication to convert this ID
 			// into a gemstone ID. It's actually really easy to tell that the
 			// game does that because the left shift by 2 and left shift by 8
 			// instructions did not get merged into one left shift by 10.
-			"ids": "ecx << 2"
+			"ids": "[ebp-0x138] << 2",
+			"stack_clear_size": 4
 		},
 		"gentext#trophy_name": {
-			"addr": "Rx12A38F",
-			"cavesize": 9,
+			"addr": "Rx12A390",
+			"cavesize": 5,
 			"cave_exec": false,
 			"str": "eax",
 			"ids": "eax",
@@ -210,8 +211,8 @@
 			"line": "[ebp+0x10]"
 		},
 		"gentext#ingame_trophy_name": {
-			"addr": "Rx12CA58",
-			"cavesize": 9,
+			"addr": "Rx12CA59",
+			"cavesize": 5,
 			"cave_exec": false,
 			"str": "eax",
 			"ids": "[ebp-0x20]"
