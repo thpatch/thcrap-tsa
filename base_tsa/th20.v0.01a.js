@@ -89,13 +89,6 @@
 		"sprintf_rep": {
 			"addr": [ "Rx4A8C7", "Rx4AA5B", "Rx4AB1F", "Rx4ACAB", "Rx4AD67", "Rx6EFDA" ]
 		},
-		// The fixed size buffer being sprintf'd into here is shared with other things.
-		// One would need to find every spot in the entire engine where this buffer is
-		// used to add that dereference if we want a "traditional" style sprintf hack.
-		"ascii_sprintf": {
-			"addr": "Rx6F716",
-			"code": "e8[strings_vsnprintf]"
-		},
 		"textbox_size": {
 			"addr": [ "RxB1D3E", "RxB218C" ],
 			"code": "6A 0B 50 E8[GetTextExtentForFontID] 83 E8 1C 73 07 31 C0 <nop:5>"
