@@ -32,7 +32,7 @@
 				"Rx28860",
 				"Rx28af2"
 			],
-			"code": "51 e8[GetTextExtent] 83e81c 7302 31c0 f30f1097a4010000 f30f108fa0010000 8b8f84010000 c1e902 909090909090909090"
+			"code": "6a00 51 e8[GetTextExtentForFontID] 83e81c 7302 31c0 f30f1097a4010000 f30f108fa0010000 8b8f84010000 c1e902 <nop:7>"
 		},
 		"spell_align": {
 			"addr": "Rx673f0"

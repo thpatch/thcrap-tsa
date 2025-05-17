@@ -6,12 +6,12 @@
 		"sprintf_rep": {
 			"addr": "0x47a7a4"
 		},
-		"ddc_textbox_size": {
-			"addr": [
-				"0x431590",
-				"0x4317b0"
-			],
-			"code": "53e8[GetTextExtent]f30f1015d0ea4b0083e81c730331c090"
+		"ddc_textbox_size_1": {
+			"addr": "0x431589",
+			"code": "<nop:5>6a0053e8[GetTextExtentForFontID]f30f1015d0ea4b0083e81c730331c090"
+		},
+		"ddc_textbox_size:2": {
+			"code": "909090906a0053e8[GetTextExtentForFontID]f30f1015d0ea4b0083e81c730331c090"
 		},
 		"spell_name_fetch": {
 			"addr": "0x41cc0b"

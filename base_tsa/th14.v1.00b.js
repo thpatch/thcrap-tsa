@@ -53,12 +53,13 @@
 		"log_restore": {
 			"addr": "0x4075c0"
 		},
-		"ddc_textbox_size_full": {
-			"addr": [
-				"0x4327f0",
-				"0x4329e7"
-			],
-			"code": "53e8[GetTextExtent]f30f100d781a4c0083e81c730331c090"
+		"ddc_textbox_size_1": {
+			"addr": "0x4327ef",
+			"code": "6a0053e8[GetTextExtentForFontID]f30f100d781a4c0083e81c730231c0"
+		},
+		"ddc_textbox_size_2": {
+			"addr": "0x4329e4",
+			"code": "906a0053e8[GetTextExtentForFontID]f30f100d781a4c0083e81c730331c090"
 		},
 		"spell_name_fetch": {
 			"addr": "0x41cefb"
