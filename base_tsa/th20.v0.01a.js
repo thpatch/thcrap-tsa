@@ -108,6 +108,14 @@
 		"center_align": {
 			"addr": "Rx4AA61",
 			"code": "FF 75 1C 50 E8[GetTextExtentForFontID] 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C D1 E8 29 C8 <nop:86>"
+		},
+		"ruby_prepare_1": {
+			"addr": "RxB1C24",
+			"code": "89 C6 56 E8 5F 06 0A 00 83 C4 04 89 45 D8 6A 2C 56 E8 06 8E 00 00 90 90 90 90 90 90 90 90"
+		},
+		"ruby_prepare_2": {
+			"addr": "RxB207E",
+			"code": "89 C6 56 E8 05 02 0A 00 83 C4 04 89 45 E0 6A 2C 56 E8 AC 89 00 00 90 90 90 90 90 90 90 90"
 		}
 	},
 	"breakpoints": {
@@ -258,6 +266,14 @@
 			"cavesize": 5,
 			"spell_name": "[esp+0x4]",
 			"spell_id_real": "[ebp+0x8]"
+		},
+		"ruby_offset": {
+			"addr": [ "RxB1C2F", "RxB2089" ],
+			"str": "esi",
+			"offset": "eax",
+			"font_dialog": 11,
+			"font_ruby": 18,
+			"cavesize": 5
 		}
 	},
 	"tsa_font_block": {
