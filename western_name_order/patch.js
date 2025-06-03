@@ -1,6 +1,8 @@
 {
   "dependencies": [
-    "base_tsa"
+    "base_tsa",
+    "base_tasofro",
+		"script_latin"
   ],
   "id": "western_name_order",
   "servers": [
