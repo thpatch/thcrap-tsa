@@ -2,7 +2,7 @@
   "dependencies": [
     "base_tsa",
     "base_tasofro",
-		"script_latin"
+    "script_latin"
   ],
   "id": "western_name_order",
   "servers": [
