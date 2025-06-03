@@ -1,7 +1,5 @@
 {
 	"dependencies": [
-		"base_tsa",
-                "base_tasofro",
 		"script_latin"
 	],
 	"id": "eastern_name_order_hepburn",
