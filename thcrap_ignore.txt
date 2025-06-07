@@ -1,4 +1,2 @@
 *.psd
 *.xcf
-*.kra
-*.afphoto
