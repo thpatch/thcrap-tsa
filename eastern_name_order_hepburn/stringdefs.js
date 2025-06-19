@@ -5,6 +5,7 @@
     "th08 Stats Sakuya": "Izayoi Sakuya",
     "th08 Stats Youmu": "Konpaku Youmu",
     "th08 Stats Yuyuko": "Saigyouji Yuyuko",
+    "th135 artist akiyama uni": "(Akiyama U2)",
     "th20 charname Reimu Hakurei full": "Hakurei Reimu",
     "th20 charname Marisa Kirisame full": "Kirisame Marisa"
 }
