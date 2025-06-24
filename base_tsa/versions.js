@@ -103,6 +103,7 @@
 		"f08e885e28d2e0fc8c579e88034dd7de8f2a648d8f08ce781cf08eadc9ffe353": ["th14", "v1.00b",  "(original)"],
 		"147b2b36582465638783c9431a1cc9940c85f6025116832992bdb8594e396a52": ["th14", "v1.00bp", "(original, Playism)"],
 		"4609e701b677b8317e43be92041f0c7075a292182848a7c11215c3a226034f90": ["th14", "v1.00b", "(original, Steam release)"],
+		"f32362e2adc13a54e0343652d5222e1a33b2a1859a9eb9776ec1fa431d96845a": ["th14", "v1.00b", "(original, Steamless)"],
 
 		"0162924204a6fea6d822e1a5872310c81168b0efbf565fb213bb38ba9f2290a6": ["th143", "v1.00a", "(original)"],
 
