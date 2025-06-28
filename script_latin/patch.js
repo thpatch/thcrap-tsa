@@ -1,6 +1,7 @@
 {
   "dependencies": [
-    "base_tsa"
+    "base_tsa",
+    "base_tasofro"
   ],
   "fonts": {
     "Aroania.ttf": true,
