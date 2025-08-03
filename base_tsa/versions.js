@@ -157,6 +157,7 @@
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
 		"5ab1f4e8bf31fc4f8484ab0882a882f0fb399ba758fc98601ae9a6f6e69b5cdf": ["th06_custom", "v1.02h", "(original)"],
 		"27ee5bb9028c86789d66b8689b74e6cbf523dfaf28b28e47766357f662a0b9b0": ["th06_custom", "v1.02h", "English patch (not recommended)"],
+		"36bb61de806fa8e65f453dbf571beb31f325462cd5d9c1a71fb0a3ddd1785aba": ["th06_custom", "v1.02h", "Original with 紅魔郷 removed from the .dat file names"],
 
 		"7bee7ce2580f93c2d436991f2d65d2936f036d0e788d426f3deeb16ff760a9f7": ["th07_custom", "v1.00", "(original)"],
 		"ae36be0c4ff88b5100c65ff63819442e34d60df818da5cc05fdbb61e77ae9fb7": ["th07_custom", "v1.00b", "(original)"],
