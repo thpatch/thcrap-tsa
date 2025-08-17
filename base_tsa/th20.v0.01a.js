@@ -73,14 +73,11 @@
 			"addr": "RxE1A2C",
 			"code": "b8<Rx170BD0><nop:29>"
 		},
-
-		"safe_vsprintf_1": {
+		"sprintf_call_ebp-510": {
 			"addr": [ "Rx4A7F2", "Rx4A9B6", "Rx4AC06" ],
-			"code": "55 e8[strings_vsprintf] 8985 f0faffff"
 		},
-		"safe_sprintf_2": {
+		"sprintf_call_ebp-110": {
 			"addr": "Rx6EFB4",
-			"code": "55 e8[strings_vsprintf] 8985 f0feffff"
 		},
 		"safe_sprintf_3": {
 			"addr": [ "Rx53A23", "Rx53B03" ],

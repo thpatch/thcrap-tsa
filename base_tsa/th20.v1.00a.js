@@ -28,7 +28,16 @@
 		"wine-fix-focus-stealing": {
 			"addr": "Rx1D45B",
 			"code": "E9 5A 03 00 00 90 90 90 90 90 90"
-		}
+		},
+		"sprintf_rep": {
+			"addr": [ "Rx4AD57", "Rx4AEEB", "Rx4AFAF", "Rx4B13B", "Rx6C29A" ]
+		},
+		"sprintf_call_ebp-510": {
+			"addr": [ "Rx4AC82", "Rx4AE46", "Rx4B096" ],
+		},
+		"sprintf_call_ebp-110": {
+			"addr": "Rx6C274",
+		},
 	},
 	"tsa_font_block": {
 		"addr": "Rx1B66F0",
