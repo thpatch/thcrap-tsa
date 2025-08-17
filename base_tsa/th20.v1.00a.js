@@ -42,6 +42,14 @@
 			"spell_id_real": "[ebp-0xe0]",
 			"spell_rank": "[[ebp-0xe4]+0xbc]"
 		},
+		"spell_name#practice": {
+			"addr": "Rx1202D3",
+			"cavesize": 6,
+			"cave_exec": false,
+			"spell_name": "eax",
+			"spell_id_real": "[ebp-0xd8]",
+			"spell_id": "[ebp+0x8]"
+		},
 		"music_title": {
 			"addr": "Rx120DF0",
 			"cavesize": 5,
