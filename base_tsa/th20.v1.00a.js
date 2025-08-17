@@ -38,6 +38,11 @@
 		"sprintf_call_ebp-110": {
 			"addr": "Rx6C274",
 		},
+		"ascii_sprintf": {
+			"addr": "Rx6C9F6",
+			"code": "e8[strings_vsnprintf]",
+			"enable": "<strings_vsnprintf>"
+		},
 	},
 	"tsa_font_block": {
 		"addr": "Rx1B66F0",
