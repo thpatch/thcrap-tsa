@@ -30,7 +30,7 @@
 			"code": "E9 5A 03 00 00 90 90 90 90 90 90"
 		},
 		"sprintf_rep": {
-			"addr": [ "Rx4AD57", "Rx4AEEB", "Rx4AFAF", "Rx4B13B", "Rx6C29A" ]
+			"addr": [ "Rx4AD57", "Rx4AEEB", "Rx4AFAF", "Rx4B13B", "Rx4B1F7", "Rx6C29A" ]
 		},
 		"sprintf_call_ebp-510": {
 			"addr": [ "Rx4AC82", "Rx4AE46", "Rx4B096" ],
