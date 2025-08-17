@@ -22,6 +22,12 @@
 			"addr": "Rx13A60D",
 			"cavesize": 7,
 			"file_buffer": "eax",
+		},
+	},
+	"binhacks": {
+		"wine-fix-focus-stealing": {
+			"addr": "Rx1D45B",
+			"code": "E9 5A 03 00 00 90 90 90 90 90 90"
 		}
 	},
 	"file_load_func": "<codecave:th20_file_load>",
