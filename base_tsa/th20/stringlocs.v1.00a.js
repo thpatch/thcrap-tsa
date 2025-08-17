@@ -13,6 +13,7 @@
     "Rx1722BC": "th20 option se volume",
     "Rx1722D8": "th20 option key config",
     "Rx170EE8": "th20 option default",
+    "Rx170F94": "th20 option default",
     "Rx1722FC": "th20 option quit",
     "Rx170EBC": "th20 option key device",
     "Rx170EDC": "th20 option key reset",
