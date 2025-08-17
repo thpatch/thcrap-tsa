@@ -55,7 +55,28 @@
 			"line_num": "[ebp-0x1c]",
 			"track": "[[ebp-0x14]+0x484]"
 		},
-		
+		"gentext#trophy_name": {
+			"addr": "Rx12B6B0",
+			"cavesize": 5,
+			"cave_exec": false,
+			"str": "eax",
+			"ids": "eax",
+		},
+		"gentext#trophy_desc": {
+			"addr": "Rx12F4E3",
+			"cavesize": 8,
+			"eip_jump_dist": "0x4c",
+			"str": "eax",
+			"ids": [ "[ebp+0x8]", "[ebp+0xC]" ],
+			"line": "[ebp+0x10]"
+		},
+		"gentext#ingame_trophy_name": {
+			"addr": "Rx12E019",
+			"cavesize": 5,
+			"cave_exec": false,
+			"str": "eax",
+			"ids": "[ebp-0x20]"
+		},
 	},
 	"binhacks": {
 		"wine-fix-focus-stealing": {
@@ -75,6 +96,14 @@
 			"addr": "Rx6C9F6",
 			"code": "e8[strings_vsnprintf]",
 			"enable": "<strings_vsnprintf>"
+		},
+		"trophy_ingame_lineflip_1": {
+			"addr": "Rx12E029",
+			"code": "50"
+		},
+		"trophy_ingame_lineflip_2": {
+			"addr": "Rx12E07D",
+			"code": "4c"
 		},
 	},
 	"tsa_font_block": {
