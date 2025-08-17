@@ -1,4 +1,5 @@
 {
+	"steam_appid": "3675420",
 	"codecaves": {
 		"th20_file_load": {
 			"access": "rx",

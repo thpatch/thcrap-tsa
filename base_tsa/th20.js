@@ -5,6 +5,7 @@
 		"v0.01a",
 		"v1.00a",
 	],
+	"steam_appid": "3671710",
 	"breakpoints": {
 		"music_title": {
 			"format_id": "Music Room Numbered Title",
