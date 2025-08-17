@@ -85,12 +85,12 @@
 			"str": "eax",
 			"ids": "[ebp-0x20]"
 		},
-		
-		"gentext#stone_name_unlock": {
-			"addr": [ "RxDEE89", "RxDEF76", "RxDF081" ],
+		"gentext#stone_name": {
+			"addr": [ "RxDEE89", "RxDEF76", "RxDF081", "Rx122F4C", "Rx125952" ],
 			"cavesize": 5,
+			"line": 0,
 			"str": "eax",
-			"ids": "[esp+4] << 2",
+			"ids": "[esp+0x4] << 2",
 			"stack_clear_size": 4,
 		},
 	},
