@@ -42,6 +42,20 @@
 			"spell_id_real": "[ebp-0xe0]",
 			"spell_rank": "[[ebp-0xe4]+0xbc]"
 		},
+		"music_title": {
+			"addr": "Rx120DF0",
+			"cavesize": 5,
+			"track": "[ebp-0x18]",
+			"str": "[esp+0x4]"
+		},
+		"music_cmt": {
+			"addr": "Rx120F12",
+			"cavesize": 5,
+			"str": "[esp+0x4]",
+			"line_num": "[ebp-0x1c]",
+			"track": "[[ebp-0x14]+0x484]"
+		},
+		
 	},
 	"binhacks": {
 		"wine-fix-focus-stealing": {
