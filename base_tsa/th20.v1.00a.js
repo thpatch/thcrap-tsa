@@ -23,6 +23,25 @@
 			"cavesize": 7,
 			"file_buffer": "eax",
 		},
+		"spell_id": {
+			"addr": "Rx94244",
+			"cavesize": 6,
+			"spell_id": "eax",
+		},
+		"spell_name": {
+			"addr": "Rx87F03",
+			"cavesize": 5,
+			"spell_name": "[esp+0x4]",
+			"spell_id_real": "[ebp+0x8]"
+		},
+		"spell_name#result": {
+			"addr": "Rx125FAD",
+			"cavesize": 6,
+			"cave_exec": false,
+			"spell_name": "eax",
+			"spell_id_real": "[ebp-0xe0]",
+			"spell_rank": "[[ebp-0xe4]+0xbc]"
+		},
 	},
 	"binhacks": {
 		"wine-fix-focus-stealing": {
