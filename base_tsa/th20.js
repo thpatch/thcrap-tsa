@@ -2,7 +2,8 @@
 {
 	"title": "東方錦上京 ～ Fossilized Wonders",
 	"latest": [
-		"v0.01a"
+		"v0.01a",
+		"v1.00a",
 	],
 	"breakpoints": {
 		"music_title": {
