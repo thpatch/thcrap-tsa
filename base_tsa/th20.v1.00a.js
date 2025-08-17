@@ -1,0 +1,29 @@
+{
+	"codecaves": {
+		"th20_file_load": {
+			"access": "rx",
+			"code": "6A 00 FF 74 24 0C FF 74 24 0C E8[Rx10AA0] 83 C4 0C C2 08 00"
+		},
+	},
+	"breakpoints": {
+		"file_size": {
+			"addr": "Rx10B86",
+			"cavesize": 7,
+			"file_size": "edx",
+			"file_name": "ecx",
+		},
+		"file_load": {
+			"addr": "Rx10BAD",
+			"cavesize": 6,
+			"file_buffer": "eax",
+			"stack_clear_size": 8,
+		},
+		"file_loaded": {
+			"addr": "Rx13A60D",
+			"cavesize": 7,
+			"file_buffer": "eax",
+		}
+	},
+	"file_load_func": "<codecave:th20_file_load>",
+	"free_func": "<Rx157BA0>",
+}
