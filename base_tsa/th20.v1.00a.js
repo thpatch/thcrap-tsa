@@ -30,6 +30,12 @@
 			"code": "E9 5A 03 00 00 90 90 90 90 90 90"
 		}
 	},
+	"tsa_font_block": {
+		"addr": "Rx1B66F0",
+		"offset": 4,
+		"min": 0,
+		"max": 22
+	},
 	"file_load_func": "<codecave:th20_file_load>",
 	"free_func": "<Rx157BA0>",
 }
