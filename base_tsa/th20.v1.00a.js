@@ -77,6 +77,14 @@
 			"str": "eax",
 			"ids": "[ebp-0x20]"
 		},
+		
+		"gentext#stone_name_unlock": {
+			"addr": [ "RxDEE89", "RxDEF76", "RxDF081" ],
+			"cavesize": 5,
+			"str": "eax",
+			"ids": "[esp+4] << 2",
+			"stack_clear_size": 4,
+		},
 	},
 	"binhacks": {
 		"wine-fix-focus-stealing": {
@@ -105,6 +113,40 @@
 			"addr": "Rx12E07D",
 			"code": "4c"
 		},
+		"std_string_array_to_string_literal_array": {
+			"addr": "RxAA40",
+			"code": [
+				"c705 <Rx1C5B5C> <Rx171ED4> c705 <Rx1C5B78> <Rx171EE0>",
+				"c705 <Rx1C5B94> <Rx171EF8> c705 <Rx1C5BB0> <Rx171EE0>",
+				"c705 <Rx1C5BCC> <Rx171EF8> c705 <Rx1C5BE8> <Rx171EE0>",
+				"c705 <Rx1C5C04> <Rx171EF8> c705 <Rx1C5C20> <Rx171EE0>",
+				"c705 <Rx1C5C3C> <Rx171EF8> c705 <Rx1C5C58> <Rx171EE0>",
+				"c705 <Rx1C5C74> <Rx171EF8> c705 <Rx1C5C90> <Rx171EE0>",
+				"c705 <Rx1C5CAC> <Rx171EF8> c705 <Rx1C5CC8> <Rx171EE0>",
+				"c705 <Rx1C5CE4> <Rx171EF8> c705 <Rx1C5D00> <Rx171EE0>",
+				"c705 <Rx1C5D1C> <Rx171EF8> c705 <Rx1C5D38> <Rx171F1C>",
+				"c705 <Rx1C5D54> <Rx171F28> c705 <Rx1C5D70> <Rx171F1C>",
+				"c705 <Rx1C5D8C> <Rx171F28> c705 <Rx1C5DA8> <Rx171F1C>",
+				"c705 <Rx1C5DC4> <Rx171F28> c705 <Rx1C5DE0> <Rx171F1C>",
+				"c705 <Rx1C5DFC> <Rx171F28> c705 <Rx1C5E18> <Rx171F1C>",
+				"c705 <Rx1C5E34> <Rx171F28> c705 <Rx1C5E50> <Rx171F1C>",
+				"c705 <Rx1C5E6C> <Rx171F28> c705 <Rx1C5E88> <Rx171F1C>",
+				"c705 <Rx1C5EA4> <Rx171F28> c705 <Rx1C5EC0> <Rx171F1C>",
+				"c705 <Rx1C5EDC> <Rx171F28> c705 <Rx1C5EF8> <Rx171F40>",
+				"c705 <Rx1C5F14> <Rx171F28> c705 <Rx1C5F30> <Rx171F40>",
+				"c705 <Rx1C5F4C> <Rx171F28> c705 <Rx1C5F68> <Rx171F40>",
+				"c705 <Rx1C5F84> <Rx171F28> c705 <Rx1C5FA0> <Rx171F40>",
+				"c705 <Rx1C5FBC> <Rx171F28> c705 <Rx1C5FD8> <Rx171F40>",
+				"c705 <Rx1C5FF4> <Rx171F28> c705 <Rx1C6010> <Rx171F40>",
+				"c705 <Rx1C602C> <Rx171F28> c705 <Rx1C6048> <Rx171F40>",
+				"c705 <Rx1C6064> <Rx171F28> c705 <Rx1C6080> <Rx171F40>",
+				"c705 <Rx1C609C> <Rx171F28> c3 <int3:528>"
+			]
+		},
+		"std_string_c_str_to_deref": {
+			"addr": [ "RxDEEAE", "RxDEF9B", "RxDF0A9", "RxDF148", "RxDF1DB" ],
+			"code": "8b01<nop:3>"
+		}
 	},
 	"tsa_font_block": {
 		"addr": "Rx1B66F0",

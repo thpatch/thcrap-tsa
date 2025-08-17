@@ -92,4 +92,7 @@
     "Rx170EB4": "th18_ascii_menu_quit",
     "Rx172384": "th20 charname Reimu Hakurei full",
     "Rx172390": "th20 charname Marisa Kirisame full",
+    "Rx171F28": "th20 notice extra unlock",
+    "Rx171F1C": "th20 notice Reimu extra unlock",
+    "Rx171F40": "th20 notice Marisa extra unlock",
 }
