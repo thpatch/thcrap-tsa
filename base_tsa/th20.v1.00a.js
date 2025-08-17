@@ -93,6 +93,61 @@
 			"ids": "[esp+0x4] << 2",
 			"stack_clear_size": 4,
 		},
+		"gentext#stone_name_charsel": {
+			"file": "stonetext.js",
+			"line": 0,
+			"addr": "Rx118BB4",
+			"cavesize": 19,
+			"cave_exec": false,
+			"str": "edx",
+			"ids": "[ebp-0x90]"
+		},
+		"gentext#stone_select_name": {
+			"addr": "Rx1196EC",
+			"cavesize": 16,
+			"str": "edx",
+			"ids": "[ebp-0x80]"
+		},
+		"gentext#stone_name_desc": {
+			"addr": "Rx118EA1",
+			"cavesize": 16,
+			"line": 0,
+			"str": "edx",
+			"ids": "[ebp-0x54]",
+		},
+		"gentext#stone_desc": {
+			"addr": "Rx118FBF",
+			"cavesize": 25,
+			"str": "edx",
+			"ids": [ "[ebp-0x54]", 0 ],
+			"line": "[ebp-0x60]",
+		},
+		"gentext#stone_common_line_0": {
+			"addr": "Rx11909E",
+			"cavesize": 27,
+			"ids": [ "[ebp-0x74]", 0 ],
+			"str": "edx"
+		},
+		"gentext#stone_common_line_1": {
+			"addr": "Rx119113",
+			"cavesize": 26,
+			"ids": [ "[ebp-0x74]", 0 ],
+			"str": "edx"
+		},
+		"gentext#stone_common_line_2_3__left_right": {
+			"addr": "Rx1191E9",
+			"cavesize": 25,
+			"ids": [ "[ebp-0x54]", 0 ],
+			"line": "[ebp-0x64]",
+			"str": "eax"
+		},
+		"gentext#stone_common_line_2_3__bottom": {
+			"addr": "Rx1192AA",
+			"cavesize": 25,
+			"line": "[ebp-0x68]",
+			"ids": [ "[ebp-0x54]", 0 ],
+			"str": "edx"
+		},
 	},
 	"binhacks": {
 		"wine-fix-focus-stealing": {
