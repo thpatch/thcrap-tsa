@@ -230,6 +230,14 @@
 			"addr": "RxB0FF9",
 			"code": "89 C6 56 E8 CB 00 0A 00 83 C4 04 89 45 E0 6A 2C 56 E8 61 00 FF FF 90 90 90 90 90 90 90 90"
 		},
+		"center_align": {
+			"addr": "Rx4AEF1",
+			"code": "FF 75 1C 50 E8[GetTextExtentForFontID] 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C D1 E8 29 C8 <nop:86>"
+		},
+		"spell_align": {
+			"addr": "Rx4B141",
+			"code": "FF 75 1C 50 E8[GetTextExtentForFontID] 83 C0 02 D1 F0 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C 29 C8 <nop:75>"
+		},
 	},
 	"tsa_font_block": {
 		"addr": "Rx1B66F0",
