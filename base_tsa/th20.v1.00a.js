@@ -148,6 +148,14 @@
 			"ids": [ "[ebp-0x54]", 0 ],
 			"str": "edx"
 		},
+		"ruby_offset": {
+			"addr": [ "RxB0BAA", "RxB1004" ],
+			"str": "esi",
+			"offset": "eax",
+			"font_dialog": 4,
+			"font_ruby": 18,
+			"cavesize": 5
+		}
 	},
 	"binhacks": {
 		"wine-fix-focus-stealing": {
@@ -213,6 +221,14 @@
 		"textbox_size": {
 			"addr": [ "RxB0CB9", "RxB1107" ],
 			"code": "6A 04 50 E8[GetTextExtentForFontID] 83 E8 1C 73 07 31 C0 <nop:5>"
+		},		
+		"ruby_prepare_1": {
+			"addr": "RxB0B9F",
+			"code": "89 C6 56 E8 25 05 0A 00 83 C4 04 89 45 D8 6A 2C 56 E8 BB 04 FF FF 90 90 90 90 90 90 90 90"
+		},
+		"ruby_prepare_2": {
+			"addr": "RxB0FF9",
+			"code": "89 C6 56 E8 CB 00 0A 00 83 C4 04 89 45 E0 6A 2C 56 E8 61 00 FF FF 90 90 90 90 90 90 90 90"
 		},
 	},
 	"tsa_font_block": {
