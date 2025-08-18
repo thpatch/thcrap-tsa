@@ -90,16 +90,9 @@
 			"ids": "[ebp-0x20]"
 		},
 		"gentext#stone_name": {
-			"addr": [ "RxDEE89", "RxDEF76", "RxDF081", "Rx122F4C", "Rx125952" ],
-			"cavesize": 5,
-			"line": 0,
-			"str": "eax",
-			"ids": "[esp+0x4] << 2",
-			"stack_clear_size": 4,
+			"addr": [ "RxDEE89", "RxDEF76", "RxDF081", "Rx122F4C", "Rx125952" ]
 		},
 		"gentext#stone_name_charsel": {
-			"file": "stonetext.js",
-			"line": 0,
 			"addr": "Rx118BB4",
 			"cavesize": 19,
 			"cave_exec": false,
