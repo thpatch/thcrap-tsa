@@ -4,6 +4,10 @@
 			"access": "rx",
 			"code": "6A 00 FF 74 24 0C FF 74 24 0C E8[Rx10AA0] 83 C4 0C C2 08 00"
 		},
+		"th20_musicroom_spoiler_center": {
+			"access": "re",
+			"code": "8B442404C780F4A10100000000008B442408C7000000A043E8000000005883C00C890424E9[Rx6C210]8B0C24C781F4A1010001000000E9[Rx120F51]"
+		}
 	},
 	"breakpoints": {
 		"file_size": {
@@ -257,6 +261,10 @@
 		"spell_result_align_5": {
 			"addr": "Rx1263BA",
 			"code": "8B 0D <Rx1C0698> C7 81 C0 A1 01 00 FF FF FF FF C6 81 F4 A1 01 00 00 C7 85 24 FF FF FF 00 00 A4 43 C7 85 28 FF FF FF 00 00 BD 43 90 90"
+		},
+		"musicroom_spoiler_center": {
+			"addr": "Rx120F4C",
+			"code": "e8[codecave:th20_musicroom_spoiler_center]"
 		},
 	},
 	"tsa_font_block": {
