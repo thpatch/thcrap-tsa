@@ -238,6 +238,26 @@
 			"addr": "Rx4B141",
 			"code": "FF 75 1C 50 E8[GetTextExtentForFontID] 83 C0 02 D1 F0 89 C1 8B 95 D8 FA FF FF F3 0F 2D 42 4C 29 C8 <nop:75>"
 		},
+		"spell_result_align_1": {
+			"addr": "Rx125D2D", 
+			"code": "3E C7 85 24 FF FF FF 00 00 20 42 3E C7 85 08 FF FF FF 00 00 00 00 EB 15 3E FF 85 08 FF FF FF 3E 83 BD 08 FF FF FF 0A 0F 8D 60 06 00 00 6A 01 6A 01 8B 0D <Rx1C0698> E8 B7 28 F9 FF 90 90 90 90 90 90 90 90 90 90 90"
+		},
+		"spell_result_align_2": {
+			"addr": "Rx12608C", 
+			"code": "6A 00 FF B5 28 FF FF FF 68 00 00 14 44 8D 8D 10 FE FF FF E8 2C CD EF FF 89 85 98 FE FF FF 8B 8D A0 FE FF FF 51 8B 95 9C FE FF FF 52 83 EC 08 8B CC 68 <Rx175348> E8 09 7D EE FF 8B 85 98 FE FF FF 50 8B 0D <Rx1C0698> 51 C7 81 F4 A1 01 00 02 00 00 00 E8 2C 61 F4 FF 83 C4 18 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90"
+		},
+		"spell_result_align_3": {
+			"addr": "Rx12631D", 
+			"code": "6A 00 FF B5 28 FF FF FF 68 00 00 14 44 8D 8D 04 FE FF FF E8 9B CA EF FF 89 85 48 FE FF FF 8B 85 74 FE FF FF 50 8B 8D 70 FE FF FF 51 83 EC 08 8B CC 68 <Rx175348> E8 78 7A EE FF 8B 95 48 FE FF FF 52 A1 <Rx1C0698> 50 C7 80 F4 A1 01 00 02 00 00 00 E8 9C 5E F4 FF 83 C4 18 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90"
+		},
+		"spell_result_align_4": {
+			"addr": "Rx1263B6", 
+			"code": "8B"
+		},
+		"spell_result_align_5": {
+			"addr": "Rx1263BA",
+			"code": "8B 0D <Rx1C0698> C7 81 C0 A1 01 00 FF FF FF FF C6 81 F4 A1 01 00 00 C7 85 24 FF FF FF 00 00 A4 43 C7 85 28 FF FF FF 00 00 BD 43 90 90"
+		},
 	},
 	"tsa_font_block": {
 		"addr": "Rx1B66F0",
