@@ -154,6 +154,7 @@
 		"5c54b370fd57fd8c7a6b752b174c7a661c0eb6390161af4b170c36e29a66c0aa": ["th20", "v0.01a", "(original)"],
 		"e6c4371e214c95dd4dbcaaf6818c79c5e89881270f65b62b8c3c965b65851e2d": ["th20", "v1.00a", "(original)"],
 		"b0b5847b5f6dc43d51535ed9903a85485547b27dc053587544aac0f148ea4eaf": ["th20", "v1.00a", "(original, Steam release)"],
+		"a274b45fe6ec53511718bb328c2ff169a74e67f95d1b0c74d97d348b955a0897": ["th20", "v1.00a", "(original, Steamless)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
@@ -338,6 +339,7 @@
 		"1844736": ["th20", "v0.01a", "(original)"],
 		"1858560": ["th20", "v1.00a", "(original)"],
 		"2044936": ["th20", "v1.00a", "(original, Steam release)"],
+		"1858560": ["th20", "v1.00a", "(original, Steamless)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
