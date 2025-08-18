@@ -209,7 +209,11 @@
 		"std_string_c_str_to_deref": {
 			"addr": [ "RxDEEAE", "RxDEF9B", "RxDF0A9", "RxDF148", "RxDF1DB" ],
 			"code": "8b01<nop:3>"
-		}
+		},
+		"textbox_size": {
+			"addr": [ "RxB0CB9", "RxB1107" ],
+			"code": "6A 04 50 E8[GetTextExtentForFontID] 83 E8 1C 73 07 31 C0 <nop:5>"
+		},
 	},
 	"tsa_font_block": {
 		"addr": "Rx1B66F0",
