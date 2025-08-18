@@ -96,4 +96,6 @@
     "Rx171F28": "th20 notice extra unlock",
     "Rx171F1C": "th20 notice Reimu extra unlock",
     "Rx171F40": "th20 notice Marisa extra unlock",
+    "Rx1725F8": "th13_ascii_credit",
+    "Rx172604": "th20 gameover hint",
 }
