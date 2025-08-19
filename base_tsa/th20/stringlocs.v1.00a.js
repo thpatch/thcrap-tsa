@@ -53,7 +53,7 @@
     "Rx174F7C": "th15 Full-width 7",
     "Rx174F80": "th15 Full-width 8",
     "Rx174F84": "th15 Full-width 9",	
-    "Rx1DFA2": "th20 Full-width Space",
+    "Rx175334": "th20 Full-width Space",
     "Rx175350": "th20 Result Unknown Spell",
     "Rx175338": "th20 Result Known Spell",
     "Rx1755F0": "th143 Trophy Unknown",
