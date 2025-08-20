@@ -62,6 +62,8 @@
 	"th20 Full-width Space": " ",
 	"th20 charname Reimu Hakurei full": "Hakurei Reimu",
     "th20 charname Marisa Kirisame full": "Kirisame Marisa",
+	"th20 notice Reimu extra unlock": "Reimu %s",
+	"th20 notice Marisa extra unlock": "Marisa %s",
 	"th185 titlemsg charname format": "%s    %s    %s",
 	"th08 Stats Reimu & Yukari": "Reimu & Yukari",
         "th08 Stats Marisa & Alice": "Marisa & Alice",

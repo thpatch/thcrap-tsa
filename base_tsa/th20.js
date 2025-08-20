@@ -2,8 +2,10 @@
 {
 	"title": "東方錦上京 ～ Fossilized Wonders",
 	"latest": [
-		"v0.01a"
+		"v0.01a",
+		"v1.00a",
 	],
+	"steam_appid": "3671710",
 	"breakpoints": {
 		"music_title": {
 			"format_id": "Music Room Numbered Title",
@@ -13,7 +15,16 @@
 		},
 		"gentext#stone_name": {
 			"cave_exec": false,
-			"file": "stonetext.js"
+			"cavesize": 5,
+			"file": "stonetext.js",
+			"ids": "[esp+0x4] << 2",
+			"line": 0,
+			"str": "eax",
+			"stack_clear_size": 4,
+		},
+		"gentext#stone_name_charsel": {
+			"file": "stonetext.js",
+			"line": 0,
 		},
 		"gentext#stone_name_desc": {
 			"cave_exec": false,
@@ -30,7 +41,6 @@
 
 		// Needs 4 breakpoints because of this code not drawing every line in
 		// one loop + it pulls the lines from 2 different descriptions. 
-
 		"gentext#stone_common_line_0": {
 			"cave_exec": false,
 			"file": "stonetext.js",
@@ -53,20 +63,6 @@
 		"gentext#stone_common_line_2_3__bottom": {
 			"cave_exec": false,
 			"file": "stonetext.js",
-		},
-		"gentext#stone_name_result": {
-			"cave_exec": false,
-			"file": "stonetext.js"
-		},
-		"gentext#stone_name_unlock": {
-			"cave_exec": false,
-			"file": "stonetext.js",
-			"line": 0,
-		},
-		"gentext#stone_name_spell_result": {
-			"cave_exec": false,
-			"line": 0,
-			"file": "stonetext.js"
 		},
 		"gentext#trophy_name": {
 			"cave_exec": false,

@@ -68,6 +68,10 @@
 			"code": "50e8[strings_vsprintf]898574ffffff",
 			"title": "Safe sprintf (ebp-8c)"
 		},
+		"sprintf_call_ebp-110": {
+			"code": "55 e8[strings_vsprintf] 8985 f0feffff",
+			"title": "Safe sprintf (ebp-208)",
+		},
 		"sprintf_call_ebp-208": {
 			"code": "5190909090909090909090e8[strings_vsprintf]83c40c509090",
 			"title": "Safe sprintf (ebp-208)"
@@ -75,6 +79,10 @@
 		"sprintf_call_ebp-200": {
 			"code": "5090909090909090909090e8[strings_vsprintf]8b4d0c83c40c509090",
 			"title": "Safe sprintf (ebp-200)"
+		},
+		"sprintf_call_ebp-510": {
+			"code": "55 e8[strings_vsprintf] 8985 f0faffff",
+			"title": "Safe sprintf (ebp-510)"
 		},
 		"sprintf_msvcrt14_esp+34": {
 			"title": "Safe Visual Studio 2015-style sprintf (esp+34)",

@@ -152,11 +152,15 @@
 		"76bbf844e962c16004b64f1b2ef3551593056baa43ea53b9a5df45ad731345c7": ["th185", "v1.00a", "(original, DLsite release)"],
 		
 		"5c54b370fd57fd8c7a6b752b174c7a661c0eb6390161af4b170c36e29a66c0aa": ["th20", "v0.01a", "(original)"],
+		"e6c4371e214c95dd4dbcaaf6818c79c5e89881270f65b62b8c3c965b65851e2d": ["th20", "v1.00a", "(original)"],
+		"b0b5847b5f6dc43d51535ed9903a85485547b27dc053587544aac0f148ea4eaf": ["th20", "v1.00a", "(original, Steam release)"],
+		"a274b45fe6ec53511718bb328c2ff169a74e67f95d1b0c74d97d348b955a0897": ["th20", "v1.00a", "(original, Steamless)"],
 
 		"ea8d5c1072f41885ed487a3729202e8c61291c479d5e9ac06b1245f326a4cb2d": ["th06_custom", "v0.13", "(original)"],
 		"d5b62ca04c11fe877d3d02246fa514c11330b22ef0469b443826500db6c4d4b4": ["th06_custom", "v1.00", "(original)"],
 		"5ab1f4e8bf31fc4f8484ab0882a882f0fb399ba758fc98601ae9a6f6e69b5cdf": ["th06_custom", "v1.02h", "(original)"],
 		"27ee5bb9028c86789d66b8689b74e6cbf523dfaf28b28e47766357f662a0b9b0": ["th06_custom", "v1.02h", "English patch (not recommended)"],
+		"36bb61de806fa8e65f453dbf571beb31f325462cd5d9c1a71fb0a3ddd1785aba": ["th06_custom", "v1.02h", "Original with 紅魔郷 removed from the .dat file names"],
 
 		"7bee7ce2580f93c2d436991f2d65d2936f036d0e788d426f3deeb16ff760a9f7": ["th07_custom", "v1.00", "(original)"],
 		"ae36be0c4ff88b5100c65ff63819442e34d60df818da5cc05fdbb61e77ae9fb7": ["th07_custom", "v1.00b", "(original)"],
@@ -232,6 +236,7 @@
 		"76922aae71fdf7c1141d8990afa7f3451721c4d348b7f3f7181e295ca06d1b22": ["th19_custom", "v1.10c", "(original)"],
 		
 		"c9925b9bacf1af063f1dd8bf14ccdabee1a7db5f331b42f1ebac62def956e7c6": ["th20_custom", "v0.01a", "(original)"],	
+		"261fb74f64b8a9908b128d30d59af64c59e2c37f6f917ee6646f4c3e42d50f33": ["th20_custom", "v1.00a", "(original)"],	
 	},
 	"sizes": {
 		"409600": ["th06", "v0.08", "(original)"],
@@ -332,6 +337,9 @@
 		"1993728": ["th19", "v1.10c", "(original, unpacked Steam release)"],
 		
 		"1844736": ["th20", "v0.01a", "(original)"],
+		"1858560": ["th20", "v1.00a", "(original)"],
+		"2044936": ["th20", "v1.00a", "(original, Steam release)"],
+		"1858560": ["th20", "v1.00a", "(original, Steamless)"],
 
 		"102400": ["th06_custom", "v1.02h", "English patch (not recommended)"],
 		 "98304": ["th08_custom", "v1.00", "Chinese patch"],
@@ -353,5 +361,6 @@
 		"137216": ["th19_custom", "v0.02a", "(original)"],
 		"137728": ["th19_custom", "v1.10c", "(original)"],
 		"137728": ["th20_custom", "v0.01a", "(original)"],
+		"141312": ["th20_custom", "v1.00a", "(original)"],
 	}
 }

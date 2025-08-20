@@ -1,4 +1,5 @@
 {
+	"steam_appid": "3675420",
 	"codecaves": {
 		"th20_file_load": {
 			"access": "rx",
@@ -73,14 +74,11 @@
 			"addr": "RxE1A2C",
 			"code": "b8<Rx170BD0><nop:29>"
 		},
-
-		"safe_vsprintf_1": {
+		"sprintf_call_ebp-510": {
 			"addr": [ "Rx4A7F2", "Rx4A9B6", "Rx4AC06" ],
-			"code": "55 e8[strings_vsprintf] 8985 f0faffff"
 		},
-		"safe_sprintf_2": {
+		"sprintf_call_ebp-110": {
 			"addr": "Rx6EFB4",
-			"code": "55 e8[strings_vsprintf] 8985 f0feffff"
 		},
 		"safe_sprintf_3": {
 			"addr": [ "Rx53A23", "Rx53B03" ],
@@ -136,11 +134,14 @@
 			"cavesize": 7
 		},
 		"gentext#stone_name": {
+			"addr": [ "Rx126B72", "Rx12467C", "RxE1919" ],
+		},
+		"gentext#stone_name_charsel": {
 			"addr": "Rx11B5B4",
 			"cavesize": 19,
+			"cave_exec": false,
 			"str": "edx",
 			"ids": "[ebp-0x90]",
-			"line": 0,
 		},
 		"gentext#stone_name_desc": {
 			"addr": "Rx11B824",
@@ -161,7 +162,6 @@
 			"str": "edx",
 			"ids": "[ebp-0x80]",
 		},
-
 		"gentext#stone_common_line_0": {
 			"addr": "Rx11BA21",
 			"cavesize": 27,
@@ -187,31 +187,6 @@
 			"line": "[ebp-0x68]",
 			"ids": [ "[ebp-0x58]", 0 ],
 			"str": "edx"
-		},
-		"gentext#stone_name_result": {
-			"addr": "Rx12467C",
-			"cavesize": 5,
-			"str": "eax",
-			"ids": "edx",
-			"stack_clear_size": 4,
-		},
-		"gentext#stone_name_unlock": {
-			"addr": "RxE1919",
-			"cavesize": 5,
-			"str": "eax",
-			"ids": "[ebp-0x44] << 2",
-			"stack_clear_size": 4,
-		},
-		"gentext#stone_name_spell_result": {
-			"addr": "Rx126B72",
-			"cavesize": 5,
-			"str": "eax",
-			// The game itself performs this multiplication to convert this ID
-			// into a gemstone ID. It's actually really easy to tell that the
-			// game does that because the left shift by 2 and left shift by 8
-			// instructions did not get merged into one left shift by 10.
-			"ids": "[ebp-0x138] << 2",
-			"stack_clear_size": 4
 		},
 		"gentext#trophy_name": {
 			"addr": "Rx12A390",
