@@ -98,4 +98,5 @@
     "Rx171F40": "th20 notice Marisa extra unlock",
     "Rx1725F8": "th13_ascii_credit",
     "Rx172604": "th20 gameover hint",
+    "Rx175534": "th20 spellpractice unavailable",
 }
