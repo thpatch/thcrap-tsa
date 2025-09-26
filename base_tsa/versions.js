@@ -6,6 +6,7 @@
 		"0adcf7ad5b451d77b5fb86771c3718d242fc7b27dc5940477d289a797e51785f": ["th06", "v1.02f", "(original)"],
 		"9f76483c46256804792399296619c1274363c31cd8f1775fafb55106fb852245": ["th06", "v1.02h", "(original)"],
 		"7f38496b31b8625196900a69cd1bfed243cab1f9612073e7881dc354b876fd39": ["th06", "v1.02h", "Original with 紅魔郷 removed from the .dat file names"],
+		"50b876d49b8efa437ff507af634ff3235c4b9e90d234083c2bfaa18ee6e261de": ["th06", "v1.02h", "Original with the Practice Mode Replay Patch"],
 		"0883c6433b77af87054d9d05731649c79926a55037840c72d33e50635d64d506": ["th06", "v1.02h", "English patch (not recommended)"],
 		"fa6562ddfd81f3010d7d87792a69aaa950e0f60b00e42885ef2c30577d8dbe45": ["th06", "v1.02h", "English patch with a leftover .cfg removed (not recommended)"],
 		"8a509709650a83db6850c3498e1e1051dddc6cd46791911c0d78438be8968195": ["th06", "v1.02h", "Russian patch", 1251],
