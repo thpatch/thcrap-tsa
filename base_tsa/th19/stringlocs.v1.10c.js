@@ -54,6 +54,9 @@
     "Rx19A414": "th19 rules quit",
 	
     "Rx1983C4": "th19 ability random",
+	"Rx1983E4": "th19 ability random self",
+	"Rx198410": "th19 ability random",
+	"Rx198430": "th19 ability random self",
 	
     "Rx1A29C4": "th19 net connected",
     "Rx1A2A54": "th19 net playername 1",
@@ -85,6 +88,8 @@
     "Rx1A2CC0": "th19 net latency mid notice",
     "Rx1A2CE8": "th19 net latency high",
     "Rx1A2D10": "th19 net latency high notice",
+	"Rx1A2DC4": "th19 net other party left 1",
+	"Rx1A2DE0": "th19 net other party left 2", 
     "Rx1A1684": "th09 Story Mode",
 	
     "Rx1A1690": "th19 VS Mode",
