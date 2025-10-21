@@ -2,7 +2,7 @@
 	"th01": "Touhou Rei'iden - Highly Responsive to Prayers",
 	"th02": "Touhou Fuumaroku - The Story of Eastern Wonderland",
 	"th03": "Touhou Yumejikuu - Phantasmagoria of Dim. Dream",
-	"th04": "Touhou Gensokyo - Lotus Land Story",
+	"th04": "Touhou Gensoukyou - Lotus Land Story",
 	"th05": "Touhou Kaikidan - Mystic Square",
 	"th06": "Touhou Koumakyou - The Embodiment of Scarlet Devil",
 	"th07": "Touhou Youyoumu - Perfect Cherry Blossom",
