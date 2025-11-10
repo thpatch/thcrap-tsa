@@ -1,7 +1,7 @@
 {
     "id": "nmlgc",
-    "title": "Nmlgc's patch repository",
-    "contact": "thcrap@nmlgc.net",
+    "title": "Patches by the thpatch team",
+    "contact": "https://discord.thpatch.net/",
     "servers": [
         "https://mirrors.thpatch.net/nmlgc/"
     ],
