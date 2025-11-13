@@ -11,10 +11,10 @@
 	},
 	"breakpoints": {
 		"file_size": {
-			"addr": "Rx10B86",
+			"addr": "Rx10B4C",
 			"cavesize": 7,
-			"file_size": "edx",
-			"file_name": "ecx",
+			"file_size": "eax",
+			"file_name": "[ebp+8]"
 		},
 		"file_load": {
 			"addr": "Rx10BAD",
