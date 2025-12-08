@@ -125,6 +125,7 @@
 	"Rx182E8C": "th19_network_error_create_is_first", // Create is first.
 	"Rx182EF0": "th19_network_error_already_exist", // "%s" already Exist.
 	"Rx182F4C": "th19_network_error_failed", // Failed.
+	"Rx17E948": "th19_chain_display", // hits
 	"Rx178468": "th19_warning", // Warning !!
 	"Rx178474": "th19_extra_attack_level", // Extra Attack Level %d
 	"Rx17848C": "th19_boss_attack_level", // Boss Attack Level %d
@@ -171,9 +172,10 @@
 	"Rx1796C4": "th19_menu_right", // Right
 	"Rx1796CC": "th18_ascii_menu_quit",
 	"Rx1796D4": "th18_ascii_menu_keyconfig",
+	"Rx17B2EC": "th18_ascii_menu_keyconfig",
 	"Rx1796E0": "th18_ascii_menu_directinput",
 	"Rx1796EC": "th18_ascii_menu_xinput",
 	"Rx1796F4": "th19_menu_keyboard_left",
 	"Rx179704": "th19_menu_keyboard_right",
-	"Rx179714": "th19_menu_keyboard_full",
+	"Rx179714": "th19_menu_keyboard_full"
 }
