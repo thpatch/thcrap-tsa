@@ -125,7 +125,7 @@
 	"Rx182E8C": "th19_network_error_create_is_first", // Create is first.
 	"Rx182EF0": "th19_network_error_already_exist", // "%s" already Exist.
 	"Rx182F4C": "th19_network_error_failed", // Failed.
-	"Rx17E948": "th19_chain_display", // hits
+	"Rx17E948": "th19_hits_display", // hits
 	"Rx178468": "th19_warning", // Warning !!
 	"Rx178474": "th19_extra_attack_level", // Extra Attack Level %d
 	"Rx17848C": "th19_boss_attack_level", // Boss Attack Level %d
