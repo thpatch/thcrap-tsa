@@ -14,6 +14,7 @@
 	"Rx177044": "th19 no card",
 	"Rx1769EC": "th18 Ability Unlock",
 	"Rx1769FC": "th185 card for sale",
+	"Rx17F988": "th19 new card get",
 	
 	"Rx176804": "th185 unequip",
 	"Rx17706C": "th185 equippable slot",
@@ -177,5 +178,9 @@
 	"Rx1796EC": "th18_ascii_menu_xinput",
 	"Rx1796F4": "th19_menu_keyboard_left",
 	"Rx179704": "th19_menu_keyboard_right",
-	"Rx179714": "th19_menu_keyboard_full"
+	"Rx179714": "th19_menu_keyboard_full",
+	"Rx173268": "th19_keyboard_up", // these are names of keyboard buttons you can assign to the in-game actions
+	"Rx173274": "th19_keyboard_down",
+	"Rx173260": "th19_keyboard_left",
+	"Rx17326C": "th19_keyboard_right"
 }
