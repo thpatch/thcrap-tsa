@@ -102,14 +102,14 @@
     "Rx1A16C8": "th18_ascii_menu_manual",
     "Rx1A16D0": "th18_ascii_menu_quit",
 	
-    "Rx1821D4": "th19_network_status_init",
+    "Rx1A2714": "th19_network_status_init",
     "Rx1A271C": "th19_network_status_connecting",
     "Rx1A2738": "th19_network_status_joiningroom",
     "Rx1A2754": "th19_network_status_leavingroom",
     "Rx1A2764": "th19_network_status_disconnecting",
     "Rx1A2778": "th19_network_status_exitleavingroom",
     "Rx1A278C": "th19_network_status_exitdisconnecting",
-    "Rx18314B": "th19_network_status_exit",
+    "Rx1A27A4": "th19_network_status_exit",
     "Rx1A27AC": "th19_network_status_connecterror",
     "Rx1A2968": "th19_network_status",
     "Rx1A2994": "th19_network_room_name",
@@ -183,8 +183,8 @@
     "Rx19B234": "th19_menu_keyboard_left",
     "Rx19B244": "th19_menu_keyboard_right",
     "Rx19B254": "th19_menu_keyboard_full",
-	"Rx1946A0": "th19_keyboard_up", // these are names of keyboard buttons you can assign to the in-game actions
-	"Rx1946AC": "th19_keyboard_down",
-	"Rx194698": "th19_keyboard_left",
-	"Rx1946A4": "th19_keyboard_right"
+	"Rx1946A0": "th19_menu_up", // these are names of keyboard buttons you can assign to the in-game actions
+	"Rx1946AC": "th19_menu_down",
+	"Rx194698": "th19_menu_left",
+	"Rx1946A4": "th19_menu_right"
 }
