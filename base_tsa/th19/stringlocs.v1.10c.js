@@ -13,7 +13,8 @@
     "Rx1984EC": "th18 card unobtained",     
     "Rx1984A4": "th19 no card",
     "Rx1985D8": "th18 Ability Unlock",      
-    "Rx1985E8": "th185 card for sale",      
+    "Rx1985E8": "th185 card for sale", 
+	"Rx1A15D8": "th19 new card get",
 	
     "Rx1984DC": "th185 unequip",
     "Rx1984CC": "th185 equippable slot",
@@ -181,5 +182,9 @@
     "Rx19B22C": "th18_ascii_menu_xinput",
     "Rx19B234": "th19_menu_keyboard_left",
     "Rx19B244": "th19_menu_keyboard_right",
-    "Rx19B254": "th19_menu_keyboard_full"
+    "Rx19B254": "th19_menu_keyboard_full",
+	"Rx1946A0": "th19_keyboard_up", // these are names of keyboard buttons you can assign to the in-game actions
+	"Rx1946AC": "th19_keyboard_down",
+	"Rx194698": "th19_keyboard_left",
+	"Rx1946A4": "th19_keyboard_right"
 }
