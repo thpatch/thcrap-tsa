@@ -22,7 +22,7 @@
 			"code": "66906a0053e8[GetTextExtentForFontID]f30f1015b8e64b0083e81c730331c090"
 		},
 		"ddc_textbox_size_2": {
-			"addr": "0x430D95"
+			"addr": "0x430D95",
 			"code": "906a0053e8[GetTextExtentForFontID]f30f1015b8e64b0083e81c730331c090"
 		},
 		"spell_name_fetch": {
