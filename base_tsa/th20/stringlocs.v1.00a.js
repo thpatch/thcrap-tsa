@@ -99,5 +99,7 @@
     "Rx171F40": "th20 notice Marisa extra unlock",
     "Rx1725F8": "th13_ascii_credit",
     "Rx172604": "th20 gameover hint",
-    "Rx175534": "th20 spellpractice unavailable"
+    "Rx175534": "th20 spellpractice unavailable",
+    "Rx174288": "th20 wonder stone",
+    "Rx1742A0": "th20 wonder stone level"
 }

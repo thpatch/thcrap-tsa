@@ -152,7 +152,26 @@
 			"font_dialog": 4,
 			"font_ruby": 18,
 			"cavesize": 5
-		}
+		},
+        "strings_lookup#main_menu": {
+            "str": "eax",
+            "cavesize": 5,
+            "addr": "Rx12A80B"
+        },
+        "strings_lookup#wonder_stone": {
+            "str": "[esp+4]",
+            "cavesize": 5,
+            "addr": [
+                "Rx112C65",
+                "Rx112CA6",
+                "Rx112D42",
+                "Rx112D83",
+                "Rx112DF6",
+                "Rx112E37",
+                "Rx112EAA",
+                "Rx112EEB",
+            ]
+        },
 	},
 	"binhacks": {
 		"wine-fix-focus-stealing": {
