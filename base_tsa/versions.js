@@ -80,6 +80,7 @@
 		"4895ce367f6ab90c6593a94ca0ecfa2aabe7477f0a9b7dd2ee8860327069436c": ["th125", "v1.00a", "(original)"],
 		"a620057a756dd98efbdb813b1bc1350bc5acdf8d462fcd4be93f85eb6c22d9ee": ["th125", "v1.00a", "English patch (not recommended)"],
 		"2e0f3ff7434605b49da65602b169b7592ffed4b29f14e10a4464c6a96fa54591": ["th125", "v1.00a", "(original, Steam release)"],
+		"694118657ace7428d83d2d4bb0bd530265b72059166f79aef91e8d812f2a8014": ["th125", "v1.00a", "(original, Steamless v3.1.0.5)"],
 
 		"ba515750ece845b56640fe440592fc39ebb7bdd1ed87c541b67a19b148e767d4": ["th128", "v1.00a", "(original)"],
 		"f26586b24673d0e1477ebbb698c82470803730e11f950caa428c7d25d6e0a415": ["th128", "v1.00a", "English patch (not recommended)"],
