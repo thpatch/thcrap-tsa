@@ -15,6 +15,12 @@
         "d64e4d00ccef27132b4aba71abd68d3c46143ae0704c38d7fdbb10abbed21793": ["th123",    "v1.10",  "(original)"],
         "f0db93660ceb8635a1921e0ba4686fcfbd5c492311dee6ef7061b7bada16731e": ["th123",    "v1.10a", "(original)"],
 
+        "94929646eb26bda3e4da37345967bd70fd790c40a7a1ed45b013d015ca562651": ["th135",    "v1.02",  "(original)"],
+        "eb48dea9e61e4d8c6eb9f6756fca6a5fb18afe66697b14ee4f9179a43bb59aa1": ["th135",    "v1.03",  "(original)"],
+        "4fb408186ab8cadf181b880ff0015c03354618b6079f88e4798cf6cc2457efed": ["th135",    "v1.04",  "(original)"],
+        "7fc02593dea4fb32b6126713c40087e5ac5a8321bbc998f7acfde52ed0f1386a": ["th135",    "v1.10b", "(original)"],
+        "ab0bd8062a36617e76261f7cc885b91bd9a62e4a1d9ba25522a88a2896a26350": ["th135",    "v1.10c", "(original)"],
+        "e0a7574a7f91a0988b0a6940eb19403f9d82e0e7ff8cce31523b3eeb552d20c0": ["th135",    "v1.21",  "(original)"],
         "111948df4129e27b18b96cedeafbec7e536eef1aa2fe23547b86793f93456ac0": ["th135",    "v1.34b", "(original)"],
 
         "407a0475387ab07f40de3a33c9e50a027dcd7858be0782b347a694c6b858c2d9": ["th145",    "v1.00",  "(original)"],
@@ -57,6 +63,12 @@
         "4739072": ["th123",    "v1.10",  "(original)"],
         "4816896": ["th123",    "v1.10a", "(original)"],
 
+        "5261312": ["th135",    "v1.02",  "(original)"],
+        "5299712": ["th135",    "v1.03",  "(original)"],
+        "5298688": ["th135",    "v1.04",  "(original)"],
+        "5308416": ["th135",    "v1.10b", "(original)"],
+        "5313536": ["th135",    "v1.10c", "(original)"],
+        "5311488": ["th135",    "v1.21",  "(original)"],
         "5454336": ["th135",    "v1.34b", "(original)"],
 
         "5983744": ["th145",    "v1.00",  "(original)"],
