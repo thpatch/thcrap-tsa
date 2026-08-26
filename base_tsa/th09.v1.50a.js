@@ -1,5 +1,9 @@
 {
 	"binhacks": {
+		"replay_crash_fix": {
+			"addr": "Rx20C92",
+			"code": "08"	
+		},
 		"zun_strcat_stringlocs": {
 			"addr": "Rx2adb1"
 		},
