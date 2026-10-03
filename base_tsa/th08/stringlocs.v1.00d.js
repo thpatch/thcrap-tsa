@@ -167,6 +167,11 @@
 	"Rxb7c44": "th07 Max Bonus",
 	"Rxb797c": "th07 Date Format",
 	"Rxb94Dc": "th08 Replay Spell Number",
+	"rxb94d0": "th07 Ascii Easy",
+	"rxB94C4": "th07 Ascii Normal",
+	"rxb94b8": "th07 Ascii Hard",
+	"rxb94ac": "th07 Ascii Lunatic",
+	"rxB94A0": "th07 Ascii Extra",
 		
 	"Rxb64c8": "th06_error_two_instances",
 	"rxb5b94": "th06_log_header",
